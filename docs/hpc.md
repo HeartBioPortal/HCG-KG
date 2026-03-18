@@ -26,6 +26,16 @@ If you want LLM-based extraction on the cluster, use `hpc-llm`. It uses a local 
 6. Run `normalize`, `build-graph`, and `build-embeddings` as separate jobs for easier retry.
 7. Use the manifest in `data/processed/state/manifest.json` for resumability.
 
+## Login nodes vs batch jobs
+
+Do not run the full `hcg-kg run-pipeline --profile hpc-llm` command on a login node. Big Red 200 will terminate long-running interactive jobs. Submit the LLM pipeline through SLURM instead:
+
+```bash
+sbatch slurm/run_pipeline_llm.slurm
+```
+
+Then inspect logs in `logs/slurm-llm-pipeline-<jobid>.out`, `logs/slurm-llm-pipeline-<jobid>.err`, and `logs/llm_pipeline_<jobid>.log`.
+
 ## Checkpointing
 
 - `ingest` records discovered documents.

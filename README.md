@@ -150,6 +150,11 @@ export HCG_KG_PROFILE=hpc-llm
 ```
 
 The default `hpc-llm` profile uses `Qwen/Qwen2.5-7B-Instruct`. If you have already cached a different local model on the cluster, override it with `models.model_name` in a profile or by editing `configs/profiles/hpc-llm.yaml`.
+Do not run `hpc-llm` on the login node for the full corpus. Submit it through SLURM instead, for example:
+
+```bash
+sbatch slurm/run_pipeline_llm.slurm
+```
 
 ## CLI overview
 
