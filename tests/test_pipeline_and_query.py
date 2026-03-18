@@ -23,3 +23,4 @@ def test_pipeline_builds_graph_and_answers_gene_query(local_settings):
     assert response.recommendations
     assert any("statin" in drug.name.lower() for drug in response.drugs)
     assert any(snippet.page == "145" for snippet in response.supporting_snippets)
+    assert not any("APOE carriers" in snippet.text for snippet in response.supporting_snippets)

@@ -2,10 +2,11 @@ from __future__ import annotations
 
 from collections import defaultdict
 from difflib import SequenceMatcher, get_close_matches
+import re
 
 from hcg_kg.config.models import ProjectSettings
 from hcg_kg.graph.backends import create_backend
-from hcg_kg.models.graph import GraphEdge, GraphNode
+from hcg_kg.models.graph import GraphEdge, GraphNode, GraphSubgraph
 from hcg_kg.models.query import (
     GeneMatch,
     GeneQueryResponse,
@@ -39,10 +40,7 @@ class QueryService:
                 response.supporting_snippets = self.vector_index.search(question, self.settings.retrieval.top_k)
             return response
 
-        subgraph = self.backend.export_subgraph(
-            resolved_node.node_id,
-            depth=self.settings.runtime.default_query_depth,
-        )
+        subgraph = self._collect_gene_context(resolved_node)
         node_map = {node.node_id: node for node in subgraph.nodes}
         edges = subgraph.edges
 
@@ -54,11 +52,7 @@ class QueryService:
         recommendations = self._recommendations(node_map, edges)
 
         if question:
-            vector_hits = self.vector_index.search(question, self.settings.retrieval.top_k)
-            supporting_lookup = {snippet.snippet_id: snippet for snippet in supporting_snippets}
-            for snippet in vector_hits:
-                supporting_lookup.setdefault(snippet.snippet_id, snippet)
-            supporting_snippets = list(supporting_lookup.values())
+            supporting_snippets = self._rerank_supporting_snippets(question, supporting_snippets)
 
         summary = self._summarize(
             resolved_gene=resolved_node.name,
@@ -86,11 +80,71 @@ class QueryService:
         resolved_node, _, _ = self._resolve_gene(gene, gene_nodes)
         if resolved_node is None:
             return {"nodes": [], "edges": []}
-        subgraph = self.backend.export_subgraph(
-            resolved_node.node_id,
-            depth=self.settings.runtime.default_query_depth,
-        )
+        subgraph = self._collect_gene_context(resolved_node)
         return subgraph.model_dump(mode="json")
+
+    def _collect_gene_context(self, gene_node: GraphNode) -> GraphSubgraph:
+        nodes: dict[str, GraphNode] = {gene_node.node_id: gene_node}
+        edges: dict[str, GraphEdge] = {}
+        expanded_snippets: set[str] = set()
+        expanded_recommendations: set[str] = set()
+
+        def add_node(node_id: str) -> GraphNode | None:
+            if node_id in nodes:
+                return nodes[node_id]
+            node = self.backend.get_node(node_id)
+            if node is not None:
+                nodes[node_id] = node
+            return node
+
+        def add_edge(edge: GraphEdge) -> None:
+            edges[edge.edge_id] = edge
+            add_node(edge.source_id)
+            add_node(edge.target_id)
+
+        def expand_snippet(snippet_id: str) -> None:
+            if snippet_id in expanded_snippets:
+                return
+            expanded_snippets.add(snippet_id)
+            add_node(snippet_id)
+            for edge in self.backend.get_edges(snippet_id, direction="out"):
+                if edge.relation not in {"FROM_GUIDELINE", "LOCATED_IN_SECTION"}:
+                    continue
+                add_edge(edge)
+
+        def expand_recommendation(recommendation_id: str) -> None:
+            if recommendation_id in expanded_recommendations:
+                return
+            expanded_recommendations.add(recommendation_id)
+            add_node(recommendation_id)
+            for edge in self.backend.get_edges(recommendation_id, direction="out"):
+                if edge.relation not in {
+                    "SUPPORTED_BY_SNIPPET",
+                    "HAS_EVIDENCE_CLASS",
+                    "HAS_EVIDENCE_LEVEL",
+                    "RECOMMENDS",
+                    "CONTRAINDICATED_FOR",
+                }:
+                    continue
+                add_edge(edge)
+                if edge.relation == "SUPPORTED_BY_SNIPPET":
+                    expand_snippet(edge.target_id)
+
+        for edge in self.backend.get_edges(gene_node.node_id, direction="out"):
+            if edge.relation not in {
+                "GENE_MENTIONED_IN",
+                "ASSOCIATED_WITH_CONDITION",
+                "REFERENCED_IN_RECOMMENDATION",
+                "CO_MENTIONED_WITH",
+            }:
+                continue
+            add_edge(edge)
+            if edge.relation == "GENE_MENTIONED_IN":
+                expand_snippet(edge.target_id)
+            if edge.relation == "REFERENCED_IN_RECOMMENDATION":
+                expand_recommendation(edge.target_id)
+
+        return GraphSubgraph(nodes=list(nodes.values()), edges=list(edges.values()))
 
     def _resolve_gene(
         self,
@@ -230,3 +284,24 @@ class QueryService:
             f"Top linked conditions: {condition_text}. "
             f"Extracted recommendation evidence classes: {evidence_text}."
         )
+
+    def _rerank_supporting_snippets(
+        self,
+        question: str,
+        snippets: list[SupportingSnippet],
+    ) -> list[SupportingSnippet]:
+        question_tokens = self._tokenize(question)
+        if not question_tokens:
+            return snippets
+
+        def score(snippet: SupportingSnippet) -> tuple[int, int, str]:
+            snippet_tokens = self._tokenize(snippet.text)
+            overlap = len(question_tokens & snippet_tokens)
+            phrase_bonus = int(question.lower() in snippet.text.lower())
+            return (phrase_bonus, overlap, snippet.snippet_id)
+
+        ranked = sorted(snippets, key=score, reverse=True)
+        return ranked[: self.settings.retrieval.top_k]
+
+    def _tokenize(self, text: str) -> set[str]:
+        return {token for token in re.findall(r"[a-z0-9]+", text.lower()) if len(token) > 1}
