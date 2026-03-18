@@ -11,6 +11,41 @@ from hcg_kg.config.models import ProjectSettings
 DEFAULT_PROFILE = "hpc-large"
 
 
+def _find_project_root(start: Path) -> Path | None:
+    candidate = start.resolve()
+    search_roots = [candidate, *candidate.parents]
+    for root in search_roots:
+        if (root / "configs" / "profiles" / "base.yaml").exists():
+            return root
+    return None
+
+
+def _resolve_project_root(project_root: Path | None) -> Path:
+    env_root = os.getenv("HCG_KG_PROJECT_ROOT")
+    if env_root:
+        discovered = _find_project_root(Path(env_root))
+        if discovered is not None:
+            return discovered
+        return Path(env_root).resolve()
+
+    if project_root is not None:
+        discovered = _find_project_root(project_root)
+        if discovered is not None:
+            return discovered
+
+    cwd_root = _find_project_root(Path.cwd())
+    if cwd_root is not None:
+        return cwd_root
+
+    package_root = _find_project_root(Path(__file__).resolve())
+    if package_root is not None:
+        return package_root
+
+    if project_root is not None:
+        return project_root.resolve()
+    return Path.cwd().resolve()
+
+
 def _deep_merge(base: dict[str, Any], override: dict[str, Any]) -> dict[str, Any]:
     merged = dict(base)
     for key, value in override.items():
@@ -54,7 +89,7 @@ def load_settings(
     project_root: Path | None = None,
     overrides: dict[str, Any] | None = None,
 ) -> ProjectSettings:
-    root = project_root or Path.cwd()
+    root = _resolve_project_root(project_root)
     profile_name = profile or os.getenv("HCG_KG_PROFILE", DEFAULT_PROFILE)
     profiles_dir = root / "configs" / "profiles"
     base_data = _load_yaml(profiles_dir / "base.yaml")
