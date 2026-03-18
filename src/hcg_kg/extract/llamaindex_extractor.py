@@ -47,10 +47,13 @@ class LlamaIndexBiomedicalExtractor:
         self.helper = HeuristicBiomedicalExtractor(settings)
         model_name = settings.models.model_name
         tokenizer_name = settings.models.tokenizer_name or model_name
-        generate_kwargs = {
-            "temperature": settings.models.temperature,
-            **settings.models.generate_kwargs,
-        }
+        generate_kwargs = dict(settings.models.generate_kwargs)
+        if settings.models.temperature <= 0:
+            generate_kwargs.setdefault("do_sample", False)
+            generate_kwargs.pop("temperature", None)
+        else:
+            generate_kwargs.setdefault("do_sample", True)
+            generate_kwargs.setdefault("temperature", settings.models.temperature)
         self.llm = HuggingFaceLLM(
             model_name=model_name,
             tokenizer_name=tokenizer_name,
