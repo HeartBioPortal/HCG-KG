@@ -8,8 +8,10 @@ from hcg_kg.models.graph import GraphEdge, GraphNode, GraphSubgraph
 
 try:
     from neo4j import GraphDatabase
+    from neo4j.exceptions import ServiceUnavailable
 except ImportError:  # pragma: no cover - optional dependency
     GraphDatabase = None  # type: ignore[assignment]
+    ServiceUnavailable = Exception  # type: ignore[assignment]
 
 
 _SAFE_CYPHER_PATTERN = re.compile(r"^[A-Za-z][A-Za-z0-9_]*$")
@@ -31,10 +33,18 @@ class Neo4jBackend:
         )
 
     def initialize(self) -> None:
-        with self.driver.session(database=self.settings.graph.neo4j_database) as session:
-            session.run(
-                "CREATE CONSTRAINT hcgkg_node_id IF NOT EXISTS FOR (n:Entity) REQUIRE n.node_id IS UNIQUE"
-            )
+        try:
+            with self.driver.session(database=self.settings.graph.neo4j_database) as session:
+                session.run(
+                    "CREATE CONSTRAINT hcgkg_node_id IF NOT EXISTS FOR (n:Entity) REQUIRE n.node_id IS UNIQUE"
+                )
+        except ServiceUnavailable as exc:
+            raise RuntimeError(
+                "Neo4j is not reachable at "
+                f"{self.settings.graph.neo4j_uri}. "
+                "If you do not have a Neo4j service running, use the "
+                "'hpc-networkx' profile instead."
+            ) from exc
 
     def upsert_nodes(self, nodes: list[GraphNode]) -> None:
         with self.driver.session(database=self.settings.graph.neo4j_database) as session:

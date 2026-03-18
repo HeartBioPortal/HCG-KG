@@ -1,0 +1,17 @@
+profile_name: hpc-networkx
+extraction:
+  chunk_size: 2200
+  chunk_overlap: 250
+  batch_size: 48
+  num_workers: 32
+  use_gpu: true
+  run_relation_extraction: true
+  build_embeddings: true
+  generate_summaries: false
+graph:
+  backend: networkx
+retrieval:
+  vector_backend: tfidf
+  top_k: 10
+runtime:
+  log_level: INFO

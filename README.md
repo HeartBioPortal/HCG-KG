@@ -87,6 +87,7 @@ The repository ships with three profiles:
 - `local-dev`: smallest settings, defaults to `data/sample/*.json`
 - `local-medium`: larger local run without assuming a graph server
 - `hpc-large`: default profile, tuned for cluster-scale offline extraction and Neo4j persistence
+- `hpc-networkx`: HPC-oriented extraction settings with a file-backed graph for clusters without Neo4j
 
 `hpc-large` is the default unless you pass `--profile` or set `HCG_KG_PROFILE`.
 
@@ -133,6 +134,12 @@ export NEO4J_PASSWORD="..."
 4. Because the parsed AHA JSONs and source PDFs are vendored in `data/raw/*.json` and `data/source_pdfs/`, you can use the repo defaults and skip both `HCG_KG_INPUT_GLOB` and `HCG_KG_SOURCE_PDF_DIR` unless you want to override them.
 5. Submit the stage-specific SLURM jobs from `/Users/kvand/HeartBioPortal/HCG-KG/slurm`, or run the CLI directly in batch jobs.
 
+If Neo4j is not available on the cluster, use:
+
+```bash
+export HCG_KG_PROFILE=hpc-networkx
+```
+
 ## CLI overview
 
 ```bash
@@ -154,6 +161,13 @@ On a fresh clone, the shortest end-to-end path is:
 ```bash
 hcg-kg run-pipeline --profile hpc-large
 hcg-kg query --profile hpc-large --gene LDLR --pretty
+```
+
+If you do not have a reachable Neo4j service, run:
+
+```bash
+hcg-kg run-pipeline --profile hpc-networkx
+hcg-kg query --profile hpc-networkx --gene LDLR --pretty
 ```
 
 ## Source grounding and provenance
