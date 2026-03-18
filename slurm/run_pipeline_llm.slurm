@@ -1,4 +1,8 @@
 #!/bin/bash
+# Usage:
+#   sbatch -A <RT_PROJECT> slurm/run_pipeline_llm.slurm
+#
+# Big Red 200 requires an allocation/account for batch jobs.
 #SBATCH --job-name=hcgkg-llm-pipeline
 #SBATCH --output=logs/slurm-llm-pipeline-%j.out
 #SBATCH --error=logs/slurm-llm-pipeline-%j.err

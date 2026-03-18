@@ -153,7 +153,7 @@ The default `hpc-llm` profile uses `Qwen/Qwen2.5-7B-Instruct`. If you have alrea
 Do not run `hpc-llm` on the login node for the full corpus. Submit it through SLURM instead, for example:
 
 ```bash
-sbatch slurm/run_pipeline_llm.slurm
+sbatch -A <RT_PROJECT> slurm/run_pipeline_llm.slurm
 ```
 
 ## CLI overview
