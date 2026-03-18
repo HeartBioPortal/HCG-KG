@@ -1,0 +1,71 @@
+nodes:
+  - label: Guideline
+    description: Canonical guideline document node.
+    key: guideline_id
+  - label: Section
+    description: Hierarchical section or subsection inside a guideline.
+    key: section_id
+  - label: Snippet
+    description: Source-grounded text span with document, section, and page provenance.
+    key: snippet_id
+  - label: Gene
+    description: HGNC-style gene symbol or curated gene mention.
+    key: gene_symbol
+  - label: Variant
+    description: Sequence or pathogenicity-specific variant mention when available.
+    key: variant_id
+  - label: Condition
+    description: Disease, phenotype, or syndrome.
+    key: condition_name
+  - label: Biomarker
+    description: Measured biomarker or lab concept.
+    key: biomarker_name
+  - label: Drug
+    description: Drug, therapy, or intervention.
+    key: intervention_name
+  - label: Recommendation
+    description: Guideline recommendation statement extracted from source snippets.
+    key: recommendation_id
+  - label: EvidenceClass
+    description: Class of recommendation.
+    key: code
+  - label: EvidenceLevel
+    description: Level of evidence.
+    key: code
+  - label: Citation
+    description: Reference or citation metadata when available.
+    key: citation_id
+edges:
+  - type: GENE_MENTIONED_IN
+    source: Gene
+    target: Snippet
+  - type: ASSOCIATED_WITH_CONDITION
+    source: Gene
+    target: Condition
+  - type: REFERENCED_IN_RECOMMENDATION
+    source: Gene
+    target: Recommendation
+  - type: RECOMMENDS
+    source: Recommendation
+    target: Drug
+  - type: CONTRAINDICATED_FOR
+    source: Recommendation
+    target: Drug
+  - type: HAS_EVIDENCE_CLASS
+    source: Recommendation
+    target: EvidenceClass
+  - type: HAS_EVIDENCE_LEVEL
+    source: Recommendation
+    target: EvidenceLevel
+  - type: FROM_GUIDELINE
+    source: Snippet
+    target: Guideline
+  - type: LOCATED_IN_SECTION
+    source: Snippet
+    target: Section
+  - type: SUPPORTED_BY_SNIPPET
+    source: Recommendation
+    target: Snippet
+  - type: CO_MENTIONED_WITH
+    source: Gene
+    target: Biomarker

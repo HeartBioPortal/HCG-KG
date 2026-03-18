@@ -1,0 +1,11 @@
+profile_name: local-dev
+paths:
+  raw_input_glob: data/sample/*.json
+extraction:
+  batch_size: 4
+  num_workers: 2
+  build_embeddings: true
+graph:
+  backend: networkx
+runtime:
+  log_level: DEBUG

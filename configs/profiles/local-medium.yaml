@@ -1,0 +1,9 @@
+profile_name: local-medium
+extraction:
+  batch_size: 12
+  num_workers: 4
+  use_gpu: false
+graph:
+  backend: networkx
+runtime:
+  log_level: INFO

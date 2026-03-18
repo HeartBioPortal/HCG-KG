@@ -1,0 +1,72 @@
+project_name: hcg-kg
+profile_name: base
+guideline_family: aha
+paths:
+  raw_input_glob: data/raw/*.json
+  source_pdf_dir: null
+  processed_dir: data/processed
+  normalized_dir: data/processed/normalized
+  graph_dir: data/processed/graph
+  vector_dir: data/processed/vector
+  cache_dir: .cache/hcg_kg
+  state_dir: data/processed/state
+  log_dir: logs
+models:
+  provider: heuristic
+  model_name: heuristic-v1
+  embedding_model: tfidf
+extraction:
+  chunk_size: 1600
+  chunk_overlap: 200
+  batch_size: 24
+  num_workers: 8
+  use_gpu: false
+  run_relation_extraction: true
+  build_embeddings: true
+  generate_summaries: false
+  gene_lexicon_path: null
+  condition_terms:
+    - chronic coronary disease
+    - coronary artery disease
+    - familial hypercholesterolemia
+    - myocardial infarction
+    - heart failure
+    - hypertrophic cardiomyopathy
+    - atrial fibrillation
+    - hypertension
+    - peripheral artery disease
+    - congenital heart disease
+  biomarker_terms:
+    - ldl-c
+    - ldl cholesterol
+    - hs-crp
+    - troponin
+    - bnp
+    - nt-probnp
+    - apolipoprotein b
+    - lipoprotein(a)
+    - blood pressure
+  drug_terms:
+    - statin
+    - ezetimibe
+    - pcsk9 inhibitor
+    - aspirin
+    - anticoagulation
+    - beta-blocker
+    - ace inhibitor
+    - arb
+    - antiplatelet therapy
+    - gene counseling
+graph:
+  backend: networkx
+  neo4j_uri: bolt://localhost:7687
+  neo4j_username: neo4j
+  neo4j_password_env: NEO4J_PASSWORD
+  neo4j_database: neo4j
+retrieval:
+  vector_backend: tfidf
+  top_k: 5
+runtime:
+  log_level: INFO
+  persist_graph_snapshot: true
+  default_query_depth: 3

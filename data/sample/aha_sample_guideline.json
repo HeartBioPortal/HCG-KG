@@ -1,0 +1,120 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2023 AHA/ACC Guideline for Chronic Coronary Disease",
+        "organization": "American Heart Association/American College of Cardiology",
+        "Date": "August 29, 2023",
+        "Journal": "JACC Vol. 82, No. 9",
+        "Pages": "831-955"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Lipid Management",
+        "Sections": [
+          {
+            "Section": "7.3 Lipid Management",
+            "Page": "145",
+            "Recommendations": [
+              {
+                "Recommendation": "In patients with chronic coronary disease and pathogenic LDLR variants, high-intensity statin therapy is recommended to reduce LDL-C and cardiovascular events. Class I Level of Evidence A.",
+                "Class of Recommendation": "Class I",
+                "Level of Evidence": "Level of Evidence A"
+              }
+            ],
+            "Recommendation-Specific Supportive Text": "Familial hypercholesterolemia due to LDLR, APOB, or PCSK9 variants warrants aggressive LDL-C lowering and follow-up lipid testing."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "LDLR",
+          "Associated Conditions": [
+            "Familial hypercholesterolemia",
+            "Chronic coronary disease"
+          ],
+          "Occurrences": 2,
+          "context": "LDLR pathogenic variants appear in the lipid management section."
+        },
+        {
+          "Gene": "APOB",
+          "Associated Conditions": [
+            "Familial hypercholesterolemia"
+          ],
+          "Occurrences": 1,
+          "context": "APOB is mentioned with lipid-lowering guidance."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "Risk Stratification",
+        "sections": [
+          {
+            "section": "8.1 Biomarkers and Genomics",
+            "page": "171",
+            "summary": "APOE carriers with chronic coronary disease may have residual lipid-related risk. Lipoprotein(a) and LDL-C are relevant biomarkers for risk refinement.",
+            "recommendations": "It is reasonable to measure lipoprotein(a) once in patients with premature coronary disease or a strong family history. Class 2a Level of Evidence B-NR."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "APOE",
+          "Associated Conditions": [
+            "Chronic coronary disease"
+          ],
+          "Occurrences": 1,
+          "context": "APOE is mentioned in biomarker risk stratification."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Overview": "Adjunctive pharmacotherapy",
+        "recommendation": "PCSK9 inhibitor therapy may be considered when LDL-C remains above threshold despite maximally tolerated statin and ezetimibe treatment. Level of Evidence B-R.",
+        "page": "172",
+        "section": "8.2 Adjunctive Therapy"
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Familial hypercholesterolemia"
+          ],
+          "Occurrences": 1,
+          "context": "PCSK9 is co-mentioned with adjunctive therapy."
+        }
+      ]
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "LDLR",
+      "Associated Conditions": [
+        "Familial hypercholesterolemia",
+        "Chronic coronary disease"
+      ],
+      "Occurrences": 2,
+      "context": "Top-level gene summary for LDLR."
+    },
+    {
+      "Gene": "APOE",
+      "Associated Conditions": [
+        "Chronic coronary disease"
+      ],
+      "Occurrences": 1,
+      "context": "Top-level gene summary for APOE."
+    },
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Familial hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": "Top-level gene summary for PCSK9."
+    }
+  ]
+}
