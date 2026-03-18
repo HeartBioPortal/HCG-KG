@@ -35,6 +35,7 @@ sbatch -A <RT_PROJECT> slurm/run_pipeline_llm.slurm
 ```
 
 Then inspect logs in `logs/slurm-llm-pipeline-<jobid>.out`, `logs/slurm-llm-pipeline-<jobid>.err`, and `logs/llm_pipeline_<jobid>.log`.
+The LLM SLURM script requests the `gpu` partition explicitly, which is required for `--gres=gpu:1` jobs on Big Red 200.
 
 ## Checkpointing
 

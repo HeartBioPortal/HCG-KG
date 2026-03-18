@@ -4,6 +4,7 @@
 #
 # Big Red 200 requires an allocation/account for batch jobs.
 #SBATCH --job-name=hcgkg-llm-pipeline
+#SBATCH --partition=gpu
 #SBATCH --output=logs/slurm-llm-pipeline-%j.out
 #SBATCH --error=logs/slurm-llm-pipeline-%j.err
 #SBATCH --time=08:00:00

@@ -156,6 +156,8 @@ Do not run `hpc-llm` on the login node for the full corpus. Submit it through SL
 sbatch -A <RT_PROJECT> slurm/run_pipeline_llm.slurm
 ```
 
+The script targets the Big Red 200 `gpu` partition by default.
+
 ## CLI overview
 
 ```bash

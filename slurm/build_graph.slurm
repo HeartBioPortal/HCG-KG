@@ -1,5 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=hcgkg-build-graph
+#SBATCH --partition=gpu
 #SBATCH --output=logs/slurm-build-graph-%j.out
 #SBATCH --error=logs/slurm-build-graph-%j.err
 #SBATCH --time=08:00:00
