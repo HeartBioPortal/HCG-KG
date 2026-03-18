@@ -14,8 +14,8 @@ The repository is designed for batch execution on shared compute infrastructure.
 
 ## Recommended workflow
 
-1. Set `HCG_KG_INPUT_GLOB` to the parsed JSON corpus.
-2. Set `HCG_KG_SOURCE_PDF_DIR` to the PDF directory root.
+1. The repo defaults already point at `data/raw/*.json` and `data/source_pdfs/`.
+2. Override `HCG_KG_INPUT_GLOB` or `HCG_KG_SOURCE_PDF_DIR` only if you want to use a different corpus.
 3. Provision the environment once outside the job if possible.
 4. Run `normalize`, `build-graph`, and `build-embeddings` as separate jobs for easier retry.
 5. Use the manifest in `data/processed/state/manifest.json` for resumability.

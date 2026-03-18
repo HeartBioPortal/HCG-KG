@@ -3,7 +3,7 @@ profile_name: base
 guideline_family: aha
 paths:
   raw_input_glob: data/raw/*.json
-  source_pdf_dir: null
+  source_pdf_dir: data/source_pdfs
   processed_dir: data/processed
   normalized_dir: data/processed/normalized
   graph_dir: data/processed/graph

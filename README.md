@@ -2,13 +2,13 @@
 
 `hcg-kg` builds a local, queryable biomedical knowledge graph from parsed clinical guideline JSON files, with an initial focus on AHA guideline content for downstream use in HeartBioPortal.
 
-This repository is not about training an LLM on PDFs. The parsed guideline JSON files are treated as the source corpus for ingestion, normalization, structured extraction, graph construction, and source-grounded retrieval. Optional local LLMs can assist extraction or summarization offline, but the runtime system is designed to answer from a graph plus provenance-bearing snippets.
+This repository is not about training an LLM on PDFs. The parsed guideline JSON files are treated as the source corpus for ingestion, normalization, structured extraction, graph construction, and source-grounded retrieval. The vendored PDFs are included only as source references for provenance attachment and downstream inspection. Optional local LLMs can assist extraction or summarization offline, but the runtime system is designed to answer from a graph plus provenance-bearing snippets.
 
 ## Proposed repository architecture and rationale
 
 - `src/hcg_kg`: typed Python package for ingestion, normalization, extraction, graph persistence, and querying.
 - `configs/`: YAML profiles for `local-dev`, `local-medium`, and default `hpc-large`.
-- `data/`: vendored AHA parsed JSON inputs in `raw/`, empty `processed/`, and a representative sample guideline JSON for tests and demo runs.
+- `data/`: vendored AHA parsed JSON inputs in `raw/`, vendored source PDFs in `source_pdfs/`, empty `processed/`, and a representative sample guideline JSON for tests and demo runs.
 - `docs/`: schema, architecture, query contract, and HPC execution notes.
 - `examples/`: short CLI examples.
 - `slurm/`: batch scripts for HPC execution.
@@ -127,11 +127,10 @@ Set `NEO4J_PASSWORD` and, if needed, override `NEO4J_URI`.
 
 ```bash
 export HCG_KG_PROFILE=hpc-large
-export HCG_KG_SOURCE_PDF_DIR="/path/to/source_pdfs"
 export NEO4J_PASSWORD="..."
 ```
 
-4. Because the parsed AHA JSONs are vendored in `data/raw/*.json`, you can use the repo defaults and skip `HCG_KG_INPUT_GLOB` unless you want to override the corpus.
+4. Because the parsed AHA JSONs and source PDFs are vendored in `data/raw/*.json` and `data/source_pdfs/`, you can use the repo defaults and skip both `HCG_KG_INPUT_GLOB` and `HCG_KG_SOURCE_PDF_DIR` unless you want to override them.
 5. Submit the stage-specific SLURM jobs from `/Users/kvand/HeartBioPortal/HCG-KG/slurm`, or run the CLI directly in batch jobs.
 
 ## CLI overview
@@ -193,6 +192,8 @@ The normalization layer is intentionally defensive because the current AHA parse
 - `src/hcg_kg/extract/heuristic.py`: replace or augment heuristics with schema-aware or local-model extraction
 - `configs/profiles/*.yaml`: tune chunk sizes, worker counts, and retrieval settings for Big Red 200
 - `docs/schema.md`: extend relation types as additional downstream requirements emerge
+
+The vendored PDF copies do not change the ingestion model. They are used only for provenance path resolution.
 
 ## Limitations in v0.1
 
