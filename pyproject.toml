@@ -45,9 +45,10 @@ neo4j = [
 ]
 llm = [
   "llama-index>=0.12",
+  "llama-index-llms-huggingface",
   "ollama>=0.4",
   "sentence-transformers>=3.0",
-  "transformers>=4.44",
+  "transformers[torch]>=4.44",
 ]
 
 [project.scripts]
@@ -88,4 +89,3 @@ warn_redundant_casts = true
 warn_unused_ignores = true
 disallow_any_generics = false
 plugins = []
-

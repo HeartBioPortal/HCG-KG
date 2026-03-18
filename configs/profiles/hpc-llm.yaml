@@ -1,0 +1,25 @@
+profile_name: hpc-llm
+models:
+  provider: llamaindex
+  model_name: Qwen/Qwen2.5-7B-Instruct
+  tokenizer_name: Qwen/Qwen2.5-7B-Instruct
+  context_window: 8192
+  max_new_tokens: 768
+  temperature: 0.0
+  device_map: auto
+extraction:
+  chunk_size: 1800
+  chunk_overlap: 200
+  batch_size: 8
+  num_workers: 8
+  use_gpu: true
+  run_relation_extraction: true
+  build_embeddings: true
+  generate_summaries: false
+graph:
+  backend: networkx
+retrieval:
+  vector_backend: tfidf
+  top_k: 10
+runtime:
+  log_level: INFO

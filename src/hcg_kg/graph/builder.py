@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 
 from hcg_kg.config.models import ProjectSettings
-from hcg_kg.extract.heuristic import HeuristicBiomedicalExtractor
+from hcg_kg.extract.factory import create_extractor
 from hcg_kg.graph.backends import create_backend
 from hcg_kg.graph.backends.base import GraphBackend
 from hcg_kg.models.documents import GuidelineDocument
@@ -20,7 +20,7 @@ class GraphBuilder:
     def __init__(self, settings: ProjectSettings, backend: GraphBackend | None = None) -> None:
         self.settings = settings
         self.backend = backend or create_backend(settings)
-        self.extractor = HeuristicBiomedicalExtractor(settings)
+        self.extractor = create_extractor(settings)
 
     def build(self, documents: list[GuidelineDocument]) -> GraphBuildReport:
         self.backend.initialize()

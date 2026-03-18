@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Literal
+from typing import Any, Literal
 
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -24,6 +24,13 @@ class ModelSettings(BaseModel):
     provider: Literal["heuristic", "ollama", "huggingface", "llamaindex"] = "heuristic"
     model_name: str = "heuristic-v1"
     embedding_model: str = "tfidf"
+    tokenizer_name: str | None = None
+    context_window: int = 4096
+    max_new_tokens: int = 768
+    temperature: float = 0.0
+    device_map: str = "auto"
+    model_kwargs: dict[str, Any] = Field(default_factory=dict)
+    generate_kwargs: dict[str, Any] = Field(default_factory=dict)
 
 
 class ExtractionSettings(BaseModel):

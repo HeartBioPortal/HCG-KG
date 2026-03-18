@@ -88,6 +88,7 @@ The repository ships with three profiles:
 - `local-medium`: larger local run without assuming a graph server
 - `hpc-large`: default profile, tuned for cluster-scale offline extraction and Neo4j persistence
 - `hpc-networkx`: HPC-oriented extraction settings with a file-backed graph for clusters without Neo4j
+- `hpc-llm`: HPC-oriented extraction settings that use a local Hugging Face model through LlamaIndex
 
 `hpc-large` is the default unless you pass `--profile` or set `HCG_KG_PROFILE`.
 
@@ -140,6 +141,16 @@ If Neo4j is not available on the cluster, use:
 export HCG_KG_PROFILE=hpc-networkx
 ```
 
+If you want LLM-based extraction with a local Hugging Face model through LlamaIndex:
+
+```bash
+pip install -e ".[llm]"
+pip install llama-index-llms-huggingface
+export HCG_KG_PROFILE=hpc-llm
+```
+
+The default `hpc-llm` profile uses `Qwen/Qwen2.5-7B-Instruct`. If you have already cached a different local model on the cluster, override it with `models.model_name` in a profile or by editing `configs/profiles/hpc-llm.yaml`.
+
 ## CLI overview
 
 ```bash
@@ -168,6 +179,13 @@ If you do not have a reachable Neo4j service, run:
 ```bash
 hcg-kg run-pipeline --profile hpc-networkx
 hcg-kg query --profile hpc-networkx --gene LDLR --pretty
+```
+
+For LLM-based extraction:
+
+```bash
+hcg-kg run-pipeline --profile hpc-llm
+hcg-kg query --profile hpc-llm --gene LDLR --pretty
 ```
 
 ## Source grounding and provenance
