@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data-processing workflow, please cite the HeartBioPortal 3.0 manuscript and this archived release."
+title: "HCG-KG: HeartBioPortal Clinical Guideline Knowledge Graph"
+version: "3.0.0-nar"
+date-released: "2026-05-18"
+license: "Apache-2.0"
+repository-code: "https://github.com/HeartBioPortal/HCG-KG"
+url: "https://heartbioportal.org/"
+authors:
+  - name: "HeartBioPortal contributors"
+  - name: "TBD: confirm author list before release"
+abstract: "Source-grounded cardiovascular clinical guideline knowledge graph construction and query tooling for the HeartBioPortal 3.0 NAR Database Issue manuscript release."
+keywords:
+  - HeartBioPortal
+  - clinical guidelines
+  - knowledge graph
+  - biomedical NLP
+  - NAR Database Issue

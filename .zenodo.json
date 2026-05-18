@@ -1,0 +1,39 @@
+{
+  "title": "HCG-KG: HeartBioPortal clinical guideline knowledge graph",
+  "creators": [
+    {
+      "name": "HeartBioPortal contributors"
+    },
+    {
+      "name": "TBD: confirm author list before release"
+    }
+  ],
+  "description": "Source-grounded cardiovascular clinical guideline knowledge graph construction and query tooling for the HeartBioPortal 3.0 NAR Database Issue manuscript release.",
+  "access_right": "open",
+  "upload_type": "software",
+  "license": "apache-2.0",
+  "keywords": [
+    "HeartBioPortal",
+    "clinical guidelines",
+    "knowledge graph",
+    "biomedical NLP",
+    "NAR Database Issue"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/HeartBioPortal/HCG-KG",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://heartbioportal.org/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/HeartBioPortal",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ]
+}
