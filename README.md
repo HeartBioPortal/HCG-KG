@@ -2,6 +2,8 @@
 
 `hcg-kg` builds a local, queryable biomedical knowledge graph from parsed clinical guideline JSON files, with an initial focus on AHA guideline content for downstream use in HeartBioPortal.
 
+For HBP 3.0, HCG-KG is the clinical guideline knowledge graph resource. HCG prepares and extracts structured guideline JSON, HCG-KG normalizes that content into graph nodes and edges, and HeartBioPortal uses the resulting guideline context in gene search dossiers through guideline summary/detail layers.
+
 This repository is not about training an LLM on PDFs. The parsed guideline JSON files are treated as the source corpus for ingestion, normalization, structured extraction, graph construction, and source-grounded retrieval. The vendored PDFs are included only as source references for provenance attachment and downstream inspection. Optional local LLMs can assist extraction or summarization offline, but the runtime system is designed to answer from a graph plus provenance-bearing snippets.
 
 ## Proposed repository architecture and rationale
@@ -250,3 +252,24 @@ The vendored PDF copies do not change the ingestion model. They are used only fo
 - hybrid retrieval with local embedding models
 - ESC and other guideline-family adapters
 - HeartBioPortal-facing REST service layer
+
+## How this repository supports HBP 3.0
+
+HCG-KG connects cardiovascular guideline source evidence to genes, variants, conditions, biomarkers, recommendations, evidence classes, evidence levels, and drugs/interventions in a provenance-bearing graph. HBP can query this graph or exported graph artifacts to show guideline context alongside gene, variant, protein, association, and drug-discovery evidence.
+
+Related HBP 3.0 repositories:
+
+- HeartBioPortal organization: https://github.com/HeartBioPortal
+- Live site: https://heartbioportal.org/
+- HCG guideline extraction resource: https://github.com/HeartBioPortal/HCG
+- DataHub: https://github.com/HeartBioPortal/DataHub
+
+## Manuscript release
+
+This repository supports the HeartBioPortal 3.0 NAR Database Issue manuscript release (`v3.0.0-nar`). Release-support files include graph schema documentation, graph/output manifests, examples, provenance documentation, citation metadata, Zenodo metadata, and checksum tooling.
+
+Guideline graph outputs expose source-grounded context only. They are not medical advice, automated clinical recommendations, or direct clinical actionability.
+
+## Security and privacy
+
+No controlled individual-level human data should be committed. Do not commit API keys, credentials, protected data, tokens, or restricted source data. Guideline PDFs, snippets, and parsed source JSON remain subject to source-specific licensing and publisher/society terms.

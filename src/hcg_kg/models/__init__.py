@@ -1,6 +1,12 @@
 """Typed models used across the pipeline."""
 
-from hcg_kg.models.documents import GeneMention, GuidelineDocument, GuidelineMetadata, Provenance, SourceSnippet
+from hcg_kg.models.documents import (
+    GeneMention,
+    GuidelineDocument,
+    GuidelineMetadata,
+    Provenance,
+    SourceSnippet,
+)
 from hcg_kg.models.graph import ExtractionResult, GraphEdge, GraphNode, GraphSubgraph
 from hcg_kg.models.query import (
     GeneMatch,

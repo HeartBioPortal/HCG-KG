@@ -6,7 +6,13 @@ from pathlib import Path
 from typing import Any
 
 from hcg_kg.config.models import ProjectSettings
-from hcg_kg.models.documents import GeneMention, GuidelineDocument, GuidelineMetadata, Provenance, SourceSnippet
+from hcg_kg.models.documents import (
+    GeneMention,
+    GuidelineDocument,
+    GuidelineMetadata,
+    Provenance,
+    SourceSnippet,
+)
 from hcg_kg.utils import make_id, slugify
 
 TITLE_KEYS = {"title", "Title", "guideline_title"}

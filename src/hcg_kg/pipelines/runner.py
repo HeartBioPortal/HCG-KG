@@ -4,7 +4,7 @@ import logging
 from pathlib import Path
 
 from hcg_kg.config.models import ProjectSettings
-from hcg_kg.graph.builder import GraphBuildReport, GraphBuilder
+from hcg_kg.graph.builder import GraphBuilder, GraphBuildReport
 from hcg_kg.ingest.loaders import RawDocumentLoader
 from hcg_kg.ingest.normalizer import GuidelineJSONNormalizer
 from hcg_kg.models.documents import GuidelineDocument

@@ -1,8 +1,8 @@
 from __future__ import annotations
 
+import re
 from collections import defaultdict
 from difflib import SequenceMatcher, get_close_matches
-import re
 
 from hcg_kg.config.models import ProjectSettings
 from hcg_kg.graph.backends import create_backend

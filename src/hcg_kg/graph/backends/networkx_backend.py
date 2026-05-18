@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 from collections import deque
+from collections.abc import Iterable, Mapping
+from typing import Any
 
 import networkx as nx
 from networkx.readwrite import json_graph
@@ -127,16 +129,16 @@ class NetworkXBackend:
 
     def _edges_from_iter(
         self,
-        iterator: object,
+        iterator: Iterable[tuple[object, object, object, Mapping[str, Any]]],
     ) -> list[GraphEdge]:
         edges: list[GraphEdge] = []
-        for source_id, target_id, edge_id, attrs in iterator:  # type: ignore[misc]
+        for source_id, target_id, edge_id, attrs in iterator:
             properties = {key: value for key, value in attrs.items() if key not in {"relation", "edge_id"}}
             edges.append(
                 GraphEdge(
                     edge_id=str(attrs.get("edge_id", edge_id)),
-                    source_id=source_id,
-                    target_id=target_id,
+                    source_id=str(source_id),
+                    target_id=str(target_id),
                     relation=str(attrs.get("relation")),
                     properties=properties,
                 )

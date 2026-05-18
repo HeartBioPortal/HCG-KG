@@ -2,7 +2,8 @@ from __future__ import annotations
 
 import logging
 import re
-from typing import Callable, Literal
+from collections.abc import Callable
+from typing import Literal, cast
 
 from pydantic import BaseModel, Field
 
@@ -17,8 +18,8 @@ try:  # pragma: no cover - optional dependency
     from llama_index.core.prompts import PromptTemplate
     from llama_index.llms.huggingface import HuggingFaceLLM
 except ImportError:  # pragma: no cover - optional dependency
-    PromptTemplate = None  # type: ignore[assignment]
-    HuggingFaceLLM = None  # type: ignore[assignment]
+    PromptTemplate = None
+    HuggingFaceLLM = None
 
 LOGGER = logging.getLogger(__name__)
 
@@ -270,17 +271,20 @@ class LlamaIndexBiomedicalExtractor:
         candidate_drugs: list[str],
     ) -> SnippetLLMExtraction:
         try:
-            return self.llm.structured_predict(
+            return cast(
                 SnippetLLMExtraction,
-                self.prompt,
-                guideline_title=guideline_title,
-                section_path=" > ".join(snippet.provenance.section_path) or "Document",
-                page=snippet.provenance.page or "unknown",
-                candidate_genes=", ".join(candidate_genes) or "none",
-                candidate_conditions=", ".join(candidate_conditions[:40]) or "none",
-                candidate_biomarkers=", ".join(candidate_biomarkers[:40]) or "none",
-                candidate_drugs=", ".join(candidate_drugs[:40]) or "none",
-                snippet_text=snippet.text,
+                self.llm.structured_predict(
+                    SnippetLLMExtraction,
+                    self.prompt,
+                    guideline_title=guideline_title,
+                    section_path=" > ".join(snippet.provenance.section_path) or "Document",
+                    page=snippet.provenance.page or "unknown",
+                    candidate_genes=", ".join(candidate_genes) or "none",
+                    candidate_conditions=", ".join(candidate_conditions[:40]) or "none",
+                    candidate_biomarkers=", ".join(candidate_biomarkers[:40]) or "none",
+                    candidate_drugs=", ".join(candidate_drugs[:40]) or "none",
+                    snippet_text=snippet.text,
+                ),
             )
         except Exception as exc:  # pragma: no cover - runtime dependent
             LOGGER.warning("LLM extraction failed for %s: %s", snippet.snippet_id, exc)
