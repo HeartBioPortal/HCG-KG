@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 import typer
 
@@ -14,7 +14,7 @@ from hcg_kg.utils import dump_json, load_json, to_pretty_json
 try:
     from rich.console import Console
 except ImportError:  # pragma: no cover - optional runtime nicety
-    Console = None  # type: ignore[assignment]
+    Console = None  # type: ignore[misc,assignment]
 
 app = typer.Typer(help="Build and query a source-grounded biomedical knowledge graph from guideline JSON.")
 console = Console() if Console is not None else None
@@ -35,11 +35,11 @@ def _render(data: object, pretty: bool) -> None:
 
 @app.command()
 def ingest(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
-    input_glob: Optional[str] = typer.Option(None, help="Input JSON glob override."),
-    limit: Optional[int] = typer.Option(None, help="Limit discovered files."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
+    input_glob: str | None = typer.Option(None, help="Input JSON glob override."),
+    limit: int | None = typer.Option(None, help="Limit discovered files."),
     force: bool = typer.Option(False, help="Rebuild manifest entries."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -49,11 +49,11 @@ def ingest(
 
 @app.command()
 def normalize(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
-    input_glob: Optional[str] = typer.Option(None, help="Input JSON glob override."),
-    limit: Optional[int] = typer.Option(None, help="Limit input files."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
+    input_glob: str | None = typer.Option(None, help="Input JSON glob override."),
+    limit: int | None = typer.Option(None, help="Limit input files."),
     force: bool = typer.Option(False, help="Recompute normalized outputs."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -76,9 +76,9 @@ def normalize(
 
 @app.command("build-graph")
 def build_graph(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
     force: bool = typer.Option(False, help="Force loading normalized documents again."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -88,9 +88,9 @@ def build_graph(
 
 @app.command("build-embeddings")
 def build_embeddings(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
     force: bool = typer.Option(False, help="Force rebuilding the snippet index."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -100,11 +100,11 @@ def build_embeddings(
 
 @app.command()
 def query(
-    gene: Optional[str] = typer.Option(None, help="Gene symbol to query."),
-    question: Optional[str] = typer.Option(None, help="Optional natural-language question."),
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
+    gene: str | None = typer.Option(None, help="Gene symbol to query."),
+    question: str | None = typer.Option(None, help="Optional natural-language question."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
     pretty: bool = typer.Option(False, help="Pretty-print JSON output."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     if gene is None and question is None:
         raise typer.BadParameter("Provide --gene or --question.")
@@ -121,9 +121,9 @@ def query(
 @app.command("inspect-document")
 def inspect_document(
     path: Path = typer.Option(..., exists=True, help="Raw or normalized document path."),
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
     pretty: bool = typer.Option(True, help="Pretty-print JSON output."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -143,9 +143,9 @@ def inspect_document(
 @app.command("inspect-gene")
 def inspect_gene(
     gene: str = typer.Option(..., help="Gene symbol to inspect."),
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
     pretty: bool = typer.Option(True, help="Pretty-print JSON output."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     service = QueryService(settings)
@@ -160,8 +160,8 @@ def inspect_gene(
 def export_subgraph(
     gene: str = typer.Option(..., help="Gene symbol to export."),
     output: Path = typer.Option(..., help="Output JSON path."),
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     service = QueryService(settings)
@@ -175,10 +175,10 @@ def export_subgraph(
 
 @app.command()
 def validate(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
-    input_glob: Optional[str] = typer.Option(None, help="Input JSON glob override."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
+    input_glob: str | None = typer.Option(None, help="Input JSON glob override."),
     limit: int = typer.Option(2, help="Number of files to sample."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -188,11 +188,11 @@ def validate(
 
 @app.command("run-pipeline")
 def run_pipeline(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
-    input_glob: Optional[str] = typer.Option(None, help="Input JSON glob override."),
-    limit: Optional[int] = typer.Option(None, help="Optional file limit."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
+    input_glob: str | None = typer.Option(None, help="Input JSON glob override."),
+    limit: int | None = typer.Option(None, help="Optional file limit."),
     force: bool = typer.Option(False, help="Force reprocessing."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)
@@ -202,10 +202,10 @@ def run_pipeline(
 
 @app.command()
 def resume(
-    profile: Optional[str] = typer.Option(None, help="Configuration profile."),
-    input_glob: Optional[str] = typer.Option(None, help="Input JSON glob override."),
-    limit: Optional[int] = typer.Option(None, help="Optional file limit."),
-    log_file: Optional[Path] = typer.Option(None, help="Optional application log path."),
+    profile: str | None = typer.Option(None, help="Configuration profile."),
+    input_glob: str | None = typer.Option(None, help="Input JSON glob override."),
+    limit: int | None = typer.Option(None, help="Optional file limit."),
+    log_file: Path | None = typer.Option(None, help="Optional application log path."),
 ) -> None:
     settings = _settings(profile, log_file)
     runner = PipelineRunner(settings)

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 import re
+from typing import Any, cast
 
 from hcg_kg.config.models import ProjectSettings
 from hcg_kg.models.graph import GraphEdge, GraphNode, GraphSubgraph
@@ -10,8 +11,8 @@ try:
     from neo4j import GraphDatabase
     from neo4j.exceptions import ServiceUnavailable
 except ImportError:  # pragma: no cover - optional dependency
-    GraphDatabase = None  # type: ignore[assignment]
-    ServiceUnavailable = Exception  # type: ignore[assignment]
+    GraphDatabase = None
+    ServiceUnavailable = Exception
 
 
 _SAFE_CYPHER_PATTERN = re.compile(r"^[A-Za-z][A-Za-z0-9_]*$")
@@ -77,7 +78,6 @@ class Neo4jBackend:
 
     def list_nodes(self, label: str | None = None) -> list[GraphNode]:
         clause = ""
-        params: dict[str, object] = {}
         if label is not None:
             safe_label = self._sanitize_identifier(label)
             clause = f":{safe_label}"
@@ -147,7 +147,7 @@ class Neo4jBackend:
         return value
 
     def _node_from_record(self, node: object) -> GraphNode:
-        data = dict(node)
+        data = dict(cast(Any, node))
         return GraphNode(
             node_id=str(data["node_id"]),
             label=str(data.get("label", "Entity")),
@@ -156,9 +156,9 @@ class Neo4jBackend:
         )
 
     def _edge_from_record(self, edge: object, source: object, target: object) -> GraphEdge:
-        data = dict(edge)
-        source_data = dict(source)
-        target_data = dict(target)
+        data = dict(cast(Any, edge))
+        source_data = dict(cast(Any, source))
+        target_data = dict(cast(Any, target))
         relation = data.get("relation")
         if not isinstance(relation, str) or not relation:
             relation = getattr(edge, "type", "")

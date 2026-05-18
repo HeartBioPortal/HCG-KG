@@ -75,6 +75,13 @@ select = [
   "SIM",
   "C4",
 ]
+ignore = [
+  "B008",
+  "E501",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/conftest.py" = ["E402"]
 
 [tool.ruff.format]
 quote-style = "double"
@@ -85,6 +92,7 @@ testpaths = ["tests"]
 [tool.mypy]
 python_version = "3.11"
 strict = true
+ignore_missing_imports = true
 warn_unused_configs = true
 warn_redundant_casts = true
 warn_unused_ignores = true

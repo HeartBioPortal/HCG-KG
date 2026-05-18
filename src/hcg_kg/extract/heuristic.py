@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import re
-from typing import Iterable
+from collections.abc import Iterable
 
 from hcg_kg.config.models import ProjectSettings
 from hcg_kg.extract.chunker import chunk_snippets

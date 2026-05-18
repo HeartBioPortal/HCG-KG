@@ -8,7 +8,7 @@ from hcg_kg.utils import ensure_dir
 try:
     from rich.logging import RichHandler
 except ImportError:  # pragma: no cover - optional runtime nicety
-    RichHandler = None  # type: ignore[assignment]
+    RichHandler = None  # type: ignore[misc,assignment]
 
 
 def configure_logging(level: str = "INFO", log_file: Path | None = None) -> None:
