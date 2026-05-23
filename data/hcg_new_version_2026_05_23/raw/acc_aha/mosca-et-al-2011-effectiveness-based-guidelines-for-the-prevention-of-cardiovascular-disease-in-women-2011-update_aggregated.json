@@ -1,0 +1,826 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "Effectiveness-Based Guidelines for the Prevention of Cardiovascular Disease in Women—2011 Update",
+        "section_headings": [
+          "EXECUTIVE WRITING COMMITTEE",
+          "EXPERT PANEL MEMBERS"
+        ],
+        "narrative_summary": "Title page of the guideline including journal citation, guideline title, lists of Executive Writing Committee and Expert Panel members, disclosure statement, and permissions information.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Next pages contain the guideline content beyond the title and author information."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [],
+        "narrative_summary": "This introductory page provides an overview of the importance of women-specific cardiovascular disease (CVD) prevention guidelines. It highlights increased public awareness and declining coronary heart disease mortality among U.S. women, persistent racial disparities favoring white women over black women, rising prevalence of hypertension, obesity, and diabetes in women, and the global impact of CVD as the leading cause of death in women. The page emphasizes the rationale for evidence-based, female-focused guidelines and notes the routine recommendation of aspirin for primary prevention.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Text ends with a hyphenated word (‘pre-’) indicating continuation of a sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [
+          "CVD Risk Assessment"
+        ],
+        "narrative_summary": "The panel acknowledged gender differences in CVD prevention, noting women’s unique risks such as pregnancy and hormone therapy, greater stroke prevalence, and underuse of anticoagulation in atrial fibrillation. The 2011 update shifted from ‘‘evidence-based’’ to ‘‘effectiveness-based’’ recommendations, retaining Class III interventions lacking benefit for CVD prevention (Table 1) and excluding therapies without definitive trial data. The guidelines emphasize lifestyle approaches, cost-effectiveness, and new implementation sections. The CVD Risk Assessment section reviews the 2007 stratification of women into \"high risk,\" \"at risk,\" and \"optimal risk\" categories based on documented CVD, risk factors, and Framingham scores, and discusses limitations of traditional risk scores.",
+        "recommendation_tables": [
+          {
+            "title": "Class III Interventions (Not Useful/Effective and May Be Harmful) for the Prevention of CVD in Women",
+            "rows": [
+              {
+                "recommendation": "Hormone therapy and selective estrogen-receptor modulators (SERMs) should not be used for the primary or secondary prevention of CVD",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Antioxidant vitamin supplements (e.g., vitamin E, C, and beta carotene) should not be used for the primary or secondary prevention of CVD",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Folic Acid, with or without B6 and B12 supplementation, should not be used for the primary or secondary prevention of CVD",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "*Folic acid supplementation should be used in the childbearing years to prevent neural tube defects.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Routine use of aspirin in healthy women <65 years of age is not recommended to prevent MI",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with a cut-off sentence (\"vention of MI…\") and ends mid-sentence (\"subclinical CVD can have relatively high\")."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains Figure 1, a flow diagram outlining cardiovascular disease (CVD) preventive care in women, including initial risk evaluation, lifestyle recommendations, stratification by high CVD risk and atrial fibrillation history, and corresponding Class I and Class II intervention recommendations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "flowchart",
+            "title": "Flow diagram for CVD preventive care in women",
+            "summary": "A stepwise algorithm starting with evaluation of CVD risk (medical/family history, symptoms, depression screening, physical exam, labs, Framingham risk). Implement Class I lifestyle recommendations (smoking cessation, DASH-like diet, regular activity, weight management). Assess high CVD risk (CHD, cerebrovascular disease, peripheral arterial disease, aneurysm, diabetes, kidney disease, ≥10% 10-year risk). If high risk, evaluate recent cardiovascular event or symptoms: if yes, refer to cardiac rehabilitation; if no, implement Class I (BP control, LDL-C <100 mg/dL, β-blocker, ACEI/ARB). Regardless of event, consider Class II (LDL-C <70 mg/dL in very high risk, non–HDL-C <130 mg/dL, glycemic control, aspirin, omega-3). If not high risk, assess paroxysmal atrial fibrillation: if yes, Class I (warfarin or aspirin or dabigatran); if no, Class I (BP control, LDL-C ≥190 mg/dL). Then consider Class II for high LDL-C/non-HDL/triglycerides and/or HDL-C in select women, and aspirin.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [],
+        "narrative_summary": "The panel reaffirmed that Framingham 10-year predicted CHD risk >20% identifies high-risk women but that lower scores alone are insufficient to ensure low risk. They emphasized considering additional factors—medical and lifestyle history, family history, and markers of preclinical disease—when determining preventive therapy. Since the 2007 update, studies (e.g., Hsia et al. in the WHI) have validated the classification algorithm, showing distinct event rates across high-risk, at-risk, and optimal-risk groups. For 2011, the panel retained the general risk classification approach with modifications, introducing the AHA’s concept of “ideal cardiovascular health,” defined by absence of clinical CVD, ideal levels of cholesterol (<200 mg/dL), blood pressure (<120/80 mm Hg), fasting glucose (<100 mg/dL), and adherence to healthy behaviors (BMI <25 kg/m2, nonsmoking, recommended physical activity, and a DASH-style diet). Ideal cardiovascular health is associated with lower short-, intermediate-, and lifetime CVD risks and greater longevity. Several additional risk factors for CVD in women have been identified",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "Classification of CVD Risk in Women",
+            "summary": "Risk Status vs Criteria: \n• High risk (≥1 clinically manifest CHD, cerebrovascular disease, peripheral arterial disease, abdominal aortic aneurysm, end-stage/chronic kidney disease, or diabetes mellitus; or 10-year predicted CVD risk ≥10%)\n• At risk (≥1 major risk factor: cigarette smoking; SBP ≥120 mm Hg, DBP ≥80 mm Hg, or treated hypertension; total cholesterol ≥200 mg/dL, HDL-C <50 mg/dL, or treated dyslipidemia; obesity/central adiposity; poor diet; physical inactivity; family history of premature CVD; metabolic syndrome; advanced subclinical atherosclerosis; poor exercise capacity or abnormal heart rate recovery; systemic autoimmune collagen-vascular disease; history of preeclampsia, gestational diabetes, or pregnancy-induced hypertension)\n• Ideal cardiovascular health (all of: untreated total cholesterol <200 mg/dL; BP <120/<80 mm Hg; fasting glucose <100 mg/dL; BMI <25 kg/m2; abstinence from smoking; physical activity ≥150 min/wk moderate or ≥75 min/wk vigorous; DASH-style diet)",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-paragraph and ends in the middle of a sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [
+          "Diversity, Disparities, and Population Representation"
+        ],
+        "narrative_summary": "This section discusses risk stratification and prevention strategies for CVD in women. It notes the recommendation of a ≥10% 10-year CVD risk cutoff for defining high risk, highlights cost-effectiveness of statin therapy supported by the JUPITER trial, and emphasizes focusing on long-term and lifetime CVD risk rather than solely 10-year CHD risk in women. Limitations of standard 10-year models in younger women are described, as are extended Framingham tools for 10- and 30-year risk. Emerging biomarkers (eg, hsCRP, advanced lipid testing) and imaging modalities (coronary calcium scoring, carotid ultrasound) are acknowledged as useful for refining risk in intermediate-risk women but not for routine screening. Unique female exposures—menarche, pregnancy, preeclampsia, and menopause—are proposed as opportunities to assess lifetime risk; preeclampsia approximately doubles later CVD risk. Postpartum referral and long-term follow-up of reproductive history and risk factors are recommended. Future research priorities include evaluating critical life periods and novel exposures, as well as psychosocial and autoimmune conditions (eg, systemic lupus erythematosus, rheumatoid arthritis) that raise CVD risk. The new section “Diversity, Disparities, and Population Representation” then begins.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins with an ongoing discussion of risk scores and ends in the middle of the new section on diversity, indicating continuation across pages."
+        },
+        "extraction_warnings": [
+          "Page starts mid-sentence from previous content.",
+          "Page ends mid-sentence/incomplete at section start, continuing on next page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "International Issues"
+        ],
+        "narrative_summary": "Continues discussion of cultural, socioeconomic, and ethnic diversity factors influencing cardiovascular disease (CVD) disparities among women. Highlights the Hispanic paradox in life expectancy and CVD mortality rates, emphasizes the need for culturally sensitive care and adaptation of guidelines for diverse populations including pregnant or frail elderly women. Introduces the concept of international applicability of guidelines, noting that 81% of female CVD deaths occur in low- and middle-income countries. Describes WHO and other international organizations’ criteria for guideline appraisal, including efficacy, cost-effectiveness, affordability, and population benefits, and mentions tools for assessing organizational barriers, cost implications, and audit purposes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins mid-paragraph and ends mid-sentence, indicating continuation across pages."
+        },
+        "extraction_warnings": [
+          "No recommendation tables or classes/levels visible on page; narrative only."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [
+          "Healthcare Professional Implementation",
+          "Patient and Public Education"
+        ],
+        "narrative_summary": "This page continues the discussion of implementation challenges for cardiovascular disease prevention guidelines in women. It outlines the international applicability of the recommendations, highlights limitations of existing studies (small sample sizes, meta‐analysis generalizability), and describes barriers to guideline adherence among clinicians and patients, including lack of awareness, organizational support, and patient resistance. It reviews interventions to improve adherence—multifaceted, interactive methods being most effective—and notes the emergence of pay‐for‐performance programs and the AHA’s Get With The Guidelines initiative. It concludes by emphasizing the need for further research on best practices and introduces the subsequent section on patient and public education, noting low adherence rates and the importance of reinforcement strategies.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins and ends mid‐section, indicating continuation from and onto adjacent pages."
+        },
+        "extraction_warnings": [
+          "No structured recommendation tables or Class/COR and Level/LOE elements present on this narrative page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Selection of Topics and Systematic Search",
+          "Methods",
+          "Selection of Expert Panel"
+        ],
+        "narrative_summary": "The page continues discussion of the importance and challenges of patient education and medication adherence in prevention of CVD, including barriers such as socioeconomic factors, literacy, and cultural issues. It describes behavioral counseling approaches and the need for systematic assessment of adherence barriers. The expert panel’s process for selecting topics and conducting a systematic literature search (January 2006–January 2010) is outlined. It also introduces the methodology for guideline update, including manuscript oversight and expert panel selection.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Classification and Levels of Evidence",
+            "summary": "Defines Class I, IIa, IIb, III recommendations and Levels of Evidence A, B, C with descriptions of strength of recommendation and quality of evidence.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-paragraph of narrative text from previous page and ends mid-sentence in the Methods section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "Table 4. Guidelines for the Prevention of CVD in Women",
+        "section_headings": [
+          "Lifestyle Interventions",
+          "Major risk factor interventions"
+        ],
+        "narrative_summary": "This page presents Table 4 outlining lifestyle and major risk factor interventions for cardiovascular disease prevention in women, including smoking cessation, physical activity, dietary intake, weight management, omega-3 fatty acids, blood pressure control, and lipid management. Each recommendation is accompanied by its Class of Recommendation and Level of Evidence.",
+        "recommendation_tables": [
+          {
+            "title": "Table 4. Guidelines for the Prevention of CVD in Women",
+            "rows": [
+              {
+                "recommendation": "Women should be advised not to smoke and to avoid environmental tobacco smoke. Provide counseling at each encounter, nicotine replacement, and other pharmacotherapy as indicated in conjunction with a behavioral program or formal smoking cessation program.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Women should be advised to accumulate at least 150 min/wk of moderate exercise, 75 min/wk of vigorous exercise, or an equivalent combination of moderate- and vigorous-intensity aerobic physical activity. Aerobic activity should be performed in episodes of at least 10 min, preferably spread throughout the week.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Women should also be advised that additional cardiovascular benefits are provided by increasing moderate-intensity aerobic physical activity to 5 h (300 min)/wk, 2 1/2 h/wk of vigorous-intensity physical activity, or an equivalent combination of both.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Women should be advised to engage in muscle-strengthening activities that involve all major muscle groups performed on ≥2 d/wk.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Women who need to lose weight or sustain weight loss should be advised to accumulate a minimum of 60 to 90 min of at least moderate-intensity physical activity (e.g., brisk walking) on most, and preferably all, days of the week.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A comprehensive CVD risk-reduction regimen such as cardiovascular or stroke rehabilitation or a physician-guided home- or community-based exercise training program should be recommended to women with a recent acute coronary syndrome or coronary revascularization, new-onset or chronic angina, recent cerebrovascular event, peripheral arterial disease (Class I; Level of Evidence A).",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A comprehensive CVD risk-reduction regimen should be recommended to women with current/prior symptoms of heart failure and an LVEF ≤35%.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Women should be advised to consume a diet rich in fruits and vegetables; to choose whole-grain, high-fiber foods; to consume fish, especially oily fish, at least twice a week; to limit intake of saturated fat, cholesterol, alcohol, sodium, and sugar; and avoid trans-fatty acids. See Appendix.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Women should maintain or lose weight through an appropriate balance of physical activity, caloric intake, and formal behavioral programs when indicated to maintain or achieve an appropriate body weight (e.g., BMI <25 kg/m2 in U.S. women), waist size (e.g., <35 in), or other target metric of obesity.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Consumption of omega-3 fatty acids in the form of fish or in capsule form (e.g., EPA 1800 mg/d) may be considered in women with hypercholesterolemia and/or hypertriglyceridemia for primary and secondary prevention.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "An optimal blood pressure of <120/80 mm Hg should be encouraged through lifestyle approaches such as weight control, increased physical activity, alcohol moderation, sodium restriction, and increased consumption of fruits, vegetables, and low-fat dairy products.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Pharmacotherapy is indicated when blood pressure is ≥140/90 mm Hg (≥130/80 mm Hg in the setting of chronic kidney disease and diabetes mellitus). Thiazide diuretics should be part of the drug regimen for most patients unless contraindicated or if there are compelling indications for other agents in specific vascular diseases. Initial treatment of high-risk women with acute coronary syndrome or MI should be with β-blockers and/or ACE inhibitors/ARBs, with addition of other drugs such as thiazides as needed to achieve goal blood pressure.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "Note: ACE inhibitors are contraindicated in pregnancy and ought to be used with caution in women who may become pregnant.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "The following levels of lipids and lipoproteins in women should be encouraged through lifestyle approaches: LDL-C <100 mg/dL, HDL-C >50 mg/dL, triglycerides <150 mg/dL, and non-HDL-C (total cholesterol minus HDL) <130 mg/dL.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "LDL-C–lowering drug therapy is recommended simultaneously with lifestyle therapy in women with CHD to achieve an LDL-C <100 mg/dL.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Lipid-lowering therapy is also indicated in women with other atherosclerotic CVD or diabetes mellitus or 10-year absolute risk >20%.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A reduction to <70 mg/dL is reasonable in very-high-risk women (e.g., those with recent ACS or multiple poorly controlled cardiovascular risk factors) with CHD and may require an LDL-lowering drug combination.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table 4 continues on the next page (Continued)."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "Table 4. Continued",
+        "section_headings": [
+          "Lipids: pharmacotherapy for LDL-C lowering, other at-risk women",
+          "Lipids: pharmacotherapy for low HDL-C or elevated non–HDL-C",
+          "Diabetes mellitus",
+          "Preventive drug interventions"
+        ],
+        "narrative_summary": "Continuation of Table 4 providing Class I–III and Level of Evidence A–C recommendations for lipid‐lowering therapy, diabetes management, and various preventive drug interventions including antiplatelet, anticoagulant, β‐blocker, ACE inhibitor/ARB, and aldosterone blockade strategies in women.",
+        "recommendation_tables": [
+          {
+            "title": "Table 4. Continued",
+            "rows": [
+              {
+                "recommendation": "LDL-C–lowering with lifestyle therapy is useful if LDL-C level is ≥130 mg/dL, there are multiple risk factors, and the 10-y absolute CHD risk is 10% to 20%.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "LDL-C lowering is useful with lifestyle therapy if LDL-C level is ≥160 mg/dL and multiple risk factors even if 10-y absolute CHD risk is <10%.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "LDL-C–lowering with lifestyle therapy is useful if LDL 190 mg/dL regardless of the presence or absence of other risk factors or CVD.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In women >60 y of age and with an estimated CHD risk >10%, statins could be considered if hsCRP is >2 mg/dL after lifestyle modification and no acute inflammatory process is present.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Niacin or fibrate therapy can be useful when HDL-C is low (<50 mg/dL) or non–HDL-C is elevated (>130 mg/dL) in high-risk women after LDL-C goal is reached.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Lifestyle and pharmacotherapy can be useful in women with diabetes mellitus to achieve an HbA₁C <7% if this can be accomplished without significant hypoglycemia.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aspirin therapy (75–325 mg/d) should be used in women with CHD unless contraindicated.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aspirin therapy (75–325 mg/d) is reasonable in women with diabetes mellitus unless contraindicated.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "If a high-risk woman has an indication but is intolerant of aspirin therapy, clopidogrel should be substituted.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aspirin therapy can be useful in women ≥65 y of age (81 mg daily or 100 mg every other day) if blood pressure is controlled and benefit for ischemic stroke and MI prevention is likely to outweigh risk of gastrointestinal bleeding and hemorrhagic stroke.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aspirin therapy may be reasonable for women <65 y of age for ischemic stroke prevention.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aspirin 75–325 mg should be used in women with chronic or paroxysmal atrial fibrillation with a contraindication to warfarin or at low risk of stroke (<1%/y or CHADS₂ score of <2).",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "For women with chronic or paroxysmal atrial fibrillation, warfarin should be used to maintain the INR at 2.0 to 3.0 unless they are considered to be at low risk for stroke (<1%/y or high risk of bleeding).",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Dabigatran is useful as an alternative to warfarin for the prevention of stroke and systemic thromboembolism in patients with paroxysmal to permanent AF and risk factors for stroke or systemic embolization who do not have a prosthetic heart valve or hemodynamically significant valve disease, severe renal failure (creatinine clearance 15 mL/min), or advanced liver disease (impaired baseline clotting function).",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "β-Blockers should be used for up to 12 mo in all women after MI or ACS with normal left ventricular function unless contraindicated.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "β-Blockers should be used for up to 3 y in all women after MI or ACS with normal left ventricular function unless contraindicated.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Long-term β-blocker therapy should be used indefinitely for women with left ventricular failure unless contraindications are present.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Long-term β-blocker therapy may be considered in other women with coronary or vascular disease and normal left ventricular function.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "Level of Evidence C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ACE inhibitors should be used (unless contraindicated) in women after MI and in those with clinical evidence of heart failure, LVEF ≤40%, or diabetes mellitus.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ARBs should be used instead in women after MI and in those with clinical evidence of heart failure, an LVEF ≤40%, or diabetes mellitus who are intolerant of ACE inhibitors.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Use of aldosterone blockade (e.g., spironolactone) after MI is indicated in women who do not have significant hypotension, renal dysfunction, or hyperkalemia, who are already receiving therapeutic doses of an ACE inhibitor and β-blocker and have LVEF ≤40% with symptomatic heart failure.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Continuation of Table 4 from previous page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Evidence Rating and Recommendation Procedures",
+          "Cost-Effectiveness",
+          "Acknowledgments",
+          "Appendix. Specific Dietary Intake Recommendations for Women"
+        ],
+        "narrative_summary": "Subcommittees reviewed and updated recommendation classes (I, IIa, IIb, III) and evidence levels (A, B, C) through expert panel voting, then finalized wording after peer review. Cost-effectiveness analyses (2000–2010) of therapies including omega-3, diet, β-blockers, aspirin, obesity management, smoking cessation, and hypertension showed limited gender-specific data, though aspirin in older women, antihypertensives, smoking cessation, and weight interventions appear cost-effective. The panel highlighted the need for gender-stratified analyses in efficacy and safety reporting. Acknowledgments list contributors to literature review and review process.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix. Specific Dietary Intake Recommendations for Women",
+            "kind": "table",
+            "title": "Specific Dietary Intake Recommendations for Women",
+            "summary": "Table of recommended intake for key nutrients: fruits and vegetables, fish, fiber, whole grains, sugar, nuts/legumes/seeds, saturated fat, cholesterol, alcohol, sodium, and trans-fatty acids, with serving frequencies and example serving sizes. Footnotes note the 2,000-kcal diet basis and ongoing vitamin D research.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins mid-sentence in ongoing narrative from previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "blank_or_administrative",
+        "title": "",
+        "section_headings": [
+          "Disclosures",
+          "Writing Group Disclosures"
+        ],
+        "narrative_summary": "This page contains the Writing Group Disclosures table listing authors, their employment, research grants, other research support, honoraria, expert witness roles, ownership interests, advisory board memberships, and other disclosures.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Writing Group Disclosures table",
+            "summary": "Comprehensive disclosure table for guideline writing group members, continuing on next page.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Disclosure table continues on next page as indicated by “(Continued)”"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "blank_or_administrative",
+        "title": "",
+        "section_headings": [
+          "Writing Group Disclosures, Continued"
+        ],
+        "narrative_summary": "Continuation of the Writing Group Disclosures table listing writing group members alongside their employment affiliations and conflict-of-interest disclosures across categories (Research Grant, Other Research Support, Speakers’ Bureau/Honoraria, Expert Witness, Ownership Interest, Consultant/Advisory Board, and Other).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continuation of Writing Group Disclosures table"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "blank_or_administrative",
+        "title": "",
+        "section_headings": [
+          "Writing Group Disclosures, Continued",
+          "Reviewer Disclosures"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Disclosure tables continue across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "blank_or_administrative",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [
+          "Reviewer Disclosures, Continued",
+          "References"
+        ],
+        "narrative_summary": "The page continues the Reviewer Disclosures table listing reviewers’ potential conflicts of interest and provides a footnote defining significant and modest relationships. It also begins the References section with citations 1 through 14.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Reviewer Disclosures, Continued",
+            "kind": "table",
+            "title": "Reviewer Disclosures, Continued",
+            "summary": "Table listing reviewers and their relationships (Employment; Research Grant; Other Research Support; Speakers’ Bureau/Honoraria; Expert Witness; Ownership Interest; Consultant/Advisory Board; Other).",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Reviewer Disclosures table is continued from previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "Guidelines for the Prevention of CVD in Women—2011 Update",
+        "section_headings": [],
+        "narrative_summary": "This page contains bibliographic references numbered 52 through 97, listing studies, surveys, guidelines, and reports related to cardiovascular disease prevention in women.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "References list continues from previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

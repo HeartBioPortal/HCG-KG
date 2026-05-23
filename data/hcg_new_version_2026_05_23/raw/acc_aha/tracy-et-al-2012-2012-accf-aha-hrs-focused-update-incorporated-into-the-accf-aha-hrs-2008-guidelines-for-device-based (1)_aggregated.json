@@ -1,0 +1,2944 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "section_headings": [],
+        "narrative_summary": "Title page of the practice guideline including journal citation, guideline title, report attribution, writing committee and group member listings, and publication footnotes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "Table of Contents",
+        "section_headings": [
+          "Preamble (UPDATED)",
+          "1. Introduction (UPDATED)",
+          "2. Indications for Pacing",
+          "2.8. Pacemaker Follow-Up",
+          "3. Indications for Implantable Cardioventer-Defibrillator Therapy"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table of contents continues on next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.7.1. Elements of Implantable Cardioverter-Defibrillator Follow-Up",
+          "3.7.2. Focus on Heart Failure After First Appropriate Implantable Cardioverter-Defibrillator Therapy",
+          "4. Areas in Need of Further Research",
+          "References (UPDATED)",
+          "Appendix 1. 2008 Author Relationships With Industry and Other Entities (Relevant)",
+          "Appendix 2. 2008 Reviewer Relationships With Industry and Other Entities (Relevant)",
+          "Appendix 3. Abbreviations List (UPDATED)",
+          "Appendix 4. 2012 Author Relationships With Industry and Other Entities (Relevant) (NEW)",
+          "Appendix 5. 2012 Reviewer Relationships With Industry and Other Entities (Relevant) (NEW)",
+          "Appendix 6. 2012 Indications for CRT Therapy-Algorithm (NEW)",
+          "Preamble (UPDATED)"
+        ],
+        "narrative_summary": "The Preamble emphasizes the medical profession’s role in critically evaluating diagnostic procedures and therapies, reviews the history and charge of the ACCF/AHA Task Force on Practice Guidelines since 1980, describes the guideline development and writing committee processes, and explains the evidence-based methodologies, including Class of Recommendation and Level of Evidence ranking, as well as the focused update process for timely guideline revisions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Top of page continues the table of contents for earlier sections; narrative Preamble continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The page presents explanatory narrative discussing that Level of Evidence B or C does not imply a weak recommendation, emphasizing clinical consensus when randomized trials are unavailable; footnotes clarify data sources for subpopulations and comparative effectiveness studies; the term “guideline-directed medical therapy” (GDMT) is introduced for ACCF/AHA Class I recommendations; and guidelines' applicability to non–North American drugs and populations is addressed.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 1",
+            "kind": "table",
+            "title": "Applying Classification of Recommendations and Level of Evidence",
+            "summary": "A matrix categorizing recommendations by Class I, IIa, IIb, and III (No Benefit/Harm) against Levels of Evidence A, B, and C, with benefit-risk statements, evidence descriptions, suggested writing phrases, and comparative effectiveness examples.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "1. Introduction (UPDATED)",
+          "1.1. Organization of Committee"
+        ],
+        "narrative_summary": "This page outlines the intent and scope of the ACCF/AHA practice guidelines, emphasizing their role in clinical decision making, the importance of patient adherence, and the process for conflict-of-interest disclosures among writing group members. It describes the 2008 guideline development, new RWI policy implementation, the incorporation of the 2012 focused update, and then begins the updated Introduction section with details on the committee’s organization.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The final sentence under section 1.1 is cut off mid-sentence, indicating continuation on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "1.2. Document Review and Approval",
+          "1.3. Methodology and Evidence"
+        ],
+        "narrative_summary": "This page summarizes the peer-review and approval process for the 2008 guideline and the 2012 focused update, including the number and affiliations of reviewers, disclosure and recusal policies, and endorsement by ACCF, AHA, HRS, and other societies. It then describes the methodology and evidence base, noting an extensive literature survey of 595 English-language human studies, key search terms spanning arrhythmias, device therapy, and related conditions, and discusses guideline scope, rationale, and considerations for potentially reversible clinical situations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins mid-section and 1.3 continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [],
+        "narrative_summary": "This page introduces key definitions and scope for the 2012 update to the device therapy guidelines. It defines symptomatic bradycardia and explains requirements for correlating symptoms with bradyarrhythmias, cautions against confusing physiological sinus bradycardia with pathologic bradyarrhythmias, and notes varying definitions of terms such as “persistent,” “transient,” and “not expected to resolve.” It references overlap with ACC/AHA myocardial infarction pacing guidelines, expanded indications for electrophysiological studies, and updates to indications for ICDs and CRT devices based on recent evidence. The document’s use of all-cause mortality as a trial endpoint is justified, and the lack of specific physician training requirements for device therapy is noted. Finally, the guideline revision principles regarding evidence accumulation, consistency with prior guidelines, and patient-centered decision-making are outlined.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "This page is part of the introductory narrative and continues from preceding content and into subsequent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "2. Indications for Pacing",
+          "2.1. Pacing for Bradycardia Due to Sinus and Atrioventricular Node Dysfunction",
+          "2.1.1. Sinus Node Dysfunction"
+        ],
+        "narrative_summary": "This section begins with an overview of the 2012 focused update process, in which trials from 2008–2012 were reviewed to determine necessary updates for cardiac resynchronization therapy and device follow-up. It then introduces indications for pacing in bradycardia, with a detailed discussion of sinus node dysfunction (SND): its historical descriptions, ECG manifestations, definitions (including chronotropic incompetence and tachy-brady syndrome), epidemiology and pathophysiology, clinical presentations (from syncope to insidious symptoms), diagnostic challenges, natural history (including risk of recurrent syncope and interactions with other therapies), and the rationale for permanent pacing as the only effective treatment for symptomatic bradycardia.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-section of the guideline and ends in the middle of a sentence describing examples of physiological sinus bradycardia."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Epstein et al. Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "Recommendations for Permanent Pacing in Sinus Node Dysfunction",
+          "Acquired Atrioventricular Block in Adults"
+        ],
+        "narrative_summary": "The page continues a discussion of bradycardia in trained athletes and the overlap between physiological and pathological presentations, emphasizing correlation of episodic bradycardia with symptoms, use of Holter and insertable loop recorders, and the unknown optimal pacing system in SND. It reviews adverse effects of right ventricular apical pacing on LV function, associations with AF, heart failure, ventricular arrhythmias and ICD therapy mortality, and the lack of large randomized trial evidence for pacing benefit. Following the SND recommendations, the text introduces AV block classification (first-, second- [type I and II], third-degree), defining PR prolongation thresholds, distinguishing type I vs type II second-degree block, advanced second-degree block, and noting absence of AV conduction in complete block. It outlines clinical implications of AV conduction abnormalities and evidence suggesting improved survival with permanent pacing in third-degree block.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Permanent Pacing in Sinus Node Dysfunction",
+            "rows": [
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for SND with documented symptomatic bradycardia, including frequent sinus pauses that produce symptoms.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "C",
+                "supporting_text": "(53–55)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for symptomatic chronotropic incompetence.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "C",
+                "supporting_text": "(53–57)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for symptomatic sinus bradycardia that results from required drug therapy for medical conditions.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for SND with heart rate less than 40 bpm when a clear association between significant symptoms consistent with bradycardia and the actual presence of bradycardia has not been documented.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "(53–55,58–60)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for syncope of unexplained origin when clinically significant abnormalities of sinus node function are discovered or provoked in electrophysiological studies.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "(61,62)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation may be considered in minimally symptomatic patients with chronic heart rate less than 40 bpm while awake.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "(53,55,56,58–60)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for SND in asymptomatic patients.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for SND in patients for whom the symptoms suggestive of bradycardia have been clearly documented to occur in the absence of bradycardia.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for SND with symptomatic bradycardia due to nonessential drug therapy.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence in the narrative about bradycardia in trained athletes and ends mid-sentence discussing PR interval recognition."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Acquired Atrioventricular Block in Adults"
+        ],
+        "narrative_summary": "Continues discussion of first-, second-, and third-degree AV block, including hemodynamic consequences, indications for pacing in various degrees of block, importance of evaluating reversible causes, and considerations for permanent pacemaker implantation in different clinical contexts.",
+        "recommendation_tables": [
+          {
+            "title": "Class I",
+            "rows": [
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with bradycardia with symptoms (including heart failure) or ventricular arrhythmias presumed to be due to AV block.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(59,63,76,85)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with arrhythmias and other medical conditions that require drug therapy that results in symptomatic bradycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(59,63,76,85)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level in awake, symptom-free patients in sinus rhythm, with documented periods of asystole greater than or equal to 3.0 seconds or any escape rate less than 40 bpm, or with an escape rhythm that is below the AV node.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(86) (53,58)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level in awake, symptom-free patients with AF and bradycardia with 1 or more pauses of at least 5 seconds or longer.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of narrative discussion and ends within the recommendations section (Class I), likely continuing with Class II on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "CLASS I",
+          "CLASS IIa",
+          "CLASS IIb",
+          "CLASS III",
+          "2.1.3. Chronic Bifascicular Block"
+        ],
+        "narrative_summary": "Bifascicular block refers to ECG evidence of impaired conduction below the AV node in the right and left bundles. Alternating bundle-branch block is present when block in all three fascicles manifests on successive ECGs. Examples include right bundle-branch block with left anterior or posterior fascicular block on different ECGs. Patients with first-degree AV block plus bifascicular block and symptoms have high mortality and substantial incidence of sudden death, though progression to third-degree AV block is slow. No single clinical or laboratory variable, including bifascicular block, reliably predicts future bradyarrhythmia risk. Syncope is common in bifascicular block but not linked to increased sudden death; pacing relieves neurologic symptoms but does not reduce sudden death. Electrophysiological study may guide treatment of inducible ventricular arrhythmias. If syncope cause is uncertain or treatments exacerbate AV block, prophylactic pacing is indicated, especially when syncope may be due to transient third-degree AV block. PR and HV intervals have been studied as predictors of third-degree AV block and sudden death, but correlation with block progression and sudden death is unclear.",
+        "recommendation_tables": [
+          {
+            "title": "Class I",
+            "rows": [
+              {
+                "recommendation": "5. Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level after catheter ablation of the AV junction.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "6. Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with postoperative AV block that is not expected to resolve after cardiac surgery.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "7. Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with neuromuscular diseases with AV block, such as myotonic muscular dystrophy, Kearns-Sayre syndrome, Erb dystrophy (limb-girdle muscular dystrophy), and peroneal muscular atrophy, with or without symptoms.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "8. Permanent pacemaker implantation is indicated for second-degree AV block with associated symptomatic bradycardia regardless of type or site of block.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "9. Permanent pacemaker implantation is indicated for asymptomatic persistent third-degree AV block at any anatomic site with average awake ventricular rates of 40 bpm or faster if cardiomegaly or LV dysfunction is present or if the site of block is below the AV node.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "10. Permanent pacemaker implantation is indicated for second- or third-degree AV block during exercise in the absence of myocardial ischemia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Class IIa",
+            "rows": [
+              {
+                "recommendation": "1. Permanent pacemaker implantation is reasonable for persistent third-degree AV block with an escape rate greater than 40 bpm in asymptomatic adult patients without cardiomegaly.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Permanent pacemaker implantation is reasonable for asymptomatic second-degree AV block at intra- or infra-His levels found at electrophysiological study.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. Permanent pacemaker implantation is reasonable for first- or second-degree AV block with symptoms similar to those of pacemaker syndrome or hemodynamic compromise.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "4. Permanent pacemaker implantation is reasonable for asymptomatic type II second-degree AV block with a narrow QRS. When type II second-degree AV block occurs with a wide QRS, including isolated right bundle-branch block, pacing becomes a Class I recommendation. (See Section 2.1.3, “Chronic Bifascicular Block.”)",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "When type II second-degree AV block occurs with a wide QRS, including isolated right bundle-branch block, pacing becomes a Class I recommendation. (See Section 2.1.3, “Chronic Bifascicular Block.”)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Class IIb",
+            "rows": [
+              {
+                "recommendation": "1. Permanent pacemaker implantation may be considered for neuromuscular diseases such as myotonic muscular dystrophy, Erb dystrophy (limb-girdle muscular dystrophy), and peroneal muscular atrophy with any degree of AV block (including first-degree AV block), with or without symptoms, because there may be unpredictable progression of AV conduction disease.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Permanent pacemaker implantation may be considered for AV block in the setting of drug use and/or drug toxicity when the block is expected to recur even after the drug is withdrawn.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Class III",
+            "rows": [
+              {
+                "recommendation": "1. Permanent pacemaker implantation is not indicated for asymptomatic first-degree AV block.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "See Section 2.1.3, “Chronic Bifascicular Block.”",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Permanent pacemaker implantation is not indicated for asymptomatic type I second-degree AV block at the supra-His (AV node) level or that which is not known to be intra- or infra-Hisian.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. Permanent pacemaker implantation is not indicated for AV block that is expected to resolve and is unlikely to recur (e.g., drug toxicity, Lyme disease, or transient increases in vagal tone or during hypoxia in sleep apnea syndrome in the absence of symptoms).",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the Class I recommendations table and ends mid-sentence in the 2.1.3 narrative section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Permanent Pacing in Chronic Bifascicular Block",
+          "CLASS I",
+          "CLASS IIa",
+          "CLASS IIb",
+          "CLASS III",
+          "2.1.4. Pacing for Atrioventricular Block Associated With Acute Myocardial Infarction"
+        ],
+        "narrative_summary": "This page continues discussion of the prognostic significance of HV interval prolongation and the risks and utility of atrial pacing during electrophysiological study in patients with bifascicular and higher‐degree AV block. It then provides detailed recommendations for permanent pacemaker implantation in chronic bifascicular block, stratified by Class I, IIa, IIb, and III, including specific clinical scenarios such as syncope evaluation, incidental electrophysiological findings, and neuromuscular diseases. The right column also includes narrative on indications and prognosis for pacing in AV block associated with acute myocardial infarction (AMI), noting that pacing decisions post‐MI depend on conduction disturbances and myocardial injury rather than symptoms alone.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Permanent Pacing in Chronic Bifascicular Block",
+            "rows": [
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for advanced second-degree AV block or intermittent third-degree AV block.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(63–68,101)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for type II second-degree AV block.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(73,75,79,123)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for alternating bundle-branch block.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "Level of Evidence: C",
+                "supporting_text": "(124)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for syncope not demonstrated to be due to AV block when other likely causes have been excluded, specifically ventricular tachycardia (VT).",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(102–111,113–119,123,125)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for an incidental finding at electrophysiological study of a markedly prolonged HV interval (greater than or equal to 100 milliseconds) in asymptomatic patients.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(109)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for an incidental finding at electrophysiological study of pacing-induced infra-His block that is not physiological.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(118)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation may be considered in the setting of neuromuscular diseases such as myotonic muscular dystrophy, Erb dystrophy (limb-girdle muscular dystrophy), and peroneal muscular atrophy with bifascicular block or any fascicular block, with or without symptoms.",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "Level of Evidence: C",
+                "supporting_text": "(91–97)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for fascicular block without AV block or symptoms.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(103,107,109,116)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for fascicular block with first-degree AV block without symptoms.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "Level of Evidence: B",
+                "supporting_text": "(103,107,109,116)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of narrative discussion above and ends mid-sentence in section 2.1.4 narrative, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Permanent Pacing After the Acute Phase of Myocardial Infarction*",
+          "2.1.5. Hypersensitive Carotid Sinus Syndrome and Neurocardiogenic Syncope"
+        ],
+        "narrative_summary": "Left column text discusses pacing strategies after inferior myocardial infarction complicated by AV block, noting that temporary or permanent pacing is generally avoided unless high-degree AV block persists or is symptomatic, and that patients with LVEF ≤35% may be considered for ICD, CRT-P, or CRT-D when pacing alone is insufficient. Right column text defines the two components of the carotid sinus reflex (cardioinhibitory and vasodepressor), describes hyperactive responses and their hemodynamic criteria, and outlines indications for permanent pacing in hypersensitive carotid sinus syndrome and neurocardiogenic syncope, including epidemiology and clinical scenarios.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Permanent Pacing After the Acute Phase of Myocardial Infarction*",
+            "rows": [
+              {
+                "recommendation": "Permanent ventricular pacing is indicated for persistent second-degree AV block in the His-Purkinje system with alternating bundle-branch block or third-degree AV block within or below the His-Purkinje system after ST-segment elevation MI.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(79,126–129,131)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing is indicated for transient advanced second- or third-degree infranodal AV block and associated bundle-branch block. If the site of block is uncertain, an electrophysiological study may be necessary.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(126,127)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing is indicated for persistent and symptomatic second- or third-degree AV block.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing may be considered for persistent second- or third-degree AV block at the AV node level, even in the absence of symptoms.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "(58)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing is not indicated for transient AV block in the absence of intraventricular conduction defects.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "(126)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing is not indicated for transient AV block in the presence of isolated left anterior fascicular block.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "(128)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing is not indicated for new bundle-branch block or fascicular block in the absence of AV block.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "(66,126)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent ventricular pacing is not indicated for persistent asymptomatic first-degree AV block in the presence of bundle-branch or fascicular block.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "(126)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative sections."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "2.2. Pacing for Specific Conditions",
+          "2.2.1. Cardiac Transplantation"
+        ],
+        "narrative_summary": "The left column discusses the controversial role of permanent pacing in refractory neurocardiogenic syncope with significant bradycardia or asystole, summarizing randomized trials (e.g., VPS, VPS-II), dual-chamber pacing efficacy, and patient selection based on tilt-table results and documented cardiac inhibition. It emphasizes that pacing may benefit those with profound bradycardia or asystole and mixed vasodepressor/cardioinhibitory syncope, while other serious causes of syncope should be excluded. The right column under section 2.2.1 outlines the incidence (8%–23%) and mechanisms of bradyarrhythmias after cardiac transplantation, considerations for temporary measures (theophylline) and indications for permanent pacemaker implantation, noting that about half of patients recover sinus rhythm within 6–12 months.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Permanent Pacing in Hypersensitive Carotid Sinus Syndrome and Neurocardiogenic Syncope",
+            "rows": [
+              {
+                "recommendation": "Permanent pacing is indicated for recurrent syncope caused by spontaneously occurring carotid sinus stimulation and carotid sinus pressure that induces ventricular asystole of more than 3 seconds.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(142,152)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing is reasonable for syncope without clear, provocative events and with a hypersensitive cardioinhibitory response of 3 seconds or longer.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "(142)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing may be considered for significantly symptomatic neurocardiogenic syncope associated with bradycardia documented spontaneously or at the time of tilt-table testing.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "(147,148,150,153)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing is not indicated for a hypersensitive cardioinhibitory response to carotid sinus stimulation without symptoms or with vague symptoms.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing is not indicated for situational vasovagal syncope in which avoidance behavior is effective and preferred.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins mid discussion of syncope causes; section 2.2.1 continues beyond bottom of page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for Pacing After Cardiac Transplantation",
+        "section_headings": [
+          "Recommendations for Pacing After Cardiac Transplantation",
+          "2.2.2. Neuromuscular Diseases",
+          "2.2.3. Sleep Apnea Syndrome",
+          "2.2.4. Cardiac Sarcoidosis",
+          "2.3. Prevention and Termination of Arrhythmias by Pacing"
+        ],
+        "narrative_summary": "Conduction system disease progressing to complete AV block in neuromuscular disorders (eg, myotonic dystrophy, Emery–Dreifuss muscular dystrophy) can warrant permanent pacing even in asymptomatic patients with ECG or HV interval abnormalities. In obstructive sleep apnea, atrial tachyarrhythmias and bradycardia occur but atrial overdrive pacing has not been shown effective; nasal continuous positive airway pressure is preferred. Central sleep apnea and Cheyne–Stokes breathing in heart failure may improve with CRT. Cardiac sarcoidosis often involves the AV node and can cause block or life-threatening VT; pacemaker implantation is recommended even if conduction may transiently improve, and immunosuppression with steroids may prevent progression. For arrhythmia termination, pacemakers can terminate re-entrant SVT and VT with programmed stimulation or overdrive, may prevent pause-dependent VT in long-QT syndrome (often with beta-blockers), and ICDs with overdrive suppression should be considered in high-risk patients.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Pacing After Cardiac Transplantation",
+            "rows": [
+              {
+                "recommendation": "Permanent pacing is indicated for persistent inappropriate or symptomatic bradycardia not expected to resolve and for other Class I indications for permanent pacing.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(Level of Evidence: C)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing may be considered when relative bradycardia is prolonged or recurrent, which limits rehabilitation or discharge after postoperative recovery from cardiac transplantation.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "(Level of Evidence: C)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing may be considered for syncope after cardiac transplantation even when bradyarrhythmia has not been documented.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "(Level of Evidence: C)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 2.3 narrative likely continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Permanent Pacemakers That Automatically Detect and Pace to Terminate Tachycardias",
+          "2.3.1. Pacing to Prevent Atrial Arrhythmias",
+          "2.3.2. Long-QT Syndrome",
+          "Recommendations for Pacing to Prevent Tachycardia",
+          "2.3.3. Atrial Fibrillation (Dual-Site, Dual-Chamber, Alternative Pacing Sites)"
+        ],
+        "narrative_summary": "Describes selection and testing of antitachyarrhythmia devices, the role and limitations of antitachycardia pacing (ATP) for atrial tachyarrhythmias, and pacing strategies in congenital long-QT syndrome, including observational evidence and gaps in long-term outcomes.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Permanent Pacemakers That Automatically Detect and Pace to Terminate Tachycardias",
+            "rows": [
+              {
+                "recommendation": "Permanent pacing is reasonable for symptomatic recurrent SVT that is reproducibly terminated by pacing when catheter ablation and/or drugs fail to control the arrhythmia or produce intolerable side effects.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "(177–179,181,182)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing is not indicated in the presence of an accessory pathway that has the capacity for rapid anterograde conduction.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Recommendations for Pacing to Prevent Tachycardia",
+            "summary": "Class-based recommendations for pacing to prevent tachycardia in various clinical scenarios.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins without the opening of section 2.3 and ends mid-sentence in section 2.3.3"
+        },
+        "extraction_warnings": [
+          "Recommendation table ‘Recommendations for Pacing to Prevent Tachycardia’ has been captured in figures_tables_algorithms for structure; individual rows extracted separately."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "Recommendation for Pacing to Prevent Atrial Fibrillation",
+          "2.4. Pacing for Hemodynamic Indications",
+          "2.4.1. Cardiac Resynchronization Therapy (UPDATED)"
+        ],
+        "narrative_summary": "This narrative introduces the use of pacing for hemodynamic indications, noting that altering activation sequences can influence contractility and central hemodynamics. The CRT section outlines updated recommendations: Class I indication limited to patients with QRS duration ≥150 ms and LBBB (NYHA II–IV), expansion of New York Heart Association class II indications for LBBB with QRS ≥150 ms, and addition of a Class IIb recommendation for select patients (LVEF ≤30%, ischemic HF, sinus rhythm, LBBB, QRS ≥150 ms, NYHA class I). It reviews mechanisms of dyssynchrony, evidence of functional and mortality benefits from CRT trials, and the impact of QRS duration on response.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Pacing to Prevent Atrial Fibrillation",
+            "rows": [
+              {
+                "recommendation": "Permanent pacing is not indicated for the prevention of AF in patients without any other indication for pacemaker implantation.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "(Level of Evidence: B) (215)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a sentence and ends in the middle of the CRT narrative section"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues the discussion of cardiac resynchronization therapy (CRT) indications and outcomes. It highlights differences from the 2008 guidelines, emphasizing that CRT benefit is most compelling in patients with left bundle-branch block (LBBB) and QRS duration ≥120 ms, based on meta-analyses and randomized trials. The text reviews the impact of QRS morphology and ventricular pacing site on CRT efficacy, including lead placement and the role of right ventricular pacing. It summarizes findings from trials such as RAFT, MADIT-CRT, and DAVID, and describes patient subsets (e.g., NYHA class III/IV, atrial fibrillation, advanced kidney disease) in whom CRT use and outcomes have been evaluated. Finally, it notes expansions of Class I and IIb recommendations for CRT based on QRS duration, LVEF, and NYHA class.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins mid-paragraph and continues onto the next page, indicating pagination of continuous narrative."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues a review of randomized trials evaluating CRT-D therapy in patients with ischemic and nonischemic heart failure, reporting outcomes such as reductions in HF hospitalization, mortality, and ventricular remodeling in relation to QRS duration and LBBB status. Key studies described include RAFT, REVERSE, and MIRACLE ICD II, demonstrating benefits in functional capacity and echocardiographic endpoints. The evidence supports recommendations for CRT implantation in specific patient subgroups.",
+        "recommendation_tables": [
+          {
+            "title": "",
+            "rows": [
+              {
+                "recommendation": "CRT implantation in patients with LBBB and QRS duration ≥150 ms and NYHA class II.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT may be considered for patients who have LVEF <30%, ischemic etiology of HF, sinus rhythm, LBBB with a QRS duration ≥150 ms, and NYHA class I symptoms on GDMT.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page starts and ends mid-sentence"
+        },
+        "extraction_warnings": [
+          "Level of evidence for Class I recommendation not visible on page"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Cardiac Resynchronization Therapy",
+          "2.4.2. Obstructive Hypertrophic Cardiomyopathy"
+        ],
+        "narrative_summary": "This page continues discussion of organizational CRT guidelines comparing Heart Failure Society of America and European Society of Cardiology recommendations, noting differences in QRS duration thresholds and LBBB versus non-LBBB patterns for CRT candidacy. It introduces the “Recommendations for Cardiac Resynchronization Therapy” table, summarizing indications and utility across NYHA classes and rhythms. The narrative then transitions into section 2.4.2 on obstructive hypertrophic cardiomyopathy, reviewing small nonrandomized and randomized studies of dual-chamber pacing, effects on LV outflow gradients, symptomatic improvement, and considerations regarding patient age and pacing modalities.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Cardiac Resynchronization Therapy",
+            "rows": [
+              {
+                "recommendation": "CRT is indicated for patients who have LVEF less than or equal to 35%, sinus rhythm, LBBB with a QRS duration greater than or equal to 150 ms, and NYHA class II, III, or ambulatory IV (542–545); symptoms on GDMT.",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "A (for NYHA class III/IV); B (for NYHA class II)",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT can be useful for patients who have LVEF less than or equal to 35%, sinus rhythm, LBBB with a QRS duration 120 to 149 ms, and NYHA class II, III, or ambulatory IV symptoms on GDMT (542–544,546–548).",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT can be useful for patients who have LVEF less than or equal to 35%, sinus rhythm, a non-LBBB pattern with a QRS duration greater than or equal to 150 ms, and NYHA class III/ambulatory class IV symptoms on GDMT (542–544,547).",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT can be useful in patients with atrial fibrillation and LVEF less than or equal to 35% on GDMT if a) the patient requires ventricular pacing or otherwise meets CRT criteria and b) AV nodal ablation or pharmacologic rate control will allow near 100% ventricular pacing with CRT (549–553,575).",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT can be useful for patients on GDMT who have LVEF less than or equal to 35% and are undergoing new or replacement device placement with anticipated requirement for significant (>40%) ventricular pacing (551,554,555,556).",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Class IIb",
+            "rows": [
+              {
+                "recommendation": "CRT may be considered for patients who have LVEF less than or equal to 30%, ischemic etiology of heart failure, sinus rhythm, LBBB with a QRS duration of greater than or equal to 150 ms, and NYHA class I symptoms on GDMT (546,547).",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT may be considered for patients who have LVEF less than or equal to 35%, sinus rhythm, a non-LBBB pattern with QRS duration 120 to 149 ms, and NYHA class III/ambulatory class IV on GDMT (547,557).",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT may be considered for patients who have LVEF less than or equal to 35%, sinus rhythm, a non-LBBB pattern with a QRS duration greater than or equal to 150 ms, and NYHA class II symptoms on GDMT (546,547).",
+                "class_of_recommendation": "Class IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Class III: No Benefit",
+            "rows": [
+              {
+                "recommendation": "CRT is not recommended for patients with NYHA class I or II symptoms and non-LBBB pattern with QRS duration less than 150 ms (546,547,557).",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "CRT is not indicated for patients whose comorbidities and/or frailty limit survival with good functional capacity to less than 1 year (545).",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative paragraphs."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "Recommendations for Pacing in Patients With Hypertrophic Cardiomyopathy",
+          "2.5. Pacing in Children, Adolescents, and Patients With Congenital Heart Disease"
+        ],
+        "narrative_summary": "This section reviews pacemaker implantation indications in children, adolescents, and patients with congenital heart disease, classifying indications (symptomatic sinus bradycardia, bradycardia-tachycardia syndromes, advanced second- or third-degree AV block) and highlighting unique considerations in young patients, including altered physiology after congenital repairs, the correlation of symptoms with relative bradycardia rather than absolute rates, age-dependent significance of heart rate, and consensus-based evidence levels (Level of Evidence: C).",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Pacing in Patients With Hypertrophic Cardiomyopathy",
+            "rows": [
+              {
+                "recommendation": "Permanent pacing is indicated for SND or AV block in patients with HCM as described previously (see Section 2.1.1, “Sinus Node Dysfunction,” and Section 2.1.2, “Acquired Atrioventricular Block in Adults”).",
+                "class_of_recommendation": "Class I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacing may be considered in medically refractory symptomatic patients with HCM and significant resting or provoked LV outflow tract obstruction.",
+                "class_of_recommendation": "Class IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "As for Class I indications, when risk factors for SCD are present, consider a DDD ICD (see Section 3, “Indications for Implantable Cardioverter-Defibrillator Therapy”).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for patients who are asymptomatic or whose symptoms are medically controlled.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is not indicated for symptomatic patients without evidence of LV outflow tract obstruction.",
+                "class_of_recommendation": "Class III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins mid-discussion of pacing in HCM and ends mid-sentence in the narrative on congenital heart disease pacing."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for Permanent Pacing in Children, Adolescents, and Patients With Congenital Heart Disease",
+        "section_headings": [
+          "Recommendations for Permanent Pacing in Children, Adolescents, and Patients With Congenital Heart Disease"
+        ],
+        "narrative_summary": "This section discusses the evolving indications for permanent pacemaker implantation in patients with congenital complete AV block, including symptomatic individuals and infants with low resting heart rates. Criteria for implantation in asymptomatic children and adolescents (average heart rate, pauses, structural heart disease, QT interval, exercise tolerance) are described. Studies demonstrate improved long-term survival and prevention of syncope with pacing. Periodic evaluation of ventricular function is required due to risk of dyssynchrony-induced dysfunction. Postoperative persistent high-grade AV block (>7 days) is a Class I indication. Late-onset block predictors include residual bifascicular conduction and PR prolongation. Other considerations include thrombosis risk with endocardial leads and choice of implantation technique to preserve vascular access.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Permanent Pacing in Children, Adolescents, and Patients With Congenital Heart Disease",
+            "rows": [
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for advanced second- or third-degree AV block associated with symptomatic bradycardia, ventricular dysfunction, or low cardiac output.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for SND with correlation of symptoms during age-inappropriate bradycardia. The definition of bradycardia varies with the patient’s age and expected heart rate.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(53,86,253,257)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for postoperative advanced second- or third-degree AV block that is not expected to resolve or that persists at least 7 days after cardiac surgery.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(74,209)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for congenital third-degree AV block with a wide QRS escape rhythm, complex ventricular ectopy, or ventricular dysfunction.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(271–273)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is indicated for congenital third-degree AV block in the infant with a ventricular rate less than 55 bpm or with congenital heart disease and a ventricular rate less than 70 bpm.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(267,268)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for patients with congenital heart disease and sinus bradycardia for the prevention of recurrent episodes of intra-atrial reentrant tachycardia; SND may be intrinsic or secondary to antiarrhythmic treatment.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "(260,261,264)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for congenital third-degree AV block beyond the first year of life with an average heart rate less than 50 bpm, abrupt pauses in ventricular rate that are 2 or 3 times the basic cycle length, or associated with symptoms due to chronotropic incompetence.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "(208,270)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for sinus bradycardia with complex congenital heart disease with a resting heart rate less than 40 bpm or pauses in ventricular rate longer than 3 seconds.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for patients with congenital heart disease and impaired hemodynamics due to sinus bradycardia or loss of AV synchrony.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "(250)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation is reasonable for unexplained syncope in the patient with prior congenital heart surgery complicated by transient complete heart block with residual fascicular block after a careful evaluation to exclude other causes of syncope.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "(273,276–278)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation may be considered for transient postoperative third-degree AV block that reverts to sinus rhythm with residual bifascicular block.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "(275)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Permanent pacemaker implantation may be considered for congenital third-degree AV block in asymptomatic children or adolescents with an acceptable rate, a narrow QRS complex,",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins mid-paragraph; Class IIb recommendation 2 is cut off and continues on the next page."
+        },
+        "extraction_warnings": [
+          "Level of Evidence for Class IIb recommendation 2 is not visible on this page and has been left empty.",
+          "Recommendation list continues on the next page, further details truncated here."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "CLASS III",
+          "2.6 Selection of Pacemaker Device"
+        ],
+        "narrative_summary": "The narrative discusses factors influencing pacemaker device selection once implantation is decided, including generator type (single- vs dual- vs biventricular), lead characteristics (diameter, polarity, insulation, fixation), sensor and rate-response features, battery capacity, and programmer capabilities (mode, lower rate, pulse width, amplitude, sensitivity, refractory period, AV delay, mode-switching). It notes the increasing complexity of programming, the need for specialized knowledge, and factors beyond scope such as follow-up and cost. References to Table 2 and Figures 1 and 2 for decision pathways are made. The text ends mid-sentence on anticipating progression of a patient’s conduction disease.",
+        "recommendation_tables": [
+          {
+            "title": "",
+            "rows": [
+              {
+                "recommendation": "3. Permanent pacemaker implantation may be considered for asymptomatic sinus bradycardia after biventricular repair of congenital heart disease with a resting heart rate less than 40 bpm or pauses in ventricular rate longer than 3 seconds.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "CLASS III",
+            "rows": [
+              {
+                "recommendation": "1. Permanent pacemaker implantation is not indicated for transient postoperative AV block with return of normal AV conduction in the otherwise asymptomatic patient.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Permanent pacemaker implantation is not indicated for asymptomatic bifascicular block with or without first-degree AV block after surgery for congenital heart disease in the absence of prior transient complete AV block.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. Permanent pacemaker implantation is not indicated for asymptomatic type I second-degree AV block.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "4. Permanent pacemaker implantation is not indicated for asymptomatic sinus bradycardia with the longest relative risk interval less than 3 seconds and a minimum heart rate more than 40 bpm.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "Choice of Pacemaker Generator in Selected Indications for Pacing",
+            "summary": "Appropriateness of four pacemaker generator types (single-chamber atrial, single-chamber ventricular, dual-chamber, single-lead atrial-sensing ventricular) for indications of sinus node dysfunction, atrioventricular block, and neurally mediated syncope/carotid sinus hypersensitivity, with criteria such as maintenance of AV synchrony, rate-response availability, and limitation of leads.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a recommendation block and ends mid-sentence in narrative."
+        },
+        "extraction_warnings": [
+          "Class of recommendation for the first visible recommendation (number 3) is not visible on this page and has been left blank."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "Figure 1. Selection of pacemaker systems for patients with atrioventricular block",
+        "section_headings": [
+          "2.6.1. Major Trials Comparing Atrial or Dual-Chamber Pacing With Ventricular Pacing"
+        ],
+        "narrative_summary": "The text discusses selecting more capable pacemaker devices based on future needs (eg, patients with SND or paroxysmal AF who may develop AV block), consideration of CRT-P/CRT-D or initial ICD in low LVEF MI patients, and balancing upgrade risks. It then reviews randomized trials comparing atrial or dual-chamber pacing versus ventricular pacing, noting trial limitations (narrow indications, crossover rates up to 37.6%, low atrial pacing rates in CTOP, and lack of pacing-percentage data in Table 3) and considerations of differential pacing mode effects.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "algorithm",
+            "title": "Selection of pacemaker systems for patients with atrioventricular block. Decisions are illustrated by diamonds. Shaded boxes indicate type of pacemaker. AV indicates atrioventricular.",
+            "summary": "Flowchart guiding device selection for AV block based on (1) presence of chronic atrial tachyarrhythmia without expected sinus reversion, (2) desire for AV synchrony, atrial pacing, and rate response. Final device options include ventricular pacemaker, rate-responsive ventricular pacemaker, single-lead atrial sensing ventricular pacemaker, dual-chamber pacemaker, or rate-responsive dual-chamber pacemaker.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins mid-discussion of device selection (section 2.6) and ends in the middle of section 2.6.1 before completing the description of trials and presentation of Table 3."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "2.6.2. Quality of Life and Functional Status End Points"
+        ],
+        "narrative_summary": "This section notes that numerous studies demonstrate significant improvement in reported quality of life (QOL) and functional status after pacemaker implantation, while also acknowledging a well-documented placebo effect. It highlights that analyses such as the PASE trial suggest that dual-chamber pacing in sinus node dysfunction patients may yield greater improvements than ventricular pacing for some outcomes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 2",
+            "kind": "flowchart",
+            "title": "Selection of pacemaker systems for patients with sinus node dysfunction",
+            "summary": "Flowchart illustrating the decision process for selecting pacemaker type based on evidence of impaired AV conduction or risk of AV block, desire for AV synchrony, and desire for rate response. Shaded boxes denote pacemaker type: atrial, rate-responsive atrial, ventricular, rate-responsive ventricular, dual-chamber, and rate-responsive dual-chamber.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Randomized Trials Comparing Atrium-Based Pacing With Ventricular Pacing",
+            "summary": "Data from five major trials (Danish Study, PASE, CTOPP, MOST, UK-PACE) comparing atrial-based versus ventricular pacing in sinus node dysfunction (SND) and AV block (AVB). Characteristics include pacing indication, patient numbers, follow-up duration, pacing modes, and outcomes on quality of life/functional status, heart failure, atrial fibrillation, stroke or thromboembolism, mortality, and crossover/dropout rates.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The narrative and section appear to continue after Table 3 into subsequent discussion."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "2.6.3. Heart Failure End Points",
+          "2.6.4. Atrial Fibrillation End Points",
+          "2.6.5. Stroke or Thromboembolism End Points",
+          "2.6.6. Mortality End Points",
+          "2.6.7. Importance of Minimizing Unnecessary Ventricular Pacing"
+        ],
+        "narrative_summary": "This section reviews clinical trial evidence regarding end points for dual-chamber versus ventricular pacing. The Danish study demonstrated improved heart failure status with atrial pacing versus ventricular pacing, but meta-analysis showed no significant difference in new-onset heart failure hospitalization between pacing modes. Studies (MOST, CTOPP) found significantly lower atrial fibrillation incidence with atrial or dual-chamber pacing (hazard ratio 0.80), with benefits emerging by 6 months. Stroke or thromboembolism was reduced in the Danish trial, though meta-analysis did not reach significance. The Danish study also showed reduced overall and cardiovascular mortality with atrial pacing, but pooled data did not confirm mortality benefit. Finally, emerging recognition of deleterious effects of right ventricular pacing has led to recommendations to minimize unnecessary ventricular pacing; more frequent ventricular pacing may negate AV synchrony benefits.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins and ends in the middle of ongoing narrative sections, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "2.6.8. Role of Biventricular Pacemakers",
+          "2.7. Optimizing Pacemaker Technology and Cost"
+        ],
+        "narrative_summary": "The page continues discussion of the adverse effects of right ventricular (RV) pacing and emerging pacing algorithms to reduce ventricular pacing. Section 2.6.8 reviews evidence from randomized trials that biventricular pacing improves functional capacity, quality of life, and biomarkers compared with conventional RV pacing in patients with left ventricular (LV) dysfunction or QRS prolongation, and describes potential indications for upgrading chronic RV pacing to biventricular devices. Section 2.7 outlines how pacemaker system costs increase with device complexity, comparing single‐chamber, dual‐chamber, and biventricular systems, and highlighting additional implantation, hardware, and follow‐up expenses versus potential quality-of-life and mortality benefits.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page continues earlier sections at the top and ends within section 2.7, indicating content flows across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Pacemaker Follow-Up",
+        "section_headings": [
+          "2.8. Pacemaker Follow-Up"
+        ],
+        "narrative_summary": "The page discusses the cost-effectiveness of dual-chamber versus ventricular pacemaker implantation, reporting analyses such as MOST and lifetime cost per quality-adjusted year of life. It reviews that 16–24% of pacemaker implants are generator replacements, battery longevity features (steroid elution, programming adjustments) to extend device life, and the impact of expert programming on longevity. The section then introduces pacemaker follow-up: guidelines from HRS, Canadian Working Group, and CMS for monitoring patients with pacemakers, emphasizing programming review at implantation discharge and subsequent visits to optimize pacing amplitude, pulse width, diagnostics, and battery life without compromising safety.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page continues discussion of pacemaker cost-effectiveness from prior section and cuts off in mid-sentence at the bottom."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "2.8.1 Length of Electrocardiographic Samples for Storage",
+          "2.8.2 Frequency of Transtelephonic Monitoring"
+        ],
+        "narrative_summary": "Continues discussion of transtelephonic monitoring (TTM) for pacemaker assessment. Reviews goals of nonmagnet and magnet‐applied ECG assessment, including verifying intrinsic rhythm, capture, magnet rate comparison, and threshold testing. Describes recommended ECG sample length (6–9 seconds) for storage and the variability of monitoring frequency, noting most centers follow the historical Health Care Financing Administration guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Device Monitoring Times Postimplantation: Health Care Financing Administration 1984 Guidelines for Transtelephonic Monitoring",
+            "summary": "Postimplantation monitoring intervals for single and dual chamber pacemakers under two historical HCF Administration guidelines (Guideline I and II), specifying milestone periods and corresponding monitoring timeframes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with continuation of a sentence and section text, and ends mid-discussion, indicating content flows from the previous page and continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2.8.3 Remote Follow-Up and Monitoring (NEW SECTION)",
+        "section_headings": [
+          "2.8.3 Remote Follow-Up and Monitoring (NEW SECTION)",
+          "3. Indications for Implantable Cardioversion-Defibrillator Therapy"
+        ],
+        "narrative_summary": "This page introduces the new section on remote follow-up and monitoring of cardiovascular implantable electronic devices (CIEDs), describing the evolution from in-person office visits supplemented by dated transtelephonic monitoring to contemporary bidirectional encrypted telemetry systems. It outlines the technical capabilities, data transmission processes, and clinical information available via remote monitoring, references prospective randomized trials demonstrating safety and efficiency compared to in-office visits, and notes favorable long-term survival data for patients monitored remotely. The page also begins the next section on indications for implantable cardioverter-defibrillator (ICD) therapy, summarizing that ICD use has improved survival in secondary prevention trials and is effective for primary prevention based on left ventricular ejection fraction thresholds determined in major multicenter studies.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4a",
+            "kind": "table",
+            "title": "Minimum Frequency of CIED In-Person or Remote Monitoring*",
+            "summary": "Schedules the minimum monitoring frequency and method (in person, remote, or both) for various CIED types, including pacemaker/ICD/CRT implantation, implantable loop recorders, and implantable hemodynamic monitors.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 3 narrative ends mid-word ‘Implan-’, indicating continuation onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.1. Secondary Prevention of Sudden Cardiac Death",
+          "3.1.1. Implantable Cardioverter-Defibrillator Therapy for Secondary Prevention of Cardiac Arrest and Sustained Ventricular Tachycardia"
+        ],
+        "narrative_summary": "This page reviews the evidence supporting ICD use for secondary prevention of sudden cardiac death in survivors of cardiac arrest or sustained VT. It addresses trial inclusion criteria (LVEF ≤35%), consensus recommendations for selecting LVEF measurement techniques, the importance of clinician training and credentialing for ICD implantation, and summarizes randomized trial outcomes showing survival and arrhythmic death risk reductions with ICD therapy compared to antiarrhythmic drugs. It also discusses individualized management decisions regarding myocardial revascularization and the assessment and treatment of electrolyte abnormalities.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence from prior content and the section on ICD therapy likely continues on the next page."
+        },
+        "extraction_warnings": [
+          "Page starts mid-sentence; preceding content missing.",
+          "No structured recommendation tables or Class/Level designations visible on this page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "3.1.2 Specific Disease States and Secondary Prevention of Cardiac Arrest or Sustained Ventricular Tachycardia",
+        "section_headings": [
+          "3.1.2 Specific Disease States and Secondary Prevention of Cardiac Arrest or Sustained Ventricular Tachycardia",
+          "3.1.3 Coronary Artery Disease",
+          "3.1.4 Nonischemic Dilated Cardiomyopathy",
+          "3.1.5 Hypertrophic Cardiomyopathy",
+          "3.1.6 Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy",
+          "3.1.7 Genetic Arrhythmia Syndromes"
+        ],
+        "narrative_summary": "This page reviews evidence supporting implantable cardioverter-defibrillator (ICD) therapy for secondary prevention of sudden cardiac arrest or sustained ventricular tachycardia across multiple disease states. In coronary artery disease, ICDs confer a survival benefit and should follow optimal revascularization when indicated. In nonischemic dilated cardiomyopathy, ICDs are preferred over antiarrhythmic drugs for survivors of ventricular fibrillation or tachycardia. Hypertrophic cardiomyopathy warrants suspicion in young individuals with exertional risk and favors ICD implantation in those resuscitated from arrest. Arrhythmogenic right ventricular dysplasia/cardiomyopathy, characterized by fibrofatty RV infiltration, shows high rates of appropriate ICD interventions. Genetic arrhythmia syndromes, including long- and short-QT, Brugada, idiopathic VF, and catecholaminergic polymorphic VT, predispose to life-threatening arrhythmias and indicate consideration of ICD therapy.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Ends mid-word at 'typ-' indicating continuation onto next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.1.8. Syncope With Inducible Sustained Ventricular Tachycardia",
+          "3.2. Primary Prevention of Sudden Cardiac Death",
+          "3.2.1. Coronary Artery Disease",
+          "3.2.2. Nonischemic Dilated Cardiomyopathy"
+        ],
+        "narrative_summary": "Continues discussion of implantable cardioverter-defibrillator (ICD) therapy in patients with genetic arrhythmia syndromes. Section 3.1.8 addresses patients with syncope of undetermined origin and inducible sustained ventricular tachycardia or fibrillation as candidates for ICD. Section 3.2 introduces primary prevention of sudden cardiac death, reviewing major randomized trials in ischemic heart disease (MADIT I, MUSTT, MADIT II, SCD-HeFT), and subsequent studies (CABG-Patch, DINAMIT), including patient selection by LVEF and outcomes on mortality. The beginning of Section 3.2.2 on nonischemic dilated cardiomyopathy is visible at the bottom of the page.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative paragraphs indicating text continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Table 5. Major Implantable Cardioverter-Defibrillator Trials for Prevention of Sudden Cardiac Death",
+        "section_headings": [],
+        "narrative_summary": "Below the table, the text continues discussion of randomized trials of ICD therapy in patients with ischemic and nonischemic cardiomyopathy, including AMIOVIRT, DEFINITE, SCD-HeFT, and COMPANION. It summarizes patient populations (DCM, LVEF ≤35%, NYHA functional classes), trial design and endpoints, reasons for early stopping, 5-year mortality comparisons between medical therapy and ICD groups, absolute and relative risk reductions, and implications for primary prophylaxis.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 5",
+            "kind": "table",
+            "title": "Major Implantable Cardioverter-Defibrillator Trials for Prevention of Sudden Cardiac Death",
+            "summary": "Columns: Trial; Year; Patients (n); Inclusion Criterion: LVEF % Less Than or Equal to; Other Inclusion Criteria; Hazard Ratio*; 95% Confidence Interval; p. Lists eight trials: MADIT I (1996, n=196, LVEF ≤35%, NSVT and positive EP, HR 0.46, CI 0.26–0.82, p=0.009), MADIT II (2002, n=1,232, LVEF ≤30%, prior MI, HR 0.69, CI 0.51–0.93, p=0.016), CABG-Patch (1997, n=900, LVEF ≤36%, positive SAECG and CABG, HR 1.07, CI 0.81–1.42, p=0.64), DEFINITE (2004, n=485, LVEF ≤35%, NICM/PVCs/NSVT, HR 0.65, CI 0.40–1.06, p=0.08), DINAMIT (2004, n=674, LVEF ≤35%, 6–40 days after MI and impaired HRV, HR 1.08, CI 0.76–1.55, p=0.66), SCD-HeFT (2005, n=1,676, LVEF ≤35%, prior MI or NICM, HR 0.77, CI 0.62–0.96, p=0.007), AVID (1997, n=1,016, LVEF ≤40%, prior cardiac arrest, HR 0.62, CI 0.43–0.82, p<0.02), CASH† (2000, n=191, M: 45±18% at baseline, prior cardiac arrest, HR 0.77, upper 97.5% CI 1.11‡, p=0.081§), CIDS (2000, n=659, LVEF ≤35%, prior cardiac arrest/syncope, HR 0.82, CI 0.60–1.10, NS). Footnotes define abbreviations and statistical notes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "The narrative begins with 'therapy.' indicating continuation from the previous page; discussion likely continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.2.3. Long-QT Syndrome",
+          "3.2.4. Hypertrophic Cardiomyopathy",
+          "3.2.5. Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy"
+        ],
+        "narrative_summary": "The page continues discussion of ICD therapy timing in nonischemic dilated cardiomyopathy, emphasizing that recent diagnosis does not reduce benefit and that timing should be individualized. Section 3.2.3 reviews long-QT syndrome, its arrhythmic risk, the role of beta-blockers and ICD implantation criteria for primary and secondary prevention, and notes evolving genetic risk stratification. Section 3.2.4 discusses hypertrophic cardiomyopathy, its often asymptomatic nature, sudden death risk factors (such as outflow obstruction, family history, septal thickness ≥30 mm), and indications for ICD therapy. Section 3.2.5 introduces arrhythmogenic right ventricular dysplasia/cardiomyopathy, noting favorable outcomes of ICD therapy for secondary prevention of SCD in ARVD/C.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Content continues from prior section (3.2.2) and the ARVD/C discussion likely extends beyond this page."
+        },
+        "extraction_warnings": [
+          "No structured recommendation tables or explicit Class of Recommendation/Level of Evidence designations are present; recommendations are embedded within the narrative."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.2.6 Noncompaction of the Left Ventricle",
+          "3.2.7 Primary Electrical Disease (Idiopathic Ventricular Fibrillation, Short-QT Syndrome, Brugada Syndrome, and Catecholaminergic Polymorphic Ventricular Tachycardia)"
+        ],
+        "narrative_summary": "This page continues discussion of implantable cardioverter-defibrillator (ICD) use in arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C) for primary prevention, highlighting risk factors and the limited data supporting ICD therapy. Section 3.2.6 describes left ventricular noncompaction, its anatomical features, challenges in diagnosis, and imaging modalities. Section 3.2.7 reviews primary electrical diseases including Brugada syndrome, its ECG features, inheritance pattern, genetic basis in the SCN5A gene, clinical events, and the role of ICD implantation for sudden cardiac death prevention.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continues section 3.2.5 from previous page and section 3.2.7 extends beyond this page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada syndrome"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "The genetic basis for the Brugada syndrome involves the cardiac sodium channel gene SCN5A."
+          ],
+          "evidence_text": "SCN5A",
+          "confidence": "high",
+          "validation_note": "Explicitly referred to as the cardiac sodium channel gene SCN5A in the context of Brugada syndrome."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.2.8. Idiopathic Ventricular Tachycardias",
+          "3.2.9. Advanced Heart Failure and Cardiac Transplantation"
+        ],
+        "narrative_summary": "This page continues a discussion on Brugada syndrome, noting the limited utility of electrophysiological testing and the lack of genotype–phenotype correlation for SCN5A mutations. It reviews catecholaminergic polymorphic ventricular tachycardia (CPVT), including its clinical presentation, inheritance patterns, and causative mutations in RyR2 and CASQ2, as well as management strategies such as beta‐blockers and ICD therapy. The text also addresses ventricular fibrillation in short‐QT syndrome and idiopathic VF, then introduces sections on idiopathic ventricular tachycardias and on advanced heart failure with considerations for ICD/CRT‐D implantation in transplant candidates.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins and ends mid‐discussion; sections continue across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada syndrome"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "Specific mutations in the SCN5A gene do not identify a subset of patients at higher risk of cardiac events"
+          ],
+          "evidence_text": "Specific mutations in the SCN5A gene",
+          "confidence": "high",
+          "validation_note": "The phrase 'SCN5A gene' explicitly identifies a human gene."
+        },
+        {
+          "Gene": "RYR2",
+          "Associated Conditions": [
+            "Catecholaminergic polymorphic VT"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "Approximately one‐half of the autosomal dominant cases are caused by mutations in the gene encoding the cardiac ryanodine receptor (RyR2)"
+          ],
+          "evidence_text": "gene encoding the cardiac ryanodine receptor (RyR2)",
+          "confidence": "high",
+          "validation_note": "RyR2 is explicitly described as a gene encoding the ryanodine receptor."
+        },
+        {
+          "Gene": "CASQ2",
+          "Associated Conditions": [
+            "Catecholaminergic polymorphic VT"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "Mutations in the gene that encodes calsequestrin (CASQ2), a calcium buffering protein in the sarcoplasmic reticulum, have been associated with the recessive form of catecholaminergic polymorphic VT"
+          ],
+          "evidence_text": "gene that encodes calsequestrin (CASQ2)",
+          "confidence": "high",
+          "validation_note": "CASQ2 is explicitly indicated as a gene encoding calsequestrin."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Implantable Cardioverter Defibrillators",
+          "CLASS I"
+        ],
+        "narrative_summary": "This section continues discussion of Class IV heart failure patient management, noting limited life expectancy despite optimal therapy, the role of inotropic infusions and resynchronization, and delineating secondary versus primary prevention of sudden cardiac death. The committee acknowledges variability in LVEF measurement techniques and recommends that clinicians use the method most appropriate for their institution.",
+        "recommendation_tables": [
+          {
+            "title": "Class I",
+            "rows": [
+              {
+                "recommendation": "ICD therapy is indicated in patients who are survivors of cardiac arrest due to VF or hemodynamically unstable sustained VT after evaluation to define the cause of the event and to exclude any completely reversible causes.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "(16,319–324)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is indicated in patients with structural heart disease and spontaneous sustained VT, whether hemodynamically stable or unstable.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(16,319–324)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is indicated in patients with syncope of undetermined origin with clinically relevant, hemodynamically significant sustained VT or VF induced at electrophysiological study.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(16,322)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is indicated in patients with LVEF less than or equal to 35% due to prior MI who are at least 40 days post-MI and are in NYHA functional Class II or III.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "(16,333)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is indicated in patients with nonischemic DCM who have an LVEF less than or equal to 35% and who are in NYHA functional Class II or III.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(16,333,369,379)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is indicated in patients with LV dysfunction due to prior MI who are at least 40 days post-MI, have an LVEF less",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins mid-paragraph and last recommendation row (#6) is cut off and continues on next page."
+        },
+        "extraction_warnings": [
+          "Level of Evidence not visible for recommendation 6; continuation to next page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "CLASS IIa",
+          "CLASS IIb",
+          "CLASS III",
+          "3.3. Implantable Cardioverter-Defibrillators in Children, Adolescents, and Patients With Congenital Heart Disease"
+        ],
+        "narrative_summary": "This section describes the indications for ICD implantation in pediatric and congenital heart disease patients, noting that recommendations in young patients are derived from adult trials, emphasizing identification of high‐risk individuals for sudden cardiac death, recommending ICD therapy after resuscitation or in cases of unexplained syncope with inducible VT once reversible causes are excluded, and suggesting catheter ablation as an alternative in select cases.",
+        "recommendation_tables": [
+          {
+            "title": "CLASS I",
+            "rows": [
+              {
+                "recommendation": "ICD therapy is indicated in patients with nonsustained VT due to prior MI, LVEF less than or equal to 40%, and inducible VF or sustained VT at electrophysiological study.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "B",
+                "supporting_text": "(16,327,329)",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "CLASS IIa",
+            "rows": [
+              {
+                "recommendation": "ICD implantation is reasonable for patients with unexplained syncope, significant LV dysfunction, and nonischemic DCM.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with sustained VT and normal or near-normal ventricular function.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with HCM who have 1 or more major† risk factors for SCD.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for the prevention of SCD in patients with ARVD/C who have 1 or more risk factors for SCD.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable to reduce SCD in patients with long-QT syndrome who are experiencing syncope and/or VT while receiving beta blockers.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "(349–354)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for nonhospitalized patients awaiting transplantation.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with Brugada syndrome who have had syncope.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with Brugada syndrome who have documented VT that has not resulted in cardiac arrest.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with catecholaminergic polymorphic VT who have syncope and/or documented sustained VT while receiving beta blockers.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with cardiac sarcoidosis, giant cell myocarditis, or Chagas disease.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "CLASS IIb",
+            "rows": [
+              {
+                "recommendation": "ICD therapy may be considered in patients with nonischemic heart disease who have an LVEF of less than or equal to 35% and who are in NYHA functional Class I.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy may be considered for patients with long-QT syndrome and risk factors for SCD.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "(16,349–354)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy may be considered in patients with syncope and advanced structural heart disease in whom thorough invasive and noninvasive investigations have failed to define a cause.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy may be considered in patients with a familial cardiomyopathy associated with sudden death.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy may be considered in patients with LV noncompaction.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "CLASS III",
+            "rows": [
+              {
+                "recommendation": "ICD therapy is not indicated for patients who do not have a reasonable expectation of survival with an acceptable functional status for at least 1 year, even if they meet ICD implantation criteria specified in the Class I, IIa, and IIb recommendations above.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is not indicated for patients with incessant VT or VF.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is not indicated in patients with significant psychiatric illnesses that may be aggravated by device implantation or that may preclude systematic follow-up.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is not indicated for NYHA Class IV patients with drug-refractory congestive heart failure who are not candidates for cardiac transplantation or CRT-D.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is not indicated for syncope of undetermined cause in a patient without inducible ventricular tachyarrhythmias and without structural heart disease.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is not indicated when VF or VT is amenable to surgical or catheter ablation (e.g., atrial arrhythmias associated with the Wolff-Parkinson-White syndrome, RV or LV outflow tract VT, idiopathic VT, or fascicular VT in the absence of structural heart disease).",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD therapy is not indicated for patients with ventricular tachyarrhythmias due to a completely reversible disorder in the absence of structural heart disease (e.g., electrolyte imbalance, drugs, or trauma).",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "(16)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page starts with continuation of Class I recommendations and ends in the middle of the narrative section."
+        },
+        "extraction_warnings": [
+          "Class I recommendation row continued from previous page; Class of recommendation not visible."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Implantable Cardioverter-Defibrillators in Pediatric Patients and Patients With Congenital Heart Disease",
+          "3.3.1. Hypertrophic Cardiomyopathy",
+          "3.4. Limitations and Other Considerations",
+          "3.4.1. Impact on Quality of Life (Inappropriate Shocks)"
+        ],
+        "narrative_summary": "The page begins with narrative on limited pediatric SCD data, extrapolation from adult studies, and risk factors for sudden death in young patients with congenital heart disease, including ventricular dysfunction and arrhythmias. It then presents Class I–III recommendations for ICD implantation in pediatric and congenital heart disease populations. Below the recommendations, Section 3.3.1 discusses ICD use in pediatric hypertrophic cardiomyopathy, noting similar adult and pediatric indications with consideration of device risks and potential long-term benefit. Section 3.4.1 addresses the impact of inappropriate shocks on quality of life, including psychological consequences and mixed trial results on QOL outcomes.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Implantable Cardioverter-Defibrillators in Pediatric Patients and Patients With Congenital Heart Disease",
+            "rows": [
+              {
+                "recommendation": "ICD implantation is indicated in the survivor of cardiac arrest after evaluation to define the cause of the event and to exclude any reversible causes.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "(440,443–445)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is indicated for patients with symptomatic sustained VT in association with congenital heart disease who have undergone hemodynamic and electrophysiological evaluation. Catheter ablation or surgical repair may offer possible alternatives in carefully selected patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "(447)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable for patients with congenital heart disease with recurrent syncope of undetermined origin in the presence of either ventricular dysfunction or inducible ventricular arrhythmias at electrophysiological study.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "(18,446)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation may be considered for patients with recurrent syncope associated with complex congenital heart disease and advanced systemic ventricular dysfunction when thorough invasive and noninvasive investigations have failed to define a cause.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "(451,454)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "All Class III recommendations found in Section 3, “Indications for Implantable Cardioverter-Defibrillator Therapy,” apply to pediatric patients and patients with congenital heart disease, and ICD implantation is not indicated in these patient populations.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins mid-section and ends mid-sentence; recommendation table spans both columns but completes on this page; narrative sections continue beyond page end."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "3.4.2. Surgical Needs"
+        ],
+        "narrative_summary": "This page continues a discussion of inappropriate implantable cardioverter‐defibrillator (ICD) therapies, detailing the frequency and causes of inappropriate shocks in primary and secondary prevention trials, the role of misclassification of supraventricular tachycardia (SVT) and device programming strategies (including dual-chamber versus single-chamber detection programming as studied in the Detect Supraventricular Tachycardia Study) to reduce inappropriate therapies. It then introduces section 3.4.2 “Surgical Needs,” describing indications for surgically placed epicardial pacing leads when transvenous access is not feasible, reported success rates (81%–99%) and causes of percutaneous coronary venous lead failure, advantages of surgical left ventricular (LV) lead placement (access to lateral walls and choice of pacing site), and various surgical approaches (left thoracotomy, thoracoscopy, robotic port-based) with their associated morbidity and patient selection considerations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends mid-discussion of ICD therapy management and surgical lead placement"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.4.3. Patient Longevity and Comorbidities"
+        ],
+        "narrative_summary": "The left column continues discussion of epicardial pacing leads, including indications for left ventricular epicardial lead placement during concomitant surgery, pediatric indications for epicardial lead implantation in congenital heart disease, the use of steroid-eluting leads, and surgical considerations in tricuspid valve pathology. Following the section break, the text addresses decision-making for device-based therapies (ICD and CRT) in elderly patients, highlighting the importance of clinical trial evidence, life expectancy, comorbidities, and the impact of age on survival and quality-of-life benefits.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins and ends in mid-paragraph, indicating continuation from prior and onto following pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "3.4.4. Terminal Care"
+        ],
+        "narrative_summary": "Discussion of the impact of age and comorbidities on ICD and CRT therapy outcomes, ethical and legal considerations for deactivating implantable devices in terminally ill patients, and recommended steps for device deactivation including informed consent, DNR orders, psychiatric and ethics consultations, clinician conscientious objections, and remote programming protocols.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Section 3.4.4 Terminal Care and narrative continue across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "3.5. Cost-Effectiveness of Implantable Cardioverter-Defibrillator Therapy",
+          "3.6. Selection of Implantable Cardioverter-Defibrillator Generators"
+        ],
+        "narrative_summary": "Section 3.5 reviews long-term cost-effectiveness of implantable cardioverter-defibrillators (ICDs). Studies report cumulative medical costs increase substantially with ICD therapy, with cost-effectiveness ratios ranging from approximately $17,000 to $139,000 per life-year gained, benchmarked against renal dialysis ($50,000 per life-year). Randomized trials such as MADIT, CIDS, AVID, and SCD-HeFT report varying mortality reductions and cost per life-year added. Patient selection (e.g., lower LVEF, high arrhythmic risk) and device cost/reliability influence cost-effectiveness. CRT devices show potential cost benefits through reduced hospitalizations and improved quality of life, but data are limited. Section 3.6 outlines generator selection: single-chamber ICDs provide ventricular pacing and defibrillation; dual-chamber systems add AV pacing; triple-chamber (CRT-D) provide resynchronization. Hardware choice affects outcomes related to pacing, heart failure, arrhythmias, and quality of life, with some patients experiencing psychological distress post-implant.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a guideline section and ends mid-sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "3.7. Implantable Cardioverter-Defibrillator Follow-Up",
+          "3.7.1. Elements of Implantable Cardioverter-Defibrillator Follow-Up"
+        ],
+        "narrative_summary": "This page discusses the rationale and components of ICD follow-up. It emphasizes the need for periodic, meticulous monitoring of device function, clinical status, and system performance; goals include optimization of device performance and patient outcomes, minimization of complications, and timely intervention. It describes the organization of ICD follow-up programs analogous to pacemaker clinics, the roles of physicians and allied professionals, necessary facility support for implantation and outpatient follow-up, and the importance of tracking and maintaining device records. The subheading 3.7.1 introduces individualized follow-up elements.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-word 'ciated' (continuation of previous section) and ends mid-sentence in section 3.7.1."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [
+          "3.7.2. Focus on Heart Failure After First Appropriate Implantable Cardioverter-Defibrillator Therapy"
+        ],
+        "narrative_summary": "This page continues discussion of implantable cardioverter-defibrillator (ICD) follow-up and management, emphasizing remote monitoring techniques (including Internet-based and radiofrequency transmissions), recommended interrogation intervals, device programming review, and the adjunctive role of remote monitoring. It addresses technical elements to review (battery status, lead parameters, defibrillation and pacing therapies, event logs), patient education (device identification, psychological support), driving restrictions post-implant, and considerations for antibiotic prophylaxis based on clinical judgment. The narrative also reviews actions clinicians should take in response to device advisories or lead/generator malfunctions, weighing risks of replacement versus malfunction, and presents failure rates and mortality associated with device replacement. The page then begins a new section focusing on heart failure management after the first appropriate ICD therapy.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a paragraph/sentence and ends mid-section (begins Section 3.7.2 but does not complete it)."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Areas in Need of Further Research",
+          "2012 Presidents and Staff",
+          "References"
+        ],
+        "narrative_summary": "This page continues discussion of device therapy management in heart failure, emphasizing gradual uptitration of beta-adrenergic blockers and the need for coordinated follow-up by specialists. It then lists 16 suggested areas for further research regarding device therapy access, patient stratification, device indicators, cost-effectiveness, remote monitoring, lead reliability, elderly representation in trials, procedural risk, biventricular and LV stimulation outcomes, MRI safety, long-term outcomes, and management guidelines for terminal illness. The right column includes administrative listings of the 2012 Presidents and staff of the American College of Cardiology Foundation and American Heart Association, followed by the beginning of the References section.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-paragraph and ends mid-reference list."
+        },
+        "extraction_warnings": [
+          "List under 'Areas in Need of Further Research' is narrative suggestions without Class of Recommendation or Level of Evidence; treated as narrative list."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Reference list entries 4 through 45 from the guideline’s bibliography.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "This page shows reference entries numbered 4–45, indicating the reference list began on a prior page and continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "Epstein et al. Device Guideline: 2012 Update Incorporated",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [],
+        "narrative_summary": "References numbered 96 through 145 from the guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list spans multiple pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "References",
+        "section_headings": [],
+        "narrative_summary": "This page lists references numbered 146 through 195 pertaining to device pacing and syncope studies.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "References",
+        "section_headings": [],
+        "narrative_summary": "This page lists bibliographic references numbered 416 through 463, detailing studies on cardiomyopathies, channelopathies, device therapy, and related genetic findings.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continuation of the reference list across pages"
+        },
+        "extraction_warnings": [
+          "Page contains only reference citations; no clinical recommendations present."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "RYR2",
+          "Associated Conditions": [
+            "catecholaminergic polymorphic ventricular tachycardia",
+            "familial polymorphic ventricular tachycardia"
+          ],
+          "Occurrences": 2,
+          "context": [
+            "catecholaminergic polymorphic ventricular tachycardia",
+            "familial polymorphic ventricular tachycardia"
+          ],
+          "evidence_text": "429. Lahnt H, Pras E, Eldar M. RYR2 and CASQ2 mutations in patients suffering from catecholaminergic polymorphic ventricular tachycardia. Circulation. 2003;107:e29.\n430. Laitinen PJ, Brown KM, Piippo K, et al. Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia. Circulation. 2001;103:485–90.",
+          "confidence": "high",
+          "validation_note": "Explicit reference to RyR2 gene mutations in the context of ventricular tachycardia."
+        },
+        {
+          "Gene": "CASQ2",
+          "Associated Conditions": [
+            "catecholaminergic polymorphic ventricular tachycardia"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "catecholaminergic polymorphic ventricular tachycardia"
+          ],
+          "evidence_text": "429. Lahnt H, Pras E, Eldar M. RYR2 and CASQ2 mutations in patients suffering from catecholaminergic polymorphic ventricular tachycardia. Circulation. 2003;107:e29.",
+          "confidence": "high",
+          "validation_note": "Explicit mention of CASQ2 mutations in title indicating a gene involvement."
+        },
+        {
+          "Gene": "KCNJ2",
+          "Associated Conditions": [
+            "short QT syndrome"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "short QT syndrome"
+          ],
+          "evidence_text": "432. Priori SG, Pandit SV, Rivolta I, et al. A novel form of short QT syndrome (SQTS3) is caused by a mutation in the KCNJ2 gene. Circ Res. 2005;96:800–7.",
+          "confidence": "high",
+          "validation_note": "Explicit mention of a mutation in the KCNJ2 gene causing short QT syndrome."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continuation of reference list across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "2012 Device-Based Therapy Focused Update References (Corresponds to Sections 2.4.1 and 2.8.3)",
+        "section_headings": [
+          "2012 Device-Based Therapy Focused Update References (Corresponds to Sections 2.4.1 and 2.8.3)"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues from previous page (starts at #509) and continues onto next page (reference #560 ends mid-entry)."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "References list continues from previous page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. 2008 Author Relationships With Industry and Other Entities (Relevant)—ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 1 Table",
+            "kind": "table",
+            "title": "2008 Author Relationships With Industry and Other Entities (Relevant)—ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+            "summary": "Columns: Committee Member; Consulting Fees/Honoraria; Speakers’ Bureau; Ownership/Partnership/Principal; Research Grants; Institutional or Other Financial Benefit. Lists each committee member with bullet-listed industry relationships under each column.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table continues on next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. Continued",
+        "section_headings": [
+          "Appendix 1. Continued"
+        ],
+        "narrative_summary": "This continued appendix page provides disclosures of committee members’ relationships with industry (consulting fees/honoraria, speakers’ bureau, ownership/partnership/principal, research grants, and other financial benefits) as reported at the initial writing committee meeting and updated during the document development process through January 16, 2008. Footnotes denote recusal from voting, significant‐level relationships, and spousal relationships.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 1 Disclosure Table Continued",
+            "kind": "table",
+            "title": "Committee Member Industry Relationships",
+            "summary": "The table lists four committee members (Mark H. Schoenfeld; Michael J. Silka; Lynne Warner Stevenson; Michael O. Sweeney) and their disclosed relationships: consulting fees/honoraria (e.g., Biosense, Webster, Boston Scientific, CardioMEMS, Medtronic, Scios), speakers’ bureau (Boston Scientific, Medtronic), ownership/partnership/principal, research grants (Biosense, Webster, Medtronic), and institutional or other financial benefits. Footnotes: *Recused from voting on guideline recommendations; †significant‐level relationship (> $10,000); ‡spousal relationship.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Appendix table is labeled \"Continued,\" indicating it began on a previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 2. 2008 Reviewer Relationships With Industry and Other Entities (Relevant)—ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "section_headings": [],
+        "narrative_summary": "This appendix page presents a table of 2008 reviewer relationships with industry and other entities relevant to the ACC/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm abnormalities. For each peer reviewer, it lists representation, consulting fees/honoraria, speakers’ bureau involvement, ownership/partnership/principal interests, research grants, and institutional or other financial benefits.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix Table",
+            "kind": "table",
+            "title": "2008 Reviewer Relationships With Industry and Other Entities",
+            "summary": "Table listing peer reviewers and their financial relationships: representation, consulting fees/honoraria, speakers’ bureau participation, ownership/partnership/principal roles, research grants, and other institutional or financial benefits.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The disclosure table is continued on the next page (\"Continued\" indicated at bottom)."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 2. Continued",
+        "section_headings": [],
+        "narrative_summary": "Footnote text: This table represents the relationships of reviewers with industry that were reported at peer review. It explains definitions of significant interest and modest relationships.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 2. Continued",
+            "kind": "table",
+            "title": "Peer Reviewer Relationships with Industry",
+            "summary": "Lists peer reviewers and their disclosures by category: Representation; Consulting Fees/Honoraria; Speakers’ Bureau; Ownership/Partnership/Principal; Research Grant; Institutional or Other Financial Benefit.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Table continued from previous page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 3. Abbreviations List",
+        "section_headings": [
+          "Appendix 3. Abbreviations List",
+          "Appendix 3. Continued"
+        ],
+        "narrative_summary": "This appendix page provides an alphabetical list of abbreviations and their definitions used in the Device Guideline: 2012 Update. The left column lists acronyms from ACC through GDMT, and the right column continues from HR through VT.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The abbreviation list is marked as “(Continued)” at bottom, indicating it continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 4. 2012 Author Relationships With Industry and Other Entities (Relevant)—2012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "section_headings": [],
+        "narrative_summary": "This appendix page presents a disclosure table listing committee members, their institutional affiliations, and financial relationships with industry across categories such as Consultant, Speaker’s Bureau, Ownership/Partnership/Principal, Personal Research, Institutional/Organizational/Other Financial Benefit, Expert Witness, and Voting Recusals by Section. The table continues onto the next page.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 4 Table",
+            "kind": "table",
+            "title": "2012 Author Relationships With Industry and Other Entities (Relevant)",
+            "summary": "Disclosure table listing committee members alongside their employment and financial relationships, including Consultant, Speaker’s Bureau, Ownership/Partnership/Principal, Personal Research, Institutional/Organizational/Other Financial Benefit, Expert Witness, and Voting Recusals by Section.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Main disclosure table continues onto next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 4. Continued",
+        "section_headings": [
+          "Appendix 4. Continued"
+        ],
+        "narrative_summary": "Below the table, the text defines the relationships of committee members with industry and other entities, describes criteria for “relevant” interests per ACCF/AHA, and provides abbreviations used in the disclosure table (e.g., DSMB, EP, HRS, MADIT-RIT, PI, VA).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Disclosure Table",
+            "kind": "table",
+            "title": "Relationships of Committee Members with Industry and Other Entities",
+            "summary": "Columns: Committee Member; Employment; Consultant; Speaker’s Bureau; Ownership/Partnership/Principal; Personal Research; Institutional, Organizational, or Other Financial Benefit; Expert Witness; Voting Recusals by Section. Rows for Michael J. Silka; Lynne Warner Stevenson; William G. Stevenson; Paul D. Varosy.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "This appendix table is labeled as “Continued,” indicating it began on a previous page and is completed here."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 5. 2012 Reviewer Relationships With Industry and Other Entities (Relevant)—2012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 5 Table",
+            "kind": "table",
+            "title": "2012 Reviewer Relationships With Industry and Other Entities",
+            "summary": "This table lists each peer reviewer along with their representation, employment, consulting relationships, speaker’s bureau affiliations, ownership/partnership interests, personal research support, institutional or organizational financial benefits, and expert witness engagements.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table continues on next page, indicated by \"(Continued)\" at bottom of page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 5. Continued",
+        "section_headings": [
+          "Appendix 5. Continued"
+        ],
+        "narrative_summary": "This page continues the disclosures table (Appendix 5) listing content reviewers’ names, roles, institutional affiliations, and their relationships with industry and other entities. Footnotes below the table define the significance criteria for disclosed relationships and provide abbreviation definitions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 5 Table",
+            "kind": "table",
+            "title": "Content Reviewer Disclosures",
+            "summary": "Tabulated relationships of guideline content reviewers with industry and other entities, indicating None or listing companies/studies per reviewer.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Table is labeled \"Continued,\" indicating it began on a previous page; the table finishes on this page with complete footnotes."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "Appendix 6. 2012 Indications for CRT Therapy—Algorithm",
+        "section_headings": [
+          "Appendix 6. 2012 Indications for CRT Therapy—Algorithm"
+        ],
+        "narrative_summary": "The algorithm outlines indications for cardiac resynchronization therapy (CRT) in patients with cardiomyopathy on guideline‐directed medical therapy (GDMT), integrating evaluation of left ventricular ejection fraction (LVEF ≤35%), general health status, NYHA class (I, II, III/ambulatory IV), and special CRT indications (e.g., anticipated need for high‐percentage ventricular pacing or atrial fibrillation requiring near‐100% pacing). A legend explains color coding for ACCF/AHA Class of Recommendation, followed by narrative text summarizing trial evidence, symptomatic benefit, and clinical considerations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 6",
+            "kind": "algorithm",
+            "title": "2012 Indications for CRT Therapy—Algorithm",
+            "summary": "Flowchart detailing: patient with cardiomyopathy on GDMT ≥3 months or post‐MI/device implantation → LVEF ≤35% → evaluate general health → acceptable noncardiac health → evaluate NYHA status → branch into NYHA I, II, III/ambulatory IV with specific LVEF, QRS duration, conduction pattern, rhythm criteria, and special CRT indications.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": "Standalone appendix figure with legend and explanatory text entirely on this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "The genetic basis for the Brugada syndrome involves the cardiac sodium channel gene SCN5A.",
+        "Specific mutations in the SCN5A gene do not identify a subset of patients at higher risk of cardiac events"
+      ]
+    },
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Catecholaminergic polymorphic VT",
+        "catecholaminergic polymorphic ventricular tachycardia",
+        "familial polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "Approximately one‐half of the autosomal dominant cases are caused by mutations in the gene encoding the cardiac ryanodine receptor (RyR2)",
+        "catecholaminergic polymorphic ventricular tachycardia",
+        "familial polymorphic ventricular tachycardia"
+      ]
+    },
+    {
+      "Gene": "CASQ2",
+      "Associated Conditions": [
+        "Catecholaminergic polymorphic VT",
+        "catecholaminergic polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Mutations in the gene that encodes calsequestrin (CASQ2), a calcium buffering protein in the sarcoplasmic reticulum, have been associated with the recessive form of catecholaminergic polymorphic VT",
+        "catecholaminergic polymorphic ventricular tachycardia"
+      ]
+    },
+    {
+      "Gene": "KCNJ2",
+      "Associated Conditions": [
+        "short QT syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "short QT syndrome"
+      ]
+    }
+  ]
+}

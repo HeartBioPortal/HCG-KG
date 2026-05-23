@@ -1,0 +1,2083 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2025 ESC Clinical Consensus Statement on mental health and cardiovascular disease: developed under the auspices of the ESC Clinical Practice Guidelines Committee",
+        "section_headings": [
+          "Developed by the task force on mental health and cardiovascular disease of the European Society of Cardiology (ESC)",
+          "Endorsed by the European Federation of Psychologists’ Associations AISBL (EFPA), the European Psychiatric Association (EPA), and the International Society of Behavioral Medicine (ISBM)",
+          "Authors/Task Force Members",
+          "Author/Task Force Member affiliations and acknowledgements",
+          "ESC subspecialty communities and working groups"
+        ],
+        "narrative_summary": "Title page of the 2025 ESC Clinical Consensus Statement on mental health and cardiovascular disease. Lists development committee, endorsements, full task force membership with affiliations, corresponding authors and equal contribution notes, and participating ESC subspecialty associations and working groups.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "ESC Guidelines",
+        "section_headings": [
+          "Document Reviewers",
+          "Disclaimer",
+          "Permissions",
+          "Keywords",
+          "Table of contents"
+        ],
+        "narrative_summary": "This page lists the document reviewers and their affiliations, a note on declarations of interest, the ESC disclaimer regarding the use of the guidance, permissions for reproduction, a set of keywords, and the beginning of the table of contents for the Clinical Consensus Statement.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "",
+        "section_headings": [
+          "3.4. The Psycho-Cardio team",
+          "3.5. Section summary points and management consensus statements from Section 3",
+          "4. Impact of mental health on the risk of developing cardiovascular disease",
+          "4.1. Positive mental health states as predictors of better cardiovascular health",
+          "4.2. Psychosocial stress",
+          "4.3. Work stress and unemployment",
+          "4.4. Socioeconomic and subjective social status",
+          "4.5. Perceived discrimination",
+          "4.6. Mental stress through impaired social relationships",
+          "4.6.1. Adverse childhood experiences",
+          "4.6.2. Partnership violence",
+          "4.6.3. Loneliness and social isolation",
+          "4.7. Mental health conditions and personality traits as risk factors for cardiovascular disease",
+          "4.7.1. Depression",
+          "4.7.2. Anxiety",
+          "4.7.3. Post-traumatic stress disorder",
+          "4.8. Section summary points and management consensus statements from Section 4",
+          "5. Mental health and mental health conditions in people with cardiovascular disease",
+          "5.1. Impact of cardiovascular disease on mental health",
+          "5.2. Specific mental health conditions in people with cardiovascular disease: prevalence and prognostic impact",
+          "5.2.1. Depressive symptoms and depression",
+          "5.2.1.1. Prevalence of depressive symptoms and depression in people with cardiovascular disease",
+          "5.2.1.2. Impact of depressive symptoms and depression on cardiovascular disease prognosis",
+          "5.2.1.3. Impact of depressive symptoms/depression on self-management and adherence",
+          "5.2.2. Anxiety",
+          "5.2.2.1. Prevalence of anxiety in people with cardiovascular disease",
+          "5.2.2.2. Impact of anxiety on cardiovascular disease prognosis",
+          "5.2.2.3. Impact of anxiety on self-management and adherence",
+          "5.2.3. Cardiac disease-induced post-traumatic stress disorder/symptoms",
+          "5.2.3.1. Prevalence of post-traumatic stress disorder in cardiovascular disease",
+          "5.2.3.2. Impact of post-traumatic stress disorder on cardiovascular disease prognosis",
+          "5.2.3.3. Impact of post-traumatic stress disorder on self-management and adherence to medical recommendations",
+          "5.2.4. Loneliness and living conditions",
+          "5.2.5. Chronic stress",
+          "5.3. Addressing the mental health needs of informal caregivers for people with cardiovascular disease",
+          "5.4. Section summary points and management consensus statements from Section 5",
+          "6. Identification, prevention, and management of mental health issues in people with cardiovascular disease",
+          "6.1. Awareness of needs in people with cardiovascular disease",
+          "6.2. Identification and screening",
+          "6.2.1. Assessment of depression and anxiety",
+          "6.2.2. Suggested approach to screening people with cardiovascular disease for psychological distress, depression, and anxiety",
+          "6.2.3. Challenges in specific cardiovascular conditions",
+          "6.2.4. Assessment of subjective well-being and quality of life",
+          "6.3. Management of mental health conditions in people with cardiovascular disease",
+          "6.3.1. Communication, education, and support for people with mental health conditions and cardiovascular disease",
+          "6.3.2. Psychological interventions",
+          "6.3.3. Psycho-education",
+          "6.3.4. Social prescribing",
+          "6.3.5. Other psychological interventions",
+          "6.3.6. Interventions for people with post-traumatic stress disorder",
+          "6.3.7. Lifestyle interventions",
+          "6.3.8. Physical activity and exercise in people with cardiovascular disease and mental health conditions",
+          "6.3.9. Diet and nutrition approaches in cardiovascular disease and mental health conditions",
+          "6.3.10. Smoking cessation",
+          "6.3.11. Stress management techniques",
+          "6.3.12. Sleep hygiene",
+          "6.4. Tools and resources to support lifestyle change",
+          "6.4.1. Digital health tools",
+          "6.4.2. Motivational interviewing",
+          "6.4.3. Cardiac rehabilitation",
+          "6.5. Medical interventions",
+          "6.5.1. Efficacy and safety of pharmacological treatment for mental health conditions in people with cardiovascular disease",
+          "6.5.2. Use of specific medications in people with depression, anxiety, or post-traumatic stress disorders and cardiovascular disease",
+          "6.5.3. Use of antidepressants",
+          "6.5.4. Use of anxiolytics, sedatives, and hypnotics",
+          "6.5.5. Pharmacological treatment for mental health conditions in specific cardiovascular diseases",
+          "6.5.5.1. Ischaemic heart disease",
+          "6.5.5.2. Ventricular arrhythmias",
+          "6.5.5.3. Heart failure",
+          "6.5.5.4. Procedures (coronary artery bypass grafting, percutaneous coronary intervention)",
+          "6.6. Organization of care",
+          "6.7. Section summary points and management consensus statements from Section 6",
+          "7. Severe mental illness and cardiovascular disease",
+          "7.1. Cardiovascular risk in people with severe mental illness",
+          "7.2. Prognosis in severe mental illness and cardiovascular disease",
+          "7.3. Increased cardiovascular disease risk in people with severe mental illness",
+          "7.3.1. Lifestyle and biological risk factors",
+          "7.3.2. Medication-induced cardiovascular risk factors",
+          "7.3.3. Assessing cardiovascular disease risk",
+          "7.4. Gaps and disparities in the management of cardiovascular disease in people with severe mental illness",
+          "7.4.1. Autonomy, communication, and informed consent"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "ESC Guidelines",
+        "section_headings": [
+          "7.5. Management of cardiovascular disease in people with severe mental illness",
+          "7.6. Management of cardiovascular conditions in people with severe mental illness",
+          "7.7. Interventions to improve the management of people with severe mental illness and cardiovascular disease",
+          "7.8. Section summary points and management consensus statements from Section 7",
+          "8. Mental health in specific populations and situations",
+          "9. Key messages",
+          "10. Gaps in knowledge",
+          "11. Conclusions",
+          "12. Summary of mental health aspects in specific cardiovascular diseases",
+          "13. Clinical cases and patient perspectives",
+          "14. Evidence tables",
+          "15. Data availability statement",
+          "16. Author information",
+          "17. Appendix",
+          "18. References",
+          "List of tables",
+          "List of figures"
+        ],
+        "narrative_summary": "This page presents the table of contents for sections 7.5 through 8.5 of the guideline, followed by the list of tables and list of figures with corresponding page numbers. No clinical recommendations or narrative prose are provided beyond the contents listing.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table of contents continues on subsequent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Abbreviations and acronyms",
+          "1. Preamble"
+        ],
+        "narrative_summary": "The Preamble introduces ESC Clinical Consensus Statements, developed under the auspices of the ESC Clinical Practice Guidelines Committee, summarizing available evidence to assist health professionals in the diagnostic and therapeutic management of individual patients, and emphasizing professional responsibility, ethical considerations, and adherence to regional regulations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the figures table of contents and ends mid-sentence in the Preamble narrative."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "2. The scope of this consensus statement",
+          "2.1 Methods employed in the consensus statement"
+        ],
+        "narrative_summary": "This page describes the development and review process of the ESC clinical consensus statement, including Task Force selection, Delphi methodology, evidence summarization, and declaration of interests. It introduces the scope of the consensus by examining the impact of mental health on cardiovascular disease and outlines the multidisciplinary methods employed to generate and agree upon management recommendations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends mid-sentence, indicating content continues from the previous page and onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "Introduction",
+        "section_headings": [
+          "3. Introduction",
+          "3.1. The relationship between mental and cardiovascular health and disease"
+        ],
+        "narrative_summary": "This introduction defines mental health as an integral component of overall health, referencing WHO definitions and noting the lack of a single agreed definition. It describes a continuum from optimal mental health through mental health conditions and disorders to severe mental illness, outlines the scope of the consensus statement to address mental health across severity levels in relation to cardiovascular disease, and references use of ICD-11 criteria.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "figure",
+            "title": "Concept of mental health within this consensus statement.",
+            "summary": "Diagram illustrating a continuum from Optimal mental health to Mental illness, with nested categories labeled Mental health, Mental health conditions, Mental health disorders, and Severe mental illness.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends within running section text, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page describes the multidirectional interactions between mental health (and mental health conditions) and cardiovascular (CV) health and disease. Key points: positive mental health features are linked to better CV outcomes, while mental health conditions increase CVD risk; acute CV events and chronic CVD worsen existing mental conditions or trigger new ones; the co-occurrence of CVD and mental health conditions can worsen both prognoses; people with mental health conditions often face socioeconomic disadvantages, stigma, and reduced access to diagnostic and treatment efforts, particularly those with severe mental illness (SMI).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 2",
+            "kind": "figure",
+            "title": "Mental/cardiovascular health, disease interaction, and future directions",
+            "summary": "Circular diagram illustrating bidirectional interactions and risk between mental health and cardiovascular health/disease, with peripheral arrows for increasing awareness and education, screening, and research. An inner cycle shows mental health linked to CV health and mental health conditions linked to cardiovascular disease, both increasing risk. Below, implementation and testing of consensus-based guidance through ACTIVE principles, Psycho-Cardio team, and a stepped care approach lead via an arrow to improved management and better outcomes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "3.2. Enduring problems",
+        "section_headings": [
+          "3.2. Enduring problems"
+        ],
+        "narrative_summary": "This section describes multiple enduring problems at the intersection of severe mental illness (SMI), mental health, and cardiovascular disease (CVD), including insufficient awareness among healthcare professionals of the prevalence and impact of mental health conditions on CVD risk; limited appreciation of mental health incidence and prevalence and their effects on quality of life, adherence, and prognosis; inadequate recognition of stigma; lack of systematic screening, evaluation, communication, and management of mental health in routine CV practice; limited research on improving CV health in people with mental health conditions and on promoting mental health and resilience in people with CVD and their families. It also notes little guidance on improving care despite worse outcomes, limited awareness of caregiver needs, and advocates a person-centred, integrated care approach that includes collaboration with mental health professionals. This integrated “Psycho-Cardio team” is depicted in Figure 3.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 3",
+            "kind": "figure",
+            "title": "The Psycho-Cardio team",
+            "summary": "Hexagonal diagram showing integrated care at the centre, surrounded by six professional groups: mental health professionals, nurses, cardiovascular specialists, social workers, primary care team, and other allied professionals.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "3.3. Aims of the document",
+          "3.4. The Psycho-Cardio team"
+        ],
+        "narrative_summary": "Section 3.3 outlines the document’s objectives: reviewing evidence on mental and cardiovascular (CV) health associations; raising awareness of this association and stigma; promoting mental health screening and management in people with CVD and mental health conditions; guiding clinical, systemic, and organizational changes; and identifying research gaps. Section 3.4 describes the need for multidisciplinary Psycho-Cardio teams—including CV and mental health professionals and allied staff—to provide holistic care, coordinate with primary care and social services, and address psychosocial determinants. A person-centred approach is emphasised, introducing the ACTIVE principles for integrating mental health in CV care.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 4",
+            "kind": "figure",
+            "title": "The ACTIVE principles to improve mental health in cardiovascular care",
+            "summary": "ACTIVE is an acronym for six principles: Acknowledge links between mental and cardiovascular health; Check for mental health symptoms at CV visits and CV risk factors during mental health visits; use validated Tools to screen and diagnose mental health conditions; Implement person-centred management with shared decision-making and stepped care; Venture to integrate structural and functional changes for mental health within CV practice; Evaluate needs for educational support and changes in management and outcomes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "4. Impact of mental health on the risk of developing cardiovascular disease",
+        "section_headings": [
+          "3.5. Section summary points and management consensus statements from Section 3",
+          "4. Impact of mental health on the risk of developing cardiovascular disease",
+          "4.1. Positive mental health states as predictors of better cardiovascular health",
+          "4.2. Psychosocial stress"
+        ],
+        "narrative_summary": "This page concludes Section 3 with summary points and consensus statements on integrating mental health into cardiovascular (CV) care. Section 4 introduces the impact of mental health on CV risk in individuals without known CVD, emphasizing robust population-based and meta-analytic evidence for psychosocial stressors as independent predictors of major adverse cardiac events (MACE) and mortality. Subsection 4.1 discusses subjective well-being (SWB) – including life satisfaction, optimism, and sexual health – as protective factors linked to lower all-cause mortality, coronary heart disease, and heart failure, and outlines plausible physiological (e.g., autonomic regulation, inflammation reduction) and behavioral mechanisms. Subsection 4.2 defines psychosocial stress as a response to social demands exceeding regulatory capacity, noting its role in CV risk and beginning exploration of stress appraisal processes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "SECTION SUMMARY POINTS",
+            "kind": "table",
+            "title": "Section summary points",
+            "summary": "(i) Mental health and mental health conditions interact with CV health and CVD in a multidirectional way.\n(ii) The coexistence of CVD and mental health conditions can create a mutual interaction that worsens both mental and CV health, leading to poorer outcomes.\n(iii) Routine CV clinical practice lacks integrated, systematic and appropriate screening, evaluation, communication, and management of mental health.\n(iv) There is limited evidence on the best ways to communicate, promote, maintain, and improve mental health and resilience in people with CVD and their family members.\n(v) The evidence base to guide practice in relation to the screening and management of mental health conditions in people with CVD is limited.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "MANAGEMENT CONSENSUS STATEMENTS",
+            "kind": "table",
+            "title": "Management consensus statements",
+            "summary": "(i) Cardiovascular care is optimal if it is person-centred and seeks to improve overall health, not only CV but also mental health, as an integral component.\n(ii) A multidisciplinary team including mental health professionals, psychologists, and/or psychiatrists (Psycho-Cardio team) is needed in CV care to provide guidance for practice and appropriate mental health assessment, support, and management to people with CVD and their caregivers.\n(iii) Cardiovascular services should aspire to implement a Psycho-Cardio team approach, tailored to the local population, context, and resources.\n(iv) Implementing the ACTIVE principles is a practical approach to transform routine clinical CV care towards being more person-centred, integrating mental healthcare into routine CV practice to improve care.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with the fourth bullet of a list (items one to three on previous page) and ends mid-discussion of psychosocial stress in subsection 4.2."
+        },
+        "extraction_warnings": [
+          "Summary tables do not specify Class of Recommendation (COR) or Level of Evidence (LOE) values.",
+          "No official recommendation tables with COR/LOE were found; summary and consensus statements are provided as general guidance without grading."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [
+          "4.3. Work stress and unemployment"
+        ],
+        "narrative_summary": "This page presents Figure 5, illustrating sources of psychosocial stress (work stress, impaired social relations, socioeconomic stress, loneliness/social isolation), their cardiovascular disease consequences (increased risk of hypertension, coronary artery disease, cerebrovascular disease, peripheral vascular disease, atrial fibrillation, ventricular arrhythmias, myocardial infarction, sudden cardiac death, heart failure), and potential interventions required at individual, community, and policy levels. Below the figure, the narrative continues the discussion of psychosocial risk factors, noting chronic stress associations with CVD (odds ratios, mechanisms, and health-damaging behaviors) and then introduces section 4.3 on work stress and unemployment, summarizing evidence linking job strain and workplace bullying to CHD risk, reduced life expectancy, and unhealthy behaviors, concluding with a recommendation for counselling as per Section 5.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 5",
+            "kind": "figure",
+            "title": "Sources of psychosocial stress as risk factors for cardiovascular disease",
+            "summary": "A three-column illustration: Examples of psychosocial stressors (work stress; impaired social relations; socioeconomic stress; loneliness/social isolation); Types of CVD consequences (hypertension; coronary artery disease; cerebrovascular disease; peripheral vascular disease; atrial fibrillation; ventricular arrhythmias; myocardial infarction; sudden cardiac death; heart failure); and Potential interventions required (individual; community; policy).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with the continuation of a narrative paragraph from the previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "4.4. Socioeconomic and subjective social status",
+          "4.5. Perceived discrimination",
+          "4.6. Mental stress through impaired social relationships",
+          "4.6.1. Adverse childhood experiences",
+          "4.6.2. Partnership violence",
+          "4.6.3. Loneliness and social isolation",
+          "4.7. Mental health conditions and personality traits as risk factors for cardiovascular disease",
+          "4.7.1. Depression",
+          "4.7.2. Anxiety"
+        ],
+        "narrative_summary": "This page discusses psychosocial risk factors for cardiovascular disease. Section 4.4 explains how low socioeconomic status and subjective social status independently increase CVD risk. Section 4.5 reviews evidence linking perceived discrimination with higher CVD incidence and mortality. Section 4.6 outlines how impaired social relationships drive mental stress and CVD risk, detailing adverse childhood experiences, partnership violence, and loneliness/social isolation. Section 4.7 covers mental health conditions: depression is defined, its prevalence and CVD associations are presented, and anxiety is characterized with its related CVD risk and diagnostic references.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Chapter 4 continues on adjacent pages beyond complete sections present here."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4.7.3. Post-traumatic stress disorder",
+          "4.8. Section summary points and management consensus statements from Section 4",
+          "5. Mental health and mental health conditions in people with cardiovascular disease",
+          "5.1. Impact of cardiovascular disease on mental health",
+          "5.2. Specific mental health conditions in people with cardiovascular disease: prevalence and prognostic impact",
+          "5.2.1. Depressive symptoms and depression"
+        ],
+        "narrative_summary": "This page concludes the discussion of post-traumatic stress disorder (PTSD) as a risk factor for cardiovascular disease, detailing its psychological, physiological, and behavioral mechanisms, associated high cardiovascular risk among those affected, and links with inflammation and lifestyle factors. It then transitions to Section 5, introducing the prevalence and impact of mental health conditions in people with cardiovascular disease (CVD), summarizing how acute cardiovascular events can provoke emotional distress and existential concerns, the potential for complex comorbid mental health disorders such as depression and PTSD induced by cardiac disease, and the implications for self-management, prognosis, and healthcare costs. The page begins the subsection on depressive symptoms and depression in people with CVD, emphasizing the need for precise identification and management of depressive disorders.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "SECTION SUMMARY POINTS",
+            "summary": "Bulleted summary of Section 4 key points: (i) positive mental health indicators and lower CV risk; (ii) hazardous psychosocial factors and increased CVD risk; (iii) mental health conditions including PTSD associated with higher CVD risk; (iv) healthcare professional responsibilities.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "",
+            "kind": "table",
+            "title": "MANAGEMENT CONSENSUS STATEMENTS",
+            "summary": "Two consensus statements advising that psychosocial stress management and mental well-being promotion are essential components of CV prevention, and that screening for depression, anxiety, and PTSD should be integrated into CV risk assessment.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 5.2.1 on depressive symptoms continues beyond this page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5.2.1.1. Prevalence of depressive symptoms and depression in people with cardiovascular disease",
+          "5.2.1.2. Impact of depressive symptoms and depression on cardiovascular disease prognosis"
+        ],
+        "narrative_summary": "Section 5.2.1.1 reviews that depression is one of the most common mental health conditions in people with cardiovascular disease (CVD), with an estimated global prevalence of 18%. Rates are higher in women and older adults, and depression is associated with modifiable lifestyle factors (smoking, alcohol intake, physical inactivity, unhealthy diet) and other CVD risk factors (diabetes, hypertension). Section 5.2.1.2 discusses that depression is a known risk factor for poor cardiovascular prognosis: post-MI depression predicts higher all-cause mortality and more CV events; depression after ACS and PCI is linked to increased mortality; in heart failure, depressive symptoms associate with hospitalizations and mortality; depression at the start of exercise rehabilitation predicts poorer improvement; and depression or suicide attempts before/after heart transplantation may worsen long-term outcomes, possibly due to medication non-adherence.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 1",
+            "kind": "table",
+            "title": "Prevalence of depression/depressive symptoms in people with cardiovascular disease",
+            "summary": "Prevalence data for depressive symptoms and depression across CVD subtypes: ACS/Post-MI, chronic HF, advanced HF and post-transplantation, AF, ICD, ACHD, and PH/PAH.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "5.2.1.3. Impact of depressive symptoms/depression on self-management and adherence",
+          "5.2.2. Anxiety",
+          "5.2.2.1. Prevalence of anxiety in people with cardiovascular disease",
+          "5.2.2.2. Impact of anxiety on cardiovascular disease prognosis",
+          "5.2.2.3. Impact of anxiety on self-management and adherence",
+          "5.2.3. Cardiac disease-induced post-traumatic stress disorder/symptoms",
+          "5.2.3.1. Prevalence of post-traumatic stress disorder in cardiovascular disease",
+          "5.2.3.2. Impact of post-traumatic stress disorder on cardiovascular disease prognosis"
+        ],
+        "narrative_summary": "This page reviews the relationship between psychological conditions—depression, anxiety, and cardiac disease–induced post-traumatic stress disorder (PTSD/PTSS)—and outcomes in people with cardiovascular disease (CVD). It highlights that depressive symptoms are linked to poorer self-management, lower adherence to medication, lifestyle modification, and increased risk of adverse events and reduced quality of life. Prevalence of anxiety in CVD patients ranges from about 29% to 34%, with higher rates in women and varying by diagnostic methods. Anxiety has a negative impact on prognosis, including increased risk of adverse cardiovascular events and mortality over long-term follow-up, though its immediate effect post-acute events may be limited. Anxiety may also influence self-care behaviors. Cardiac disease–induced PTSD symptoms are common after acute events or interventions and are associated with increased rates of rehospitalization, mortality, and major adverse cardiovascular events (MACE).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continues numbered sections from earlier pages and ends mid-sentence at bottom of page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5.2.3.3 Impact of post-traumatic stress disorder on self-management and adherence to medical recommendations",
+          "5.2.4 Loneliness and living conditions"
+        ],
+        "narrative_summary": "The page presents two narrative sections. The first (5.2.3.3) notes that evidence on the impact of cardiac disease–related PTSD on self-management and adherence is mixed, with stronger evidence linking PTSD to non-adherence in medication and physical activity. The second (5.2.4) describes studies showing that loneliness at hospital discharge in people with cardiovascular disease is associated with significantly worse outcomes, including higher all-cause mortality and cardiovascular event risk, and that living alone increases CV risk, whereas being married or widowed is associated with lower risk.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "Prevalence of anxiety/anxiety symptoms in people with cardiovascular disease",
+            "summary": "Prevalence data of anxiety symptoms across various cardiovascular diseases (ACS/Post-MI, Chronic HF, Advanced HF and post-transplantation, AF, ICD, ACHD, PH/PAH) with reported percentages and study details.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Narrative text begins mid-sentence and the table is likely introduced in preceding content."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5.2.5. Chronic stress",
+          "5.3. Addressing the mental health needs of informal caregivers for people with cardiovascular disease"
+        ],
+        "narrative_summary": "Section 5.2.5 defines chronic stress as ongoing physical and emotional imbalance due to life events and reports it affects 58% of people with CVD. A large observational study found higher perceived stress in women than men and linked chronic stress to poorer quality of life and mental health after MI. The Cardiac Distress Inventory–Short Form identified elevated distress in younger people and women, and high stress in HF patients predicted adverse events. Section 5.3 discusses the role of informal caregivers in supporting lifestyle changes and treatment adherence for people with CVD. Caregiving can produce significant emotional and physical toll, with caregivers of CAD and VAD patients experiencing elevated anxiety, depression, and reduced quality of life. A holistic, team-based Psycho-Cardio approach is recommended, and Figure 6 (not shown) outlines specific caregiver support actions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Prevalence of post-traumatic stress disorder/post-traumatic stress symptoms in people with cardiovascular disease",
+            "summary": "Prevalence of PTSD and PTSS by CVD subgroup: ACS/Post-MI – 12% PTSD, 0–26% PTSS depending on measurement; PTSD in 7–20% post-CABG; 28–35% in SCAD survivors. Advanced HF/post-transplantation – 11–19% PTSD post-HTx. ICD recipients – 12–38% PTSD after cardiac arrest; ≥1 appropriate shocks increased PTSD risk (OR 6.0); higher PTSD with electric storms. ACHD – 1–30% PTSD, varying by region and measurement; women and those lacking psychosocial support have higher risk.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5.4. Section summary points and management consensus statements from Section 5",
+          "6. Identification, prevention, and management of mental health issues in people with cardiovascular disease",
+          "6.1. Awareness of needs in people with cardiovascular disease"
+        ],
+        "narrative_summary": "This section emphasizes that depression and anxiety are often overlooked in people with CVD despite high prevalence and negative effects on outcomes and adherence. It recommends considering formal mental health screening at a low threshold during clinical encounters, outlines insights from recent patient‐written accounts, and refers to proposed person‐centred support components in Figure 7, highlighting the importance of integrating mental health assessment within CVD care.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 6",
+            "kind": "figure",
+            "title": "Suggestions for supporting informal caregivers of people living with cardiovascular disease.",
+            "summary": "• Listen: Informal caregivers must be heard as they are an invaluable source of information and often experience much distress\n• Reassure: Caregivers should be reassured that they are not alone and that their emotional responses are both valid and important\n• Assist: Caregivers need assistance to acquire new knowledge, organize information, follow management instructions, and implement lifestyle changes\n• Encourage: Caregivers should be encouraged to access relevant medical and social support, both for the patient and for themselves\n• Refer: Caregivers should be referred to relevant services to support their health and social needs",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Section summary points",
+            "kind": "table",
+            "title": "Section summary points",
+            "summary": "(i) There is a multidirectional association between CVD and mental health conditions such as depression, anxiety, and PTSD, increasing each other’s risk.\n(ii) Mental health conditions in people with CVD, such as depression, can negatively affect self-management, including adherence to medication and lifestyle changes, and are associated with worse outcomes.\n(iii) The effects of anxiety and PTSD on adherence and CV outcomes are less clear and might be time-dependent.\n(iv) Caregivers play an essential role in supporting their family members who cope with CVD to incorporate lasting lifestyle changes and to adhere to treatment plans; assessing and supporting caregivers’ well-being benefits both parties.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Management consensus statements",
+            "kind": "table",
+            "title": "Management consensus statements",
+            "summary": "(i) It is reasonable to assess depression, anxiety, and PTSD in people with established CVD as they are highly prevalent and impact outcomes, and refer promptly to a professional when needed.\n(ii) Chronic stress and loneliness are associated with negative outcomes in people with CVD and should prompt referral if identified during clinical assessment.\n(iii) Incorporating informal caregiver well-being assessment and support is advisable in the holistic approach of mental and CV health.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 6 content continues on the following page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6.2. Identification and screening"
+        ],
+        "narrative_summary": "This section emphasizes the importance of taking a clinical history to evaluate mental health symptoms in patients with cardiovascular disease, identifying previously unrecognized or new manifestations that may require education or social support. It highlights considerations for mental health screening: determining who will screen, when screening should occur, which tools to use, and screening frequency. Collaboration with mental health professionals (the Psycho-Cardio team) is recommended to develop protocols for screening and guiding referrals based on severity.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 7",
+            "kind": "figure",
+            "title": "Visualization of an ‘on demand’ support system for people with cardiovascular disease to improve mental health",
+            "summary": "A cyclical model placing the patient, family, and caregivers at the center, surrounded by clinical assessment, education, secondary prevention, social care support, medication titration, mental health support, and team discussion/system coordination leading to referral and follow-up.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative text ends mid-sentence at bottom of page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6.2.1. Assessment of depression and anxiety"
+        ],
+        "narrative_summary": "The page continues discussion on mental health screening in people with cardiovascular disease. It emphasizes conducting screening following a new CVD diagnosis or acute CV event, at least once during follow-up and periodically when clinically indicated, using brief two-item tools to limit time. It outlines who should conduct screening (Psycho-Cardio multidisciplinary team), when and how short screening tools should be used, and notes potential psychological harms and the need for appropriate referral. The section introduces the Whooley questions as a two-item depression screener with high sensitivity and moderate specificity.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 8",
+            "kind": "figure",
+            "title": "Screening for mental health conditions in people with cardiovascular disease",
+            "summary": "Schematic illustrating the timing (When), responsible team members (Who), and methods (How) for screening mental health conditions in CVD patients, including steps: initial 2-item questionnaire during clinical encounters, formal screening with GAD-7/PHQ-9 if positive, discussion of results and care plan, and referral to Psycho-Cardio team.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence and the section 6.2.1 continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6.2.2. Suggested approach to screening people with cardiovascular disease for psychological distress, depression, and anxiety",
+          "6.2.3. Challenges in specific cardiovascular conditions"
+        ],
+        "narrative_summary": "The page presents two tables outlining psychometric properties and screening timing/tools for anxiety and depression in cardiovascular patients, followed by narrative emphasizing that mental health conditions in CVD patients can be episodic and should be integrated into routine care. It notes variability in symptom intensity over time, cites a study on new-onset anxiety and depression post-ICD implantation, and discusses the debated value and timing of screening. Section 6.2.2 describes two assessment approaches (diagnostic interview vs questionnaire), advocates questionnaires as practical starting points, and recommends referral based on elevated scores. Section 6.2.3 highlights challenges in heart failure patients, where overlapping symptoms may mask mental health issues and screening timing and interpretation remain unclear.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Psychometric properties of screening tools for anxiety and depression symptoms",
+            "summary": "Lists sensitivity and specificity for Whooley questions, GAD-2, and PHQ-2 (≥2 points): sensitivity 95% (95% CI 88–97), 91%, and 97%; specificity 65% (95% CI 56–74), 37%, and 48%, respectively; includes validation footnotes and abbreviations.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 5",
+            "kind": "table",
+            "title": "Timing and tools for screening anxiety and depression symptoms",
+            "summary": "Outlines three timings for screening: (1) following a new CVD diagnosis or event, (2) at follow-up (e.g., annually) to assess change, (3) anytime based on clinical judgement. Recommends GAD-2 (with GAD-7 if positive) for anxiety and PHQ-2 (with PHQ-9 if positive) for depressive symptoms; includes abbreviations.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative and section content are part of ongoing guideline sections and continue across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "6.2.4. Assessment of subjective well-being and quality of life",
+          "6.3. Management of mental health conditions in people with cardiovascular disease",
+          "6.3.1. Communication, education, and support for people with mental health conditions and cardiovascular disease"
+        ],
+        "narrative_summary": "The page describes the importance of psychosocial assessment for candidates for VAD and HTx, listing key domains: risk factors for poor outcomes, decision-making capacity, environmental resources, and VAD operation capacity. Two assessment tools (PACT and SIPAT) are noted for post-HTx risk prediction but unvalidated in VAD populations. Quality of life and mental health assessment tools, including the WHO-5 questionnaire and disease-specific and generic QoL instruments (e.g., SF-12, EQ-5D), are recommended. Section 6.3 emphasizes management of mental health in cardiovascular disease, highlighting effective communication, empathy, active listening, shared decision-making, and stepwise, patient-centered interventions. A stepped care model (Figure 9) is referenced.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of an ongoing discussion on psychosocial assessment (no introductory heading) and ends mid-sentence regarding compassionate care; content continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6.3.2. Psychological interventions",
+          "6.3.3. Psycho-education"
+        ],
+        "narrative_summary": "This section describes psychological interventions for people with cardiovascular disease, including cognitive-behavioural therapy, psycho-education, mindfulness-based techniques, internet- and mobile-based solutions as supportive strategies. A psycho-educational approach provides structured knowledge transfer about the illness, integrates emotional and motivational aspects, and is embedded in cardiovascular care settings to improve coping, treatment adherence, and quality of life.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 9",
+            "kind": "figure",
+            "title": "Stepped care model for assessment and management of mental health conditions in people with cardiovascular disease",
+            "summary": "A diagram illustrating a stepped-care approach: Which patients (all CVD patients → positive screening → severe mental illness), What actions (mental health assessment → referral for diagnostic assessment and optimal treatment → pharmacological and non-pharmacological treatment), Who delivers care (primary care/CV care team → psycho-cardio team or mental health professional), When (after new diagnosis/event periodically → at time of detection as per clinical need → at time of diagnosis as per need), with overarching arrows for increasing psycho-cardio team input and lifestyle measures/psycho-education.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "The narrative begins mid-sentence referencing supplementary data and Table S7 and ends mid-sentence ('In people with AF,')."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "6.3.4 Social prescribing",
+          "6.3.5 Other psychological interventions"
+        ],
+        "narrative_summary": "Section 6.3.4 describes social prescribing as a holistic approach connecting people with non-medical community resources—such as arts workshops, group activities, gardening, green exercise, cooking classes, music therapy, and digital platforms—to enhance mental well-being, reduce social isolation, and support adherence to cardiovascular treatment. Evidence from 17 studies (n=5036) shows improvements in mental health, well-being, and quality of life, though more CVD-specific research is needed. Section 6.3.5 summarizes psychological interventions (relaxation, cognitive techniques, emotional support, CBT, exposure therapy) for CHD, CAD, AF, AMI, and CVD patients. Meta-analyses and trials report reductions in cardiovascular mortality, symptom burden, depressive and anxiety symptoms, healthcare use, and hospital admissions, with psychosocial support endorsed by ESC/ERS guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with continuation of a sentence from the previous page and ends in the middle of section 6.3.5 without a closing heading."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "6.3.6 Interventions for people with post-traumatic stress disorder",
+          "6.3.7 Lifestyle interventions",
+          "6.3.8 Physical activity and exercise in people with cardiovascular disease and mental health conditions",
+          "6.3.9 Diet and nutrition approaches in cardiovascular disease and mental health conditions",
+          "6.3.10 Smoking cessation"
+        ],
+        "narrative_summary": "This section reviews evidence for mental health interventions in people with cardiovascular disease. It describes behavioural activation and its comparable efficacy to antidepressants, EMDR and trauma-focused counselling for PTSD symptoms, holistic lifestyle changes, structured physical activity and its psychological benefits, various dietary and nutritional strategies (e.g., Mediterranean diet, fasting interventions, omega-3 supplementation) with preliminary mental health outcomes, and the challenges and benefits of smoking cessation, highlighting the need for further robust clinical trials.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins in the middle of a discussion on behavioural activation and ends mid-sentence on smoking cessation outcomes, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "6.3.11. Stress management techniques",
+          "6.3.12. Sleep hygiene",
+          "6.4. Tools and resources to support lifestyle change",
+          "6.4.1. Digital health tools",
+          "6.4.2. Motivational interviewing"
+        ],
+        "narrative_summary": "This page describes tailored tobacco cessation strategies for individuals with mental health conditions using the Five A’s model and cognitive therapies, reviews stress management techniques including mindfulness, meditation, and progressive muscle relaxation with evidence in CVD populations, outlines the importance of sleep hygiene practices for cardiovascular and mental health, and discusses digital health tools and motivational interviewing as resources to support lifestyle changes in people with CVD.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins mid-sentence from prior page and ends mid-section of guideline content."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "6.4.3. Cardiac rehabilitation",
+          "6.5. Medical interventions",
+          "6.5.1. Efficacy and safety of pharmacological treatment for mental health conditions in people with cardiovascular disease",
+          "6.5.2. Use of specific medications in people with depression, anxiety, or post-traumatic stress disorders and cardiovascular disease",
+          "6.5.3. Use of antidepressants"
+        ],
+        "narrative_summary": "This page discusses cardiac rehabilitation as a comprehensive secondary prevention programme with structured exercise, psychosocial support, and risk factor management, summarizing evidence for its effects on mortality, morbidity, health-related quality of life, and mental health. It outlines the importance of screening for depression and anxiety in exercise-based cardiac rehabilitation and provides bullet-point suggestions for implementation. The text then reviews pharmacological interventions for mental health conditions in people with cardiovascular disease, presenting systematic review and meta-analysis findings on the efficacy and safety of antidepressants post-ACS and in heart failure, noting inconsistent results and the need for larger RCTs. Finally, it covers the use of specific medications, particularly antidepressants, recommending careful selection, monitoring of side effects (weight gain, QTc prolongation), and consideration of safety profiles.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The page ends mid-sentence in the final bullet ('demonstrated a low risk of ventricular')."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Flowchart depicting the pharmacological management pathways for individuals with depression, anxiety, or post-traumatic stress disorders in the context of cardiovascular disease.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 10",
+            "kind": "figure",
+            "title": "Pharmacological management of cardiovascular disease and depression, anxiety, or post-traumatic stress disorders",
+            "summary": "Flowchart outlining management steps: start with screening for people with depression, anxiety or PTSD. For those in remission or with mild symptoms, assess if already on psychotropic therapy; if no, offer psychological support or counselling; if yes, continue medication or re-assessment with considerations for weight gain, diabetes, QTc prolongation, dyslipidaemia. For moderate or severe cases per ICD-11, obtain psychiatric consultation leading to either continuing medication/re-assessment (with same considerations) or initiating new psychotropic/antidepressant medication based on psychiatric symptom severity, treatment benefit, possible interactions, CV side effects, lifetime CVD risk, comorbidities, and patient preferences. Special considerations include introducing SSRIs, SNRIs, or newer antidepressants (excluding esketamine) for up to 4 weeks; gradual benzodiazepine discontinuation if used >1 month; avoiding antidepressants in heart failure except in severe depression. All pathways conclude with assessing and managing CVD risk factors (including medication if needed) and behavioral interventions to support healthy lifestyles.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "6.5.4 Use of anxiolytics, sedatives, and hypnotics",
+          "6.5.5 Pharmacological treatment for mental health conditions in specific cardiovascular diseases",
+          "6.5.5.1 Ischaemic heart disease",
+          "6.5.5.2 Ventricular arrhythmias",
+          "6.5.5.3 Heart failure"
+        ],
+        "narrative_summary": "This page discusses pharmacokinetic and pharmacodynamic interactions between antidepressants (SSRIs, SNRIs, TCAs) and cardiovascular drugs, highlighting cytochrome P450-mediated metabolism, smoking induction of CYP1A2, and the effects of enzyme inhibition by SSRIs and amiodarone, with implications for drug concentrations and bleeding risk. It covers the use of anxiolytics, sedatives, and hypnotics, recommending assessment for switching to SSRIs or CBT for insomnia and noting benzodiazepine risks. In patients with specific cardiovascular conditions, it reviews treatment considerations: avoiding benzodiazepines post-AMI, using bupropion or varenicline for smoking cessation, selecting antidepressants with lower pro-arrhythmic potential in ventricular arrhythmias (e.g., citalopram/escitalopram and avoiding TCAs), and assessing risks vs benefits of antidepressants in heart failure, with SSRIs preferred for fewer CV side effects but with bleeding and QTc concerns.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of discussion on antidepressant-related arrhythmia and ends mid-sentence under section 6.5.4, indicating content continues on adjacent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6.5.5.4. Procedures (coronary artery bypass grafting, percutaneous coronary intervention)",
+          "6.6. Organization of care",
+          "6.7. Section summary points and management consensus statements from Section 6"
+        ],
+        "narrative_summary": "This page continues discussion of the use of antidepressant and psychotropic drugs in heart failure and peri-procedural settings, noting that SSRIs have lower drug-interaction risk due to minimal CYP inhibition, while MAO inhibitors and TCAs are contraindicated in HF. Venlafaxine and duloxetine should be used with caution. Antidepressant use in HF should be restricted to severe cases; diuretics and nitrates carry higher depression risk, whereas beta-blockers, statins, ACE inhibitors, ARBs, aspirin, aldosterone antagonists, and SGLT2 inhibitors do not. Benzodiazepines are not recommended for PCI or CABG based on low-quality evidence. Section 6.6 describes fragmented healthcare and novel integrated models for collaborative mental and cardiac care with evidence from RCTs. Section 6.7 introduces summary points.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Section Summary Points",
+            "kind": "table",
+            "title": "SECTION SUMMARY POINTS",
+            "summary": "(i) Ideally, assessment of mental health status should be performed routinely within CVD clinical practice and implemented when the context of local capacity and capability allows.\n(ii) Depression and anxiety can easily be overlooked in the routine care of people with CVD and/or considered ‘normal’ reactions to individual clinical/prognostic burden of disease.\n(iii) Clinical history can be used to identify mental health symptoms. If there is clinical suspicion, formal screening with validated tools is advised.\n(iv) Psycho-Cardio teams are needed to structure pathways for:\n    • Screening;\n    • Referral;\n    • Treatment of people with CVD and suspected or established mental health conditions.\n(v) Medical interventions including pharmacotherapy may be needed for people with CVD who are diagnosed with mental health conditions, especially for severe symptoms of depression, anxiety, or PTSD.\n(vi) In some people with CVD, combination therapy of psychological interventions plus medication may be useful.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Begins in the middle of a bullet list and ends in a summary box continued on next page"
+        },
+        "extraction_warnings": [
+          "No recommendations with COR/LOE present on this page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "7. Severe mental illness and cardiovascular disease",
+        "section_headings": [
+          "MANAGEMENT CONSENSUS STATEMENTS",
+          "7. Severe mental illness and cardiovascular disease",
+          "7.1. Cardiovascular risk in people with severe mental illness",
+          "7.2. Prognosis in severe mental illness and cardiovascular disease"
+        ],
+        "narrative_summary": "Section 7.1 outlines that severe mental illnesses (e.g., schizophrenia, bipolar disorder, recurrent major depressive disorder) are associated with significantly impaired psychosocial functioning, approximately 14–15 years reduced life expectancy, more than 2.5-fold higher all-cause mortality, and a 2- to 3-fold increased risk of CVD compared with the general population, with a pooled CVD prevalence of 9.9% and adjusted risk particularly elevated in younger adults. Section 7.2 describes that co-occurrence of SMI and CVD increases all-cause mortality and worsens cardiovascular prognosis: up to 2.5-fold higher CHD and CV mortality, lack of decline in post-MI mortality over time in schizophrenia, onset of heart failure seven years earlier, and poorer outcomes after ICD implantation, CRT, VAD, and HTx in people with SMI.",
+        "recommendation_tables": [
+          {
+            "title": "MANAGEMENT CONSENSUS STATEMENTS",
+            "rows": [
+              {
+                "recommendation": "Screening of mental health with validated screening tools is advised after a new diagnosis or CV event, at least once during follow-up and anytime based on clinical judgement of need.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Initial simple screening with a two-item measure (i.e. Whooley questions, PHQ-2, GAD-2) can be incorporated into routine practice.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A low threshold for mental health screening in people with CVD is advised, considering the high prevalence of mental health conditions in people with CVD and its impact on outcomes.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Following an abnormal result in the initial screening, a longer validated screening instrument should be used to determine if condition severity is low, moderate, or high.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Psycho-Cardio teams must define who is responsible for the assessment of mental health conditions and how and when it will be done, tailoring it to the specific context and resources.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Each Psycho-Cardio team may choose a particular screening tool after careful assessment of its validity, reliability, and applicability to their population, but standardized screening tools are preferred for mental health assessment.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "People scoring high on a screening questionnaire need referral for diagnostic assessment and appropriate treatment by a mental health professional.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Applying a stepped care approach to manage mental health conditions in people with CVD is reasonable based on preferences, severity of symptoms and condition, and resources available.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Developing and evaluating tailored intervention programmes aimed at alleviating distress of people coping with CVD and caregivers may be useful.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Lifestyle measures and psycho-education are useful for all people with CVD while psychological therapies may be helpful for people experiencing depression and/or anxiety.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Cardiac rehabilitation is an opportunity to screen people for depression and anxiety and can contribute to improve mental health after CV events or be an opportunity to identify and manage mental health conditions.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Avoiding benzodiazepines as first-line therapy in the management of anxiety and depression is advised.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Anxiolytics, sedatives, and hypnotics are overused and overprescribed in the general population, especially among the elderly and people with mental health conditions, so careful selection of indications is advisable.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Antidepressant use is advised for those with moderate to severe anxiety disorders and depression under the guidance of qualified mental health professionals.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "The use of antidepressants in HF is only advisable in severe depression symptoms where the risk of untreated depression outweighs the risk of taking antidepressants.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In people with ventricular arrhythmias, antidepressants associated with an increased propensity to prolong QTc (such as TCAs and possibly citalopram/escitalopram in dosages over 20 mg), may be switched to newer antidepressants with better safety profiles.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Given the frequent interactions between antidepressants and CV drugs affecting their efficacy and safety, therapeutic drug monitoring is advisable to optimize pharmacotherapy and minimize potential side effects and clinically relevant drug interactions.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 7 continues on the next page."
+        },
+        "extraction_warnings": [
+          "No Class of Recommendation or Level of Evidence labels visible for Management Consensus Statements; fields left empty."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "7.3. Increased cardiovascular disease risk in people with severe mental illness",
+          "7.3.1. Lifestyle and biological risk factors",
+          "7.3.2. Medication-induced cardiovascular risk factors"
+        ],
+        "narrative_summary": "The section describes the multifactorial aetiology of cardiovascular disease risk in people with severe mental illness (SMI), including genetic, biological, disease-specific, treatment-specific, lifestyle factors and treatment disparities. Lifestyle and biological risk factors such as hypertension, diabetes mellitus, dyslipidaemia, obesity and smoking contribute to higher CV risk in people with SMI. Common genetic vulnerability for schizophrenia and diabetes is noted, as are effects of negative/depressive symptoms leading to sedentary lifestyle. Schizophrenia is associated with more than threefold risk of obesity, metabolic syndrome and diabetes compared with the general population; bipolar disorder shows higher prevalence of hypertension; people with schizophrenia have five times higher odds of smoking and up to 65% are smokers, with higher rates of alcohol addiction. People with SMI have not experienced the same reductions in modifiable risk factors or CVD mortality declines as the general population. Disease-specific and medication-induced risk factors include side effects leading to obesity, diabetes, hyper-triglyceridaemia and hypercholesterolaemia, though the impact of these metabolic side effects on CVD risk is complex and not necessarily independent predictors.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 11",
+            "kind": "figure",
+            "title": "Severe mental illnesses.",
+            "summary": "Venn diagram showing overlap of depressive, cognitive, psychotic and suicidality symptoms across recurrent major depression, schizophrenia and psychotic disorders, and bipolar disorders, with decreased level of functioning at the intersection.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The narrative in section 7.3.2 ends mid-sentence and continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The page presents Figure 12 illustrating factors by which severe mental illness (SMI) can increase or decrease cardiovascular disease (CVD) risk through a seesaw diagram. Below, narrative text summarizes evidence on antipsychotic use in people with SMI, noting no increased MI or stroke risk compared with placebo, protective effects of long-acting and second-generation antipsychotics on all-cause mortality, reduced CV death with clozapine, and variation among agents in inducing modifiable CVD risk factors such as weight gain and metabolic syndrome.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 12",
+            "kind": "figure",
+            "title": "Multifactorial aetiology of cardiovascular disease risk in people with severe mental illness",
+            "summary": "A seesaw diagram comparing: Left (SMI increased CVD risk) – unhealthy lifestyles, obesity, dyslipidaemia, diabetes; some psychotropic drugs increasing risk; reduced CV healthcare and assessment; lack of multidisciplinary collaboration; less evidence-based CVD care; poorly controlled mental illness. Right (SMI decreased CVD risk) – psychotropic drug management improving adherence; optimization of pharmacological treatment and metabolic side-effect management; regular CV risk assessment; collaborative care; adequate education and support.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins without a clear introductory heading and continues beyond the bottom of the page, indicating mid-section continuation."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "7.3.3 Assessing cardiovascular disease risk"
+        ],
+        "narrative_summary": "The text below Table 6 continues a discussion of the metabolic effects of antipsychotics, noting that iloperidone and quetiapine are associated with worse metabolic profiles, including weight gain, glucose increase, hypertriglyceridaemia, hypercholesterolaemia, and decreased HDL cholesterol. It then outlines recommendations for routine screening of cardiovascular risk factors in people with severe mental illness, specifying baseline and periodic assessments: personal and family history of CVD or diabetes, lifestyle factors, anthropometrics, fasting blood glucose and lipid panels, blood pressure, heart rate, and electrocardiogram monitoring at specified intervals.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 6",
+            "kind": "table",
+            "title": "Summary of the negative effect of different antipsychotics on cardiovascular risk factors",
+            "summary": "This table lists antipsychotic drugs (Haloperidol, Ziprasidone, Aripiprazole, Lurasidone, Cariprazine, Fluphenazine, Amisulpride, Brexpiprazole, Flupentixol, Asenapine, Risperidone, Paliperidone, Quetiapine, Iloperidone, Sertindole, Zotepine, Clozapine, Olanzapine) and their relative effects (0, +, ++, +++) or ND on weight gain, hyperglycaemia, LDL cholesterol, HDL cholesterol, total cholesterol, and triglycerides.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "The narrative paragraph under the table begins mid-sentence, indicating continuation from the previous page; the section appears to continue beyond the bottom of the page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "7.4. Gaps and disparities in the management of cardiovascular disease in people with severe mental illness",
+        "section_headings": [
+          "7.4. Gaps and disparities in the management of cardiovascular disease in people with severe mental illness",
+          "7.4.1. Autonomy, communication, and informed consent",
+          "7.5. Management of cardiovascular disease in people with severe mental illness",
+          "7.5.1. Management of modifiable risk factors",
+          "7.5.2. Diet, physical activity, and body weight control"
+        ],
+        "narrative_summary": "This page addresses healthcare inequalities in cardiovascular disease (CVD) management among people with severe mental illness (SMI), identifying systemic barriers to prevention, screening, diagnosis, and treatment. It emphasizes autonomy, communication, and informed consent through a person-centred, shared decision-making approach, detailing strategies such as patient education, inclusion of family in care planning, regular monitoring, and support for self-management. The section then outlines the management of modifiable CVD risk factors in SMI, recommending high-intensity coordination, behavioural and pharmacological interventions, and family support. Finally, it discusses the typically poor diet and low physical activity levels of people with schizophrenia, summarizing evidence that structured exercise and dietary interventions improve cardiovascular outcomes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends mid-sentence at 'The European Psychiatric Association (EPA) suggests that' indicating continuation."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "7.5.3. Smoking cessation",
+          "7.5.4. Pharmacological management",
+          "7.6. Management of cardiovascular conditions in people with severe mental illness",
+          "7.6.1. Rhythm disturbances"
+        ],
+        "narrative_summary": "This page continues discussion of cardiometabolic risk management in people with severe mental illness (SMI). It reviews weight-loss advice (BMI≥25 kg/m^2 or waist ≥88 cm in women/≥102 cm in men) and mixed results of behavioural interventions and pharmacotherapies (metformin, GLP-1 receptor agonists, SGLT2 inhibitors). Glucose and lipid lab outcomes are reported as secondary assessments; metformin is first-line for antipsychotic-associated weight gain but not universally effective. Smoking cessation strategies mirror general population approaches, combining behavioural and pharmacological therapies (varenicline, bupropion, nicotine replacement), with a note on CYP1A2 induction raising drug levels. Pharmacological management of SMI includes long-term psychotropics with mood stabilizers and anxiolytics; attention is drawn to CYP450 pharmacokinetics and CV side effects via receptor blockade. Section 7.6 outlines CV condition management in SMI: multidisciplinary coordination, adherence to psychotropics, dose minimization, lifestyle modification, and adjunctive therapies (metformin, nicotine replacement), summarized in bullet points. Section 7.6.1 notes increased arrhythmia and SCD risk in SMI.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative sections/bullets, indicating continuation of content."
+        },
+        "extraction_warnings": [
+          "Mentions of CYP450 and CYP1A2 are enzyme families referenced for drug metabolism and are not extracted as human genes.",
+          "No recommendation classes (COR) or levels (LOE) are visible on this page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 13",
+            "kind": "figure",
+            "title": "Management of people with cardiovascular disease and severe mental illness",
+            "summary": "Flowchart outlining assessment and management of individuals with severe mental illness (SMI) and cardiovascular disease (CVD). Begin by assessing mental health status and cardiovascular risk, then branch based on SMI remission status or severity. For those in remission or with mild symptoms, evaluate adherence to psychiatric and CVD treatment, directing non-adherent individuals to interventions supporting treatment adherence and considering long-acting injectables, and adherent individuals to monitoring of cardiovascular side effects, drug interactions, and therapeutic drug levels. For new or unremitted moderate/severe SMI, refer for psychiatric consultation and psychotropic medication initiation or change, choosing agents with lower metabolic risk, monotherapy if possible, and long-acting injectables to improve adherence. Emphasizes a person-centred multidisciplinary Psycho-Cardio team approach, with ongoing ECG monitoring post-antipsychotic initiation, periodic assessment of risk factors and side effects, adherence monitoring, psycho-education/behavioural counselling, and CVD medication adjustment if needed.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "7.6.1.1 QTc interval prolongation",
+          "7.6.1.2 Heart rate changes",
+          "7.6.2 Clozapine-induced myocarditis"
+        ],
+        "narrative_summary": "The page reviews the impact of antipsychotic drugs on cardiac electrophysiology in people with severe mental illness. It emphasizes that QTc interval prolongation increases torsades de pointes and sudden cardiac death risk, recommending ECG monitoring before and after drug initiation and annually. Definitions and thresholds for acquired long QT syndrome are provided, along with management steps based on QTc values (>500 ms, intermediate prolongation) and avoidance of QT-prolonging drug interactions. Additional reversible causes of QT prolongation, formula selection for QT correction, and measurement challenges are noted. The section on heart rate changes describes sinus tachycardia and bradycardia risks, identifies management options including rate control and drug selection, and highlights lithium’s effects. Finally, clozapine-induced myocarditis and cardiomyopathy risks are discussed, with guidance to discontinue clozapine and refer for cardiology evaluation if suspected.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins mid-sentence in the middle of ongoing narrative about arrhythmia risks."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 14",
+            "kind": "flowchart",
+            "title": "Management of people with severe mental illness and arrhythmias",
+            "summary": "Flowchart outlining the diagnostic work-up and management pathway for people with severe mental illness (SMI) who have symptoms indicative of arrhythmia or an established arrhythmia diagnosis. Steps include diagnostic work-up, decision on psychotropic drug treatment, general advice, QT prolongation monitoring, specific arrhythmia management (sinus tachycardia, PSVT, atrial fibrillation, VPB/VT, bradycardia), and interventions for persistent symptomatic arrhythmia, with accompanying footnotes and definitions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "7.7. Interventions to improve the management of people with severe mental illness and cardiovascular disease",
+          "7.8. Section summary points and management consensus statements from Section 7"
+        ],
+        "narrative_summary": "Section 7.7 discusses the limited effectiveness of existing cardiovascular disease (CVD) prevention, detection, and treatment programmes in people with schizophrenia and other severe mental illness (SMI), identifying barriers such as poor motivation, cognitive impairment, and limited participation in decision-making. It emphasizes the need for CVD prevention and treatment programmes to collaborate with mental health experts to ensure accessible and appropriate screening and care for people with SMI.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 7",
+            "kind": "table",
+            "title": "Management of psychotropic drugs with QT interval prolongation properties",
+            "summary": "Action and supporting information rows:\n- Assess symptoms: typically asymptomatic; in case of torsades de pointes, palpitations, dizziness, syncope, cardiac arrest.\n- Diagnostic work-up: 12-lead ECG at baseline and after 1, 6, and 12 weeks; more frequent ECG if QT prolongation; use Fridericia formula for rate correction in tachycardia; check potassium, calcium, magnesium; ambulatory ECG if symptoms; exclude inherited long QT syndrome.\n- Management: caution with sertindole, amisulpride, ziprasidone, iloperidone, risperidone, olanzapine, quetiapine; aim for lowest effective dose; check for QT-prolonging drugs and interactions; correct electrolytes; consult CredibleMeds.org; address reversible factors (e.g., bradycardia, hypothyroidism, starvation, alcohol/substance abuse, ischaemia); note non-reversible factors (heart failure, hypertrophy, atrial fibrillation, hepatic/renal impairment, female sex, age>65 years); individualized risk-benefit if QTc >470 ms.\n- Special precautions: stop treatment if QTc >500 ms or increase in QTc 60–70 ms from baseline.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "SECTION SUMMARY POINTS",
+            "kind": "box",
+            "title": "Section summary points",
+            "summary": "(i) The presence of SMI increases CV risk, especially in younger people.\n(ii) Regular CV risk assessment is essential in people with SMI regardless of age, to prevent the development or progression of CVD, ideally before the prescription of antipsychotics and, afterwards, periodically in all stages of illness.\n(iii) Management of CVD in people with SMI aims to reduce modifiable CV risk factors, including weight gain, diabetes, hypertension, dyslipidaemia, smoking, unhealthy diet, and sedentary lifestyle habits.\n(iv) CVD management in people with SMI benefits from optimizing SMI pharmacotherapy: preferring monotherapy; using medications less likely to induce weight gain or other CV risks; monitoring for drug interactions and side effects; ensuring medication adherence.\n(v) Efforts to alleviate psychosocial and stress-related factors are needed in people with SMI.",
+            "continuation_status": "continues_after_page"
+          },
+          {
+            "label": "MANAGEMENT CONSENSUS STATEMENTS",
+            "kind": "box",
+            "title": "Management consensus statements",
+            "summary": "(i) Addressing stigma and managing CVD in people with SMI in accordance with CV Guidelines and best clinical practice is a responsibility of all healthcare professionals.\n(ii) CV care for people with SMI can be improved by following a holistic person-centred approach, involving close collaboration between the Psycho-Cardio team with psychiatrists, general practitioners, and sometimes other specialists to proactively facilitate the engagement of people with SMI in such programmes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section summary points box continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "8. Mental health in specific populations and situations",
+        "section_headings": [
+          "8. Mental health in specific populations and situations",
+          "8.1. Sex and gender differences in mental health and cardiovascular disease"
+        ],
+        "narrative_summary": "This section discusses how biological sex and sociocultural gender influence incidence, prevalence, presentation, diagnosis, management, and response to treatment in cardiovascular (CV) and mental health conditions. It highlights that depression and anxiety are twice as prevalent in women versus men, have increased more in women over the past two decades, and pose important risk factors for acute coronary syndromes (ACS) and cardiovascular mortality. Women experience greater impact from chronic self-perceived stress and marital stress, whereas men are more affected by job-related stress. Differences in stress response, genetic influences, inflammation, and hormone-related receptor signaling pathways are noted, with evidence drawn from human and animal models.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 15",
+            "kind": "figure",
+            "title": "Sex and gender differences in the psycho–cardio interaction",
+            "summary": "A schematic illustrating that sex (biological determinants such as genes and hormones) and gender (sociocultural concepts and roles) influence mental and cardiovascular health. It presents three profiles: men (lower reported prevalence of depression and anxiety but under-reported; increased ASCVD risk, health risk behaviors, job stress, erectile dysfunction as marker), women (≈2× higher prevalence of depression and anxiety; endogenous oestrogens protect from ASCVD while self-perceived stress, marital stress, intimate partner violence, and sexual abuse increase risk), and gender-diverse individuals (highest risk for discrimination, mental health conditions, and suicide; social marginalization, addictive behaviors, hypercoagulable effect of exogenous sex hormones, 40% increased CV risk). The bottom box lists CVDs with major sex differences (e.g., MINOCA/ANOCA, spontaneous coronary artery dissection, Takotsubo syndrome, peripartum cardiomyopathy) and mental health differences in women with CVD (e.g., increased stress–depression post-MI, perceived stress and HF admissions, anxiety and depression with AF, anxiety in cardiac arrest survivors).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section and narrative likely continue beyond the figure and caption on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "8.1.1. Cardiovascular disease and mental health conditions in transgender individuals",
+          "8.1.2. Sex and gender differences in mental health in people with obstructive coronary artery disease",
+          "8.1.3. Sex and gender differences in mental health in ischaemia/angina with non-obstructive coronary arteries and coronary vasomotor disorders",
+          "8.1.4. Sex and gender differences in mental health in people with takotsubo syndrome",
+          "8.1.5. Sex and gender differences in mental health in people with heart failure"
+        ],
+        "narrative_summary": "The page discusses how socioeconomic and sex-specific life events influence stress responses and cardiovascular outcomes, particularly in women with ischaemic heart disease. It covers mental health disparities across cardiovascular conditions: elevated risk in transgender individuals, differential stress impacts in obstructive coronary artery disease, non-obstructive coronary syndromes and vasomotor disorders (INOCA/ANOCA) including mental stress–induced ischaemia, takotsubo syndrome, and heart failure, highlighting gender-specific triggers, prognosis, and therapeutic considerations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins in the middle of a narrative section without a section-level heading; content appears to be mid-chapter."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "8.1.6. Sex and gender differences in mental health in people with arrhythmias",
+          "8.1.7. Mental health conditions associated with peri-partum cardiomyopathy",
+          "8.2. Mental and cardiovascular health in older adults"
+        ],
+        "narrative_summary": "This page discusses: (1) higher psychological stress and anxiety worsening heart failure, with women, former smokers, low-income individuals, and those with obesity reporting greater perceived stress; sex- and gender-related differences in arrhythmia patients, including higher anxiety, depression, and device-related concerns in women; (2) mental health conditions in peri-partum cardiomyopathy, where illnesses such as major depression, panic disorder, and PTSD worsen prognosis and multidisciplinary management is recommended; (3) mental and cardiovascular health in older adults, noting rising prevalence of depression, anxiety, and stress with aging, the association of late-life depression with increased cardiovascular mortality, and evidence on non-pharmacological (e.g., CBT, motivational interviewing, mindfulness) and pharmacological therapies (e.g., SSRIs, SNRIs, dose adjustments, ECG monitoring for QT-prolonging drugs) in this population.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of narrative from a previous page and the section on elderly mental health likely continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "8.3. Mental health and cardiovascular disease in people with frailty and multimorbidity",
+          "8.3.1. Mental health and frailty",
+          "8.3.2. Mental health, cardiovascular disease, and multimorbidity",
+          "8.3.3. Summary of evidence in older adults with cardiovascular disease and mental disorders"
+        ],
+        "narrative_summary": "This section discusses the increased risk of drug interactions in elderly patients, noting antipsychotics metabolized by the CYP system can interact with cardiovascular medications (e.g., beta-blockers, statins), lithium requires serum and renal monitoring and interacts with diuretics and ACE inhibitors, and benzodiazepines can cause sedation and respiratory depression, especially with other CNS depressants. Polypharmacy heightens risks like QT prolongation, arrhythmias, hypotension, myalgia, myopathy, and creatine kinase elevation. Section 8.3 reviews frailty as diminished physiological reserve overlapping with cardiovascular disease and multimorbidity. Frailty affects 40–80% of heart failure patients and has a pooled prevalence of 19% in ischaemic heart disease, increasing adverse event risk. Comprehensive geriatric assessments, including psychological and socio-environmental domains, are recommended. Depression and anxiety have a bidirectional relationship with frailty, increasing risk over time. Multimorbidity—presence of ≥2 chronic conditions—affects ~40% of the global population and is linked to higher healthcare use and costs. Collaborative management via Psycho-Cardio teams is advocated, although evidence from RCTs (e.g., 3D trial) is mixed: interventions improve mental health outcomes but show limited impact on cardiovascular endpoints. Further research on integrated care models is needed. The summary emphasizes the complexity of managing older adults with CVD, mental health conditions, multimorbidity, and polypharmacy, and highlights the role of non-pharmacological, integrated approaches (see Figure 16).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Begins with 'Additionally,' indicating continuation from prior text; references to Figure 16 suggest continuation onto subsequent page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "8.4. Mental health and cardiovascular disease in socioeconomically deprived populations"
+        ],
+        "narrative_summary": "Individuals with low socioeconomic status (SES) face increased stress, reduced access to healthcare, and limited social engagement, exacerbating psychosocial stress and cardiovascular disease (CVD) progression. Financial or housing instability may amplify stress responses, increasing vulnerability to mental health conditions such as depression and anxiety. Lower SES correlates with unhealthy lifestyle behaviors, higher prevalence of CVD and heart failure, and pronounced disparities in marginalized communities where structural inequalities worsen outcomes. Socioeconomic deprivation influences CV risk estimation, and mental health service utilization following CVD events is more frequent in deprived and ethnically marginalized populations. Health inequities are particularly evident among homeless individuals, those with substance use disorders, sex workers, and the incarcerated, with greater exclusion impacts in females. While addressing socioeconomic deprivation exceeds the clinical practice scope, it is reasonable for healthcare professionals to:",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 16",
+            "kind": "figure",
+            "title": "Ageing, mental disorders, and cardiovascular disease",
+            "summary": "A circular diagram illustrating interactions between ageing, mental disorders, and cardiovascular disease. Key factors include pharmacokinetic and pharmacodynamic changes with ageing; increased risk of polypharmacy, clinically relevant drug interactions, and side effects; rise in multimorbidity and complexity; frailty increasing risk of depression and anxiety; and global burden of CVD and mental health conditions. Peripheral annotations recommend starting with lower doses and monitoring side effects; medication rationalization and deprescribing; collaborative management to improve mental health outcomes; multi-domain geriatric assessment; and multi-component psychological interventions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends with an incomplete sentence introducing recommendations for healthcare professionals, indicating continuation on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "8.4.1. Mental health and cardiovascular disease in migrants and refugees",
+          "8.4.2. Barriers to mental healthcare access"
+        ],
+        "narrative_summary": "Below Figure 17, bullet points describe how socioeconomic deprivation increases risk of CVD and mental health conditions, and outline policy and community strategies to address these challenges. A note refers readers to Figure 18 for migrant mental health challenges. Healthcare professionals supporting migrants with CVD and mental health conditions are advised to use culturally sensitive approaches, collaborate with stakeholders, and tailor community strategies. Section 8.4.1 discusses higher rates of CVD morbidity, mortality, PTSD, and barriers such as discrimination, language, and cultural differences in migrants and refugees. Section 8.4.2 details financial, insurance, transportation, stigma, and cost barriers to accessing mental healthcare and CV care in socioeconomically deprived individuals, and calls for comprehensive strategies including subsidized services, expanded coverage, integration into primary care, and telehealth.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 17",
+            "kind": "figure",
+            "title": "Mechanisms through which socioeconomic deprivation contributes to cardiovascular risk",
+            "summary": "An infographic showing three domains of deprivation—Economic (financial instability, reduced access to healthcare/support), Environmental (air/noise pollution, lack of green spaces, low healthy food access), and Socio-educational (poor health literacy, low perceived risk, unhealthy behaviours)—all feeding into increased cardiovascular (CV) risk, with actions: Assess, Respond, Refer, Advocate.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with Figure 17 and bullet points that continue prior text; section 8.4.2 appears to continue beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "8.4.3. Stigma in healthcare provision",
+          "8.4.4. Community and policy interventions"
+        ],
+        "narrative_summary": "The page includes Figure 18 illustrating seven mental health challenges in migrant populations. The narrative highlights that lack of comprehensive health insurance coverage for socioeconomically disadvantaged individuals perpetuates disparities in access to mental healthcare and underscores the need for enhanced service provision. Section 8.4.3 describes how structural, interpersonal, and intrapersonal stigma impede access to mental health services, noting discrimination and self-stigma as major barriers. Section 8.4.4 introduces community-level and policy interventions to mitigate the adverse mental health impact of socioeconomic deprivation, indicating that initiatives addressing disparities follow.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 18",
+            "kind": "figure",
+            "title": "Mental health challenges in migrant populations",
+            "summary": "Diagram depicting mental health challenges in migrant populations, including: Poor access and use of healthcare services; Language, cultural and environmental barriers; High burden of mental health conditions; High prevalence of chronic stress; High prevalence of untreated communicable diseases; High prevalence of chronic physical conditions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins with 'Additionally,' indicating continuation; Section 8.4.4 ends with a colon and incomplete list, indicating continuation on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "8.5. Mental health and cardiovascular disease in people with cancer (cardio-oncology)",
+        "section_headings": [
+          "8.5.1. Mental health in people with cancer and cardiovascular disease",
+          "8.5.2. Cancer survivors",
+          "8.5.3. Advanced cancer disease",
+          "8.5.4. Cancer therapy-related cardiovascular toxicity",
+          "8.5.5. Impact of cancer therapy on mental health",
+          "8.5.6. Psychological interventions"
+        ],
+        "narrative_summary": "This section reviews the psychological challenges and cardiovascular implications in people with cancer. It discusses how chronic stress associated with cancer diagnosis and treatment can increase the risk of major cardiovascular events, describes Takotsubo syndrome risk factors, and highlights cancer survivors’ fears of recurrence and associated distress. It also addresses mental health issues in advanced cancer, therapy-related cardiovascular toxicity, the impact of cancer treatments on psychological well-being, and the role of psychological interventions in cardio-oncology care.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a bullet list and ends in the middle of section 8.5.6 narrative."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [
+          "8.5.7. Lifestyle interventions in cardio-oncology"
+        ],
+        "narrative_summary": "The text describes the impact of psychosocial distress—depression, anxiety, anger, social isolation, marital/family distress, sexual dysfunction, and substance abuse—in the cardio-oncology setting and emphasizes multidisciplinary team discussions involving cardiovascular specialists, oncologists, and mental health professionals. It recommends referral to mental health specialists collaborating with the primary cardio-oncology team to provide comprehensive care. A comprehensive approach is advocated, monitoring cardiovascular and mental health during and after cancer therapy, with a cardio-oncology clinic doctor addressing cardiovascular toxicity. Physical activity benefits include exercise-based programmes improving cardiorespiratory fitness and survival in cancer survivors with CVD, ECR-improved depression in breast cancer survivors, exercise interventions reducing mortality and improving psychosocial function and sleep in advanced/metastatic cancer, and comprehensive cardiovascular risk reduction programmes enhancing mental health in women receiving potentially cardiotoxic breast cancer therapies.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 19",
+            "kind": "figure",
+            "title": "Management of mental health in people with cardiovascular disease and cancer. CVD, cardiovascular disease; PTSD, post-traumatic stress disorder.",
+            "summary": "Flowchart illustrating patients with CVD and cancer (including those with cancer-related CVD or CVD diagnosed in cancer treatment), leading to mental health disorders (stress, anxiety, depression, PTSD) and worsening of mental health influenced by active cancer uncertainties and fear of prognosis in survivors, and the role of a psycho-cardio team delivering interventions—lifestyle interventions, psychological therapies, pharmacological treatment—across preventive, supportive, and treatment phases.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "8.5.8. Medical interventions (including pharmacological therapies)",
+          "8.6. Section summary points and management consensus statements from Section 8",
+          "9. Key messages"
+        ],
+        "narrative_summary": "Section 8.5.8 discusses that there are no specific cardio-oncology recommendations for psychiatric drugs, but general cardiology and oncology evidence may be applied with caution. Advanced cancer increases ventricular arrhythmia risk, and psychiatric, cardiovascular, and oncological drugs can interact to prolong QT interval and increase bleeding risk. Avoiding drug–drug interactions is crucial to maintain cancer treatment effectiveness. Treating cancer-related cardiovascular dysfunction and anaemia may alleviate anxiety and dyspnoea, while managing tachyarrhythmias can improve psychological symptoms. Reducing anxiety and stress may also lower blood pressure and help control hypertension in people living with cancer.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Management Consensus Statements",
+            "kind": "box",
+            "title": "MANAGEMENT CONSENSUS STATEMENTS",
+            "summary": "Three consensus statements advising: (i) Psycho-Cardio teams should tailor interventions to population specifics (sex, age, frailty, SES); (ii) assess antidepressants, drug interactions, and side effects in multimorbid, elderly, frail patients; (iii) proactive programmes for migrants and refugees to address cardiovascular and mental health access.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Key Messages",
+            "kind": "box",
+            "title": "9. Key messages",
+            "summary": "Twelve key messages emphasizing the integration of mental and cardiovascular care, implementation of tailored Psycho-Cardio team approaches, use of ACTIVE principles, screening and stepped care strategies for mental health in CVD, limited evidence on psychosocial intervention outcomes, balanced pharmacotherapy considering drug–drug interactions, support for caregivers, stigma reduction, and personalization based on individual patient characteristics (sex, age, frailty, SES, comorbidities).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Section Summary Points",
+            "kind": "table",
+            "title": "SECTION SUMMARY POINTS",
+            "summary": "Six summary points noting: (i) higher prevalence of depression, anxiety, chronic stress in women with CVD; (ii) worse mental health outcomes in women with CVD; (iii) gender-related biological and sociocultural factors; (iv) importance of evaluating mental health and frailty in elderly CVD patients; (v) socioeconomic deprivation linked to higher CVD and mental disorder rates; (vi) three-way relationships among cancer, CVD, and mental disorders.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section summary points table is marked “Continued” and spans to next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "10. Gaps in knowledge",
+        "section_headings": [
+          "10. Gaps in knowledge",
+          "10.1 Knowledge gaps in relation to prevention and screening",
+          "10.2 Knowledge gaps in relation to clinical management",
+          "10.3 Knowledge gaps in relation to special populations",
+          "10.4 Knowledge gaps in relation to healthcare systems and healthcare delivery",
+          "11. Conclusions"
+        ],
+        "narrative_summary": "This page outlines the major gaps in understanding and managing the interplay between mental health and cardiovascular disease (CVD). Section 10 emphasizes the lack of evidence-based, cost-effective interventions for prevention, screening, and treatment of mental health conditions in people with CVD, as well as the need for research on optimal screening protocols, tailored non-pharmacological and pharmacological strategies, and the role of pharmacogenomics and psychiatric drugs in cardiac populations. Section 10.3 notes recalibration needs for cardiovascular risk scores in people with severe mental illness. Section 10.4 highlights the need to develop and evaluate integrated care models, streamlined care pathways, and community-level interventions to address socioeconomic disparities. Section 11 concludes by calling for integrated mental and CV health assessment, stigma reduction, co-designed care models, and rigorous randomized controlled trials to evaluate interventions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "",
+        "section_headings": [
+          "12. Summary of mental health aspects in specific cardiovascular diseases",
+          "13. Clinical cases and patient perspectives",
+          "14. Evidence tables",
+          "15. Data availability statement",
+          "16. Author information",
+          "17. Appendix"
+        ],
+        "narrative_summary": "This page provides summary information and links to supplementary materials for mental health aspects in cardiovascular diseases, clinical cases, evidence tables, and data availability statements. It lists author and task force member affiliations, followed by an appendix detailing the ESC Scientific Document Group, document reviewers, and ESC National Cardiac Societies.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends in the middle of the list of ESC National Cardiac Societies, cutting off after 'Germany: German'."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "18. References"
+        ],
+        "narrative_summary": "Acknowledgments listing national cardiology societies and ESC Clinical Practice Guidelines Committee members, followed by the references list entries 1 through 28.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the acknowledgments list of societies and committees and ends in the middle of the References section, which likely continues on adjacent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues from citation 28 and through citation 71, indicating ongoing references section"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains the reference list for ESC Guidelines, listing citations numbered 251 through 294.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues from previous page and likely continues onto next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains references 383 to 425 of the ESC guideline, continuing a bibliographic list.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list spans multiple pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page is part of the reference list, which began on a previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list spans multiple pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains references numbered 553 to 593, listing citations of studies and articles relevant to cardiovascular guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "This page is part of the references section, continuing from previous and likely onto subsequent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Page contains a list of references (numbers 638–677) from the ESC Guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

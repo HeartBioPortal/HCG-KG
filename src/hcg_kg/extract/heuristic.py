@@ -379,9 +379,15 @@ class HeuristicBiomedicalExtractor:
     def _extract_evidence_class(self, snippet: SourceSnippet) -> str | None:
         for candidate in (
             snippet.raw_fields.get("Class of Recommendation"),
+            snippet.raw_fields.get("class_of_recommendation"),
+            snippet.raw_fields.get("COR"),
+            snippet.raw_fields.get("cor"),
             snippet.text,
         ):
             if isinstance(candidate, str):
+                stripped = candidate.strip()
+                if re.fullmatch(r"I{1,3}|IV|1|2a|2b|3|III:\s*(?:No Benefit|Harm)", stripped, re.IGNORECASE):
+                    return stripped
                 match = EVIDENCE_CLASS_PATTERN.search(candidate)
                 if match:
                     return match.group(1)
@@ -390,9 +396,15 @@ class HeuristicBiomedicalExtractor:
     def _extract_evidence_level(self, snippet: SourceSnippet) -> str | None:
         for candidate in (
             snippet.raw_fields.get("Level of Evidence"),
+            snippet.raw_fields.get("level_of_evidence"),
+            snippet.raw_fields.get("LOE"),
+            snippet.raw_fields.get("loe"),
             snippet.text,
         ):
             if isinstance(candidate, str):
+                stripped = candidate.strip()
+                if re.fullmatch(r"[A-C](?:-[A-Z]+)?", stripped, re.IGNORECASE):
+                    return stripped.upper()
                 match = EVIDENCE_LEVEL_PATTERN.search(candidate)
                 if match:
                     return match.group(1).upper()

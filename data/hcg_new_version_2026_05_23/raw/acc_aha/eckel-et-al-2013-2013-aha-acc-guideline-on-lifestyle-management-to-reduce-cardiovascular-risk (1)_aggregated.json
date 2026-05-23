@@ -1,0 +1,948 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+        "section_headings": [],
+        "narrative_summary": "Cover page of the guideline including title, publication details, a list of expert work group and task force members, and endorsing organizations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "This is the cover page; the main guideline content continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Preamble and Transition to ACC/AHA Guidelines to Reduce Cardiovascular Risk",
+        "section_headings": [
+          "TABLE OF CONTENTS",
+          "References",
+          "Appendix 1. Author Relationships With Industry and Other Entities (Relevant)",
+          "Appendix 2. Expert Reviewer Relationships With Industry and Other Entities",
+          "Appendix 3. Abbreviations",
+          "Preamble and Transition to ACC/AHA Guidelines to Reduce Cardiovascular Risk"
+        ],
+        "narrative_summary": "The narrative outlines the goals of the ACC and AHA to prevent and manage cardiovascular diseases through professional education, research, and the development of guidelines, standards, and policies. It describes the collaboration with the NHLBI and other stakeholder organizations since 2008, the use of systematic evidence reviews and critical questions, and the 2013 NHLBI–ACC/AHA partnership to publish four guidelines. It also notes the role of the ACC/AHA Task Force and Expert Panels in shepherding the transition and publishing expectations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative text ends mid-sentence, indicating continuation on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "1.1 Scope of Guideline",
+          "1.2 Methodology and Evidence Review",
+          "1.2.1 Scope of the Evidence Review"
+        ],
+        "narrative_summary": "This page continues the introduction to the 2013 AHA/ACC Lifestyle Management Guideline. It describes the development process, including the role of NHLBI and ACC/AHA, evidence grading formats (COR/LOE), disclosure policies for writing panel relationships, and outlines the guideline’s scope and methodology. The Scope of Guideline section emphasizes dietary patterns, nutrient intake, and physical activity effects on CVD risk factors, while the Evidence Review section introduces the types of studies (RCTs, observational, meta-analyses, systematic reviews) used for formulation.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of sentences indicating narrative continuation from and to adjacent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The narrative continues discussion of the evidence review for dietary interventions: studies from 1998 to 2009 in populations with or without established coronary heart disease/CVD and across weight categories; evidence date ranges and CQ section specifications; assessment of the impact of dietary patterns and macronutrient composition on LDL-C, HDL-C, triglycerides, and systolic/diastolic BP over a minimum 1-month RCT period. The Work Group emphasizes examining dietary patterns (e.g., Mediterranean-style [MED] pattern) rather than isolated nutrients, noting that combinations of foods differing in macronutrient, vitamin, and mineral content (saturated, trans, monounsaturated, polyunsaturated fats; sodium; potassium) influence plasma lipids, lipoproteins, and BP, with epidemiological research characterizing population eating behaviors.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 1",
+            "kind": "table",
+            "title": "Applying Classification of Recommendation and Level of Evidence",
+            "summary": "Matrix presenting Class of Recommendation (I, IIa, IIb, III) versus Level of Evidence (A, B, C), descriptions of benefit-risk, procedural recommendations, evidentiary sources, suggested recommendation writing phrases, and comparative effectiveness phrases.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins and ends mid-sentence, indicating continuation from previous and to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues narrative describing the work group’s review of dietary pattern studies and physical activity evidence. It notes that intervention studies have tested hypotheses involving prescribed dietary patterns (e.g., DASH or MED), with cohort studies and RCTs suggesting healthier patterns are associated with lower CVD risk. It explains that nutritional supplements were excluded and that the Work Group focused on lifestyle interventions. It then discusses challenges in assessing hard outcomes (MI, stroke, heart failure, CVD-related death) for dietary changes, the inclusion of observational sodium data, and summarizes evidence linking higher aerobic physical activity levels to lower CVD and type 2 diabetes risk, indicating a dose–response relationship. The text cuts off mid-sentence.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "NHLBI Grading of the Strength of Recommendations",
+            "summary": "Grades A (strong recommendation) through N (no recommendation) are defined, with descriptions of certainty and net benefit for each grade.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "NHLBI Quality Rating of the Strength of Evidence",
+            "summary": "Types of evidence (RCTs, meta-analyses, observational studies, clinical observations, physiological studies) are mapped to quality ratings High, Moderate, and Low, with explanatory footnotes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins and ends mid-sentence indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "section_headings": [
+          "1.2.2. CQ-Based Approach"
+        ],
+        "narrative_summary": "The page presents a table of the three critical questions guiding the evidence review (CQ1–CQ3), followed by narrative describing the search strategy for physical activity and dietary evidence, including systematic reviews and meta-analyses of RCTs in adults ≥18 years (published 2001–2011), the Obesity Expert Panel’s review of weight management, and extensions of the sodium and physical activity evidence reviews through April 2012 and May 2011 respectively. It notes resource limitations that constrained the review timeframe, but Work Group confidence that broader review would not alter conclusions, and the derivation of ten lifestyle recommendations for patients with abnormal lipids or blood pressure. The narrative continues with prevalence of risk factors among U.S. adults and introduces the CQ-based approach and bullet-point outline of report organization.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Critical Questions",
+            "summary": "Lists three critical questions: CQ1 on dietary patterns/macronutrient composition effects on CVD risk factors; CQ2 on sodium and potassium intake effects on CVD risk factors and outcomes; and CQ3 on physical activity effects on blood pressure and lipids, each compared with no treatment or other interventions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with Table 4 and narrative starts mid-sentence; ends with bullet point for CQ3 cut off mid-sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "Table 5. Summary of Recommendations for Lifestyle Management",
+        "section_headings": [
+          "Table 5. Summary of Recommendations for Lifestyle Management",
+          "DIET",
+          "LDL-C",
+          "BP",
+          "PHYSICAL ACTIVITY",
+          "Lipids",
+          "BP"
+        ],
+        "narrative_summary": "This page presents Table 5 summarizing lifestyle management recommendations for diet (LDL-C lowering and blood pressure lowering) and physical activity, including the ACC/AHA Class of Recommendation and Level of Evidence.",
+        "recommendation_tables": [
+          {
+            "title": "LDL-C: Advise adults who would benefit from LDL-C lowering to:",
+            "rows": [
+              {
+                "recommendation": "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats. a. Adapt this dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions (including diabetes). b. Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ1: ES4 (high), ES6 (low), ES8 (moderate), ES9 (moderate)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aim for a dietary pattern that achieves 5%–6% of calories from saturated fat.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ1: ES11 (high)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Reduce percent of calories from saturated fat.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ1: ES11 (high), ES12 (moderate), ES13 (moderate)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Reduce percent of calories from trans fat.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ1: ES14 (moderate), ES15 (moderate)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "BP: Advise adults who would benefit from BP lowering to:",
+            "rows": [
+              {
+                "recommendation": "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats. a. Adapt this dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions (including diabetes). b. Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ1: ES1 (low), ES3 (high), ES5 (high), ES6 (low), ES7 (low), ES8 (moderate)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Lower sodium intake.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ2: ES1 (high), ES2 (moderate), ES3 (high), ES4 (high), ES5 (high), ES8 (low), ES9 (low)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "a. Consume no more than 2,400 mg of sodium/d; b. Further reduction of sodium intake to 1,500 mg/d can result in even greater reduction in BP; and c. Even without achieving these goals, reducing sodium intake by at least 1,000 mg/d lowers BP.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "CQ2: ES2 (moderate), ES3 (high)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Combine the DASH dietary pattern with lower sodium intake.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ1: ES3 (high), ES5 (high), ES8 (moderate); CQ2: ES1 (high), ES2 (moderate), ES3 (high), ES4 (high), ES5 (high), ES6 (moderate)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Physical Activity",
+            "rows": [
+              {
+                "recommendation": "In general, advise adults to engage in aerobic physical activity to reduce LDL-C and non-HDL-C: 3–4 sessions per wk, lasting on average 40 min per session, and involving moderate- to vigorous-intensity physical activity.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ3: ES1 (moderate), ES2 (moderate), ES5 (low)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In general, advise adults to engage in aerobic physical activity to lower BP: 3–4 sessions per wk, lasting on average 40 min per session, and involving moderate- to vigorous-intensity physical activity.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "CQ3: ES1 (high)",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": "Table 5 begins and ends on this page in its entirety."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "section_headings": [
+          "1.3 Organization of Work Group",
+          "1.4 Document Reviews and Approval",
+          "2. Lifestyle Management Recommendations",
+          "3. CQ1—Dietary Patterns and Macronutrients: BP and Lipids",
+          "3.1 Introduction/Rationale",
+          "3.2 Selection of Inclusion/Exclusion Criteria",
+          "3.3 Literature Search Yield",
+          "3.3.1 Dietary Pattern/Macronutrient Composition Evidence",
+          "3.4 CQ1 Evidence Statements",
+          "3.4.1 Dietary Patterns",
+          "3.4.1. MED PATTERN"
+        ],
+        "narrative_summary": "This page continues the general methods and organizational descriptions for the guideline, including the work group composition, peer-review process, and endorsements. It then introduces the first clinical question (CQ1) on dietary patterns and macronutrients for blood pressure and lipids, outlining the rationale for nutrition’s role in cardiovascular disease, the PICOTS‐based inclusion/exclusion criteria, the literature search yield for dietary pattern/macro composition studies, and begins the evidence statements section with the Mediterranean (MED) pattern description.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a paragraph on physical activity recommendations and ends mid-sentence in the MED pattern description."
+        },
+        "extraction_warnings": [
+          "References are made to Table 5, Table 6, and Table 7, but these tables are not present on this page; recommendation content from those tables cannot be extracted."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "3.4.1.2. DASH Dietary Pattern",
+          "3.4.1.3. DASH Variations",
+          "3.4.2. Dietary Fat and Cholesterol",
+          "3.5. Diet Recommendations for LDL-C Lowering"
+        ],
+        "narrative_summary": "The page continues discussion of dietary patterns for cardiovascular risk factors, noting features of Mediterranean (MED) diets—high in fruits, vegetables, whole grains, omega-3 fatty acids, and unsaturated fats, low in red meat and saturated fat—and describes the DASH dietary pattern (rich in vegetables, fruits, low-fat dairy, whole grains, poultry, fish, and nuts; low in sweets and saturated fat) and its variations evaluated in the OmniHeart trial. It references an adequately powered crossover study of daily food provision. The section leads into diet recommendations for LDL-C lowering based on earlier critical questions.",
+        "recommendation_tables": [
+          {
+            "title": "ESs for BP and Lipids With the MED Pattern",
+            "rows": [
+              {
+                "recommendation": "Counseling to eat a MED pattern, as compared with minimal advice to consume a low-fat dietary pattern, in free-living middle-aged or older adults (with type 2 diabetes or at least 3 CVD risk factors) reduced BP by 6-7/2-3 mm Hg. In an observational study of healthy younger adults, adherence to a MED pattern was associated with lower BP (2-3/1-2 mm Hg).",
+                "class_of_recommendation": "",
+                "level_of_evidence": "Low",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Counseling to eat a MED pattern, compared with minimal or no dietary advice, in free-living middle-aged or older adults (with or without CVD or at high risk for CVD) resulted in no consistent effect on plasma LDL-C, HDL-C, and triglycerides, in part because of substantial differences and limitations in the studies.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "Low",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "ESs for BP and Lipids With the DASH Pattern",
+            "rows": [
+              {
+                "recommendation": "When all food was supplied to adults with BP 120–159/80–95 mm Hg and both body weight and sodium intake were kept stable, the DASH dietary pattern, compared with a typical American diet of the 1990s, lowered BP by 5–6/3 mm Hg.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "High",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "When food was supplied to adults with a total cholesterol level <260 mg/dL and LDL-C level <160 mg/dL and body weight was kept stable, the DASH dietary pattern, compared with a typical American diet of the 1990s, lowered LDL-C by 11 mg/dL, lowered HDL-C by 4 mg/dL, and had no effect on triglycerides.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "High",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "When all food was supplied to adults with BP 120–159/80–95 mm Hg and body weight was kept stable, the DASH dietary pattern, compared with the typical American diet of the 1990s, lowered BP in women and men, African-American and non–African-American adults, older and younger adults, and hypertensive and nonhypertensive adults.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "High",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "When all food was supplied to adults with a total cholesterol level <260 mg/dL and LDL-C level <160 mg/dL and body weight was kept stable, the DASH dietary pattern, compared with a typical American diet of the 1990s, lowered LDL-C similarly in subgroups: African-American and non–African-American adults and hypertensive and nonhypertensive adults.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "Low",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "When all food was supplied to adults with a total cholesterol level <260 mg/dL and LDL-C level <160 mg/dL and body weight was kept stable, the DASH dietary pattern, compared with a typical American diet of the 1990s, lowered HDL-C similarly in subgroups: African-American and non–African-American adults, hypertensive and nonhypertensive adults, and men and women.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "Low",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 6",
+            "kind": "table",
+            "title": "CQ for Dietary Patterns and Macronutrients: BP and Lipids",
+            "summary": "CQ1: Among adults, what is the effect of dietary patterns and/or macronutrient composition on CVD risk factors, when compared with no treatment or with other types of interventions?",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page starts in the middle of a narrative paragraph and ends mid-sentence."
+        },
+        "extraction_warnings": [
+          "Table 7 and Table 8 rows have no visible Class of Recommendation values; class_of_recommendation fields left empty."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "error": "Unterminated string starting at: line 1 column 885 (char 884)"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Table 10. ESs for Dietary Fat and Cholesterol",
+        "section_headings": [
+          "Saturated Fat",
+          "Trans Fat",
+          "Dietary Cholesterol"
+        ],
+        "narrative_summary": "The lower left column continues commentary on the comparative effects of reducing saturated fat on LDL-C versus HDL-C and recommends substitution with unsaturated fats or whole grains. The lower right column presents Recommendation 4 advising adults who would benefit from LDL-C lowering to reduce percentage of calories from trans fat, followed by rationale.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation 4",
+            "rows": [
+              {
+                "recommendation": "Advise adults who would benefit from LDL-C lowering to reduce percentage of calories from trans fat.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A. Rationale: Reducing intake of trans fatty acids lowers LDL-C, with little or no effect on HDL-C or triglyceride levels. The direction of the relationship is consistent regardless of replacement nutrients.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 10",
+            "kind": "table",
+            "title": "ESs for Dietary Fat and Cholesterol",
+            "summary": "Evidence statements ES11–ES16 describe the lipid effects of saturated fats, trans fats, and dietary cholesterol in controlled feeding trials, with strengths of evidence ranging from high to insufficient.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text in the lower left begins mid-sentence, and the right column rationale ends mid-sentence, indicating continuation both before and after this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "section_headings": [
+          "Table 11. Resources and Information for Dietary Planning",
+          "Table 12. CQ for Sodium and Potassium: BP and CVD Outcomes",
+          "4. CQ2—Sodium and Potassium: BP and CVD Outcomes",
+          "4.1. Introduction and Rationale",
+          "4.2. Selection of Inclusion/Exclusion Criteria",
+          "4.3. Literature Search Yield"
+        ],
+        "narrative_summary": "The Work Group reiterates the importance of reducing trans fat intake, noting that even naturally occurring trans fatty acids may be present in small amounts in the U.S. diet and that adhering to recommendations to reduce saturated fat sources results in further trans fat reduction. The page introduces Critical Question 2 (CQ2) on the individual effects of dietary sodium and potassium on blood pressure and cardiovascular disease (CVD) outcomes, explains the rationale for a systematic review focused on sodium and potassium, describes the PICOTS‐based inclusion and exclusion criteria used to select relevant studies (adults with or without established CVD or risk factors, various weight statuses, tobacco use, sample size requirements, and exclusion of studies with >3% weight change), and summarizes the literature search yield (34 studies, 46 citations rated good or fair quality, with summary tables available detailing minerals, outcomes, sodium subquestions, and subpopulations).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 11",
+            "kind": "table",
+            "title": "Resources and Information for Dietary Planning",
+            "summary": "Lists resources including DASH Eating Plan guides, AHA Diet and Lifestyle Recommendations articles and statements, and Dietary Guidelines for Americans resources (2010 and 2011 guidelines, USDA Food Patterns).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 12",
+            "kind": "table",
+            "title": "CQ for Sodium and Potassium: BP and CVD Outcomes",
+            "summary": "Presents CQ2: “Among adults, what is the effect of dietary intake of sodium and potassium on CVD risk factors and outcomes, when compared with no treatment or with other types of interventions?” Notes that BP indicates blood pressure; CQ, critical question; and CVD, cardiovascular disease.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "4.4. CQ2 Evidence Statements",
+          "4.4.1. Sodium and BP",
+          "4.5. Diet Recommendations for BP Lowering"
+        ],
+        "narrative_summary": "Section 4.4.1 explains the conversion of sodium units (mmol, grams) to milligrams for consistency across dietary and urinary sodium data in the CQ2 evidence statements, noting that U.S. dietary recommendations and Nutrition Facts labels display sodium in milligrams. The narrative also emphasizes that caloric intake should be individualized and that dietary patterns should be adapted to personal and cultural preferences, referencing available patient materials, the 2010 U.S. Dietary Guidelines, the USDA Food Pattern, and the DASH pattern, and recommending clinician familiarity and referral to nutrition professionals.",
+        "recommendation_tables": [
+          {
+            "title": "Diet Recommendations for BP Lowering",
+            "rows": [
+              {
+                "recommendation": "Advise adults who would benefit from BP lowering to: a. Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats. i. Adapt this dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions (including diabetes). ii. Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "This recommendation is based largely on studies of the DASH dietary pattern (DASH and DASH-Sodium), which provided the highest-quality evidence that this food-based dietary pattern improves lipid profiles and BP (Tables 8 and 9, CQ1 ES3–ES9). This evidence was supplemented by studies of low quality in which various adaptations of the MED pattern were tested and also found to reduce BP (Table 7, CQ1 ES1). The evidence suggests that the effects of the recommended dietary pattern persist as long as the pattern is consumed. The BP-lowering effect has been demonstrated in adults with hypertension and prehypertension and is evident in men and women, African-American and non-African-American adults, and older and younger adults (Table 8, ES5). The dietary pattern’s effect on BP is independent of changes in weight and sodium intake. The magnitude of effect is sufficient to prevent progression from prehypertension to hypertension, promote nonpharmacological BP control in those with hypertension, and supplement pharmacological BP lowering.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Advise adults who would benefit from BP lowering to: a. Lower sodium intake.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "There is strong and consistent clinical trial evidence that reducing sodium intake lowers BP. This BP-lowering effect has been demonstrated in adults with hypertension and prehypertension, in men and women, in African-American and non-African-American adults, and in older and younger adults. Trials contributing to this evidence include well-controlled feeding studies as well as studies in which participants were counseled to lower sodium intake. The effect of reducing sodium intake on BP is independent of changes in weight. The magnitude of effect is sufficient both to prevent progression from prehypertension to hypertension and to promote nonpharmacological BP control in those with hypertension. Observational data also suggest that lower sodium intake is associated with lower risk of cardiovascular events in people with and without hypertension, which is hypothesized to occur through reductions in BP.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Advise adults who would benefit from BP lowering to: a. Consume no more than 2,400 mg of sodium/d; b. Further reduction of sodium intake to 1,500 mg/d can result in even greater reduction in BP; c. Even without achieving these goals, reducing sodium intake by at least 1,000 mg/d lowers BP.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "One well-conducted trial demonstrated clinically meaningful lowering of BP when sodium was reduced to 2,400 mg/d, with lower BPs achieved when sodium intake was reduced to 1,500 mg/d. Reductions of 1,000 mg/d were shown to be beneficial in trials, and observational studies",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Rationale for recommendation 3 continues to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "Table 13. CQ2 ESs for Sodium and BP",
+        "section_headings": [
+          "Overall Results of Sodium and the Effect on BP",
+          "Comparison of Different Levels of Sodium Intake",
+          "Sodium in Subpopulations",
+          "Sodium and Dietary Pattern Changes",
+          "Sodium in the Context of Other Minerals and BP",
+          "Sodium and Congestive Heart Disease/CVD Outcomes",
+          "Potassium and BP and Congestive Heart Disease/CVD Outcomes"
+        ],
+        "narrative_summary": "This table lists evidence statements (ES1–ES14) summarizing the effects of dietary sodium (and potassium) intake on blood pressure and cardiovascular disease outcomes. It covers overall effects, different intake levels, effects in various subpopulations, interactions with dietary patterns and other minerals, and cardiovascular outcomes, with each statement graded for strength of evidence.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 13",
+            "kind": "table",
+            "title": "CQ2 ESs for Sodium and BP",
+            "summary": "Evidence statements ES1 through ES14 with associated \"Strength of Evidence\" classifications regarding sodium and blood pressure or CVD outcomes.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5. CQ3—Physical Activity: Lipids and BP",
+          "5.1 Introduction/Rationale",
+          "5.2 Selection of Inclusion/Exclusion Criteria",
+          "5.3 Literature Search Yield"
+        ],
+        "narrative_summary": "Left column continues discussion on reducing sodium intake for adults with prehypertension or hypertension, including strength and basis of dietary sodium recommendations, the DASH-Sodium trial evidence, and challenges in implementation. Right column introduces CQ3 on physical activity’s effects on lipids and blood pressure, summarizing observational data on activity and CVD risk, proposed mechanisms mediating lipid and BP changes, the Work Group’s inclusion/exclusion criteria, and literature search yield of systematic reviews and meta-analyses.",
+        "recommendation_tables": [
+          {
+            "title": "Advise adults who would benefit from BP lowering to",
+            "rows": [
+              {
+                "recommendation": "Combine the DASH dietary pattern with lower sodium intake.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 14",
+            "kind": "table",
+            "title": "CQ for Physical Activity: Lipids and BP",
+            "summary": "Table header showing critical question for physical activity effects on blood pressure and lipids, without visible content rows",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins amid sodium intake narrative and Table 14 header without full table content; ends mid-sentence in Section 5.3, suggesting continuation of narrative and table on surrounding pages."
+        },
+        "extraction_warnings": [
+          "Table 14 content rows not visible on this page; may continue on other pages",
+          "Page includes narrative content from preceding sodium intake section (CQ2) that does not align with Table 14 header",
+          "Recommendation numbering suggests continuation from previous page"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5.4. CQ3 Evidence Statements",
+          "5.4.1. Physical Activity and Lipids",
+          "5.4.2. Physical Activity and BP",
+          "5.4.2.1 Aerobic Exercise Training and BP",
+          "5.4.2.2 Resistance Exercise Training and BP",
+          "5.4.2.3 Combination of Aerobic and Resistance Exercise Training and BP"
+        ],
+        "narrative_summary": "This page introduces CQ3 evidence statements summarizing systematic review findings on physical activity interventions. It references Table 15 for lipid outcomes and describes that evidence from the 2008 Physical Activity Guidelines Advisory Committee Report and subsequent meta-analyses supports effects of aerobic and resistance exercise on HDL-C, LDL-C, triglycerides, and non–HDL-C. It then transitions to evidence statements for physical activity and blood pressure, noting sourced meta-analyses and the absence of consistent data on resistance training for BP reduction, and introduces Table 16 for aerobic exercise and BP.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 15",
+            "kind": "table",
+            "title": "ESs for Physical Activity and Lipids",
+            "summary": "Evidence statements (ES1–ES5) on aerobic and resistance exercise effects on lipid measures: ES1–ES4 detail that aerobic activity reduces LDL-C by 3–6 mg/dL, reduces non–HDL-C by 6 mg/dL, and has no consistent effect on triglycerides or HDL-C (Strength of Evidence: Moderate). ES5 indicates that resistance training reduces LDL-C, triglycerides, and non–HDL-C by 6–9 mg/dL on average with no effect on HDL-C; typical programs lasted 24 weeks with ≥3 sessions/week, 3 sets of 11 repetitions at ~70% 1RM (Strength of Evidence: Low).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 16",
+            "kind": "table",
+            "title": "ES for Aerobic Exercise Training and BP",
+            "summary": "ES1: Among adults (including those with hypertension), aerobic physical activity decreases systolic BP by 2–5 mm Hg and diastolic BP by 1–4 mm Hg; typical interventions involve ≥12 weeks duration, 3–4 sessions/week, ≥40 min/session at moderate-to-vigorous intensity (Strength of Evidence: High).",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of narrative text and ends mid–Table 16 entry."
+        },
+        "extraction_warnings": [
+          "Table 16 is partially cut off at the bottom of the page; subsequent ES statements may be missing."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "section_headings": [
+          "5.5 Physical Activity Recommendations",
+          "5.6 Heart-Healthy Nutrition and Physical Activity Behaviors",
+          "6. Gaps in Evidence and Future Research Needs",
+          "6.1 Diet"
+        ],
+        "narrative_summary": "The page continues physical activity recommendations with rationale, noting dose–response benefits of higher intensity and duration; introduces heart-healthy nutrition and physical activity behaviors referencing Table 17; and begins identifying gaps in evidence and future research needs in diet, including interaction between dietary modification and statin therapy and effects of different fatty acids and carbohydrate types.",
+        "recommendation_tables": [
+          {
+            "title": "5.5 Physical Activity Recommendations",
+            "rows": [
+              {
+                "recommendation": "In general, advise adults to engage in aerobic physical activity to reduce LDL-C and non–HDL-C: 3 to 4 sessions per week, lasting on average 40 minutes per session, and involving moderate- to vigorous-intensity physical activity.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "NHLBI Grade: B (moderate); ACC/AHA COR: IIa, LOE: A  Rationale: This recommendation was based on evidence from meta-analyses and reviews published from 2001 onward and rated fair to good. This is also consistent with the findings of the literature review conducted for the 2008 Physical Activity Guidelines Advisory Committee Report, in which it was found that it may require 12 metabolic equivalent task-hours per week of exercise to favorably influence LDL-C. The amount of physical activity recommended above for reducing LDL-C and non–HDL-C is congruent with the amount of physical activity recommended in 2008 by the federal government for overall health: “Most health benefits occur with at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity physical activity, such as brisk walking. Additional benefits occur with more physical activity” (99).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In general, advise adults to engage in aerobic physical activity to lower BP: 3 to 4 sessions per week, lasting on average 40 minutes per session, and involving moderate- to vigorous-intensity physical activity.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "NHLBI Grade: B (moderate); ACC/AHA COR: IIa, LOE: A  Rationale: This recommendation was based on evidence from meta-analyses and reviews rated fair to good that were published from 2001 onward, as well as the 2008 Physical Activity Guidelines Advisory Committee Report. The amount of physical activity recommended above for lowering BP is congruent with the amount of physical activity recommended in 2008 by the federal government for overall health: “Most health benefits occur with at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity physical activity, such as brisk walking. Additional benefits occur with more physical activity” (99). It is worth noting that the present recommendation is congruent with (i.e., expends approximately the same amount of energy) but not identical to the 2008 federal guidelines. This is because the present recommendation is based on a review of meta-analyses of exercise in relation to BP only (hence, the specific regimens as used in the clinical trials), whereas the 2008 federal guidelines targeted overall health (i.e., not just BP). Additionally, the 2008 federal guidelines for overall health make it clear that any amount of physical activity is healthful (“Some physical activity is better than none”), and that there is a dose-response relationship (“For most health outcomes, additional benefits occur as the amount of physical activity increases through higher intensity, greater frequency, and/or longer duration”).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 17",
+            "kind": "table",
+            "title": "Heart-Healthy Nutrition and Physical Activity Behaviors",
+            "summary": "Lists recommended lifestyle behaviors for adults including: consuming a dietary pattern emphasizing vegetables, fruits, whole grains, low-fat dairy, poultry, fish, legumes, nuts; limiting sodium, sweets, sugar-sweetened beverages, and red meats; adapting dietary patterns to calorie requirements, personal and cultural preferences, and medical conditions; achieving dietary goals via DASH, USDA Food Pattern, or AHA Diet; engaging in ≥150 min/week moderate-intensity or ≥75 min/week vigorous-intensity aerobic physical activity in ≥10-minute bouts; and achieving and maintaining a healthy weight per the 2013 Obesity Expert Panel Report.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-narrative and ends within section 6.1 Diet bullet list before continuation."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "2013 AHA/ACC Lifestyle Management Guideline (excerpt)",
+        "section_headings": [
+          "6.2. Physical Activity",
+          "Presidents and Staff"
+        ],
+        "narrative_summary": "This page continues a list of research gaps related to dietary patterns and sodium intake, then introduces Section 6.2 on additional research needed regarding physical activity, followed by the beginning of the Presidents and Staff listing for the guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Begins in the middle of a bullet list of research topics from the previous page and ends in the middle of the Presidents and Staff list, which continues on the next page."
+        },
+        "extraction_warnings": [
+          "Bullets referring to exercise in the right column appear before the Section 6.2 header; these are treated as part of the continued list from the previous section."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "REFERENCES",
+        "section_headings": [
+          "REFERENCES"
+        ],
+        "narrative_summary": "This page lists bibliographic references cited in the guideline, numbered 1 through 38.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Reference list continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "References"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages, starting at reference 80 and likely continuing beyond reference 125."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. Author Relationships With Industry and Other Entities (Relevant)—2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+        "section_headings": [
+          "Appendix 1. Author Relationships With Industry and Other Entities (Relevant)—2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk"
+        ],
+        "narrative_summary": "This page presents the disclosure table for committee members, detailing their employment, consulting relationships, speakers bureau affiliations, ownership/partnership interests, personal research support, and expert witness activities for the periods 2008–2012 and 2013.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Author Relationships With Industry and Other Entities",
+            "summary": "Disclosures by committee member showing employment, consultant relationships, speakers bureau, ownership/partnership, personal research support, and expert witness roles for 2008–2012 and 2013.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References section continues from previous page and the appendix table is continued on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. Continued",
+        "section_headings": [],
+        "narrative_summary": "Continuation of the Appendix 1 disclosures table listing committee members and their employment and financial relationships for 2008–2012 and 2013.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "This page is a continuation of the disclosure table started on the previous page and continues onto the next page."
+        },
+        "extraction_warnings": [
+          "Page contains only administrative disclosure information and no clinical guideline recommendations."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. Continued",
+        "section_headings": [
+          "Appendix 1. Continued"
+        ],
+        "narrative_summary": "This page displays a continuing conflicts-of-interest table for committee members Laura R. Svetkey, Thomas A. Wadden, and Susan Z. Yanovski, including their employment, consultant roles, speakers bureau participation, ownership interests, personal research support, and expert witness activities, followed by footnotes explaining the disclosure policy.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 1 COI Table",
+            "kind": "table",
+            "title": "Conflicts of Interest for Committee Members",
+            "summary": "Columns: Committee Member; Employment; Consultant (2008–2012, 2013); Speakers Bureau (2008–2012, 2013); Ownership/Partnership/Principal (2008–2012, 2013); Personal Research (2008–2012, 2013); Expert Witness (2008–2012, 2013). Rows for Laura R. Svetkey, Thomas A. Wadden, and Susan Z. Yanovski (Ex-Officio).",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Table continues from previous page as indicated by header 'Appendix 1. Continued.'"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "",
+        "section_headings": [
+          "Appendix 2. Expert Reviewer Relationships With Industry and Other Entities—2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+          "Appendix 3. Abbreviations"
+        ],
+        "narrative_summary": "Appendix 2 provides a tabulated disclosure of expert reviewers’ relationships with industry and other entities at the time of peer review, detailing employment, representation, consultancy, speakers bureau service, ownership/partnership interests, personal research support, institutional financial benefits, and expert witness roles. Appendix 3 lists and defines the abbreviations used throughout the guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 2 Table",
+            "kind": "table",
+            "title": "Expert Reviewer Relationships With Industry and Other Entities—2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+            "summary": "Table lists reviewers (Nancy Albert; Gerald Fletcher; Frederick Kushner; Linda Van Horn) with columns for Employment; Representation; Consultant; Speakers Bureau; Ownership/Partnership/Principal; Personal Research; Institutional, Organizational, or Other Financial Benefit; Expert Witness.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Appendix 3",
+            "kind": "table",
+            "title": "Abbreviations",
+            "summary": "BP = blood pressure; COR = Class of Recommendation; CQ = critical question; CVD = cardiovascular disease; DASH = Dietary Approaches to Stop Hypertension; ES = evidence statement; HDL-C = high-density lipoprotein cholesterol; LDL-C = low-density lipoprotein cholesterol; LOE = Level of Evidence; MED = Mediterranean-style diet; NHLBI = National Heart, Lung, and Blood Institute; PICOTS = Population, Intervention, Comparator, Outcomes, Timing, and Setting; RCT = randomized controlled trial; RWI = relationships with industry and other entities; USDA = U.S. Department of Agriculture.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

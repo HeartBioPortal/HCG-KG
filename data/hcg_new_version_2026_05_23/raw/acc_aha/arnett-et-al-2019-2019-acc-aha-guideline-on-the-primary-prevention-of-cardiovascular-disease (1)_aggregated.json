@@ -1,0 +1,1953 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [],
+        "narrative_summary": "Title page of the 2019 ACC/AHA guideline with authorship, endorsements, journal citation, and publication details.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Guideline content continues on the following page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [
+          "ACC/AHA Task Force Members",
+          "TABLE OF CONTENTS",
+          "TOP 10 TAKE-HOME MESSAGES FOR THE PRIMARY PREVENTION OF CARDIOVASCULAR DISEASE",
+          "PREAMBLE",
+          "1. INTRODUCTION",
+          "1.1 Methodology and Evidence Review",
+          "1.2 Organization of the Writing Committee",
+          "1.3 Document Review and Approval",
+          "1.4 Scope of the Guideline",
+          "1.5 Class of Recommendation and Level of Evidence",
+          "1.6 Abbreviations",
+          "2. OVERARCHING RECOMMENDATIONS FOR ASCVD PREVENTION EFFORTS",
+          "2.1 Patient-Centered Approaches to Comprehensive ASCVD Prevention",
+          "2.2 Assessment of Cardiovascular Risk",
+          "3. LIFESTYLE FACTORS AFFECTING CARDIOVASCULAR RISK",
+          "3.1 Nutrition and Diet",
+          "3.2 Exercise and Physical Activity",
+          "4. OTHER FACTORS AFFECTING CARDIOVASCULAR RISK",
+          "4.1 Adults with Overweight and Obesity",
+          "4.2 Adults with Type 2 Diabetes Mellitus",
+          "4.3 Adults with High Blood Cholesterol",
+          "4.4 Adults with High Blood Pressure or Hypertension",
+          "4.5 Treatment of Tobacco Use",
+          "4.6 Aspirin Use",
+          "5. COST AND VALUE CONSIDERATIONS",
+          "6. CONCLUSION",
+          "REFERENCES",
+          "APPENDIX 1 Search Criteria",
+          "APPENDIX 2 Author Relationships With Industry and Other Entities (Relevant)",
+          "APPENDIX 3 Reviewer Relationships With Industry and Other Entities (Comprehensive)"
+        ],
+        "narrative_summary": "This page includes the beginning of the “Top 10 Take-Home Messages” list. Message 1 emphasizes that the most important strategy to prevent atherosclerotic vascular disease, heart failure, and atrial fibrillation is promoting a healthy lifestyle throughout life. Message 2 highlights that a team-based care approach is effective for prevention, and clinicians should assess social determinants of health to guide treatment decisions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The list of Top 10 take-home messages is truncated after item 2, indicating continuation on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [
+          "Preamble"
+        ],
+        "narrative_summary": "The preamble describes how the American College of Cardiology (ACC) and American Heart Association (AHA) translate scientific evidence into clinical practice recommendations. It outlines the systematic methods used to develop and classify guidelines, ACC/AHA sponsorship without commercial support, and volunteer task force membership representing diverse expertise and regions. It summarizes policies to mitigate bias and conflicts of interest, and introduces a modular guideline format with tables of recommendations, supporting text, flow diagrams or additional tables as needed, and hyperlinked references.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations (continued)",
+            "rows": [
+              {
+                "recommendation": "Adults who are 40 to 75 years of age and are being evaluated for cardiovascular disease prevention should undergo 10-year atherosclerotic cardiovascular disease (ASCVD) risk estimation and have a clinician–patient risk discussion before starting on pharmacological therapy, such as antihypertensive therapy, a statin, or aspirin. In addition, assessing for other risk-enhancing factors can help guide decisions about preventive interventions in select individuals, as can coronary artery calcium scanning.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "All adults should consume a healthy diet that emphasizes the intake of vegetables, fruits, nuts, whole grains, lean vegetable or animal protein, and fish and minimizes the intake of trans fats, red meat and processed red meats, refined carbohydrates, and sweetened beverages. For adults with overweight and obesity, counseling and caloric restriction are recommended for achieving and maintaining weight loss.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adults should engage in at least 150 minutes per week of accumulated moderate-intensity physical activity or 75 minutes per week of vigorous-intensity physical activity.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "For adults with type 2 diabetes mellitus, lifestyle changes, such as improving dietary habits and achieving exercise recommendations, are crucial. If medication is indicated, metformin is first-line therapy, followed by consideration of a sodium-glucose cotransporter 2 inhibitor or a glucagon-like peptide-1 receptor agonist.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "All adults should be assessed at every healthcare visit for tobacco use, and those who use tobacco should be assisted and strongly advised to quit.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Aspirin should be used infrequently in the routine primary prevention of ASCVD because of lack of net benefit.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Statin therapy is first-line treatment for primary prevention of ASCVD in patients with elevated low-density lipoprotein cholesterol levels (≥190 mg/dL), those with diabetes mellitus, who are 40 to 75 years of age, and those determined to be at sufficient ASCVD risk after a clinician-patient risk discussion.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Nonpharmacological interventions are recommended for all adults with elevated blood pressure or hypertension. For those requiring pharmacological therapy, the target blood pressure should generally be <130/80 mm Hg.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with recommendation 3 indicating continuation from a prior recommendations list; ends with narrative text cut off mid-sentence."
+        },
+        "extraction_warnings": [
+          "Class of Recommendation (COR) and Level of Evidence (LOE) values are not visible for the recommendation rows on this page.",
+          "Recommendations list continues from a previous page.",
+          "Narrative text ends mid-sentence, indicating continuation on the next page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [
+          "1. INTRODUCTION",
+          "1.1 Methodology and Evidence Review"
+        ],
+        "narrative_summary": "The page contains the Preamble explaining the guideline’s structure, word limits, web supplement, and refers readers online for the full version. It includes Patrick T. O’Gara’s Chair signature and launches Section 1, noting that ASCVD remains the leading cause of morbidity and mortality globally, incurring high costs. It reviews suboptimal prevention, Life’s Simple 7, the importance of ideal cardiovascular health, and the guideline’s aim to consolidate existing and new recommendations on aspirin, lifestyle, team-based care, shared decision-making, and social determinants using a modular format. Section 1.1 describes the guideline’s concise evidence-based methodology, including searches of RCTs, meta-analyses, cohort and observational studies, prior ACC/AHA and USPSTF guidance, with detailed evidence tables online.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-Preamble and ends in the middle of the Methodology section (continues online)."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "Data Supplement",
+          "1.2 Organization of the Writing Committee",
+          "1.3 Document Review and Approval",
+          "1.4 Scope of the Guideline",
+          "1.5 Class of Recommendation and Level of Evidence"
+        ],
+        "narrative_summary": "This page describes the supplemental evidence resources and processes used to develop the guideline, including the role of Avalere Health in managing the Delphi process and systematic literature searches for exercise, physical activity, and cost/value considerations. It outlines the composition of the writing committee and disclosure procedures (see Appendix 2 and online disclosures), the peer review and approval process involving ACC/AHA and other stakeholders (see Appendix 3), and defines the intended scope of the guideline for primary prevention of ASCVD in adults. Finally, it introduces the framework for assigning Classes of Recommendation (COR) and Levels of Evidence (LOE), with detailed criteria referenced in Table 1 and Supplement S1.5-1.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "1.6. Abbreviations"
+        ],
+        "narrative_summary": "This page presents Table 1, which defines Class I (strong), Class IIa (moderate), Class IIb (weak), and Class III (no benefit/moderate and harm) recommendations with suggested phrasing, alongside Levels of Evidence A (high‐quality), B-R (moderate-quality randomized), B-NR (moderate‐quality nonrandomized), C-LD (limited data), and C-EO (expert opinion). Footnotes clarify that Class of Recommendation (COR) and Level of Evidence (LOE) are determined independently; LOE C does not imply weakness of recommendation; outcomes should be specified; comparative‐effectiveness recommendations require direct comparisons; the methodology for assessing quality is evolving; and list abbreviations used in the table. Section 1.6 lists clinical abbreviations and their meanings, with the list continuing on the next page.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "TABLE 1",
+            "kind": "table",
+            "title": "Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care (Updated August 2015)",
+            "summary": "Defines Class I (strong), Class IIa (moderate), Class IIb (weak), Class III (no benefit/moderate), and Class III (harm) recommendations with suggested phrasing; and Levels of Evidence A, B-R (randomized), B-NR (nonrandomized), C-LD (limited data), and C-EO (expert opinion).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "1.6. Abbreviations",
+            "kind": "table",
+            "title": "Abbreviation – Meaning/Phrase",
+            "summary": "Lists clinical abbreviations and their definitions, including ASCVD, AU, BMI, BP, CHD, CKD, CVD, DASH, DBP, DM, ENDS, FDA, GLP-1R, HbA1c, HDL-C, LDL-C, MI, PCE, RCT, SBP, SGLT-2, T2DM, and USPSTF.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The abbreviations table continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "2. OVERARCHING RECOMMENDATIONS FOR ASCVD PREVENTION EFFORTS",
+        "section_headings": [
+          "2. OVERARCHING RECOMMENDATIONS FOR ASCVD PREVENTION EFFORTS",
+          "2.1. Patient-Centered Approaches to Comprehensive ASCVD Prevention",
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "These patient-centered recommendations emphasize team-based care delivery, shared decision-making, and the consideration of social determinants of health in primary ASCVD prevention. The supportive text details how multidisciplinary team-based approaches improve risk factor control; describes collaborative clinician–patient discussions of personalized prevention strategies; and outlines tools to assess socioeconomic, cultural, and upstream determinants—such as housing instability, food insecurity, and health literacy—that influence ASCVD outcomes.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Patient-Centered Approaches to Comprehensive ASCVD Prevention",
+            "rows": [
+              {
+                "recommendation": "1. A team-based care approach is recommended for the control of risk factors associated with ASCVD (S2.1-1–S2.1-14).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Shared decision-making should guide discussions about the best strategies to reduce ASCVD risk (S2.1-15–S2.1-18).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. Social determinants of health should inform optimal implementation of treatment recommendations for the prevention of ASCVD (S2.1-19–S2.1-25).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative supportive text ends mid-sentence"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "2.2. Assessment of Cardiovascular Risk"
+        ],
+        "narrative_summary": "The narrative discusses the importance of assessing social determinants of health (e.g., violence, financial strain, housing, food security, social support) in ASCVD prevention, evaluating systems of care factors such as transportation and health service availability. It highlights that socioeconomic disadvantage affects blood pressure and lipid management, that addressing unmet social needs improves prevention efficacy, and that differential cardiovascular outcomes persist by sociodemographic characteristics. Table 2 summarizes these key considerations.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Assessment of Cardiovascular Risk",
+            "rows": [
+              {
+                "recommendation": "1. For adults 40 to 75 years of age, clinicians should routinely assess traditional cardiovascular risk factors and calculate 10-year risk of ASCVD by using the pooled cohort equations (PCE) (S2.2-1, S2.2-2).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. For adults 20 to 39 years of age, it is reasonable to assess traditional ASCVD risk factors at least every 4 to 6 years (S2.2-1–S2.2-3).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. In adults at borderline risk (5% to <7.5% 10-year ASCVD risk) or intermediate risk (≥7.5% to <20% 10-year ASCVD risk), it is reasonable to use additional risk-enhancing factors to guide decisions about preventive interventions (e.g., statin therapy) (S2.2-4–S2.2-14).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "Example Considerations for Addressing Social Determinants of Health to Help Prevent ASCVD Events",
+            "summary": "Provides example considerations across domains—including cardiovascular risk, diet, exercise, obesity and weight loss, diabetes mellitus, high blood pressure, and tobacco treatment—with recommendations for assessment of psychosocial stressors, health literacy, food access, neighborhood environment, lifestyle counseling, and social support.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "The narrative begins mid-sentence, indicating preceding content on a prior page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The synopsis emphasizes that estimating 10-year ASCVD risk guides the intensity of preventive interventions, encourages a heart-healthy lifestyle, and should initiate clinician-patient risk discussions rather than dictate pharmacotherapy. It notes limitations of risk calculators, potential over- or underestimation in certain populations, and the role of additional risk-enhancing factors (e.g., coronary artery calcium scoring) for borderline or intermediate-risk adults. Lifetime risk estimation may be considered for younger adults, and discussions of preventive therapies should be personalized, especially in older adults.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "4. In adults at intermediate risk (≥7.5% to <20% 10-year ASCVD risk) or selected adults at borderline risk (5% to <7.5% 10-year ASCVD risk), if risk-based decisions for preventive interventions (e.g., statin therapy) remain uncertain, it is reasonable to measure a coronary artery calcium score to guide clinician-patient risk discussion (S2.2-15–S2.2-31).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "5. For adults 20 to 39 years of age and for those 40 to 59 years of age who have <7.5% 10-year ASCVD risk, estimating lifetime or 30-year ASCVD risk may be considered (S2.2-1, S2.2-2, S2.2-32–S2.2-35).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with a continuation of the recommendation table and ends mid-sentence in the supportive text."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Guidance on periodic assessment of cardiovascular risk factors (recommended every 4 to 6 years in younger adults), discussion of the appropriate use and limitations of the Pooled Cohort Equations (PCE), including underestimation of risk in individuals with chronic inflammatory diseases, HIV infection, socioeconomic disadvantage, and familial hypercholesterolemia, and overestimation in other populations. The text notes calibration issues of the PCE and considerations for adults at borderline (5% to <7.5%) and intermediate (≥7.5%) 10-year ASCVD risk categories.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Risk-Enhancing Factors for Clinician-Patient Risk Discussion",
+            "summary": "List of risk-enhancing factors: family history of premature ASCVD; primary hypercholesterolemia; metabolic syndrome; chronic kidney disease; chronic inflammatory conditions (e.g., psoriasis, RA, lupus, HIV/AIDS); premature menopause and pregnancy-associated conditions such as preeclampsia; high-risk race/ethnicity (e.g., South Asian ancestry); and lipids/biomarkers (persistently elevated triglycerides, hs-CRP ≥2.0 mg/L, elevated Lp(a), elevated apoB, and ABI <0.9).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text resumes and concludes mid-sentence due to page breaks."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [
+          "3. LIFESTYLE FACTORS AFFECTING CARDIOVASCULAR RISK",
+          "3.1. Nutrition and Diet"
+        ],
+        "narrative_summary": "The narrative discusses the value of coronary artery calcium (CAC) scoring for reclassifying borderline- or intermediate-risk patients, guiding decisions about statin or aspirin therapy, and its superior discrimination compared with other subclinical imaging markers. It references observational data and the MESA trial showing CAC’s graded association with 10-year ASCVD risk across age, sex, and racial/ethnic groups, and notes that absence of CAC identifies lower-risk individuals for whom preventive interventions may be deferred. The text also mentions risk estimation tools (CHD, MESA, Astro-CHARM) and the consideration of lifetime or 30-year risk estimation in adults aged 20–59 years to reinforce lifestyle recommendations.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Nutrition and Diet",
+            "rows": [
+              {
+                "recommendation": "A diet emphasizing intake of vegetables, fruits, legumes, nuts, whole grains, and fish is recommended to decrease ASCVD risk (S3.1-1–S3.1-11).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Replacement of saturated fat with dietary monounsaturated and polyunsaturated fats can be beneficial to reduce ASCVD risk (S3.1-12, S3.1-13).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A diet containing reduced amounts of cholesterol and sodium can be beneficial to decrease ASCVD risk (S3.1-9, S3.1-14–S3.1-16).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "As a part of a healthy diet, it is reasonable to minimize the intake of processed meats, refined carbohydrates, and sweetened beverages to reduce ASCVD risk (S3.1-17–S3.1-24).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "As a part of a healthy diet, the intake of trans fats should be avoided to reduce ASCVD risk (S3.1-25–S3.1-27).",
+                "class_of_recommendation": "III: Harm",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins in the middle of a narrative paragraph on coronary artery calcium scoring; recommendations table is complete on this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The page begins with a Synopsis noting that in 2015 approximately 630,000 Americans died from heart disease, of whom 366,000 died from coronary artery disease, and that heart disease deaths rose by 1% in 2015 largely due to obesity. It emphasizes the impact of healthy nutrition on ASCVD risk factors and discusses limitations of randomized trials, highlighting observational evidence on dietary patterns such as sugar, refined grains, trans fats, processed and red meats. The Recommendation-Specific Supportive Text reviews evidence supporting specific dietary recommendations: 1) plant-based and Mediterranean diets reduce all-cause and cardiovascular mortality with benefits driven by stroke reduction; 2) trans and saturated fats are linked to higher CVD risk, whereas replacing refined carbohydrates with fats may reduce stroke and mortality; 3) sodium reduction lowers BP and cardiovascular events, and high sodium, red meat, and sugar-sweetened beverages increase CVD risk; 4) sugar-sweetened and artificially sweetened beverages are associated with higher T2DM and ASCVD risk, and strategies using low-calorie sweeteners may aid in reducing caloric intake.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Text (item 4) ends mid-sentence at the bottom of the page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "3.2 Exercise and Physical Activity",
+        "section_headings": [
+          "3.2 Exercise and Physical Activity"
+        ],
+        "narrative_summary": "The page continues narrative from the prior section on dietary patterns, noting the Southern dietary pattern’s association with increased risks of heart disease, stroke, and mortality, the harms of refined grains, sweetened beverages, low-carbohydrate diets rich in animal fat, and trans fats. It then presents a synopsis of Exercise and Physical Activity, highlighting established cardiovascular benefits, the gap in meeting physical activity recommendations among U.S. adults, and supporting evidence for aerobic and resistance exercise in lowering ASCVD risk, glycemic control in diabetes, and other health outcomes, while noting uncertainty about resistance exercise effects on ASCVD risk.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Exercise and Physical Activity",
+            "rows": [
+              {
+                "recommendation": "Adults should be routinely counseled in healthcare visits to optimize a physically active lifestyle (S3.2-1, S3.2-2).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adults should engage in at least 150 minutes per week of accumulated moderate-intensity or 75 minutes per week of vigorous-intensity aerobic physical activity (or an equivalent combination of moderate and vigorous activity) to reduce ASCVD risk (S3.2-3–S3.2-8).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "For adults unable to meet the minimum physical activity recommendations (at least 150 minutes per week of accumulated moderate-intensity or 75 minutes per week of vigorous-intensity aerobic physical activity), engaging in some moderate- or vigorous-intensity physical activity, even if less than this recommended amount, can be beneficial to reduce ASCVD risk (S3.2-5, S3.2-6).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Decreasing sedentary behavior in adults may be reasonable to reduce ASCVD risk (S3.2-3, S3.2-9–S3.2-11).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with continuing narrative from the prior section."
+        },
+        "extraction_warnings": [
+          "Narrative at top of page continues from section 3.1 and is incomplete on this page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The page presents Table 4 defining intensities of physical activity by METs and examples and provides narrative guidance: aerobic activity is generally safe; sedentary individuals should begin at lower intensity and progress gradually; the benefits of at least 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity activity per week are highlighted. It discusses the dose–response relationship, counseling and assessment tools (with documentation in the electronic health record), modifications for those with impairments or unable to achieve recommended levels, the benefit of shorter bouts, and the concept of sedentary behavior (referencing Figure 1).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Definitions and Examples of Different Intensities of Physical Activity",
+            "summary": "Lists four intensity categories (Sedentary behavior, Light, Moderate, Vigorous) with corresponding METs ranges and examples of activities for each category.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends mid-sentence: 'Sedentary behavior refers to waking behavior with an energy expenditure'"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4. OTHER FACTORS AFFECTING CARDIOVASCULAR RISK",
+          "4.1. Adults With Overweight and Obesity"
+        ],
+        "narrative_summary": "The page continues discussion of sedentary behavior, noting that U.S. adults spend over 7 hours per day in sedentary activities, and that increased sedentary time is associated with worse cardiometabolic risk factors. Data on reducing sedentary behavior are sparse and the benefit of replacing sedentary time with light-intensity activity remains unclear. Section 4 introduces other factors affecting cardiovascular risk, focusing on adults with overweight and obesity. The synopsis describes the obesity epidemic driven by high‐calorie foods and sedentary jobs, notes that adults with BMI ≥30 kg/m² or BMI 25–29.9 kg/m² have increased ASCVD risk, and outlines guideline recommendations for comprehensive lifestyle programs including low‐calorie diets, increased physical activity, and regular contact with an interventionist.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Adults With Overweight and Obesity",
+            "rows": [
+              {
+                "recommendation": "In individuals with overweight and obesity, weight loss is recommended to improve the ASCVD risk factor profile (S4.1-1).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Counseling and comprehensive lifestyle interventions, including calorie restriction, are recommended for achieving and maintaining weight loss in adults with overweight and obesity (S4.1-1, S4.1-2).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Calculating body mass index (BMI) is recommended annually or more frequently to identify adults with overweight and obesity for weight loss considerations.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "It is reasonable to measure waist circumference to identify those at higher cardiometabolic risk (S4.1-3-S4.1-6).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "figure",
+            "title": "Hours Per Day Spent in Various States of Activity",
+            "summary": "Pie chart showing average daily hours spent: sedentary 7.7 hours, sleep 8.3 hours, light activity 7.8 hours, moderate/vigorous activity 0.2 hours. Caption notes U.S. adults spend >7 h/d in sedentary activities and replacing sedentary time with moderate-to-vigorous or light-intensity activity increases energy expenditure.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "The page begins in the middle of a narrative paragraph and ends with an incomplete sentence in the synopsis section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "This page provides supportive text for recommendations on weight loss and body composition in individuals with overweight or obesity. It covers clinically meaningful weight loss thresholds, structured lifestyle interventions including diet and physical activity, pharmacological and surgical adjuncts, measures of adiposity (BMI, waist circumference, DXA), ethnic considerations, and the role of waist circumference assessment in cardiometabolic risk evaluation.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a paragraph and ends in the middle of the supportive text section, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "4.2. Adults With Type 2 Diabetes Mellitus",
+        "section_headings": [
+          "4.2. Adults With Type 2 Diabetes Mellitus",
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The page introduces the section on adults with type 2 diabetes mellitus, providing a synopsis of T2DM as a metabolic disorder influenced by diet, activity, and weight, and noting its prevalence and associated ASCVD risk. It begins recommendation-specific supportive text detailing evidence for heart-healthy dietary patterns and exercise programs in glycemic control.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Adults With Type 2 Diabetes Mellitus",
+            "rows": [
+              {
+                "recommendation": "1. For all adults with T2DM, a tailored nutrition plan focusing on a heart-healthy dietary pattern is recommended to improve glycemic control, achieve weight loss if needed, and improve other ASCVD risk factors (S4.2-1, S4.2-2).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Adults with T2DM should perform at least 150 minutes per week of moderate-intensity physical activity or 75 minutes of vigorous-intensity physical activity to improve glycemic control, achieve weight loss if needed, and improve other ASCVD risk factors (S4.2-3, S4.2-4).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. For adults with T2DM, it is reasonable to initiate metformin as first-line therapy along with lifestyle therapies at the time of diagnosis to improve glycemic control and reduce ASCVD risk (S4.2-5–S4.2-8).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "4. For adults with T2DM and additional ASCVD risk factors who require glucose-lowering therapy despite initial lifestyle modifications and metformin, it may be reasonable to initiate a sodium-glucose cotransporter 2 (SGLT-2) inhibitor or a glucagon-like peptide-1 receptor (GLP-1R) agonist to improve glycemic control and reduce CVD risk (S4.2-9–S4.2-14).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The page ends in the middle of recommendation-specific supportive text bullet point 2."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The narrative text discusses evidence supporting physical activity for individuals with type 2 diabetes mellitus (T2DM), highlighting benefits on cardiovascular disease (CVD) outcomes and recommendations for exercise programs. It describes metformin’s mechanism of decreasing hepatic glucose production and increasing insulin sensitivity, reports findings from the UKPDS showing reductions in microvascular and macrovascular complications and mortality, and summarizes meta-analyses and systematic reviews on metformin’s safety and efficacy. It also notes emerging evidence for SGLT-2 inhibitors reducing CVD events in high-risk T2DM patients.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 2",
+            "kind": "algorithm",
+            "title": "Treatment of T2DM for Primary Prevention of Cardiovascular Disease",
+            "summary": "Flowchart starting with HbA1c ≥6.5% consistent with T2DM leading to four initial interventions: dietary counseling regarding a heart-healthy diet (Class I), at least 150 minutes/week of moderate to vigorous physical activity (Class I), aggressive treatment of other CVD risk factors, and consideration of metformin as first-line pharmacologic therapy to improve glycemic control and reduce CVD risk (Class IIa). Subsequent branching based on HbA1c <7.0% after lifestyle therapies and metformin, presence of other CVD risk factors, and recommendations for reinforcement of diet and activity or consideration of SGLT-2 inhibitors or GLP-1R agonists (Class IIb) or referral for further diabetes management.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins with a lowercase word indicating mid-sentence start; ends with an incomplete sentence at bottom of page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "4.3. Adults With High Blood Cholesterol",
+        "section_headings": [
+          "4.3. Adults With High Blood Cholesterol"
+        ],
+        "narrative_summary": "Above the recommendation table, the text discusses that SGLT-2 inhibitors produce a significant reduction in ASCVD events and heart failure, with benefits extending to primary prevention populations. It describes that GLP-1R agonists increase insulin and glucagon production, enhance glucose uptake in muscle and adipose tissue, decrease hepatic glucose production, and have been shown to reduce ASCVD risk in adults with T2DM who are at high ASCVD risk. It concludes that in patients with T2DM and additional CVD risk factors, initiating these two classes of medications may be reasonable for primary prevention of CVD before presenting the cholesterol recommendations.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Adults With High Blood Cholesterol",
+            "rows": [
+              {
+                "recommendation": "In adults at intermediate risk (≥7.5% to <20% 10-year ASCVD risk), statin therapy reduces risk of ASCVD, and in the context of a risk discussion, if a decision is made for statin therapy, a moderate-intensity statin should be recommended (S4.3-2–S4.3-9). Adapted from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In intermediate risk (≥7.5% to <20% 10-year ASCVD risk) patients, LDL-C levels should be reduced by 30% or more, and for optimal ASCVD risk reduction, especially in patients at high risk (≥20% 10-year ASCVD risk), levels should be reduced by 50% or more (S4.3-2, S4.3-5–S4.3-10). Adapted from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults 40 to 75 years of age with diabetes, regardless of estimated 10-year ASCVD risk, moderate-intensity statin therapy is indicated (S4.3-11–S4.3-19). Included from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In patients 20 to 75 years of age with an LDL-C level of 190 mg/dL (≥4.9 mmol/L) or higher, maximally tolerated statin therapy is recommended (S4.3-2, S4.3-20–S4.3-25). Included from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with diabetes mellitus who have multiple ASCVD risk factors, it is reasonable to prescribe high-intensity statin therapy with the aim to reduce LDL-C levels by 50% or more (S4.3-2, S4.3-7). Included from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In intermediate-risk (≥7.5% to <20% 10-year ASCVD risk) adults, risk-enhancing factors favor initiation or intensification of statin therapy (S4.3-7, S4.3-26–S4.3-33). Adapted from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In intermediate-risk (≥7.5% to <20% 10-year ASCVD risk) adults or selected borderline-risk (5% to <7.5% 10-year ASCVD risk) adults in whom a coronary artery calcium score is measured for the purpose of making a treatment decision, AND\n• If the coronary artery calcium score is zero, it is reasonable to withhold statin therapy and reassess in 5 to 10 years, as long as higher-risk conditions are absent (e.g., diabetes, family history of premature CHD, cigarette smoking);\n• If coronary artery calcium score is 1 to 99, it is reasonable to initiate statin therapy for patients ≥55 years of age;\n• If coronary artery calcium score is 100 or higher or in the 75th percentile or higher, it is reasonable to initiate statin therapy (S4.3-28, S4.3-34). Adapted from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In patients at borderline risk (5% to <7.5% 10-year ASCVD risk), in risk discussion, the presence of risk-enhancing factors may justify initiation of moderate-intensity statin therapy (S4.3-28, S4.3-35). Adapted from recommendations in the 2018 Cholesterol Clinical Practice Guidelines (S4.3-1).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Text at top begins with a lowercase word, indicating continuation of a sentence from the prior page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The Synopsis outlines the importance of addressing ASCVD risk factors early in life, references Figure 3 for risk assessment by age groups, and highlights priorities for young adults (20–39 years) to estimate lifetime risk and promote healthy lifestyle. It notes statin therapy indications for select patients with high LDL-C and guidance for adults 40–75 years based on 10-year ASCVD risk. The narrative continues into Recommendation-Specific Supportive Text describing trial evidence for statin therapy.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 3",
+            "kind": "algorithm",
+            "title": "Primary Prevention",
+            "summary": "Flowchart for primary prevention: assess ASCVD risk by age group, emphasize healthy lifestyle, stratify by age (0–19, 20–39, 40–75, >75 years) and LDL-C levels, list ASCVD risk enhancers, categorize 10-year risk (<5%, 5–<7.5%, ≥7.5–<20%, ≥20%), and guide risk discussions and statin initiation intensity with Class I or II recommendations. Includes CAC guidance when risk decision is uncertain.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative ends mid-sentence, continuing Recommendation-Specific Supportive Text"
+        },
+        "extraction_warnings": [
+          "Figure 3 references Table 1, which is not present on this page.",
+          "Recommendation-Specific Supportive Text appears to continue onto the next page and is incomplete here."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [],
+        "narrative_summary": "This section reviews evidence supporting statin therapy for primary prevention of ASCVD: large randomized trials demonstrate that moderate-intensity statins reduce risk in intermediate-risk patients, while high-intensity regimens achieve ≥50% LDL-C reduction and greater risk reduction. In adults 40–75 years with diabetes (PCE ≥7.5%), moderate-intensity statins lower ASCVD events by ~25% and are indicated for primary prevention. Patients with primary severe hypercholesterolemia (LDL-C ≥190 mg/dL) have high ASCVD risk; placebo-controlled and post hoc analyses support use of moderate-to-high intensity or maximally tolerated statin therapy, with high-intensity yielding greater benefit. First ASCVD events in diabetics carry high morbidity/mortality; although moderate-intensity statins are proven, the higher lifetime risk favors high-intensity statin in diabetics with additional risk modifiers. Risk-enhancing factors (e.g., family history of premature ASCVD, primary LDL-C ≥160 mg/dL, elevated hsCRP) help guide treatment in those at intermediate risk.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends mid-paragraph, indicating continuation from previous and to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The narrative elaborates on risk-enhancing factors beyond diabetes that influence thresholds for statin initiation or intensification, including metabolic syndrome, inflammatory diseases, HIV treated with protease inhibitors, elevated lipoprotein(a), triglycerides, non–HDL-C, and apolipoprotein B. It discusses the role of coronary artery calcium (CAC) measurement in intermediate-risk adults to reclassify ASCVD risk—highlighting that CAC ≥100 AU or ≥75th percentile supports statin initiation, whereas CAC scores of zero confer lower 10-year event rates and may warrant delayed therapy with repeat CAC in 5 years if untreated. The text also notes selected lower-risk individuals who may still benefit from statins and emphasizes shared clinician-patient risk discussions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 5",
+            "kind": "table",
+            "title": "Diabetes-Specific Risk Enhancers That Are Independent of Other Risk Factors in Diabetes Mellitus",
+            "summary": "Risk enhancers in diabetic patients include: long duration (≥10 years for type 2 DM or ≥20 years for type 1 DM); albuminuria ≥30 mcg albumin/mg creatinine; eGFR <60 mL/min/1.73 m²; retinopathy; neuropathy; and ankle-brachial index <0.9.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 6",
+            "kind": "table",
+            "title": "Selected Examples of Candidates for Coronary Artery Calcium Measurement Who Might Benefit From Knowing Their Coronary Artery Calcium Score Is Zero",
+            "summary": "Candidates include: patients reluctant to initiate statin who wish to better understand risk and benefit; those concerned about restarting statin after discontinuation for symptoms; older patients (men 55–80 y; women 60–80 y) with low risk burden questioning benefit; middle-aged adults (40–55 y) with 10-year ASCVD risk 5–<7.5% with risk-enhancing factors, even if in a borderline risk group.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins mid-sentence and the numbered discussion point (8) likely continues on the next page."
+        },
+        "extraction_warnings": [
+          "No recommendation table with Class of Recommendation/Level of Evidence identified on this page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "4.4. Adults With High Blood Pressure or Hypertension",
+        "section_headings": [
+          "4.4. Adults With High Blood Pressure or Hypertension",
+          "Recommendations for Adults With High Blood Pressure or Hypertension",
+          "Synopsis"
+        ],
+        "narrative_summary": "The synopsis summarizes that hypertension is the leading modifiable ASCVD risk factor in the U.S., with a prevalence of SBP ≥130 mm Hg or DBP ≥80 mm Hg in 46% of adults, higher in certain racial/ethnic groups and increasing with age. A log‐linear association between BP levels and ASCVD risk was observed, with each 20-mm Hg higher SBP and 10-mm Hg higher DBP doubling the risk of death from stroke, heart disease, or vascular disease. Although relative risk decreases with age, absolute risk increase is greater in older adults. Refer to Figure 4 and the 2017 Hypertension Clinical Practice Guidelines for algorithmic details.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Adults With High Blood Pressure or Hypertension",
+            "rows": [
+              {
+                "recommendation": "In adults with elevated blood pressure (BP) or hypertension, including those requiring antihypertensive medications nonpharmacological interventions are recommended to reduce BP. These include: weight loss (S4.4-2–S4.4-5); a heart-healthy dietary pattern (S4.4-6–S4.4-8); sodium reduction (S4.4-9–S4.4-13); dietary potassium supplementation (S4.4-14–S4.4-18); increased physical activity with a structured exercise program (S4.4-3, S4.4-5, S4.4-11, S4.4-19–S4.4-23); and limited alcohol (S4.4-24–S4.4-29).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with an estimated 10-year ASCVD risk* of 10% or higher and an average systolic BP (SBP) of 130 mm Hg or higher or an average diastolic BP (DBP) of 80 mm Hg or higher, use of BP-lowering medications is recommended for primary prevention of CVD (S4.4-30–S4.4-38).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "SBP: A; DBP: C-EO",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with confirmed hypertension and a 10-year ASCVD event risk of 10% or higher, a BP target of less than 130/80 mm Hg is recommended (S4.4-33, S4.4-39–S4.4-42).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "SBP: B-RSR; DBP: C-EO",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with hypertension and chronic kidney disease, treatment to a BP goal of less than 130/80 mm Hg is recommended (S4.4-43–S4.4-48).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "SBP: B-RSR; DBP: C-EO",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with T2DM and hypertension, antihypertensive drug treatment should be initiated at a BP of 130/80 mm Hg or higher, with a treatment goal of less than 130/80 mm Hg (S4.4-33, S4.4-47, S4.4-49–S4.4-54).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "SBP: B-RSR; DBP: C-EO",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with an estimated 10-year ASCVD risk <10% and an SBP of 140 mm Hg or higher or a DBP of 90 mm Hg or higher, initiation and use of BP-lowering medication are recommended (S4.4-36, S4.4-55–S4.4-58).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In adults with confirmed hypertension without additional markers of increased ASCVD risk, a BP target of less than 130/80 mm Hg may be reasonable (S4.4-59–S4.4-62).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "SBP: B-NR; DBP: C-EO",
+                "supporting_text": "Adapted from recommendations in the 2017 Hypertension Clinical Practice Guidelines (S4.4-1).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "Recommendation-specific supportive text details evidence for nonpharmacological interventions to lower BP and achieve goal BP, meta-analyses and RCTs supporting BP-lowering medications for ASCVD prevention (including SPRINT trial), and considerations for adults with diabetes mellitus and CKD, noting some trials were underpowered to detect CVD differences.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 4",
+            "kind": "algorithm",
+            "title": "BP Thresholds and Recommendations for Treatment",
+            "summary": "Flowchart showing BP categories: Normal BP (BP <120/80 mm Hg) → Promote optimal lifestyle habits; Elevated BP (BP 120–129/<80 mm Hg) → Nonpharmacological therapy (Class I); Stage 1 hypertension (BP 130–139/80–89 mm Hg) → if estimated 10-year CVD risk <10% → Nonpharmacological therapy (Class I); if ≥10% → Nonpharmacological therapy and BP-lowering medication (Class I); Stage 2 hypertension (BP ≥140/90 mm Hg) → Nonpharmacological therapy and BP-lowering medication (Class I).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative text ends mid-sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [],
+        "narrative_summary": "The narrative continues meta-analytic evidence on blood pressure (BP) targets: bullet 5 discusses initiating antihypertensive therapy in adults with diabetes mellitus and ≥10% ASCVD risk at BP ≥130/80 mm Hg to achieve <130/80 mm Hg, citing RCTs and meta-analyses. Bullet 6 describes a continuous relationship between systolic BP and cardiovascular disease risk across absolute risk levels, with consistent relative risk reductions from BP-lowering medications, and notes the HOPE-3 trial showed no short-term benefit in a lower-risk population.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 7",
+            "kind": "table",
+            "title": "Best Proven Nonpharmacological Interventions for Prevention and Treatment of Hypertension",
+            "summary": "Lists nonpharmacological interventions (weight loss; DASH diet; reduced sodium; increased potassium; physical activity: aerobic, dynamic resistance, isometric resistance; alcohol moderation), with goals and approximate SBP reductions for hypertension and normotension, plus reference citations.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins and ends mid-sentence"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4.5. Treatment of Tobacco Use",
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The Synopsis describes tobacco use as the leading preventable cause of disease and death in the U.S., notes increased mortality and ASCVD risk from smoking, smokeless tobacco, and secondhand smoke, and mentions electronic nicotine delivery systems (e-cigarettes) as a new risk factor with potential cardiovascular effects. The Recommendation-Specific Supportive Text cites the U.S. Public Health Service’s clinical practice guideline endorsing recording tobacco use as a vital sign, discusses office‐wide screening approaches to facilitate cessation, and recommends specific patient questions to improve disclosure.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Treatment of Tobacco Use",
+            "rows": [
+              {
+                "recommendation": "1. All adults should be assessed at every healthcare visit for tobacco use and their tobacco use status recorded as a vital sign to facilitate tobacco cessation (S4.5-1).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. To achieve tobacco abstinence, all adults who use tobacco should be firmly advised to quit (S4.5-2).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. In adults who use tobacco, a combination of behavioral interventions plus pharmacotherapy is recommended to maximize quit rates (S4.5-2, S4.5-3).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "4. In adults who use tobacco, tobacco abstinence is recommended to reduce ASCVD risk (S4.5-4, S4.5-5).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "5. To facilitate tobacco cessation, it is reasonable to dedicate trained staff to tobacco treatment in every healthcare system (S4.5-1).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "6. All adults and adolescents should avoid secondhand smoke exposure to reduce ASCVD risk (S4.5-6).",
+                "class_of_recommendation": "III: Harm",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-paragraph in section 4.4 and ends mid-sentence in the Recommendation-Specific Supportive Text."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [],
+        "narrative_summary": "This page continues guidance on tobacco cessation assessment and treatment. It describes how clinicians should ask patients about tobacco use—specifically using questions about use in the past 30 days rather than directly “Are you a smoker?”—and strongly advise all tobacco users to quit using clear, compassionate, personalized language. It emphasizes that smoking cessation advice increases quit rates at six months, outlines the benefits of quitting on ASCVD outcomes, and recommends tailoring treatment strategies to individual patient preferences and medical history. The narrative notes expert consensus recommendations (referencing prior sections and Table 8), the removal of FDA black box warnings for neuropsychiatric events, and discusses the substantial net benefit of behavioral interventions and pharmacotherapy in nonpregnant adults and behavioral interventions in pregnant women, while stating that evidence is insufficient to determine the balance of benefits and harms of pharmacotherapy in pregnancy. The text is cut off, indicating continuation on the next page.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 8",
+            "kind": "table",
+            "title": "Highlights of Recommended Behavioral and Pharmacotherapy Tobacco Treatment Modalities for Prescribers",
+            "summary": "Summarizes timing of behavioral interventions (<3 min, 3–10 min, >10 min of tobacco status assessment with cessation counseling), treatment modalities (nicotine replacement therapies: patch, gum, lozenge, nasal spray, oral inhaler; other agents: bupropion SR, varenicline), dosing regimens, and precautions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins and ends mid-discussion, indicating continuation from previous and onto next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4.6 Aspirin Use"
+        ],
+        "narrative_summary": "Continuation of the tobacco treatment section: ENDS not recommended due to unclear benefit and potential harm; cigarette smoking remains a strong independent risk factor for ASCVD with benefits of cessation; tobacco dependence is a chronic disease requiring trained treatment specialists; secondhand smoke exposure causes CVD and stroke with no safe exposure limit; recommendations to advise patients on exposure precautions. Introduction of section 4.6 on Aspirin Use with a summary table of primary prevention recommendations.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Aspirin Use",
+            "rows": [
+              {
+                "recommendation": "1. Low-dose aspirin (75-100 mg orally daily) might be considered for the primary prevention of ASCVD among select adults 40 to 70 years of age who are at higher ASCVD risk but not at increased bleeding risk (S4.6-1–S4.6-8).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "2. Low-dose aspirin (75-100 mg orally daily) should not be administered on a routine basis for the primary prevention of ASCVD among adults >70 years of age (S4.6-9).",
+                "class_of_recommendation": "III: Harm",
+                "level_of_evidence": "B-R",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "3. Low-dose aspirin (75-100 mg orally daily) should not be administered for the primary prevention of ASCVD among adults of any age who are at increased risk of bleeding (S4.6-10).",
+                "class_of_recommendation": "III: Harm",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins in the middle of the tobacco treatment section from the previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [
+          "Synopsis",
+          "Recommendation-Specific Supportive Text"
+        ],
+        "narrative_summary": "The Synopsis outlines that aspirin is well established for secondary ASCVD prevention but its use in primary prevention remains controversial due to uncertain balance between thrombosis prevention and bleeding risk. It reviews variation among international guidelines and notes recent primary-prevention trials showing less benefit when used alongside modern ASCVD therapies. The Recommendation-Specific Supportive Text describes meta-regression analyses indicating baseline-estimated ASCVD risk predicts benefit, identifies bleeding-risk scenarios (eg, age >70, prior gastrointestinal bleeding, coagulopathy), and discusses patient-specific factors (eg, weight, risk thresholds) and dose considerations, including low-dose versus high-dose aspirin and trial findings such as from ASCEND.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Text ends mid-sentence (‘In addition, for’)"
+        },
+        "extraction_warnings": [
+          "No recommendation tables with Class/COR and Level/LOE are visible on this page"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "5. COST AND VALUE CONSIDERATIONS",
+          "6. CONCLUSION"
+        ],
+        "narrative_summary": "This page continues discussion of aspirin use for primary prevention of ASCVD, noting insufficient evidence to recommend routine low-dose aspirin in adults under 40 or over 70 years and identifying conditions that increase bleeding risk where prophylactic aspirin should be avoided. It then introduces Section 5 on cost and value considerations, defining value in healthcare, describing methodological challenges in integrating cost–value assessments into guideline development (including variability in costs, benefits, and burden across stakeholders), and highlighting the need for evidence-based, cost-effectiveness analyses of preventive therapies. A block quote from the 2011 AHA policy statement underscores difficulties in assessing long-term prevention value. Section 6 begins by stating most ASCVD events are avoidable through primordial prevention and traditional risk control, but the sentence cuts off.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative and numbered points begin mid-discussion of aspirin, and conclusion section ends mid-sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "PRESIDENTS AND STAFF"
+        ],
+        "narrative_summary": "The page continues discussion of lifestyle modifications for primary prevention of ASCVD, emphasizing tobacco avoidance; regular brisk physical activity; a healthy dietary pattern rich in fruits, vegetables, whole grains, fish, legumes, and poultry; and minimizing trans fats, added sugars, red meats, sodium, and saturated fats. Clinicians should partner with patients to assess readiness for sustained lifestyle improvements, identify barriers, set measurable goals, and monitor progress, while accounting for social determinants of health, health literacy, and motivation. The guideline’s goal is to help clinicians reduce patients’ ASCVD risk and encourage needed healthier lifestyle changes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins mid-paragraph and contains an administrative staff list that appears complete on this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "REFERENCES",
+          "1. INTRODUCTION",
+          "1.1. Methodology and Evidence Review",
+          "1.5. Class of Recommendation and Level of Evidence",
+          "2. OVERARCHING RECOMMENDATIONS FOR ASCVD PREVENTION EFFORTS",
+          "2.1. Patient-Centered Approaches for Providing Comprehensive ASCVD Prevention"
+        ],
+        "narrative_summary": "This page contains a list of literature citations numbered S1-1 through S2.1-28, organized under section headings for Introduction, Methodology and Evidence Review, Class of Recommendation and Level of Evidence, Overarching Recommendations for ASCVD Prevention Efforts, and Patient-Centered Approaches for Providing Comprehensive ASCVD Prevention.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Continuation of the references list on subsequent pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "This page is part of a continuous list of references (S2.2-21 through S2.2-63) that spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "3. LIFESTYLE FACTORS AFFECTING CARDIOVASCULAR RISK",
+          "3.1 Nutrition and Diet",
+          "3.2 Exercise and Physical Activity"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page is part of the references section, continuing a list of references from previous page and ending mid-list."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "4. OTHER FACTORS AFFECTING CARDIOVASCULAR RISK",
+          "4.1 Obesity and Being Overweight"
+        ],
+        "narrative_summary": "This page lists reference citations for section S3.2 (physical activity and cardiovascular risk) and for section 4.1 Obesity and Being Overweight, covering references S3.2-4 through S3.2-31 and S4.1-1 through S4.1-12 (partial). No recommendation statements are present.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page continues a references list from previous page (S3.2-#) and the last reference S4.1-12 is cut off, indicating continuation to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "4.2 Type 2 Diabetes Mellitus",
+          "S4.3 High Blood Cholesterol"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page is mid-list of references, continuing from previous page and to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "e214 Arnett et al. 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "4.4. High Blood Pressure or Hypertension"
+        ],
+        "narrative_summary": "This page contains reference citations for sections S4.3 and 4.4, covering studies on coronary artery disease risk assessment, statin therapy, sodium reduction, and hypertension management.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list for sections S4.3 and S4.4 continues across pages"
+        },
+        "extraction_warnings": [
+          "Page contains only references; no clinical recommendations present"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Page consists entirely of reference citations (S4.4-20 through S4.4-65) for studies on blood pressure and cardiovascular outcomes.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list spans multiple pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "4.5. References (Section 4.5)",
+          "4.6. Aspirin Use",
+          "5. Cost and Value Considerations",
+          "6. Conclusion"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the reference list for Section 4.5 and ends at the start of the Conclusion section before any narrative text."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 1. SEARCH CRITERIA",
+        "section_headings": [
+          "APPENDIX 1. SEARCH CRITERIA",
+          "KEY WORDS"
+        ],
+        "narrative_summary": "This appendix page provides the list of systematic review and evidence report references (search criteria) used in developing the guideline and a comprehensive list of key words related to the guideline topic areas.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. Search Criteria",
+        "section_headings": [
+          "Appendix 1. Search Criteria"
+        ],
+        "narrative_summary": "The rapid review conducted by the Evidence-based Practice Center to complete this literature search, in the limited timeframe provided, built on existing systematic reviews conducted on behalf of the USPSTF.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Search Criteria: Nutrition and Diet; Obesity and Weight Loss",
+            "summary": "MeSH terms and key words used for literature searches since 2017 (Nutrition and Diet) and since 2018 (Obesity and Weight Loss), listing Medical Subject Headings (MeSH) terms alongside corresponding keywords.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Search Criteria: Type 2 Diabetes Mellitus; Tobacco Use",
+            "summary": "MeSH terms and key words used for literature searches since 2015 for Type 2 Diabetes Mellitus and Tobacco Use categories, listing Medical Subject Headings (MeSH) terms alongside corresponding keywords.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Right-column search criteria table continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 1. Continued",
+        "section_headings": [
+          "Aspirin Use",
+          "Social Determinants of Health",
+          "Team Based Care",
+          "Shared Decision Making"
+        ],
+        "narrative_summary": "Continuation of Appendix 1, presenting a table of Medical Subject Headings (MeSH) terms paired with keywords for the topics: Aspirin Use, Social Determinants of Health, Team Based Care, and Shared Decision Making.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix Table 1",
+            "kind": "table",
+            "title": "Medical Subject Headings (MeSH) Terms and Key Words",
+            "summary": "This table lists MeSH terms alongside corresponding keywords under four subject headings: Aspirin Use; Social Determinants of Health; Team Based Care; and Shared Decision Making.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Appendix table is continued from the previous page and continues onto the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 1. CONTINUED",
+        "section_headings": [
+          "APPENDIX 1. CONTINUED"
+        ],
+        "narrative_summary": "Continuation of Appendix 1 table listing Medical Subject Headings (MeSH) Terms alongside corresponding Key Words for topics including Exercise & Physical Activity, Waist Circumference, Acute Coronary Syndrome, Stroke, Cerebral Infarction, Myocardial Revascularization, Hospitalization, Cardiovascular Diseases, Physical Fitness, and related terms.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Medical Subject Headings (MeSH) Terms and Key Words (continued)",
+            "summary": "The table continues listing MeSH headings in one column and associated keywords in the adjacent column for a range of medical subjects.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "This page is a continuation of Appendix 1 table and itself continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 1. CONTINUED",
+        "section_headings": [
+          "APPENDIX 1. CONTINUED"
+        ],
+        "narrative_summary": "Continuation of Appendix 1 table listing Medical Subject Headings (MeSH) terms and their associated key words for cardiovascular-related conditions and procedures.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Appendix table spans multiple pages and continues both from previous and onto next page."
+        },
+        "extraction_warnings": [
+          "Content is part of a multi-page appendix table; entries may be incomplete without adjacent pages."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "Appendix 2. Author relationships with industry and other entities (relevant)—2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "section_headings": [
+          "APPENDIX 2. AUTHOR RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (RELEVANT)—2019 ACC/AHA GUIDELINE ON THE PRIMARY PREVENTION OF CARDIOVASCULAR DISEASE"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 2",
+            "kind": "table",
+            "title": "Author relationships with industry and other entities (relevant)—2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+            "summary": "Table listing committee members with their employment affiliations and disclosures across consultant, speakers bureau, ownership/partnership/principal, personal research, institutional/organizational/other financial benefit, and expert witness categories. All listed authors (Donna K. Arnett; Roger S. Blumenthal; Michelle A. Albert; Andrew B. Buroker; Zachary D. Goldberger; Ellen J. Hahn; Cheryl Dennison Himmelfarb; Amit Khera; Donald Lloyd-Jones; J. William McEvoy; Erin D. Michos; Michael D. Miedema; Daniel Muñoz; Sidney C. Smith, Jr) have “None” recorded in each disclosure column.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table continues on the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 2. CONTINUED",
+        "section_headings": [
+          "APPENDIX 2. CONTINUED"
+        ],
+        "narrative_summary": "This page continues Appendix 2 listing disclosure relationships of committee members with industry and other entities, followed by footnotes defining disclosure criteria and abbreviations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Appendix 2 (continued): Committee member relationships with industry and other entities",
+            "summary": "Columns: Committee Member; Employment; Consultant; Speakers Bureau; Ownership/Partnership/Principal; Personal Research; Institutional, Organizational, or Other Financial Benefit; Expert Witness. Rows for Salim S. Virani, Kim A. Williams, Sr; Joseph Yeboah; Boback Ziaeian — all entries in disclosure columns are “None.”",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Table is a continuation of Appendix 2 from the previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. REVIEWER RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (COMPREHENSIVE)—2019 ACC/AHA GUIDELINE ON THE PRIMARY PREVENTION OF CARDIOVASCULAR DISEASE",
+        "section_headings": [
+          "Appendix 3. Reviewer Relationships with Industry and Other Entities (Comprehensive)"
+        ],
+        "narrative_summary": "This appendix table lists guideline reviewers and their disclosed relationships with industry and other entities across categories including employment, consultancy, speakers bureau, ownership/partnership, personal research, institutional/organizational benefit, expert witness roles, and salary.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 3 Table",
+            "kind": "table",
+            "title": "Reviewer Relationships with Industry and Other Entities (Comprehensive)",
+            "summary": "Table listing guideline reviewers and their disclosed relationships across employment, consultancy, speakers bureau, ownership/partnership, personal research, institutional/organizational benefits, expert witness roles, and salary.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table continues on next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. CONTINUED",
+        "section_headings": [
+          "APPENDIX 3. CONTINUED"
+        ],
+        "narrative_summary": "Continuation of the disclosure table for guideline reviewers, listing their representations, employment, consulting engagements, speakers bureau affiliations, ownership interests, personal research funding, organizational financial benefits, expert witness roles, and salary disclosures.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 3 Disclosure Table",
+            "kind": "table",
+            "title": "Reviewer Disclosures (continued)",
+            "summary": "This table continues the list of Content Reviewers for the ACC/AHA Task Force on Clinical Practice Guidelines along with their financial relationships, including employment, consulting, speakers bureau affiliations, ownership interests, personal research funding, institutional or organizational benefits, expert witness roles, and salary disclosures.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "The disclosure table is continued from the previous page and continues onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. CONTINUED",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Appendix disclosure table spans multiple pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. CONTINUED",
+        "section_headings": [
+          "APPENDIX 3. CONTINUED"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 3 Disclosures Table",
+            "kind": "table",
+            "title": "",
+            "summary": "Continuation of the table listing content reviewers with their representation, employment, consultant relationships, speakers bureau involvement, ownership/partnership interests, personal research funding, institutional or other financial benefits, expert witness roles, and salary disclosures.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Table of disclosures is continued from the previous page and continues onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "",
+        "section_headings": [
+          "APPENDIX 3. CONTINUED"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 3 Table (continued)",
+            "kind": "table",
+            "title": "Reviewer Disclosures",
+            "summary": "Table listing reviewers along with their representation, employment, consultant roles, speakers bureau affiliations, ownership/partnership/principal interests, personal research support, institutional/organizational/other financial benefits, expert witness roles, and salary disclosures.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continuation of Appendix 3 disclosure table"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. CONTINUED",
+        "section_headings": [],
+        "narrative_summary": "Continuation of Appendix 3: Disclosures table listing reviewer names and their roles/relationships (representation, employment, consultant, speakers bureau, ownership/partnership, personal research, institutional financial benefits, expert witness roles, and salary).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Appendix 3 disclosures table is continued from the previous page and continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. CONTINUED",
+        "section_headings": [
+          "APPENDIX 3. CONTINUED"
+        ],
+        "narrative_summary": "This page presents a continuation of Appendix 3: a disclosure table listing reviewers and their reported relationships with industry and other entities, including representation, employment, consultancy, speakers bureau engagements, ownership interests, personal research funding, institutional or organizational financial benefits, expert witness roles, and salary.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 3 Table",
+            "kind": "table",
+            "title": "Reviewer Disclosures",
+            "summary": "Table of reviewer relationships with industry and other entities, with columns for Reviewer, Representation, Employment, Consultant, Speakers Bureau, Ownership/Partnership/Principal, Personal Research, Institutional/Organizational/Other Financial Benefit, Expert Witness, and Salary. Includes footnotes defining significance and financial benefit thresholds and acronym legends.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Continuation of the Appendix 3 disclosure table from a previous page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

@@ -20,6 +20,18 @@ SECTION_KEYS = {"section", "Section"}
 PAGE_KEYS = {"page", "Page"}
 REFERENCE_KEYS = {"reference", "references", "References"}
 SOURCE_KEYS = {"source", "Source"}
+CLASS_OF_RECOMMENDATION_KEYS = {
+    "Class of Recommendation",
+    "class_of_recommendation",
+    "COR",
+    "cor",
+}
+LEVEL_OF_EVIDENCE_KEYS = {
+    "Level of Evidence",
+    "level_of_evidence",
+    "LOE",
+    "loe",
+}
 RECOMMENDATION_KEYS = {
     "Recommendation",
     "recommendation",
@@ -406,7 +418,15 @@ class GuidelineJSONNormalizer:
 
     def _metadata_fields(self, value: dict[str, Any]) -> dict[str, Any]:
         keep: dict[str, Any] = {}
-        for key in ("Class of Recommendation", "Level of Evidence", "section", "Section", "Page", "page"):
+        metadata_keys = (
+            *CLASS_OF_RECOMMENDATION_KEYS,
+            *LEVEL_OF_EVIDENCE_KEYS,
+            "section",
+            "Section",
+            "Page",
+            "page",
+        )
+        for key in metadata_keys:
             if key in value:
                 keep[key] = value[key]
         return keep

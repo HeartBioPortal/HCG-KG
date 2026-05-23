@@ -1,0 +1,3535 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2019 ESC Guidelines for the management of patients with supraventricular tachycardia",
+        "section_headings": [],
+        "narrative_summary": "Title page of the guideline showing journal citation, title, task force and collaboration information, list of authors and affiliations, contact details for corresponding authors, associations and working groups, copyright and disclaimer statements.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Title page; the main guideline text begins on the following page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "Table of contents",
+        "section_headings": [
+          "Keywords",
+          "Table of contents"
+        ],
+        "narrative_summary": "This page lists document reviewers, disclosure and supplementary data notices, keywords, and the beginning of the Table of Contents for the ESC Guidelines on supraventricular tachycardias.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table of contents continues onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "ESC Guidelines",
+        "section_headings": [
+          "11.1.2.1 Diagnosis",
+          "11.1.2.2 Acute therapy",
+          "11.1.2.3 Catheter ablation",
+          "11.1.2.4 Chronic therapy",
+          "11.1.3 Multifocal atrial tachycardia",
+          "11.1.3.1 Therapy",
+          "11.1.4 Macro-re-entrant atrial tachycardias",
+          "11.1.4.1 Cavotricuspid isthmus-dependent macro-re-entrant atrial tachycardia",
+          "11.1.4.1.1 Typical atrial flutter: common (counter-clockwise) and reverse (clockwise)",
+          "11.1.4.1.2 Diagnosis",
+          "11.1.4.1.3 Acute therapy",
+          "11.1.4.1.4 Catheter ablation",
+          "11.1.4.1.5 Chronic therapy",
+          "11.1.4.1.6 Anticoagulation",
+          "11.1.4.1.7 Other cavotricuspid isthmus-dependent macro-re-entrant atrial tachycardia",
+          "11.1.4.2 Non-cavotricuspid isthmus-dependent macro-re-entrant atrial tachycardia",
+          "11.1.4.2.1 Right atrium macro-re-entrant atrial tachycardia",
+          "11.1.4.2.2 Left atrium macro-re-entrant atrial tachycardia",
+          "11.2 Atrioventricular junctional arrhythmias",
+          "11.2.1 Atrioventricular nodal re-entrant tachycardia",
+          "11.2.1.1 Diagnosis",
+          "11.2.1.1.1 12 lead electrocardiogram during tachycardia",
+          "11.2.1.1.2 Electrophysiology study",
+          "11.2.1.1.3 Typical atrioventricular nodal re-entrant tachycardia",
+          "11.2.1.1.4 Atypical atrioventricular nodal re-entrant tachycardia",
+          "11.2.1.2 Therapy",
+          "11.2.1.2.1 Acute therapy",
+          "11.2.1.2.2 Catheter ablation",
+          "11.2.1.2.3 Chronic therapy",
+          "11.2.2 Non-re-entrant junctional tachycardias",
+          "11.3 Atrioventricular arrhythmias",
+          "11.3.1 Accessory pathways",
+          "11.3.2 Wolff–Parkinson–White syndrome",
+          "11.3.3 Orthodromic atrioventricular re-entrant tachycardia",
+          "11.3.4 Antidromic atrioventricular re-entrant tachycardia",
+          "11.3.5 Accessory pathway as a bystander",
+          "11.3.6 Pre-excited atrial fibrillation",
+          "11.3.7 Concealed accessory pathways",
+          "11.3.8 Permanent junctional reciprocating tachycardia",
+          "11.3.9 Atypical forms of pre-excitation",
+          "11.3.10 Therapy",
+          "11.3.10.1 Acute therapy",
+          "11.3.10.2 Catheter ablation",
+          "11.3.10.3 Chronic therapy",
+          "11.3.11 The asymptomatic patient with pre-excitation",
+          "12 Supraventricular tachycardias in adults with congenital heart disease",
+          "12.1 Pharmacological antiarrhythmic therapy",
+          "12.2 Catheter and surgical ablation",
+          "12.3 Specific disease states",
+          "12.3.1 Atrial septal defect",
+          "12.3.2 Ebstein’s anomaly",
+          "12.3.3 Transposition of the great arteries (dextro-transposition of the great arteries) after atrial switch operation (Mustard or Senning)",
+          "12.3.4 Tetralogy of Fallot",
+          "12.3.5 Fontan repairs",
+          "13 Supraventricular tachycardia in the paediatric population",
+          "13.1 Foetal arrhythmias",
+          "14 Supraventricular tachycardia in pregnancy",
+          "14.1 Maternal, obstetric, and offspring risk",
+          "14.2 Therapy",
+          "14.2.1 Antiarrhythmic drugs",
+          "14.2.2 Electrical cardioversion",
+          "14.2.3 Catheter ablation",
+          "15 Tachycardia-induced cardiomyopathy",
+          "15.1 Definition",
+          "15.2 Mechanism",
+          "15.3 Diagnosis",
+          "15.4 Therapy",
+          "16 Supraventricular tachycardia in sports",
+          "17 Supraventricular tachycardia and driving restrictions",
+          "18 Key messages",
+          "19 Gaps in the evidence",
+          "20 Evidence-based ‘what to do’ and ‘what not to do’ messages from the Guidelines",
+          "21 Areas for further research",
+          "22 Supplementary data",
+          "23 Appendix",
+          "24 References",
+          "Recommendations for the acute management of narrow QRS tachycardia in the absence of an established diagnosis",
+          "Recommendations for the acute management of wide QRS tachycardia in the absence of an established diagnosis",
+          "Recommendations for the therapy of sinus tachycardias",
+          "Recommendations for the therapy of focal atrial tachycardia",
+          "Recommendations for the therapy of multifocal atrial tachycardia",
+          "Recommendations for the therapy of macro-re-entrant atrial arrhythmias",
+          "Recommendations for the management of atrioventricular nodal re-entrant tachycardia",
+          "Recommendations for the therapy of atrioventricular re-entrant tachycardia due to manifest or concealed accessory pathways",
+          "Recommendations for the acute therapy of pre-excited atrial fibrillation",
+          "Recommendations for the management of patients with asymptomatic pre-excitation",
+          "Recommendations for the therapy of supraventricular tachycardias in congenital heart disease in adults",
+          "Recommendations for the therapy of supraventricular tachycardias in pregnancy"
+        ],
+        "narrative_summary": "This page is part of the Table of Contents for the ESC Guidelines, listing sections 11.1.2 through 24 and the overview of specific recommendation topics with their corresponding page numbers.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Table of Contents spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "",
+        "section_headings": [
+          "List of tables",
+          "List of figures",
+          "Abbreviations and acronyms"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "ESC Guidelines",
+        "section_headings": [
+          "1 Preamble"
+        ],
+        "narrative_summary": "This page provides the preamble to the ESC Guidelines, explaining that guidelines summarize and evaluate evidence to assist health professionals in management decisions while emphasizing that final decisions for individual patients rest with the responsible clinician. It describes the process of guideline development by the European Society of Cardiology, including the establishment of quality criteria, the use of registries, educational materials, selection of Task Force members, evidence review, grading of recommendations, conflict of interest declarations, and approval by the Committee for Practice Guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Abbreviations",
+            "kind": "table",
+            "title": "Abbreviations",
+            "summary": "List of abbreviations and their definitions used throughout the guidelines.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative at top of right column continues from the previous page mid-sentence; narrative under the Preamble section ends mid-sentence and continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The bottom text notes that slides, booklets with essential messages, summary cards for non-specialists and an electronic version are abridged; for full detail, users should access the full ESC Guidelines via the ESC or EHJ websites. It encourages National Societies to endorse, translate and implement the guidelines, and establish implementation programmes to improve patient outcomes. Health professionals are urged to incorporate the ESC Guidelines into clinical judgment and the planning of preventive, diagnostic or therapeutic strategies, while retaining ultimate responsibility for individualized patient care.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 1",
+            "kind": "table",
+            "title": "Classes of recommendations",
+            "summary": "Defines recommendation classes: Class I (evidence/general agreement that treatment is beneficial; “is recommended or is indicated”), Class II (conflicting evidence/opinion) subdivided into IIa (weight of evidence/opinion in favour; “should be considered”) and IIb (less well-established usefulness; “may be considered”), and Class III (evidence that treatment is not useful or may be harmful; “is not recommended”).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "Classes of recommendations",
+            "summary": "Defines levels of evidence: A (data from multiple randomized clinical trials or meta-analyses), B (data from a single randomized trial or large non-randomized studies), and C (consensus of expert opinion and/or small studies, retrospective studies, registries).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative paragraphs at bottom begin and end mid-discussion, indicating continuation from and to adjacent pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2 Introduction",
+        "section_headings": [
+          "2 Introduction",
+          "2.1 Evidence review",
+          "2.2 Relationships with industry and other conflicts of interest",
+          "2.3 What is new in the 2019 Guidelines?",
+          "2.3.1 Change in recommendations from 2003 to 2019"
+        ],
+        "narrative_summary": "The Introduction outlines the prevalence and management of supraventricular tachycardias (SVTs), the history of the 2003 ESC and US guidelines, and the formation of a Task Force to update evidence-based recommendations. Section 2.1 describes the literature review process, grading of evidence, and peer review. Section 2.2 details ESC policy on sponsorship, volunteer writing groups, and conflict of interest disclosures. Section 2.3 notes that many therapies from 2003 are no longer recommended or have changed in the 2019 update, with specific changes summarized in Table 3.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Changes in SVT Guidelines recommendations since 2003",
+            "summary": "Comparison of Class of Recommendation assignments in 2003 versus 2019 for management of SVT subtypes including acute narrow and wide QRS tachycardias, inappropriate sinus tachycardia, postural orthostatic tachycardia syndrome, focal atrial tachycardia, and atrial flutter, showing shifts in COR and LOE between guidelines.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence from previous page; ends with Table 3 marked as continued to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "2.3.2 New recommendations in 2019",
+          "2.3.3 New revised concepts",
+          "3 Definitions and classification"
+        ],
+        "narrative_summary": "Section 2.3.3 outlines new revised concepts including drug therapy for inappropriate sinus and focal atrial tachycardia; therapeutic options for acute conversion and anticoagulation of atrial flutter; therapies for atrioventricular nodal and antidromic atrioventricular re-entrant tachycardias including pre-excited atrial fibrillation; management of asymptomatic pre-excitation; and diagnosis and therapy of tachycardiomyopathy. Section 3 begins the definitions and classification of SVT, defining SVT as atrial rates >100 b.p.m. at rest with mechanisms involving tissue from the His bundle or above.",
+        "recommendation_tables": [
+          {
+            "title": "Table 3 Continued",
+            "rows": [
+              {
+                "recommendation": "i.v. amiodarone is not recommended for pre-excited AF.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Performance of an EPS to risk-stratify individuals with asymptomatic pre-excitation should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in asymptomatic patients in whom electrophysiology testing with the use of isoprenaline identifies high-risk properties, such as SPERRI ≤250 ms, AP ERP ≤250 ms, multiple APs, and an inducible AP-mediated tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Non-invasive evaluation of the conducting properties of the AP in individuals with asymptomatic pre-excitation may be considered.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation may be considered in a patient with asymptomatic pre-excitation and low-risk AP at invasive or non-invasive risk stratification.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablations should be considered in patients with asymptomatic pre-excitation and LV dysfunction due to electrical dyssynchrony.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "AV nodal ablation with subsequent pacing (‘ablate and pace’), either biventricular or His-bundle pacing, is recommended if a tachycardia responsible for TCM cannot be ablated or controlled by drugs.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "During the first trimester of pregnancy, it is recommended that all antiarrhythmic drugs are avoided, if possible.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In pregnant women, beta-1 selective blockers (except atenolol) or verapamil, in order of preference, should be considered for prevention of SVT in patients without WPW syndrome.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In pregnant women, flecainide or propafenone should be considered for prevention of SVT in patients with WPW syndrome and without ischaemic or structural heart disease.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "New recommendations in 2019",
+            "summary": "Continued on next page",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Table 3 is continued from the previous page; Table 4 continues on the next page"
+        },
+        "extraction_warnings": [
+          "Level of Evidence (LOE) values are not visible for recommendation rows; LOE fields have been left empty."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4 Electrophysiological mechanisms of supraventricular tachycardia"
+        ],
+        "narrative_summary": "The page presents two classification tables: Table 5 categorizes supraventricular tachycardias into atrial tachycardias (sinus, focal, multifocal, macro-re-entrant [cavotricuspid and non-cavotricuspid], and atrial fibrillation) and AV junctional tachycardias (AVNRT, non-re-entrant junctional tachycardia, and AVRT). Table 6 provides a differential diagnosis of narrow (≤120 ms) and wide (>120 ms) QRS tachycardias, subdivided into regular and irregular presentations with entities such as SVTs with aberrancy, ventricular tachycardia, pre-excited AF, torsade de pointes, and ventricular fibrillation. Following the tables, prose notes that SVTs may manifest as narrow or wide QRS rhythms and that AF is excluded from these guidelines. The new section on electrophysiological mechanisms introduces abnormal impulse initiation by enhanced automaticity and the concept of re-entry, with detailed circuit schematics in the Supplementary Data.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 5",
+            "kind": "table",
+            "title": "Conventional classification of supraventricular tachycardias",
+            "summary": "Atrial tachycardias: Sinus tachycardia (physiological, inappropriate, sinus nodal re-entrant); Focal AT; Multifocal AT; MRAT (cavotricuspid isthmus-dependent [typical atrial flutter, counter-clockwise or clockwise (reverse); other cavotricuspid isthmus-dependent MRAT]; non-cavotricuspid isthmus-dependent [RA MRAT; LA MRAT]); AF. AV junctional tachycardias: AVNRT (typical; atypical); non-re-entrant junctional tachycardia (JET [junctional ectopic or focal junctional tachycardia]; other non-re-entrant variants); AVRT (orthodromic including PJRT; antidromic with retrograde conduction through AVN or other pathway).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 6",
+            "kind": "table",
+            "title": "Differential diagnosis of narrow and wide QRS tachycardias",
+            "summary": "Narrow QRS (≤120 ms) tachycardias: Regular (physiological sinus tachycardia; inappropriate sinus tachycardia; sinus nodal re-entrant tachycardia; focal AT; atrial flutter with fixed AV conduction; AVNRT; JET or other non-re-entrant variants; orthodromic AVRT; idiopathic VT); Irregular (AF; focal AT or atrial flutter with varying AV block; multifocal AT). Wide QRS (>120 ms) tachycardias: Regular (VT/flutter; ventricular paced rhythm; antidromic AVRT; SVTs with aberration/BBB; atrial or junctional tachycardia with pre-excitation/bystander AP; SVT with QRS widening from electrolyte disturbance or antiarrhythmic drugs); Irregular (AF or atrial flutter or focal AT with aberration; antidromic AVRT via nodo-ventricular/fascicular AP; pre-excited AF; polymorphic VT; torsade de pointes; ventricular fibrillation). Occasionally AF with very fast ventricular response may mimic narrow QRS SVT.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins mid-discussion and section on electrophysiological mechanisms ends mid-paragraph, indicating continuation across pages."
+        },
+        "extraction_warnings": [
+          "No recommendation content (Class/COR, Level/LOE) detected on this page; only classification/differential tables are present."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "5 Cardiac anatomy for the electrophysiologist",
+          "6 Epidemiology of supraventricular tachycardia",
+          "7 Clinical presentation"
+        ],
+        "narrative_summary": "This page introduces anatomical considerations for the electrophysiologist (section 5), presents epidemiological data on supraventricular tachycardia (SVT) including prevalence, gender and age differences, common substrates such as AVNRT, AVRT, and WPW pattern, and outcomes of catheter ablation (section 6). Section 7 begins with the clinical presentation of SVT, describing typical symptoms (palpitations, fatigue, chest discomfort, dyspnoea), age-related differences, and the utility of features such as onset, duration, and associated signs in differential diagnosis. The section’s narrative ends mid-discussion of re-entrant tachycardias.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 7",
+            "kind": "table",
+            "title": "Initial evaluation of the patient with supraventricular tachycardia",
+            "summary": "Standard evaluation includes: history, physical examination, and 12-lead ECG; full blood counts, biochemistry profile, and thyroid function; an ECG during tachycardia should be sought; transthoracic echocardiography. Optional evaluation includes: exercise tolerance testing; 24 h ECG monitoring, transtelephonic monitoring, or an implantable loop recorder; myocardial ischaemia testing in patients with risk factors for coronary artery disease (including men aged >40 years and post-menopausal women); an EPS for definitive diagnosis and when catheter ablation is anticipated.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative under section 7 ends mid-sentence and continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "Initial evaluation of patients with supraventricular tachycardia",
+          "Differential diagnosis of tachycardias",
+          "Narrow QRS (<120 ms) tachycardias",
+          "Electrocardiographic differential diagnosis",
+          "Initiation and termination of the tachycardia",
+          "Regularity of tachycardia cycle length",
+          "P/QRS relationship"
+        ],
+        "narrative_summary": "The page continues the discussion of initial evaluation of patients with supraventricular tachycardia, emphasizing comprehensive history (including family history), physical examination, and the importance of ECG documentation. It describes re-entrant arrhythmia clues from onset/termination patterns, vagal maneuvers and drug administration for diagnosis, and the role of blood tests, biochemistry, renal and thyroid function, echocardiography, and ambulatory monitoring (including 12-lead ECG, 24-h recordings, implantable loop recorders, and wearable devices). Exercise testing, ischaemia evaluation in angina cases, and electrophysiology studies when ablation is anticipated are also noted. Section 9 introduces the differential diagnosis of narrow QRS tachycardias (<120 ms) via His–Purkinje system activation. It outlines ECG criteria for distinguishing SVT from VT in sinus rhythm, discusses the presence or absence of pre-excitation in AVRT, and highlights the value and limitations of ECG during tachycardia. Subsections cover initiation/termination patterns (warm-up and cool-down phenomena, PR interval changes, ectopic beats), tachycardia cycle length regularity (irregular vs regular patterns, arrhythmia types), and P-to-QRS interval relationships (short vs long RP classification).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative paragraphs and sections."
+        },
+        "extraction_warnings": [
+          "Table 7 is referenced but not present on this page",
+          "Figure 1 is referenced but not present on this page"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Figure 1 presents a flowchart algorithm for the differential diagnosis of narrow QRS tachycardia (QRS ≤120 ms). The legend explains that retrograde P waves should be sought using a 12-lead ECG or esophageal lead; the 90 ms RP cut-off is arbitrary and based on limited data; and that the ventriculoatrial interval cut-off is 70 ms in the electrophysiology laboratory. Abbreviations AF, AT, AV, AVNRT, AVRT, JET, RP, and VT are defined.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "algorithm",
+            "title": "Differential diagnosis of narrow QRS tachycardia",
+            "summary": "Flowchart guiding diagnosis of narrow QRS tachycardia: start with narrow QRS tachycardia → assess regularity → if regular assess visible P waves → if P waves visible compare atrial vs ventricular rate → diagnose atrial flutter/Focal AT/AVNRT if atrial rate > ventricular rate; if ventricular rate > atrial rate consider high septal VT/JET/AVNRT variants or assess RP interval → with short RP (<PR, RP ≤90 ms) diagnose typical AVNRT/Focal AT/JET/AVRT; with short RP (>PR, RP >90 ms) diagnose AVRT/atypical AVNRT/Focal AT; with long RP (>PR) diagnose Focal AT/AVRT/atypical AVNRT; if not regular, consider AF or multifocal AT.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "9.1.2 Vagal manoeuvres and adenosine"
+        ],
+        "narrative_summary": "The page continues discussion of narrow‐QRS tachycardia mechanisms, including typical AVNRT, AVRT and focal atrial tachycardia (AT), highlighting VA interval measurements, P‐wave morphology and RP interval criteria for differentiating arrhythmia types. It also describes AV block or atrioventricular dissociation during SVT, the diagnostic role of bundle branch block formation, and the impact of conduction pathways on VA interval and cycle length measurements. Section 9.1.2 introduces use of vagal manoeuvres and adenosine for clinical diagnosis when the ECG during tachycardia is unclear, with reference to Table 8 and Figure 2.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 8",
+            "kind": "table",
+            "title": "Possible responses of narrow QRS tachycardia to vagal manoeuvres and adenosine",
+            "summary": "(1) Slowing of AVN conduction and induction of intermittent AV block. Atrial electrical activity can thus be unmasked, revealing dissociated P waves (focal AT, atrial flutter, or AF waves).\n(2) Temporary decrease in the atrial rate of automatic tachycardias (focal AT, sinus tachycardia, and JET).\n(3) Tachycardia termination. This can happen by interrupting the re-entry circuit in AVNRT and AVRT by acting on the AVN that is part of the circuit. More rarely, sinus nodal re-entry and ATs due to triggered activity can slow down and terminate.\n(4) No effect is observed in some cases.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Figure 2",
+            "kind": "figure_or_algorithm",
+            "title": "Responses of narrow-complex tachycardias to adenosine",
+            "summary": "Flowchart linking responses to adenosine with diagnoses:\n- No effect → Inadequate dose/delivery or high septal VT\n- Gradual slowing then reacceleration → Sinus tachycardia; Automatic focal AT; Junctional ectopic tachycardia\n- Sudden termination → AVNRT; AVRT; Sinus nodal re-entry; Triggered focal AT (DADs)\n- Persisting atrial tachycardia with transient high-grade AV block → Atrial flutter; Micro-re-entrant focal AT\nAcronyms: AT = atrial tachycardia; AV = atrioventricular; AVNRT = atrioventricular nodal re-entry tachycardia; AVRT = atrioventricular re-entry tachycardia; DADs = delayed after-depolarizations; VT = ventricular tachycardia.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of narrative discussion and section 9.1.2 continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "9.1.3 Electrophysiology study",
+          "9.2 Wide QRS (>120 ms) tachycardias",
+          "9.2.1 Electrocardiographic differential diagnosis",
+          "9.2.1.1 Atrioventricular dissociation",
+          "9.2.1.2 QRS duration",
+          "9.2.1.3 QRS axis",
+          "9.2.1.4 Chest lead concordance"
+        ],
+        "narrative_summary": "The page outlines brief remarks on the use of electrophysiology laboratory techniques for differential diagnosis of narrow QRS tachycardia (section 9.1.3). It then addresses wide QRS (>120 ms) tachycardias (section 9.2), emphasizing VT as the default diagnosis until ruled out, and lists four differential mechanisms: SVT with BBB, SVT with pre-excitation, drug/electrolyte-induced widening, and pacemaker-related artefacts. Section 9.2.1 describes the utility of a 12-lead ECG in sinus rhythm versus tachycardia, highlighting key diagnostic features of VT. Subsections detail criteria of AV dissociation, QRS duration thresholds with bundle-branch patterns, abnormal QRS axis shifts, and negative chest lead concordance.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 9",
+            "kind": "table",
+            "title": "Summary of key electrocardiographic criteria that suggest ventricular tachycardia rather than supraventricular tachycardia in wide complex tachycardia",
+            "summary": "AV dissociation: Ventricular rate > atrial rate; Fusion/capture beats: Different QRS morphology from that of tachycardia; Chest lead negative concordance: All precordial chest leads negative; RS in precordial leads: Absence of RS in precordial leads; RS >100 ms in any lead; QRS complex in aVR: Initial R wave; Initial R or Q wave >40 ms; Presence of a notch in a predominantly negative complex; QRS axis −90° to ±180° in presence of RBBB/LBBB; R wave peak time in lead II ≥50 ms; RBBB morphology: Lead V1 monophasic R, Rsr’, biphasic qR, broad R (>40 ms), double-peaked R (rabbit ear sign); Lead V6 R:S <1; LBBB morphology: Lead V1 broad R, slurred/notched S, delayed nadir; Lead V6 Q or QS wave.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends in the middle of section 9.2.1.4 discussion"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "9.2.1.5 Right bundle branch block morphology",
+          "9.2.1.6 Left bundle branch block morphology"
+        ],
+        "narrative_summary": "This page describes criteria for right bundle branch block (RBBB) morphology in ventricular tachycardia, focusing on characteristic waveforms in leads V1 and V6, and the challenges differentiating fascicular VT from SVT with bifascicular block. It also introduces left bundle branch block morphology with criteria for lead V1, to be continued.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 3",
+            "kind": "figure",
+            "title": "Examples of positive and negative chest lead concordance in VT",
+            "summary": "ECG strip examples showing antidromic AVRT, VT with negative chest lead concordance, and VT with positive concordance.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 9.2.1.6 leading into detailed LBBB morphology criteria continues onto next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "ESC Guidelines",
+        "section_headings": [
+          "9.2.2 Electrophysiology study",
+          "9.3 Irregular tachycardias",
+          "10 Acute management in the absence of an established diagnosis",
+          "10.1 Regular tachycardias",
+          "10.1.1 Narrow QRS (≤120 ms) tachycardias",
+          "10.1.1.1 Haemodynamically unstable patients",
+          "10.1.1.2 Haemodynamically stable patients"
+        ],
+        "narrative_summary": "Continues discussion of ECG‐based diagnostic criteria for wide QRS tachycardia, noting sensitivities of 40–80% and ~75% accuracy, reduced sensitivity in septal outflow tract regions, and the occasional need for electrophysiology study (Sect. 9.2.2). Section 9.3 defines irregular tachycardias (AF, multifocal AT, focal AT/atrial flutter), their ventricular response, and differential diagnosis of irregular wide QRS tachycardia (pre‐excited AF vs polymorphic VT). Section 10 introduces acute management of narrow QRS tachycardia without established diagnosis: initial non‐drug‐based approaches with escalation to i.v. drugs or electrical cardioversion (Figure 4). Subsections 10.1.1.1 and 10.1.1.2 describe immediate DC cardioversion for haemodynamically unstable patients and vagal manoeuvres (e.g., Valsalva) for stable patients, including reference to stimulation of the carotid receptors and effect of acetylcholine.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the acute management of narrow QRS tachycardia in the absence of an established diagnosis",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "86–88",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A 12 lead ECG during tachycardia is recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "41,89–91",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "92–94",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Verapamil or diltiazem (i.v.) should be considered, if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "92,94–98",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers (i.v. esmolol or metoprolol) should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "97,99,100",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized direct-current cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "87,88",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of section 9.2.2 and ends in the middle of the narrative for section 10.1.1.2."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "ESC Guidelines",
+        "section_headings": [],
+        "narrative_summary": "The page presents narrative guidance on vagal manoeuvres (Valsalva and carotid sinus massage) for conversion of narrow QRS tachycardia, followed by intravenous adenosine dosing (6–18 mg boluses), its pharmacology, effects, and precautions (e.g., bronchoconstriction in asthma, bradycardia, caution in sinus node disease and post-transplant), and the role of calcium channel blockers (verapamil, diltiazem) and beta-blockers in SVT termination, with associated dosing and contraindications.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 4",
+            "kind": "flowchart",
+            "title": "Acute therapy of narrow QRS tachycardia in the absence of an established diagnosis",
+            "summary": "Algorithm for management of narrow QRS tachycardia:\n- Assess haemodynamic instability: if Yes → synchronized cardioversion (Class I, Level B)\n- If No → perform vagal manoeuvres (Class I, Level B); if ineffective → give i.v. adenosine (Class I, Level B)\n- If adenosine ineffective → choose i.v. verapamil or diltiazem (Class IIa, Level B) or i.v. beta-blocker (Class IIa, Level C)\n- If still ineffective → synchronized cardioversion (Class I, Level B)",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins with continuation of a paragraph on manoeuvres and ends abruptly mid-sentence on metoprolol dosing."
+        },
+        "extraction_warnings": [
+          "Narrative text appears to continue from previous page and ends mid-sentence, indicating missing context."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "10.1.2 Wide QRS (120 ms) tachycardias",
+          "10.1.2.1 Haemodynamically unstable patients",
+          "10.1.2.2 Haemodynamically stable patients"
+        ],
+        "narrative_summary": "The page continues the discussion of beta-blockers and short-acting L-type calcium channel blockers (etripamil) for SVT, noting safety profiles and contraindications in decompensated heart failure. Section 10.1.2 introduces the acute management of wide QRS tachycardias based on haemodynamic stability. Subsequent paragraphs describe the indications for synchronized cardioversion in unstable patients and the diagnostic and therapeutic approach in stable patients, including the use of vagal manoeuvres, adenosine, procainamide, and amiodarone.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the acute management of wide QRS tachycardia in the absence of an established diagnosis",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended in haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A 12 lead ECG during tachycardia is recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine should be considered if vagal manoeuvres fail and there is no pre-excitation on a resting ECG.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Procainamide (i.v.) should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Amiodarone (i.v.) may be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended if drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Verapamil is not recommended in wide QRS-complex tachycardia of unknown aetiology.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 5",
+            "kind": "algorithm",
+            "title": "Acute therapy of wide complex tachycardia in the absence of an established diagnosis.",
+            "summary": "Flowchart guiding treatment of wide QRS tachycardia: assess haemodynamic instability; if unstable, perform synchronized cardioversion (I B); if stable, attempt vagal manoeuvres (I C), then i.v. adenosine if no pre-excitation (IIa C); if ineffective, administer i.v. procainamide (IIa B) or i.v. amiodarone (IIb B).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the discussion of SVT pharmacotherapy and ends mid-sentence in the haemodynamically stable patients narrative."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "10.2 Irregular tachycardias",
+          "11 Specific types of supraventricular tachycardia",
+          "11.1 Atrial arrhythmias",
+          "11.1.1 Sinus tachycardia",
+          "11.1.1.1 Physiological sinus tachycardia",
+          "11.1.1.2 Inappropriate sinus tachycardia",
+          "11.1.1.2.1 Diagnosis",
+          "11.1.1.2.2 Therapy"
+        ],
+        "narrative_summary": "The page reviews management of wide‐QRS irregular tachycardias and introduces specific supraventricular tachycardias. It defines sinus tachycardia (>100 b.p.m.) and distinguishes physiological causes from inappropriate sinus tachycardia (IST). The mechanisms of IST are discussed, including gain‐of‐function mutations in HCN4 and autoantibodies against G beta receptor. Diagnostic criteria for IST are outlined (exclusion of other causes, Holter monitoring showing mean heart rate >90 b.p.m. and exaggerated response >100 b.p.m.). Therapeutic recommendations include lifestyle measures, reassurance, exercise training, and pharmacologic options such as beta‐blockers, non‐dihydropyridine calcium channel blockers, and ivabradine, with attention to dosing and potential side effects.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 10",
+            "kind": "table",
+            "title": "Causes of physiological sinus tachycardia",
+            "summary": "Physiological causes: Emotion, physical exercise, sexual intercourse, pain, pregnancy; Pathological causes: Anxiety, panic attack, anaemia, fever, dehydration, infection, malignancies, hyperthyroidism, hypoglycaemia, pheochromocytoma, Cushing’s disease, diabetes mellitus with evidence of autonomic dysfunction, pulmonary embolus, myocardial infarction, pericarditis, valve disease, congestive heart failure, shock; Drugs: Epinephrine, norepinephrine, dopamine, dobutamine, atropine, beta-2 adrenergic receptor agonists (salbutamol), methylxanthines, doxorubicin, daunorubicin, beta-blocker withdrawal; Illicit drugs: Amphetamines, cocaine, lysergic acid diethylamide, psilocybin, ecstasy, crack, cocaine; Other: Caffeine, alcohol.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with continuation of a discussion on tachycardia and ends mid‐sentence in the therapy section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": [
+        {
+          "Gene": "HCN4",
+          "Associated Conditions": [
+            "Inappropriate sinus tachycardia"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "gain‐of‐function mutation of the pacemaker hyperpolarization‐activated cyclic nucleotide‐gated 4 (HCN4) channel"
+          ],
+          "evidence_text": "gain-of-function mutation of the pacemaker hyperpolarization-activated cyclic nucleotide-gated 4 (HCN4) channel",
+          "confidence": "high",
+          "validation_note": "HCN4 is explicitly described as the pacemaker channel gene in the context of a gain-of-function mutation."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for the therapy of sinus tachycardias",
+          "11.1.1.3 Sinus node re-entrant tachycardia",
+          "11.1.1.3.1 Diagnosis",
+          "11.1.1.4 Postural orthostatic tachycardia syndrome",
+          "11.1.1.4.1 Diagnosis"
+        ],
+        "narrative_summary": "The text discusses ivabradine metabolism via cytochrome P450 and cautions its use with CYP3A4 inhibitors and inducers. Observational data suggest catheter ablation is not routine for inappropriate sinus tachycardia (IST). Medical therapy is empirical: verapamil and amiodarone have variable success, beta-blockers often ineffective; catheter ablation can be effective for sinus node re-entrant tachycardia. Postural orthostatic tachycardia syndrome (POTS) is defined by heart rate increase ≥30 b.p.m. on standing, most common in young women, with ~50% spontaneous recovery; mechanisms include autonomic dysfunction and deconditioning. Diagnosis is by active stand or head-up tilt testing.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of sinus tachycardias",
+            "rows": [
+              {
+                "recommendation": "Evaluation and treatment of reversible causes is recommended.^139,144,162",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "References 139,144,162",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Ivabradine alone or in combination with a beta-blocker should be considered in symptomatic patients.^146–149,151,152",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "References 146–149,151,152",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers should be considered in symptomatic patients.^139,147",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "References 139,147",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Non-dihydropyridine calcium channel blockers (verapamil or diltiazem) in the absence of HFrEF, may be considered in symptomatic patients.^163",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "Reference 163",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation should be considered in symptomatic patients who do not respond to drug therapy.^164–166",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "References 164–166",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A regular and progressive exercise programme should be considered.^167–169",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "References 167–169",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "The consumption of ≥2–3 L of water and 10–12 g of sodium chloride daily may be considered.^170,171",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "References 170,171",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Midodrine, low-dose non-selective beta-blocker, or pyridostigmine may be considered.^167,170,172–174",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "References 167,170,172–174",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Ivabradine may be considered.^175",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "Reference 175",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 6",
+            "kind": "algorithm",
+            "title": "Therapy of sinus tachycardias",
+            "summary": "Flowchart: Begin with treatment of reversible causes (I C). If ineffective, choose ivabradine (IIa B) or beta-blocker (IIa C). If still ineffective and symptomatic recurrent sinus node re-entry, assess desirability of drug therapy—if yes, use verapamil or diltiazem (IIb C); if no, proceed to catheter ablation (IIa C). If no re-entry, combine ivabradine with beta-blocker (IIa B).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative paragraphs."
+        },
+        "extraction_warnings": [
+          "Potential gene symbols CYP3A4 and CYP44A appear in the text but were not extracted because the context does not explicitly indicate a human gene interpretation."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "11.1.1.4.2 Therapy",
+          "11.1.2 Focal atrial tachycardia",
+          "11.1.2.1 Diagnosis",
+          "11.1.2.2 Acute therapy",
+          "11.1.2.3 Catheter ablation"
+        ],
+        "narrative_summary": "This page continues discussion of management of POTS under the Therapy subheading, describing non-pharmacological measures (medication withdrawal, fluid and salt loading, compression garments, graded exercise) and pharmacological options (increased water intake, salt, midodrine, propranolol, pyridostigmine, ivabradine) with dosing considerations and side effects. It then introduces Focal atrial tachycardia (AT), defining it as an organized atrial rhythm >100 b.p.m. from a discrete origin, reviewing its prevalence and symptoms. Under Diagnosis, it emphasizes P-wave identification on 12-lead ECG to differentiate focal AT from other arrhythmias. Acute therapy covers initiation of beta-blockers, calcium channel blockers, adenosine, antiarrhythmic drugs, and DC cardioversion. Catheter ablation is presented as the treatment of choice for recurrent focal AT, including mapping strategies and pulmonary vein isolation for PV-related AT.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative text sections."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for the therapy of focal atrial tachycardia",
+        "section_headings": [
+          "Recommendations for the therapy of focal atrial tachycardia",
+          "Acute therapy",
+          "Haemodynamically unstable patients",
+          "Haemodynamically stable patients",
+          "Chronic therapy"
+        ],
+        "narrative_summary": "Figure 7 shows ECG tracings of focal atrial tachycardia from different atrial sites: (A) lateral right atrium with initial full and then incomplete right bundle branch block aberration; (B) left atrium (left superior pulmonary vein); and (C) right atrial appendage, demonstrating atrioventricular dissociation during carotid sinus massage.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of focal atrial tachycardia",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Acute therapy • Haemodynamically unstable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "Acute therapy • Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers (i.v. esmolol or metoprolol) should be considered in the absence of decompensated HF, if adenosine fails.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "Acute therapy • Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Verapamil or diltiazem (i.v.) should be considered for haemodynamically stable patients in the absence of hypotension or HFrEF, if adenosine fails.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "Acute therapy • Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "If the above measures fail, the following may be used: i.v. ibutilide; or i.v. flecainide or propafenone; or i.v. amiodarone.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "Acute therapy • Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Acute therapy • Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended for recurrent focal AT, especially if incessant or causing TCM.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Chronic therapy",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers or non-dihydropyridine calcium channel blockers (verapamil or diltiazem in the absence of HFrEF), or propafenone or flecainide in the absence of structural or ischaemic heart disease, should be considered if ablation is not desirable or feasible.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "Chronic therapy",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Ivabradine with a beta-blocker may be considered if the above measures fail.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "Chronic therapy",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Amiodarone may be considered if the above measures fail.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "Chronic therapy",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 7",
+            "kind": "figure",
+            "title": "Focal atrial tachycardia",
+            "summary": "ECG tracings illustrating focal atrial tachycardia from the lateral right atrium (A), left atrium (B), and right atrial appendage (C), with atrioventricular dissociation during carotid sinus massage (P waves indicated by arrows).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.1.2.4 Chronic therapy"
+        ],
+        "narrative_summary": "This section notes that studies of chronic therapy for focal atrial tachycardia are limited, preventing firm conclusions. Beta-blockers and calcium-channel blockers may be effective with low risk of side effects. Class IC drugs could be effective when first-line therapy fails. Ivabradine may also be effective in focal AT, ideally combined with a beta-blocker. Amiodarone has been used in younger and pediatric patients and may benefit those with impaired LV function, but its long-term use is limited by side effects.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 8",
+            "kind": "figure",
+            "title": "Acute therapy of focal atrial tachycardia",
+            "summary": "Flowchart for acute management of focal atrial tachycardia (AT). If haemodynamically unstable: synchronized cardioversion (I B). If stable: intravenous adenosine (IIa B); if ineffective, intravenous verapamil or diltiazem (IIa C) or intravenous beta-blocker (IIa C); if still ineffective, intravenous ibutilide or flecainide or propafenone or amiodarone (IIb C).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Figure 9",
+            "kind": "figure",
+            "title": "Chronic therapy of focal atrial tachycardia",
+            "summary": "Flowchart for chronic management of focal AT. If recurrent or incessant: catheter ablation (I B). If not, and drug therapy is desirable: beta-blocker or verapamil or diltiazem or propafenone or flecainide (IIa C); if ineffective, ivabradine with a beta-blocker (IIb C); if still ineffective, amiodarone (IIb C). If drug therapy not desirable: catheter ablation.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 11",
+            "kind": "table",
+            "title": "Average success and complication rates of catheter ablation for supraventricular tachycardia",
+            "summary": "Acute success, recurrence, complication, and mortality rates for different SVT types: Focal AT (85%,20%,1.4%,0.1%), cavotricuspid-dependent atrial flutter (95%,10%,2%,0.2%), AVNRT (97%,2%,0.3%,0.01%), AVRT (92%,8%,1.5%,0.1%). Footnotes detail specific vascular and procedural complications.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Narrative at top continues from prior page; page ends with complete table and figures."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.1.3 Multifocal atrial tachycardia",
+          "11.1.3.1 Therapy",
+          "11.1.4 Macro-re-entrant atrial tachycardias",
+          "11.1.4.1 Cavotricuspid isthmus-dependent macro–re-entrant AT",
+          "11.1.4.1.1 Typical atrial flutter: common (counter-clockwise) and reverse (clockwise)",
+          "11.1.4.1.2 Diagnosis"
+        ],
+        "narrative_summary": "This page defines multifocal atrial tachycardia (AT) as a rapid, irregular rhythm with at least three distinct P-wave morphologies on surface ECG, often associated with pulmonary or cardiac disease. It describes diagnostic criteria distinguishing multifocal AT from atrial fibrillation and outlines management of underlying conditions, rate control with magnesium and AV nodal agents, and use of verapamil, metoprolol, and beta-blockers. A recommendation table details acute and chronic therapy options. The page also introduces macro-reentrant atrial tachycardias, focusing on cavotricuspid isthmus-dependent flutter, describes ECG appearances of typical counter-clockwise and reverse (clockwise) flutter, and begins diagnostic criteria based on atrial activation rate and saw-tooth waves.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of multifocal atrial tachycardia",
+            "rows": [
+              {
+                "recommendation": "Treatment of an underlying condition is recommended as a first step, if feasible.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "[209]",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. beta-blockers, or i.v. non-dihydropyridine calcium channel blockers (verapamil or diltiazem) should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "[213,214]",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Oral verapamil or diltiazem should be considered for patients with recurrent symptomatic multifocal AT in the absence of HFrEF.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "[217,218]",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A selective beta-blocker should be considered for patients with recurrent symptomatic multifocal AT.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "[214,219]",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "AV nodal ablation followed by pacing (preferable biventricular or His-bundle pacing) should be considered for patients with LV dysfunction due to recurrent multifocal AT refractory to drug therapy.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "[216]",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 10",
+            "kind": "figure",
+            "title": "Counter-clockwise (A) and clockwise (B) atrial flutter with 2:1 atrioventricular conduction.",
+            "summary": "Surface ECG tracings illustrating counter-clockwise and clockwise atrial flutter patterns with 2:1 atrioventricular conduction.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends mid-discussion of diagnosis criteria, text cut off before completion."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for the therapy of macro–reentrant atrial arrhythmias",
+        "section_headings": [
+          "11.1.4.1.3 Acute therapy"
+        ],
+        "narrative_summary": "The page continues a discussion of typical and atypical atrial flutter ECG patterns and how antiarrhythmic drugs and prior ablation or surgery can modify these patterns, potentially masking circuits. It notes the relationship between atrial flutter and atrial fibrillation, and describes acute therapy approaches when ventricular rates are high. Rate control with AV nodal blocking agents (including beta-blockers, calcium channel blockers, amiodarone) may be challenging; synchronized cardioversion and, in select cases, adenosine or atrial pacing can aid diagnosis or termination. Cardioversion may be necessary in hemodynamically unstable or critically ill patients, and resuscitation equipment should be available.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of macro–reentrant atrial arrhythmias",
+            "rows": [
+              {
+                "recommendation": "Anticoagulation, as in AF, is recommended for patients with atrial flutter and concomitant AF.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^4",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Patients with atrial flutter without AF should be considered for anticoagulation, but the threshold for initiation has not been established.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "^241–247",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^248,249",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. ibutilide or i.v. or oral (in-hospital) dofetilide are recommended for conversion to sinus rhythm.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^250–257",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Low-energy (≤100 J biphasic) electrical cardioversion is recommended for conversion to sinus rhythm.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^248,249",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "High-rate atrial pacing is recommended for termination of atrial flutter in the presence of an implanted pacemaker or defibrillator.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^258–260",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. beta-blockers or non-dihydropyridine calcium channel blockers (verapamil or diltiazem) (i.v.), should be considered for control of rapid ventricular rate.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "^235–238",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Invasive and non-invasive high-rate atrial pacing may be considered for termination of atrial flutter.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "^258,261",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. amiodarone may be tried if the above are not available or desirable.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "^239,240",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Propafenone and flecainide are not recommended for conversion to sinus rhythm.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "^250",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation should be considered after the first episode of symptomatic typical atrial flutter.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "^262,263",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended for symptomatic, recurrent episodes of CTI-dependent flutter.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "^262–264",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation in experienced centres is recommended for symptomatic, recurrent episodes of non-CTI-dependent flutter.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^224,265–269",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in patients with persistent atrial flutter or in the presence of depressed LV systolic function due to TCM.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "^233,234",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers or non-dihydropyridine calcium channel blockers (verapamil or diltiazem, in the absence of HFrEF) should be considered if ablation is not desirable or feasible.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "^237,270",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Amiodarone may be considered to maintain sinus rhythm if the above measures fail.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "^263",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "AV nodal ablation with subsequent pacing (‘ablate and pace’), either biventricular or His-bundle pacing, should be considered if all the above fail and the patient has symptomatic persistent macro-re-entrant atrial arrhythmias with fast ventricular rates.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins and ends mid-sentence, indicating continuation of prose across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Flowchart outlining acute management of stable atrial flutter or macro-re-entrant atrial tachycardia (MRAT), including initial assessment of haemodynamic stability, choice of rhythm control strategy, preference for electrical cardioversion versus pharmacological agents, evaluation of pacing device presence, and fallback options with their respective Classes of Recommendation and Levels of Evidence.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 11",
+            "kind": "algorithm",
+            "title": "Acute therapy of stable atrial flutter or macro-re-entrant atrial tachycardia",
+            "summary": "• Assess haemodynamic instability: if yes → synchronized cardioversion (I B).\n• If stable, decide on rhythm control strategy: if no → i.v. beta-blocker or i.v. diltiazem/verapamil (IIa B).\n• If yes rhythm control, determine if electrical cardioversion is preferred: if yes → low-energy synchronized cardioversion (I B).\n• If not preferred, check for PPM/ICD: if present → high-rate atrial pacing (I B); if absent → i.v. ibutilide or dofetilide (i.v. or oral in-hospital) (I B).\n• If ibutilide/dofetilide unavailable or contraindicated → either i.v. amiodarone (IIb C) or invasive/non-invasive high-rate atrial pacing (IIb B).\nLegend: ICD = implantable cardioverter defibrillator; i.v. = intravenous; MRAT = macro-re-entrant atrial tachycardia; PPM = permanent pacemaker.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": "Standalone complete figure"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "11.1.4.4 Catheter ablation",
+          "11.1.4.5 Chronic therapy",
+          "11.1.4.6 Anticoagulation",
+          "11.1.4.1.7 Other cavotricuspid isthmus–dependent macro–reentrant atrial tachycardia",
+          "11.1.4.2 Non-cavotricuspid isthmus–dependent macro–reentrant atrial tachycardia",
+          "11.1.4.2 Right atrium macro–reentrant atrial tachycardia"
+        ],
+        "narrative_summary": "This page continues discussion of atrial flutter management, covering pharmacological cardioversion using class III agents (dofetilide, ibutilide), AVN‐blocking agents, and pacing; the superior efficacy of catheter ablation for CTI‐dependent flutter; considerations for chronic rate control with AV nodal blockers or antiarrhythmics; and individualized anticoagulation risk stratification. It then describes non‐drug interventions for macro–reentrant atrial tachycardias, detailing atypical CTI‐dependent circuits, non‐CTI‐dependent mechanisms, and right atrial macro–reentrant tachycardias in congenital heart disease, including ECG patterns and ablation challenges.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Content begins and ends in the middle of section‐level discussions, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [
+          "11.1.4.2.2 Left atrium macro–re-entrant atrial tachycardia"
+        ],
+        "narrative_summary": "The first paragraph describes right atrial macro-re-entrant tachycardia (RA MRAT) occurring without prior intervention, sustained by areas of electrical silence due to fibrosis, with difficult rate control and limited drug efficacy, and highlights radiofrequency ablation of critical isthmuses as the most effective treatment reserved for experienced operators. The second paragraph defines left atrial macro-re-entrant atrial tachycardia (LA MRAT) circuits around electrically silent fibrotic areas post-intervention or degeneration, details the role of AF ablation, pulmonary vein disconnection, and surgical lesions in creating MRAT, and discusses distinguishing features, anatomic obstacles, and ablation strategies.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 12",
+            "kind": "algorithm",
+            "title": "Chronic therapy of atrial flutter/macro-re-entrant atrial tachycardia",
+            "summary": "Flowchart guiding chronic therapy of atrial flutter/MRAT based on symptom recurrence, CTI dependency, and desirability of drug therapy, with class and level recommendations for beta-blockers, amiodarone, and catheter ablation.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative continues from earlier sections and likely continues to subsequent sections."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.2 Atrioventricular junctional arrhythmias",
+          "11.2.1 Atrioventricular nodal re-entrant tachycardia",
+          "11.2.1.1 Diagnosis",
+          "11.2.1.1.1 12 lead electrocardiogram during tachycardia"
+        ],
+        "narrative_summary": "This page continues the discussion of atrioventricular nodal re-entrant tachycardia (AVNRT), covering its anatomical circuit variability, histological and electrophysiological basis, clinical onset over time, and key electrocardiographic diagnostic features during tachycardia, including narrow QRS complexes, possible aberrancy, rare AV dissociation, and ST-segment changes, with emphasis on retrograde P waves in typical (slow-fast) AVNRT.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 13",
+            "kind": "figure",
+            "title": "Atrioventricular nodal re-entrant tachycardia",
+            "summary": "Panel A: Typical atrioventricular nodal re-entrant tachycardia. Panel B: Atypical atrioventricular nodal re-entrant tachycardia. Panel C: Atypical AVNRT with (unusual) left bundle branch block aberration. Retrograde P waves are indicated by arrows. ECG leads I, II, III, aVR, aVL, aVF, V1–V6 at 25 mm/sec.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of a paragraph on peri-mitral flutter and ends in the middle of a sentence describing typical AVNRT retrograde P waves."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.2.1.2 Electrophysiology study",
+          "11.2.1.3 Typical atrioventricular nodal re-entrant tachycardia",
+          "11.2.1.4 Atypical atrioventricular nodal re-entrant tachycardia",
+          "11.2.1.2 Therapy"
+        ],
+        "narrative_summary": "Discussion of classification and ECG criteria of typical and atypical AVNRT, including HA, VA and AH/HA intervals, P-wave characteristics, ECG signs such as ST-segment depression and pseudo deflections, electrophysiological study patterns for fast and slow conduction pathways, and criteria for mapping studies. Also mentions classification based on HA and VA intervals.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the management of atrioventricular nodal re-entrant tachycardia (AVNRT)",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Verapamil or diltiazem i.v. should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers (i.v. esmolol or metoprolol) should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 12",
+            "kind": "table",
+            "title": "Classification of atrioventricular nodal re-entrant tachycardia types",
+            "summary": "Shows classification of typical AVNRT and atypical AVNRT with HA interval, VA (His) interval, and AH/HA ratio values.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page starts mid-sentence under Table 12 and recommendation table continues to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.2.1.2.1 Acute therapy",
+          "11.2.1.2.2 Catheter ablation",
+          "11.2.1.2.3 Chronic therapy"
+        ],
+        "narrative_summary": "Section 11.2.1.2.1 discusses that although vagal manoeuvres and adenosine terminate SVT in general, they are less successful in AVNRT. Oral diltiazem plus a beta-blocker can convert ≥94% of patients but carries risks of hypotension, AV block or syncope; alternatives include flecainide or intranasal etripamil, and synchronized DC cardioversion if manoeuvres fail. Section 11.2.1.2.2 reviews randomized trials showing catheter ablation as first-line treatment reduces hospitalizations, improves quality of life, and has high success (≈97%) with low AV block risk (<1%), including in both typical and atypical AVNRT; recurrence rates vary by age and congenital heart disease, with low procedural mortality and favourable safety in children. Section 11.2.1.2.3 notes that patients with minimal, infrequent tachycardia episodes may be followed without ablation or drugs (≈50% become asymptomatic over 13 years), and that chronic antiarrhythmic drugs decrease episode frequency and duration.",
+        "recommendation_tables": [
+          {
+            "title": "Chronic therapy",
+            "rows": [
+              {
+                "recommendation": "Catheter ablation is recommended for symptomatic, recurrent AVNRT.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "208,336–339",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Diltiazem or verapamil, in patients without HFrEF, or beta-blockers should be considered if ablation is not desirable or feasible.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "340–342",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Abstinence from therapy should be considered for minimally symptomatic patients with very infrequent, short-lived episodes of tachycardia.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "319",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 14",
+            "kind": "algorithm",
+            "title": "Acute therapy of atrioventricular nodal re-entrant tachycardia",
+            "summary": "Flowchart for acute management of AVNRT in patients out of hospital, starting with vagal manoeuvres (I B) if stable, haemodynamic instability guided to synchronized cardioversion (I B); if ineffective, i.v. adenosine (I B); if still ineffective, i.v. verapamil or diltiazem (IIa B) or i.v. beta-blocker (IIa C).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative on chronic therapy ends mid-sentence"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.2.2 Non-re-entrant junctional tachycardias",
+          "11.3 Atrioventricular arrhythmias",
+          "11.3.1 Accessory pathways"
+        ],
+        "narrative_summary": "The page continues discussion of AVNRT management, noting limited long-term efficacy of antiarrhythmic drugs and variable success of ablation. It describes non-paroxysmal and non-re-entrant junctional tachycardias, their mechanisms, associated conditions, and acute and chronic medical therapies. It then introduces atrioventricular arrhythmias, defining the AVN–HPS circuit and describing anatomical features and conduction properties of accessory pathways.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 15",
+            "kind": "algorithm",
+            "title": "Chronic therapy of atrioventricular nodal re-entrant tachycardia",
+            "summary": "Flowchart outlining management of symptomatic recurrent AVNRT, directing to catheter ablation (I B) if drug therapy is undesirable or ineffective, and to diltiazem, verapamil, or beta-blocker therapy (IIa B) when drug therapy is preferred.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of clinical discussion, indicating the narrative spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.3.2 Wolff–Parkinson–White syndrome",
+          "11.3.3 Orthodromic atrioventricular re-entrant tachycardia"
+        ],
+        "narrative_summary": "Continuation of discussion on accessory pathways: differentiates manifest and concealed APs, notes prevalence of multiple APs (≤12% overall; ≤50% with Ebstein’s anomaly), and describes AVRT mechanisms. Section 11.3.2 defines WPW syndrome with ECG criteria (short PR interval, slurred upstroke, wide QRS), mentions familial pre-excitation linked to PRKAG2 mutations and other storage diseases, and introduces surface ECG algorithms for AP localization and the intermittent nature of pre-excitation. Section 11.3.3 begins description of orthodromic AVRT conduction circuit.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 16",
+            "kind": "algorithm",
+            "title": "St George\u0019s algorithm for the localization of accessory pathways",
+            "summary": "Flowchart guiding the localization of accessory pathways based on QRS negativity in leads III and V1, followed by morphologies in limb leads (aVF, aVL) and V1 to predict pathway sites (e.g., RPS, MS, LPS, LAL, RP, LPL, LP, RL, RAS).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins and ends mid-sentence indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": [
+        {
+          "Gene": "PRKAG2",
+          "Associated Conditions": [
+            "LV hypertrophy",
+            "multisystem disease"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "familial forms of pre-excitation associated with LV hypertrophy and multisystem disease [mutations in the protein kinase adenosine monophosphate-activated non-catalytic subunit gamma 2 (PRKAG2) gene"
+          ],
+          "evidence_text": "(PRKAG2) gene",
+          "confidence": "high",
+          "validation_note": "Explicitly described as a gene in the text."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.3.4 Antidromic atrioventricular re-entrant tachycardia",
+          "11.3.5 Accessory pathway as a bystander",
+          "11.3.6 Pre-excited atrial fibrillation",
+          "11.3.7 Concealed accessory pathways"
+        ],
+        "narrative_summary": "The page continues discussion of the retrograde limb of the re-entrant circuit in orthodromic AVRT, noting tachycardia rates (150–220 b.p.m.), constant RP interval up to half the tachycardia cycle length, narrow QRS, functional bundle branch block ipsilateral to the blocked bundle in younger patients (<40 years), and ST-segment depression. Section 11.3.4 describes antidromic AVRT in 3–8% of WPW syndrome patients, detailing the antegrade conduction over the accessory pathway, retrograde conduction over the AV node or another AP, the contralateral positioning of the retrograde limb, the potential detection of multiple or concealed APs during AVRT, and ECG features of a wide, fully pre-excited QRS and prolonged RP interval. Section 11.3.5 states that in focal atrial tachycardia, atrial flutter, AF, or AVNRT, the accessory pathway may act as a bystander and is not crucial to the re-entry circuit. Section 11.3.6 notes that paroxysmal AF occurs in ~50% of WPW patients, often in the absence of structural heart disease, and that rapid AVRT can precipitate AF with potentially life-threatening ventricular responses. Section 11.3.7 explains that concealed accessory pathways manifest only during AVRT or electrophysiology testing, are not seen on resting ECG, show no sex predilection, and give rise solely to orthodromic AVRT.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 17",
+            "kind": "figure",
+            "title": "Localization of accessory pathways in the presence of maximum (spontaneous or evoked) pre-excitation",
+            "summary": "Accessory pathway locations are green when right-sided and red when left-sided. Left posterolateral accessory pathways can have 0, 1, or 2 inferior leads with positive polarity, whereas nodo-Hisian accessory pathways can have 1, 2, or 3 inferior leads with positive polarity. Right-sided accessory pathways are framed orange or yellow when the V3 lead is negative or positive, respectively. Left posterior accessory pathways are framed blue when the V1/V2 ratio is <1 or purple when V1/V2 ratio is ≥1. AP = accessory pathway; DCS = deep coronary sinus; LL = left lateral; LPL = left posterolateral; LPS = left paraseptal; NH = nodo-Hisian; RA = right anterior; RL = right lateral; RP = right posterior; RPS = right paraseptal.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins mid-sentence at top of page and ends mid-sentence at bottom, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.3.8 Permanent junctional reciprocating tachycardia",
+          "11.3.9 Atypical forms of pre-excitation"
+        ],
+        "narrative_summary": "This page continues discussion of concealed accessory pathways in AVRT, noting that concealed APs are predominantly along the left free wall, with septal and right free wall locations less frequent, and are not associated with increased sudden cardiac death risk. Management of AVRT due to concealed APs mirrors overt APs, focusing on symptom relief. Section 11.3.8 describes PJRT as a long RP tachycardia due to a concealed posteroseptal accessory pathway with slow retrograde conduction, recommending radiofrequency catheter ablation in symptomatic patients or those with impaired left ventricular function. Section 11.3.9 outlines atypical accessory pathways (e.g., Mahaim fibers), their anatomic variability, decremental conduction properties, and defines characteristics such as baseline QRS morphology and programmed atrial pacing responses.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 18",
+            "kind": "figure",
+            "title": "Atrioventricular re-entrant tachycardia",
+            "summary": "Left: orthodromic AV re-entrant tachycardia due to a concealed posteroseptal accessory pathway with negative retrograde P waves in inferior leads. Right: antidromic AV re-entrant tachycardia due to an atriofascicular accessory pathway; tachycardia axis depends on insertion into the right bundle and fusion over the left anterior fascicle.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins mid-sentence and ends with an incomplete bullet list of properties defining atypical pathways."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "11.3.10 Therapy",
+        "section_headings": [
+          "11.3.10 Therapy",
+          "11.3.10.1 Acute therapy"
+        ],
+        "narrative_summary": "The page continues a discussion of AVRT mechanisms and mapping, highlighting that catheter ablation has high success and low recurrence in symptomatic tachycardia and is not routinely performed for prognostic reasons. Adenosine should be used cautiously in AVRT due to potential fast AF induction; drug therapy during orthodromic and antidromic AVRT should target specific circuit components, and urgent cardioversion is recommended for pre-excited AF.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of atrioventricular re-entrant tachycardia due to manifest or concealed accessory pathways",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "86–88",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "41,89–91",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In orthodromic AVRT, adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail and the tachycardia is orthodromic.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "92–94",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In orthodromic AVRT, i.v. verapamil or diltiazem should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "92,94–98",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In orthodromic AVRT, i.v. beta-blockers (esmolol or metoprolol) should be considered in the absence of decompensated HF, if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "97,99,100",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In antidromic AVRT, i.v. ibutilide or procainamide or i.v. flecainide or propafenone or synchronized DC cardioversion should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "421,422,429,437",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In antidromic AVRT, i.v. amiodarone may be considered in refractory cases.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "423–425",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "87,88",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation of AP(s) is recommended in patients with symptomatic, recurrent AVRT.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "391–393,438–441",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers or non-dihydropyridine calcium-channel blockers (verapamil or diltiazem in the absence of HFrEF) should be considered if no signs of pre-excitation are present on resting ECG, if ablation is not desirable or feasible.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "340,341,442,443",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Propafenone or flecainide may be considered in patients with AVRT and without ischaemic or structural heart disease, if ablation is not desirable or feasible.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "429,444,445",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Digoxin, beta-blockers, diltiazem, verapamil, and amiodarone are not recommended and are potentially harmful in patients with pre-excited AF.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "427,428,432–434,446",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with continuing narrative bullet points; table is complete on this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for the acute therapy of pre-excited atrial fibrillation"
+        ],
+        "narrative_summary": "The page presents Figure 19, an algorithm for acute therapy of atrioventricular re-entrant tachycardia (AVRT), followed by a recommendation table for acute management of pre-excited atrial fibrillation in haemodynamically unstable and stable patients.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the acute therapy of pre-excited atrial fibrillation",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended in haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Ibutilide or procainamide (i.v.) should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Flecainide or propafenone (i.v.) may be considered.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended if drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Amiodarone (i.v.) is not recommended.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 19",
+            "kind": "figure",
+            "title": "Acute therapy of atrioventricular re-entrant tachycardia",
+            "summary": "Flowchart outlining acute therapy steps for AVRT, including patient assessment (out of hospital vs. in hospital), vagal manoeuvres, adenosine, choice of antiarrhythmic agents (ibutilide, procainamide, verapamil, beta-blocker), and synchronized cardioversion for haemodynamic instability or drug failure.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "11.3.10.2 Catheter ablation",
+          "11.3.10.3 Chronic therapy",
+          "11.3.11 The asymptomatic patient with pre-excitation"
+        ],
+        "narrative_summary": "This page continues discussion of pre-excited atrial fibrillation and ventricular pre-excitation therapies. It notes that Class Ic drugs may affect the AV node and that intravenous amiodarone is no longer considered safe in pre-excited AF, whereas procainamide appears safer. In section 11.3.10.2, catheter ablation is described as the treatment of choice for symptomatic and recurrent AVRT or pre-excited AF, with high success and low complication rates, discussion of ECG delta‐wave localization, and procedural approaches including transseptal and retrograde aortic. Section 11.3.10.3 covers chronic pharmacological therapy when ablation is not feasible, recommending Class Ic agents, beta-blockers, diltiazem, or verapamil under certain conditions. Section 11.3.11 introduces management considerations for the asymptomatic pre-excitation patient, noting the lifetime arrhythmia risk and incidence of AF and sudden cardiac death.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 20",
+            "kind": "flowchart",
+            "title": "Acute therapy of pre-excited atrial fibrillation",
+            "summary": "Flowchart algorithm for acute management of pre-excited AF: assess haemodynamic instability; if unstable, perform synchronized cardioversion (Class I, Level B); if stable, administer i.v. ibutilide or procainamide (Class IIa, Level B) or i.v. flecainide or propafenone (Class IIb, Level B); if pharmacotherapy is ineffective, proceed to synchronized cardioversion.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Figure 21",
+            "kind": "flowchart",
+            "title": "Chronic therapy of atrioventricular re-entrant tachycardia",
+            "summary": "Flowchart algorithm for chronic management of AVRT: if symptomatic and recurrent, refer for catheter ablation (Class I, Level B); if not, consider drug therapy; for orthodromic AVRT, use diltiazem, verapamil, or a beta-blocker (Class IIa, Level B); for non-orthodromic AVRT, use propafenone or flecainide (Class IIb, Level B); if medical therapy fails, refer back to ablation.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text begins and ends mid-sentence."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for the management of patients with asymptomatic pre-excitation",
+        "section_headings": [
+          "Recommendations for the management of patients with asymptomatic pre-excitation"
+        ],
+        "narrative_summary": "The left column reviews the estimated risk of cardiac arrest and ventricular fibrillation in patients with Wolff–Parkinson–White syndrome, citing registry data and confidence intervals. It details electrophysiological risk markers—short SPERRI, ERP, inducible tachycardia—and non-invasive tests such as exercise ECG, ambulatory monitoring, and drug challenge. Intermittent pre-excitation as a marker of low risk is discussed, along with a 30-year literature overview and a randomized controlled trial of catheter ablation demonstrating reduced arrhythmic events over five years. It concludes by introducing Figure 22, which summarizes screening and management recommendations.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the management of patients with asymptomatic pre-excitation",
+            "rows": [
+              {
+                "recommendation": "Performance of an EPS, with the use of isoproterenol, is recommended to risk stratify individuals with asymptomatic pre-excitation who have high-risk occupations/hobbies,c and those who participate in competitive athletics.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "439,450–452,454–460",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in asymptomatic patients in whom electrophysiology testing with the use of isoproterenol identifies high-risk properties, such as SPERRI ≤250 ms, AP ERP ≤250 ms, multiple APs, and an inducible AP-mediated tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "439,450,452–454–460",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in high-risk patients with asymptomatic pre-excitation after discussing the risks, especially of heart block associated with ablation of antegrade or MS APs, and benefits of the procedure.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "439,440,473–476",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Performance of an EPS to risk stratify individuals with asymptomatic pre-excitation should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "439,450–452,454–460",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Non-invasive evaluation of the conducting properties of the AP in individuals with asymptomatic pre-excitation may be considered.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B",
+                "supporting_text": "459,461–463,465–469",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Invasive risk stratification with an EPS is recommended in patients without ‘low-risk’ characteristics at non-invasive risk stratification.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "462,463,465–469,477",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Clinical follow-up should be considered in a patient with asymptomatic pre-excitation and a low-risk AP at invasive risk stratification.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "450,452,456,463,477",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation may be considered in a patient with asymptomatic pre-excitation, and a low-risk AP at invasive or non-invasive risk stratification.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "405,450,452,456,463,477",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation should be considered in patients with asymptomatic pre-excitation and LV dysfunction due to electrical dyssynchrony.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "478–481",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation may be considered in patients with low-risk asymptomatic pre-excitation in appropriately experienced centres according to patient preferences.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "203,439,450,453,454,471,474,482",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Narrative begins mid-sentence and continues discussion from previous page; table is complete on this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues discussion of screening strategies for patients with asymptomatic pre-excitation. It describes invasive screening with electrophysiology study (EPS) in high-risk occupations or competitive athletes, listing high-risk accessory pathway (AP) features (SPERRI ≤250 ms, AP ERP ≤250 ms, multiple APs, inducible AP-mediated tachycardia) and noting the use of non-invasive screening modalities (exercise testing, drug testing, ambulatory monitoring) for others. It recommends catheter ablation when high-risk AP characteristics are found, emphasizing high cure rates (>95%) and low major complication rates (<0.5%).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 22",
+            "kind": "algorithm",
+            "title": "Risk stratification and therapy of patients with asymptomatic pre-excitation",
+            "summary": "Flowchart guiding management of asymptomatic pre-excitation: assess if patient has high-risk occupation or is a competitive athlete. If yes, perform EPS for risk stratification (I B); if high-risk features present, offer catheter ablation (I C), if not, proceed to clinical follow-up (IIa C) or consider catheter ablation (IIb C). If no high-risk occupation, options include EPS for risk stratification (IIa B) or non-invasive risk stratification (IIb B); low-risk features lead to clinical follow-up (IIa C) or catheter ablation (IIb C), while absence of low-risk features redirects to invasive stratification.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends in the middle of narrative text"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "12 Supraventricular tachycardia in adults with congenital heart disease",
+        "section_headings": [
+          "12 Supraventricular tachycardia in adults with congenital heart disease",
+          "12.1 Pharmacological antiarrhythmic therapy"
+        ],
+        "narrative_summary": "The page begins with the end of the previous section discussing risk stratification and catheter ablation outcomes in asymptomatic pre-excitation. It then introduces section 12, describing the increasing prevalence of adults with congenital heart disease (ACHD) and their susceptibility to arrhythmias, particularly supraventricular tachycardias (SVTs), due to underlying defects, surgical scars, and unique anatomy. Section 12.1 covers pharmacological therapy for SVT in ACHD, noting limited trial data, proarrhythmic risks of antiarrhythmic drugs, and use of beta-blockers, Class IC agents, and other drugs like quinidine, disopyramide, sotalol, flecainide, and amiodarone with caution.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page starts in the middle of narrative from the previous section and ends in the middle of Section 12.1 text, indicating continuation."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for the therapy of supraventricular tachycardia in congenital heart disease in adults",
+        "section_headings": [
+          "12.2 Catheter and surgical ablation",
+          "12.3 Specific disease states",
+          "12.3.1 Atrial septal defect",
+          "12.3.3 Transposition of the great arteries (dextro-transposition of the great arteries) after atrial switch operation (Mustard or Senning)"
+        ],
+        "narrative_summary": "Section 12.2 discusses the challenges of catheter and surgical ablation in adults with congenital heart disease (ACHD), emphasizing the need for specialized centers, complex arrhythmia substrates, advanced mapping techniques, and pre-operative or concomitant arrhythmia surgery to improve outcomes. Section 12.3 introduces specific disease states, starting with atrial septal defect, noting the incidence of atrial arrhythmias and controversies regarding defect closure and risk of arrhythmia development. Section 12.3.3 on transposition of the great arteries after atrial switch begins but is incomplete on this page.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of supraventricular tachycardia in congenital heart disease in adults",
+            "rows": [
+              {
+                "recommendation": "Anticoagulation for focal AT or atrial flutter should be similar to that for patients with AF.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "241,242,499",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "86–88,491,492",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "41,89–91",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "92–94",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. verapamil or diltiazem should be considered, if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "92,94–98",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. beta-blockers esmolol or metoprolol should be considered if vagal manoeuvres and adenosine fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "97,99,100",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "87,88",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation in experienced centres should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "292,500,501",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers should be considered for recurrent focal AT or atrial flutter, if ablation is not possible or successful.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "237",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In patients with SVT planned for surgical repair of a congenital heart disease anomaly, pre-operative catheter ablation or intraoperative surgical ablation should be considered.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "502–504",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Amiodarone may be considered for prevention if ablation is not possible or successful.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "505",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Sotalol is not recommended as a first-line antiarrhythmic drug as it is related to an increased risk of pro-arrhythmias and mortality.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "496",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Flecainide and propafenone are not recommended as first-line antiarrhythmic drugs in patients with ventricular dysfunction and severe fibrosis.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "497",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative section 12.3.1 is cut mid-sentence at bottom of page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "12.3.4 Tetralogy of Fallot",
+          "12.3.5 Fontan repairs",
+          "13 Supraventricular tachycardia in the paediatric population",
+          "13.1 Foetal arrhythmias",
+          "14 Supraventricular tachycardia in pregnancy"
+        ],
+        "narrative_summary": "Continuing from the previous discussion of adult congenital arrhythmias, this page reviews SVTs in patients with tetralogy of Fallot, noting a high risk of supraventricular arrhythmias and recommending catheter ablation as a first-line option after evaluation for haemodynamic lesions. It then addresses atrial tachycardia in post-Fontan patients, highlighting the risk of AT, challenges of ablation, and evolving surgical and interventional modifications. Section 13 introduces paediatric SVT, emphasizing differences in cardiac maturation, electro­physiology, and drug pharmacokinetics in infants. Section 13.1 outlines detection and management of foetal arrhythmias via echocardiography and in utero drug therapy. The page concludes with the opening of section 14 on SVT in pregnancy, which is cut off.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Text begins and ends mid-sentence indicating continuation of narrative across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "14.1 Maternal, obstetric, and offspring risk",
+          "14.2 Therapy",
+          "14.2.1 Antiarrhythmic drugs"
+        ],
+        "narrative_summary": "Supraventricular tachycardia (SVT) in pregnancy carries an increased risk of maternal and fetal complications, with higher incidence rates of various arrhythmias. Management prioritizes identification and treatment of underlying conditions, balancing maternal hemodynamics against fetal well-being, labor and lactation effects. Antiarrhythmic drug therapy is reserved for SVT causing hemodynamic compromise or significant symptoms; teratogenic and fetal growth risks vary by trimester, with data on many agents limited. Beta-1 selective blockers are preferred when treatment is needed beyond the first trimester.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of supraventricular tachycardia in pregnancy",
+            "rows": [
+              {
+                "recommendation": "Catheter ablation is recommended in symptomatic women with recurrent SVT who plan to become pregnant.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "538",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Immediate electrical cardioversion is recommended for any tachycardia with haemodynamic instability.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "539,540",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres and, if these fail, adenosine are recommended for acute conversion of SVT.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "541,542",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "An i.v. beta-1 selective beta blocker (except atenolol) should be considered for acute conversion or rate control of SVT.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "542,543",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. digoxin in the latest pocket Gls version should be considered for rate control of AT if beta-blockers fail.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "542,543",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "i.v. ibutilide in the latest pocket Gls version may be considered for termination of atrial flutter.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C",
+                "supporting_text": "544,545",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "During the first trimester of pregnancy, it is recommended that all antiarrhythmic drugs should be avoided, if possible.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-1 selective (except atenolol) beta-blockers or verapamil, in order of preference, should be considered for prevention of SVT in patients without WPW syndrome.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "543,546–548",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Flecainide or propafenone should be considered for prevention of SVT in patients with WPW syndrome, and without ischaemic or structural heart disease.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "549",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Flecainide or propafenone in patients without ischaemic or structural heart disease should be considered if AV nodal blocking agents fail to prevent SVT.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "533,543",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Digoxin or verapamil should be considered for rate control of AT if beta-blockers fail in patients without WPW syndrome.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "543",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Amiodarone is not recommended in pregnant women.",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "C",
+                "supporting_text": "153,543",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Fluoroless catheter ablation should be considered in cases of drug-refractory or poorly tolerated SVT, in experienced centres.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "550–552",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with continuation of narrative from prior page; ends with table footnotes, no interruption."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "14.2.2 Electrical cardioversion",
+          "14.2.3 Catheter ablation",
+          "15 Tachycardia-induced cardiomyopathy",
+          "15.1 Definition",
+          "15.2 Mechanism",
+          "15.3 Diagnosis",
+          "15.4 Therapy"
+        ],
+        "narrative_summary": "This page begins with sections on electrical cardioversion and catheter ablation in pregnancy, noting that cardioversion is first-line for unstable arrhythmias and that ablation may be deferred to the second trimester but can be successful for drug-refractory SVTs. It then introduces tachycardia-induced cardiomyopathy (TCM), defining it as reversible LV dysfunction from persistent tachycardia or frequent ventricular ectopy, and describes its mechanism, including cellular remodeling and inflammation. The diagnosis section outlines criteria such as reduced LVEF (<30%), increased LV dimensions, use of CMR to exclude structural disease, and NT-proBNP measurements.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of supraventricular tachycardia in patients with suspected or established heart failure due to tachycardiomyopathy",
+            "rows": [
+              {
+                "recommendation": "Catheter ablation is recommended for TCM due to SVT.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "196,233,418,525",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta-blockers (from the list with proved mortality and morbidity benefits in HFrEF) are recommended for TCM due to SVT, when catheter ablation fails or is not applicable.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "567",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "It is recommended that TCM is considered in a patient with reduced LV ejection fraction with an elevated heart rate (>100 b.p.m.).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "557–561",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "24 h (or multiday) ambulatory ECG monitoring should be considered for diagnosis of TCM by identifying subclinical or intermittent arrhythmias.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "526,557,568",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "AV nodal ablation with subsequent pacing (‘ablate and pace’), either biventricular or His-bundle pacing, is recommended if the tachycardia responsible for the TCM cannot be ablated or controlled by drugs.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "526,557,564,569–572",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-paragraph of section 14.2.1 and ends in mid-sentence following the 15.4 therapy section before completion of the narrative."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "16 Supraventricular tachycardia in sports",
+          "17 Supraventricular tachycardia and driving restrictions"
+        ],
+        "narrative_summary": "Section 16 discusses assessment and management of athletes with supraventricular arrhythmias, including evaluation for underlying disease, electrolyte imbalance, thyroid dysfunction, and stimulant use. It describes the risks of ventricular pre-excitation (WPW) in athletes, the recommendation of catheter ablation in symptomatic individuals, and risk stratification for asymptomatic athletes. It also notes that orthodromic AVRT, AVNRT, and atrial tachycardia generally have low sudden death risk but may impair performance, and that catheter ablation is preferred over β-blockers or sodium-channel blockers (which are WADA-prohibited). Section 17 introduces the limited data on arrhythmia-related motor vehicle accidents, estimated at 1–3 % of all accidents and 5–10 % of cardiac‐cause accidents.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 13",
+            "kind": "table",
+            "title": "Recommendations for sports participation in athletes with ventricular pre-excitation and supraventricular arrhythmias",
+            "summary": "Lists arrhythmia categories (premature atrial beats; AVRT or AF in WPW; asymptomatic ventricular pre-excitation; paroxysmal SVT) with corresponding eligibility criteria and permitted sports participation.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence from prior section and ends in the middle of Section 17."
+        },
+        "extraction_warnings": [
+          "Table 13 does not include Class of Recommendation or Level of Evidence values and was therefore captured under figures_tables_algorithms."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "Key messages",
+          "Gaps in the evidence"
+        ],
+        "narrative_summary": "This page includes Table 14 summarizing driving recommendations for patients with supraventricular tachycardia (SVT) according to history of syncope and vehicle group. Below the table, the text explains the ESC Working Group’s classification of Group 1 and Group 2 drivers, followed by Section 18 Key messages listing treatment considerations for SVT (e.g., use of vagal manoeuvres, catheter ablation) and the beginning of Section 19 Gaps in the evidence.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 14",
+            "kind": "table",
+            "title": "European Working Group 2013 report on driving and cardiovascular disease: driving in arrhythmias and conduction disorders: supraventricular tachycardia",
+            "summary": "Driving recommendations for AF/atrial flutter/focal AT and AVNRT/AVRT/WPW, divided into Group 1 and Group 2 based on syncope history and treatment status.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence in body text (\"or without syncope…\") and ends mid-sentence in Section 19 ('such as enhancement by…')."
+        },
+        "extraction_warnings": [
+          "Table 14 does not include Class of Recommendation or Level of Evidence columns; no COR/LOE fields present.",
+          "No human gene mentions identified; abbreviations such as AF, AT, AVNRT, AVRT, WPW are arrhythmia terms, not gene symbols."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "20 ‘What to do’ and ‘what not to do’ messages from the Guidelines",
+        "section_headings": [
+          "20 ‘What to do’ and ‘what not to do’ messages from the Guidelines",
+          "‘What to do’ messages"
+        ],
+        "narrative_summary": "A series of bullet points summarizing re-entrant circuit mechanisms in SVT, the unresolved circuit of AVNRT, investigation into connexin proteins, limitations of invasive and non-invasive risk assessment for asymptomatic pre-excitation, need for better risk-stratification models, unestablished management of asymptomatic pre-excitation, scarce genetic data on SVT familial forms, potential of novel electroanatomical mapping, and the application of mathematical modeling and AI approaches to ECG analysis.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the acute management of narrow QRS tachycardia in the absence of an established diagnosis",
+            "rows": [
+              {
+                "recommendation": "Synchronized direct-current cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically unstable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A 12-lead ECG during tachycardia is recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized direct-current cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the acute management of wide QRS tachycardia in the absence of an established diagnosis",
+            "rows": [
+              {
+                "recommendation": "Synchronized direct-current cardioversion is recommended in haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically unstable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "A 12-lead ECG during tachycardia is recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized direct-current cardioversion is recommended if drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the therapy of sinus tachycardias",
+            "rows": [
+              {
+                "recommendation": "Evaluation and treatment of reversible causes is recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "Inappropriate sinus tachycardia",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the therapy of focal AT",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically unstable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Haemodynamically stable patients",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended for recurrent focal AT, especially if incessant or causing tachycardiomyopathy.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "Chronic therapy",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the therapy of multifocal AT",
+            "rows": [
+              {
+                "recommendation": "Treatment of an underlying condition is recommended as a first step, if feasible.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "Acute therapy",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Top narrative bullet points continue from previous page; the recommendation table for multifocal AT continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "Recommendations for the therapy of multifocal AT",
+          "Acute therapy",
+          "Haemodynamically unstable patients",
+          "Haemodynamically stable patients",
+          "Long-term therapy",
+          "Recommendations for the management of AVNRT",
+          "Acute therapy",
+          "Haemodynamically unstable patients",
+          "Haemodynamically stable patients",
+          "Long-term therapy",
+          "Recommendations for the therapy of AVRT due to manifest or concealed APs",
+          "Acute therapy",
+          "Haemodynamically unstable patients",
+          "Haemodynamically stable patients",
+          "Chronic therapy",
+          "Recommendations for the acute therapy of pre-excited AF",
+          "Haemodynamically unstable patients",
+          "Haemodynamically stable patients",
+          "Recommendations for the management of patients with asymptomatic pre-excitation"
+        ],
+        "narrative_summary": "This page presents structured recommendation tables for the therapy of multifocal atrial tachycardia (AT), management of atrioventricular nodal re-entrant tachycardia (AVNRT), therapy of atrioventricular re-entrant tachycardia (AVRT) due to accessory pathways, acute therapy of pre-excited atrial fibrillation (AF), and the management of asymptomatic pre-excitation, detailing acute, stable, unstable, and long-term treatments with corresponding Classes of Recommendation and Levels of Evidence.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of multifocal AT",
+            "rows": [
+              {
+                "recommendation": "Anticoagulation as in AF is recommended for patients with atrial flutter and concomitant AF.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Intravenous ibutilide or i.v. or oral (in-hospital) dofetilide is recommended for conversion to sinus rhythm in the absence of QTc interval prolongation.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Low-energy (≤100 J biphasic) electrical cardioversion is recommended for conversion to sinus rhythm.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "High-rate atrial pacing is recommended for termination of atrial flutter in the presence of an implanted pacemaker or defibrillator.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended for symptomatic, recurrent episodes of cavotricuspid isthmus-dependent flutter.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation in experienced centres is recommended for symptomatic, recurrent episodes of non-CTI-dependent flutter.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in patients with persistent atrial flutter or in the presence of depressed LV systolic function due to tachycardiomyopathy.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the management of AVNRT",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.86–88",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.41, 89–91",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail.92–94",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.87, 88",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended for symptomatic, recurrent AVNRT.208, 336–339",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the therapy of AVRT due to manifest or concealed APs",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail and the tachycardia is orthodromic.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation of AP(s) is recommended in patients with symptomatic, recurrent AVRT.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the acute therapy of pre-excited AF",
+            "rows": [
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended in haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended if drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for the management of patients with asymptomatic pre-excitation",
+            "rows": [
+              {
+                "recommendation": "Performance of an EPS, with the use of isoprenaline, is recommended to risk stratify individuals with asymptomatic pre-excitation who have high risk occupations/hobbies, and those who participate in competitive athletics.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in asymptomatic patients in whom electrophysiology testing with the use of isoprenaline identifies high-risk properties, such as SPERRI ≤250 ms, AP ERP ≤250 ms, multiple APs, and an inducible AP-mediated tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Catheter ablation is recommended in high-risk patients with asymptomatic pre-excitation after discussing the risks, especially of heart block associated with ablation of anteroseptal or mid-septal APs, and benefits of the procedure.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Invasive risk stratification with an EPS is recommended in patients without “low risk” characteristics at non-invasive risk stratification.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Recommendation table for management of asymptomatic pre-excitation continues to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "Recommendations for the therapy of SVTs in congenital heart disease in adults",
+        "section_headings": [
+          "Recommendations for the therapy of SVTs in congenital heart disease in adults",
+          "Acute therapy",
+          "Haemodynamically unstable patients",
+          "Haemodynamically stable patients",
+          "Recommendations for the therapy SVT in pregnancy",
+          "Acute therapy",
+          "Chronic therapy",
+          "Recommendations for the therapy of SVT in patients with suspected or established heart failure due to tachycardiomyopathy",
+          "'What not to do' messages",
+          "Recommendations for the acute management of wide QRS tachycardia in the absence of an established diagnosis",
+          "Recommendations for the therapy of MRATs",
+          "Acute therapy",
+          "Recommendations for the therapy of AVRT due to manifest or concealed APs",
+          "Chronic therapy",
+          "Recommendations for the acute therapy of pre-excited AF",
+          "Haemodynamically stable patients",
+          "Recommendations for the therapy of SVTs in congenital heart disease in adults (Chronic therapy)",
+          "Chronic therapy",
+          "Recommendations for the therapy of SVT in pregnancy (Chronic therapy)",
+          "Chronic therapy"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the therapy of SVTs in congenital heart disease in adults",
+            "rows": [
+              {
+                "recommendation": "Anticoagulation for focal AT or atrial flutter should be similar to patients with AF.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended for haemodynamically unstable patients.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Vagal manoeuvres, preferably in the supine position with leg elevation, are recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Adenosine (6–18 mg i.v. bolus) is recommended if vagal manoeuvres fail.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Synchronized DC cardioversion is recommended when drug therapy fails to convert or control the tachycardia.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "21 Areas for further research",
+        "section_headings": [
+          "21 Areas for further research",
+          "22 Supplementary data",
+          "23 Appendix"
+        ],
+        "narrative_summary": "Section 21 reviews advances in catheter ablation since the 1990s, including new mapping and ablation technologies (intracardiac echocardiography, robotic techniques, radiation-free labs, automated classification algorithms) and computational methods for SVT substrate characterization. It highlights emerging genetic research in SVT, describing mutations in the PRKAG2 gene linked to familial WPW syndrome and Mahaim fibres, and microdeletions in the BMP2 gene affecting cardiac conduction. Sections 22 and 23 introduce supplementary data availability and begin the author/task force member affiliations list.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Page ends in the middle of the Appendix author/task force member affiliations list."
+        },
+        "extraction_warnings": []
+      },
+      "genes": [
+        {
+          "Gene": "PRKAG2",
+          "Associated Conditions": [
+            "familial WPW syndrome",
+            "Mahaim fibres"
+          ],
+          "Occurrences": 2,
+          "context": [
+            "identification of a missense mutation in the PRKAG2 gene",
+            "R302Q mutation in PRKAG2"
+          ],
+          "evidence_text": "New data on the genetics of SVT continually appear since the identification of a missense mutation in the PRKAG2 gene, which encodes the regulatory γ-subunit of adenosine monophosphate (AMP)-activated protein kinase, as a cause of familial WPW syndrome. R302Q mutation in PRKAG2 has been associated with Mahaim fibers.",
+          "confidence": "high",
+          "validation_note": "The text explicitly names PRKAG2 as a gene and describes its mutations in familial WPW syndrome and Mahaim fibres."
+        },
+        {
+          "Gene": "BMP2",
+          "Associated Conditions": [
+            "abnormal development of annulus fibrosus"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "microdeletion of the BMP2 gene"
+          ],
+          "evidence_text": "A novel form of WPW syndrome is associated with microdeletion of the BMP2 gene, which encodes bone morphogenetic protein-2, a member of the transforming growth factor-beta gene superfamily, and affects the development of annulus fibrosus.",
+          "confidence": "high",
+          "validation_note": "The text explicitly names BMP2 as a gene encoding bone morphogenetic protein-2 and links its microdeletion to cardiac conduction abnormalities."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "ESC Committee for Practice Guidelines (CPG):",
+          "ESC National Cardiac Societies actively involved in the review process of the 2019 ESC Guidelines for the management of patients with supraventricular tachycardia:",
+          "24 References"
+        ],
+        "narrative_summary": "This page provides acknowledgments, listing members of the ESC Committee for Practice Guidelines and national cardiac societies involved in the 2019 ESC Guidelines on supraventricular tachycardia, followed by the start of the References section with entries 1 through 5, the last reference truncated.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the acknowledgments list and ends in the middle of the references section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page contains a continuous references list starting with reference 6 and ending with reference 45, which spans multiple pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list begins at #46 and continues beyond #93, indicating it spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "References",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continued list of references across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page contains a list of references continuing from previous page and continuing on next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "ESC Guidelines",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page is part of a continuous references list that spans multiple pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "References"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues from previous page and onto next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains reference list entries numbered 490 through 531 from the ESC Guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page is part of a multi-page reference list"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "HCN4",
+      "Associated Conditions": [
+        "Inappropriate sinus tachycardia"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "gain‐of‐function mutation of the pacemaker hyperpolarization‐activated cyclic nucleotide‐gated 4 (HCN4) channel"
+      ]
+    },
+    {
+      "Gene": "PRKAG2",
+      "Associated Conditions": [
+        "LV hypertrophy",
+        "multisystem disease",
+        "familial WPW syndrome",
+        "Mahaim fibres"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "familial forms of pre-excitation associated with LV hypertrophy and multisystem disease [mutations in the protein kinase adenosine monophosphate-activated non-catalytic subunit gamma 2 (PRKAG2) gene",
+        "identification of a missense mutation in the PRKAG2 gene",
+        "R302Q mutation in PRKAG2"
+      ]
+    },
+    {
+      "Gene": "BMP2",
+      "Associated Conditions": [
+        "abnormal development of annulus fibrosus"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "microdeletion of the BMP2 gene"
+      ]
+    }
+  ]
+}

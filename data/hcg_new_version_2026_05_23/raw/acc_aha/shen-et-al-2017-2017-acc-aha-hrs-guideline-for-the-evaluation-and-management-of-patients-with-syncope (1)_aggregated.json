@@ -1,0 +1,2776 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope",
+        "section_headings": [],
+        "narrative_summary": "Title page showing the guideline title, publication details, and writing committee members; contains no clinical recommendations or narrative content.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "TABLE OF CONTENTS",
+        "section_headings": [
+          "PREAMBLE",
+          "1. INTRODUCTION",
+          "1.1. Methodology and Evidence Review",
+          "1.2. Organization of the Writing Committee",
+          "1.3. Document Review and Approval",
+          "1.4. Scope of the Guideline",
+          "2. GENERAL PRINCIPLES",
+          "2.1. Definitions: Terms and Classification",
+          "2.2. Epidemiology and Demographics",
+          "2.3. Initial Evaluation of Patients With Syncope",
+          "2.3.1. History and Physical Examination: Recommendation",
+          "2.3.2. Electrocardiography: Recommendation",
+          "2.3.3. Risk Assessment: Recommendations",
+          "2.3.4. Disposition After Initial Evaluation: Recommendations",
+          "3. ADDITIONAL EVALUATION AND DIAGNOSIS",
+          "3.1. Blood Testing: Recommendations",
+          "3.2. Cardiovascular Testing: Recommendations",
+          "3.2.1. Cardiac Imaging: Recommendations",
+          "3.2.2. Stress Testing: Recommendation",
+          "3.2.3. Cardiac Monitoring: Recommendations",
+          "3.2.4. In-Hospital Telemetry: Recommendation",
+          "3.2.5. Electrophysiological Study: Recommendations",
+          "3.2.6. Tilt-Table Testing: Recommendations",
+          "3.3. Neurological Testing: Recommendations",
+          "3.3.1. Autonomic Evaluation: Recommendation",
+          "3.3.2. Neurological and Imaging Diagnostics: Recommendations",
+          "4. MANAGEMENT OF CARDIOVASCULAR CONDITIONS",
+          "4.1. Arrhythmic Conditions: Recommendations",
+          "4.1.1. Bradycardia: Recommendation",
+          "4.1.2. Supraventricular Tachycardia: Recommendations",
+          "4.1.3. Ventricular Arrhythmia: Recommendation",
+          "4.2. Structural Conditions: Recommendations",
+          "4.2.1. Ischemic and Nonischemic Cardiomyopathy: Recommendation",
+          "4.2.2. Valvular Heart Disease: Recommendation",
+          "4.2.3. Hypertrophic Cardiomyopathy: Recommendation",
+          "4.2.4. Arrhythmogenic Right Ventricular Cardiomyopathy: Recommendations",
+          "4.2.5. Cardiac Sarcoidosis: Recommendations",
+          "4.3. Inheritable Arrhythmic Conditions: Recommendations",
+          "4.3.1. Brugada Syndrome: Recommendations",
+          "4.3.2. Short-QT Syndrome: Recommendation",
+          "4.3.3. Long-QT Syndrome: Recommendations",
+          "4.3.4. Catecholaminergic Polymorphic Ventricular Tachycardia: Recommendations",
+          "4.3.5. Early Repolarization Pattern: Recommendations",
+          "5. REFLEX CONDITIONS: RECOMMENDATIONS",
+          "5.1. Vasovagal Syncope: Recommendations"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": "Table of contents page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "APPENDIX 3",
+          "Abbreviations",
+          "Preamble",
+          "Intended Use",
+          "Clinical Implementation",
+          "Methodology and Modernization"
+        ],
+        "narrative_summary": "The Preamble describes the historical development and purpose of the ACC/AHA syncope guidelines since 1980, emphasizing their evidence-based methodology, sponsorship without commercial support, and volunteer contributions. It outlines intended use—to guide patient care and inform decisions without replacing clinical judgment—followed by sections on clinical implementation (highlighting shared decision-making) and methodology and modernization (noting continuous review, updates, and concise recommendation formats with supporting hyperlinks).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the Table of Contents and ends mid-paragraph in the Methodology and Modernization section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "Selection of Writing Committee Members",
+          "Relationships With Industry and Other Entities",
+          "Evidence Review and Evidence Review Committees",
+          "Guideline-Directed Management and Therapy",
+          "Class of Recommendation and Level of Evidence"
+        ],
+        "narrative_summary": "The page describes the ACC/AHA methodology for guideline updates, including cost–value analyses, six-year revision cycles, and focused updates. It outlines the selection of writing committee members to ensure broad expertise and minimize bias, and references transparency measures for relationships with industry and other entities, with disclosures available online. It details the role of evidence review and independent evidence review committees (ERCs) in commissioning systematic reviews for high-importance questions. The term guideline-directed management and therapy (GDMT) is defined, and readers are reminded to consult product inserts for dosing. Finally, the page explains the Class of Recommendation (COR) and Level of Evidence (LOE) framework.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with 'efforts to further limit text are underway', indicating continuation from prior page. Ends with the Task Force Chair signature, completing the introduction section."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "1. INTRODUCTION",
+          "1.1 Methodology and Evidence Review"
+        ],
+        "narrative_summary": "An extensive evidence review was conducted from July to October 2015 using databases including MEDLINE (PubMed), EMBASE, the Cochrane Library, and the Agency for Healthcare Research and Quality to inform the guideline. Key search terms included athletes, autonomic neuropathy, bradycardia, carotid sinus hypersensitivity, carotid sinus syndrome, children, death, dehydration, diagnosis, driving, electrocardiogram, electrophysiological study, epidemiology (list continues).",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "TABLE 1",
+            "kind": "table",
+            "title": "Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care* (Updated August 2015)",
+            "summary": "Defines the Class (I, IIa, IIb, III-No Benefit, III-Harm) with benefit–risk descriptions and suggested writing phrases, alongside the Level of Evidence categories (A, B-R, B-NR, C-LD, C-EO) with definitions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative ends mid-list of search terms, indicating continuation on next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "section_headings": [
+          "1.2. Organization of the Writing Committee",
+          "1.3. Document Review and Approval",
+          "1.4. Scope of the Guideline"
+        ],
+        "narrative_summary": "This page completes the introductory overview by listing topics added through October 2016 and noting the online data supplement. It describes the independent Evidence Review Committee and its systematic review report. Section 1.2 details the multidisciplinary writing committee composition. Section 1.3 outlines the document review and approval process, including ACC, AHA, HRS, other specialty societies, and lay/patient reviewers. Section 1.4 defines the guideline’s scope, intended audience, and goals—to define syncope as a symptom, guide evaluation and management in various settings, and identify research gaps—and refers to Table 2 for existing related recommendations and additional statements.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in mid-sentence of the introductory text and references Table 2, which is not present on this page."
+        },
+        "extraction_warnings": [
+          "Page starts mid-sentence indicating missing content from previous page.",
+          "Table 2 is referenced but not included on this page, indicating continuation onto next page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "TABLE 2 Relevant ACC/AHA Guidelines",
+          "2. GENERAL PRINCIPLES",
+          "2.1 Definitions: Terms and Classification",
+          "2.2 Epidemiology and Demographics"
+        ],
+        "narrative_summary": "Section 2 introduces general principles of syncope evaluation. Definitions and relevant terms are noted to be provided in Table 3. Epidemiology and demographics outline that syncope incidence varies with population studied, prevalence estimates may be inaccurate due to inconsistent data collection, and lifetime prevalence is discussed along with predictors of recurrent syncope in older adults.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "TABLE 2",
+            "kind": "table",
+            "title": "Relevant ACC/AHA Guidelines",
+            "summary": "Lists ACC/AHA guideline policy relevant to the management of syncope, other ACC/AHA guidelines of interest, and other related references, including Title, Organization, and Publication Year with reference.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative in section 2.2 ends mid-sentence at page bottom."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "TABLE 3 Relevant Terms and Definitions*",
+        "section_headings": [],
+        "narrative_summary": "This page presents a comprehensive table defining terms related to syncope and related conditions, including syncope, loss of consciousness, presyncope, unexplained syncope, orthostatic intolerance and its subtypes, reflex syncope and its subtypes, postural tachycardia syndrome, and psychogenic pseudosyncope.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "TABLE 3",
+            "kind": "table",
+            "title": "Relevant Terms and Definitions",
+            "summary": "Definitions and comments for terms related to syncope: Syncope; Loss of consciousness; Transient loss of consciousness; Presyncope (near-syncope); Unexplained syncope (syncope of undetermined etiology); Orthostatic intolerance; Orthostatic tachycardia; Orthostatic hypotension (OH) and its subtypes (Initial (immediate) OH; Classic OH; Delayed OH; Neurogenic OH); Cardiac (cardiovascular) syncope; Noncardiac syncope; Reflex (neurally mediated) syncope and its subtypes (Vasovagal syncope (VVS); Carotid sinus syndrome; Situational syncope); Postural (orthostatic) tachycardia syndrome (POTS); and Psychogenic pseudosyncope.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "2.3. Initial Evaluation of Patients With Syncope"
+        ],
+        "narrative_summary": "This page continues discussion of syncope epidemiology in older adults, noting increased incidence of reflex (21%), cardiac (9%), and orthostatic hypotension (9%) syncope, with 37% undetermined causes. Syncope prevalence rises sharply after age 70 and is present in 12–14% of NYHA class III–IV heart failure patients. Older adults have higher hospitalization and mortality risks, with 0.77% of ED visits for syncope, and admission rates of 58% for patients >80. The section then introduces the timing and setting variability of initial syncope evaluation and states that general principles of GDMT apply, as depicted in Figure 1, with further evaluation discussed in later sections.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "flowchart",
+            "title": "Syncope Initial Evaluation",
+            "summary": "Flowchart begins with 'Transient loss of consciousness*' leading to a decision node 'Suspected syncope'. If Yes, proceed to initial evaluation (history, physical examination, and ECG) (Class I). If No, proceed to 'Evaluation as clinically indicated'. From the initial evaluation, three pathways: 'Cause of syncope certain' leads to Treatment; 'Risk assessment' leads bidirectionally to both treatment and further evaluation nodes; 'Cause of syncope uncertain' leads to Further evaluation.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins mid-paragraph on orthostatic medications, indicating continuation from prior page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "2.3.1. History and Physical Examination: Recommendation",
+          "Recommendation for History and Physical Examination"
+        ],
+        "narrative_summary": "The narrative emphasizes that a detailed history and physical examination should identify prognostic, diagnostic, reversible or ameliorable factors, comorbidities, medication use, patient and family needs, and differentiate cardiac from neurally mediated syncope. It highlights key elements such as prodromal symptoms, bystander observations, vital signs, orthostatic blood pressure and heart rate measurements, murmurs or structural heart disease signs, and a basic neurological exam.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for History and Physical Examination",
+            "rows": [
+              {
+                "recommendation": "A detailed history and physical examination should be performed in patients with syncope (58–66).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 1.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Historical Characteristics Associated With Increased Probability of Cardiac and Noncardiac Causes of Syncope (60,67–75)",
+            "summary": "More Often Associated With Cardiac Causes of Syncope: Older age (>60 y); Male sex; Presence of known ischemic heart disease, structural heart disease, previous arrhythmias, or reduced ventricular function; Brief prodrome (e.g., palpitations) or sudden loss of consciousness without prodrome; Syncope during exertion; Syncope in the supine position; Low number of syncope episodes (1 or 2); Abnormal cardiac examination; Family history of inheritable conditions or premature SCD (<50 y of age); Presence of known congenital heart disease. More Often Associated With Noncardiac Causes of Syncope: Younger age; No known cardiac disease; Syncope only in the standing position; Positional change from supine or sitting to standing; Presence of prodrome (nausea, vomiting, feeling warmth); Presence of specific triggers (dehydration, pain, distressful stimulus, medical environment); Situational triggers (cough, laugh, micturition, defecation, deglutition); Frequent recurrence and prolonged history of syncope with similar characteristics.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "2.3.2. Electrocardiography: Recommendation",
+          "2.3.3. Risk Assessment: Recommendations"
+        ],
+        "narrative_summary": "ECG is a readily available, inexpensive test that can identify potential and specific causes of syncope (eg, bradyarrhythmias, conduction block, arrhythmogenic substrates in syndromes such as Wolff-Parkinson-White, Brugada, LQTS, HCM, ARVC), though prospective studies have not shown ECG findings significantly change management; observational data link AF, intraventricular conduction disturbances, LV hypertrophy, and pacing with higher 1-year mortality. Syncope has diverse etiologies; risk stratification during initial evaluation guides treatment and prevents morbidity and mortality. Short-term outcomes depend on cause and treatment effectiveness; long-term prognosis relates to underlying disease severity and therapy efficacy.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Electrocardiography",
+            "rows": [
+              {
+                "recommendation": "In the initial evaluation of patients with syncope, a resting 12-lead electrocardiogram (ECG) is useful (76).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 5",
+            "kind": "table",
+            "title": "Short- and Long-Term Risk Factors",
+            "summary": "Two-column table listing short-term (≤30 days) and long-term (>30 days) risk factors for syncope, grouped under history (Outpatient Clinic or ED Evaluation) and physical examination or laboratory investigation.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 6",
+            "kind": "table",
+            "title": "Examples of Syncope Risk Scores",
+            "summary": "Summary of various syncope risk score studies including study reference, year, sample size, event rates, outcome definitions, ED events inclusion, predictors, and negative predictive values.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "2.3.4. Disposition After Initial Evaluation: Recommendations",
+        "section_headings": [
+          "2.3.4. Disposition After Initial Evaluation: Recommendations"
+        ],
+        "narrative_summary": "The narrative discusses the challenges in defining risk groups after syncope, noting variability in study endpoints and confounders. It outlines the grouping of risk markers into short-term (ED outcome to 30 days) and long-term (up to 12 months) risks, and highlights that the disposition decision (outpatient vs hospital evaluation) depends on available resources, lack of consensus on acceptable risk, and lack of evidence that hospital evaluation improves outcomes. It also reviews decision support algorithms, specialized syncope units, and indicates that presence of a serious medical condition is a key determinant for inpatient management.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Disposition After Initial Evaluation",
+            "rows": [
+              {
+                "recommendation": "Hospital evaluation and treatment are recommended for patients presenting with syncope who have a serious medical condition potentially relevant to the cause of syncope identified during initial evaluation (105,106,120).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Table 7 provides examples of serious conditions associated with syncope that may require inpatient evaluation and “treatment.” Arrhythmic causes may require consideration of pacemaker/implantable cardioverter-defibrillator (ICD) placement or revision and/or medication modification. Cardiac causes require treatment of the underlying condition (e.g., medication management and consideration of surgical intervention for critical aortic stenosis). Finally, a large spectrum of noncardiac serious conditions may be associated with syncope and require management of the underlying problem (e.g., severe anemia from a gastrointestinal bleed).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "It is reasonable to manage patients with presumptive reflex-mediated syncope in the outpatient setting in the absence of serious medical conditions (35).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Patients with presumptive VVS have a long-term risk of death similar to that of risk-matched patients without syncope (35). Hospital-based evaluation for presumptive VVS is unlikely to improve long-term outcomes. Possible exceptions that might require hospital-based evaluation include frequent recurrent syncope with risk of injury or identified injury related to syncope.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with a dependent clause (“Although having precise definitions…”) indicating continuation from prior content; narrative and table both appear complete on this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues recommendations for the management of syncope with two Class II recommendations: using structured ED observation protocols for intermediate‐risk patients to reduce admissions (IIa, B-R), and managing selected suspected cardiac syncope patients outpatient in absence of serious conditions (IIb, C-LD). Supporting text summarizes evidence from small RCTs and observational studies. The page also presents Figure 2, a flowchart for patient disposition after initial evaluation based on presence of serious medical conditions.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "In intermediate-risk patients with an unclear cause of syncope, use of a structured ED observation protocol can be effective in reducing hospital admission (107–110).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "See Online Data Supplements 5 and 6.\nTwo small RCTs suggest that structured ED-based protocols, consisting of time-limited observation and expedited access to cardiac testing/consultation, result in reduced health service use without adverse impact on clinical outcomes when compared with unstructured hospital admission. “Intermediate” risk factors included the following: ≥50 years of age; prior history of cardiac disease, cardiac device without evidence of dysfunction, concerning ECG findings, or family history of early SCD; and symptoms not consistent with reflex-mediated syncope. Both trials also allowed unstructured physician judgment to identify intermediate-risk patients (107–110).",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "It may be reasonable to manage selected patients with suspected cardiac syncope in the outpatient setting in the absence of serious medical conditions (106,121–123).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "See Online Data Supplements 5 and 6.\nHospital-based evaluation of syncope of unclear cause, in the absence of other serious identified medical conditions, has not demonstrated an improvement in patient-relevant outcomes. Several observational studies suggest modest diagnostic yield of hospital admission (121–123). Patients evaluated for suspected cardiac syncope in outpatient settings are seldom admitted for diagnostic purposes, and it may be reasonable to extend a similar approach to EDs after initial evaluation is completed in the ED. Primary providers can consider expedited referral to specialists with expertise in syncope, as indicated by availability of resources and provider's assessment of short-term risk of serious outcomes, as an alternative to extended hospital-based evaluation.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 2",
+            "kind": "figure",
+            "title": "Patient Disposition After Initial Evaluation for Syncope",
+            "summary": "Flowchart starts with “Syncope initial evaluation,” then asks “Serious medical conditions present? (Table 7).” If Yes: inpatient evaluation (Class I). If No: three outpatient options: manage presumptive reflex-mediated syncope (Class IIa); structured ED observation protocol for intermediate-risk patients (Class IIa); manage selected patients with suspected cardiac syncope outpatient (Class IIb).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "The page begins with “(continued)” indicating continuation of a recommendation table from the previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "3. ADDITIONAL EVALUATION AND DIAGNOSIS"
+        ],
+        "narrative_summary": "This section explains that choosing a diagnostic test after initial history, physical examination, and ECG should be based on the patient’s presentation, risk stratification, and clear understanding of diagnostic and prognostic value. It notes that broad-based additional testing is costly and often ineffective and introduces targeted recommendations via an algorithm shown in Figure 3.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 7",
+            "kind": "table",
+            "title": "Examples of Serious Medical Conditions That Might Warrant Consideration of Further Evaluation and Therapy in a Hospital Setting",
+            "summary": "Lists serious medical conditions categorized as cardiac arrhythmic, cardiac or vascular nonarrhythmic, and noncardiac that may necessitate hospitalization for further evaluation and therapy.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Figure 3",
+            "kind": "algorithm",
+            "title": "Additional Evaluation and Diagnosis for Syncope",
+            "summary": "Flowchart outlining syncope evaluation: start with Class I initial evaluation (history, physical exam, ECG), determine if evaluation is clear or unclear, and follow branches to no additional evaluation, targeted blood testing (Class IIa), autonomic evaluation, tilt-table testing, cardiac monitoring (Class I), or other options such as stress testing, TTE, EPS, MRI/CT, and choices between implantable or ambulatory external monitors (all Class IIa/IIb).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "3.1. Blood Testing: Recommendations",
+        "section_headings": [
+          "3.1. Blood Testing: Recommendations",
+          "3.2. Cardiovascular Testing: Recommendations"
+        ],
+        "narrative_summary": "This section introduces circulating biomarkers for syncope, noting that none have met with strong success. Cardiovascular causes of syncope are common, and while testing can be critical for evaluation and management, abnormalities found may not be causally related to syncope; clinical judgment is required to determine significance and guide testing.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Blood Testing",
+            "rows": [
+              {
+                "recommendation": "Targeted blood tests are reasonable in the evaluation of selected patients with syncope identified on the basis of clinical assessment from history, physical examination, and ECG (124).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Although broad-panel testing is common in clinical practice at the point of triage, there are no data on the utility of this approach. Data to support specific blood testing are largely descriptive data from case series and registries. Complete blood count and electrolyte panel are frequently obtained during syncope evaluation. The diagnostic yield is low when these are used routinely; however, when these blood tests are conducted in patients with a suspected related diagnosis (e.g., history of peptic ulcer disease, or tarry stools associated with OH on physical examination), test results can be diagnostic and useful for guiding therapy. Thus, specific testing should stem from the assessment by history and physical examination when the nature of the syncope presentation or associated comorbidities suggests a diagnostic or more likely prognostic role for laboratory testing. Results have not been linked to clinical decision making or outcomes (125–128).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Usefulness of brain natriuretic peptide and high-sensitivity troponin measurement is uncertain in patients for whom a cardiac cause of syncope is suspected (125,127,129,130).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Although data to support biomarker testing are in general relatively weak, there are sufficient data to suggest that natriuretic peptide is elevated in patients whose subsequent cause for syncope is determined to be cardiac. A systematic review of biomarkers found little value in contemporary troponin measurement unless acute myocardial infarction is suspected, and there is modest predictive value for high-sensitivity troponin and natriuretic peptides for major adverse cardiovascular events. The ability of troponin and natriuretic peptide measurement to influence clinical decision making or patient outcome is unknown (129).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Routine and comprehensive laboratory testing is not useful in the evaluation of patients with syncope (126,131).",
+                "class_of_recommendation": "III: No Benefit",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "There are no data on the utility of a standardized broad panel of laboratory testing in patients with syncope. Specific cardiac biomarkers may play a limited role when directed by clinical suspicion from the baseline assessment. There is little biological plausibility linking the remaining elements of broad-panel laboratory testing to the presentation or mechanism of syncope.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 3.2 narrative and subsequent recommendations continue on the following page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "3.2.1. Cardiac Imaging: Recommendations",
+          "Recommendations for Cardiac Imaging"
+        ],
+        "narrative_summary": "The page provides guidance on cardiac imaging in syncope evaluation: transthoracic echocardiography is useful in selected patients when structural heart disease is suspected; CT or MRI may be useful for suspected cardiac etiology; routine cardiac imaging is not recommended unless initial evaluation suggests a cardiac cause. Supporting evidence from retrospective and prospective studies is summarized.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Cardiac Imaging",
+            "rows": [
+              {
+                "recommendation": "Transthoracic echocardiography can be useful in selected patients presenting with syncope if structural heart disease is suspected (80,99,124).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 9.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Computed tomography (CT) or magnetic resonance imaging (MRI) may be useful in selected patients presenting with syncope of suspected cardiac etiology (134).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 9.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Routine cardiac imaging is not useful in the evaluation of patients with syncope unless cardiac etiology is suspected on the basis of an initial evaluation, including history, physical examination, or ECG (77,99).",
+                "class_of_recommendation": "III: No Benefit",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 9.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "3.2.2. Stress Testing: Recommendation",
+          "3.2.3. Cardiac Monitoring: Recommendations"
+        ],
+        "narrative_summary": "Section 3.2.2 describes the role of exercise stress testing in syncope, noting its utility in selected patients with exertional syncope or presyncope, with caution due to risks of hypotension, arrhythmias, ischemia, and vasospasm, especially in structural heart disease and channelopathies. Section 3.2.3 introduces the evaluation of syncope with ambulatory cardiac monitoring, highlighting that monitor selection depends on event frequency and nature, summarizing dynamic technology advances, and outlining external monitoring options and their diagnostic yields.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Stress Testing",
+            "rows": [
+              {
+                "recommendation": "Exercise stress testing can be useful to establish the cause of syncope in selected patients who experience syncope or presyncope during exertion (132,143).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "See Online Data Supplement 10.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for Cardiac Monitoring",
+            "rows": [
+              {
+                "recommendation": "The choice of a specific cardiac monitor should be determined on the basis of the frequency and nature of syncope events.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "The technology of cardiac rhythm monitoring is dynamic and advancing at rapid speed. Several types of ambulatory cardiac rhythm monitoring are summarized in Table 8. Their selection and usefulness are highly dependent on patient characteristics with regard to the frequency of syncope and the likelihood of an arrhythmic cause of syncope (148).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "To evaluate selected ambulatory patients with syncope of suspected arrhythmic etiology, the following external cardiac monitoring approaches can be useful:\n1. Holter monitor (149–153)\n2. Transtelephonic monitor (150,154,155)\n3. External loop recorder (150,154–156)\n4. Patch recorder (157–159)\n5. Mobile cardiac outpatient telemetry (160,161).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplements 11 and 12.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 3.2.3 narrative continues on next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The page continues a recommendation on the use of implantable cardiac monitors (ICMs) in evaluating selected ambulatory patients with suspected arrhythmic syncope, summarizing randomized trials and cost-effectiveness data that support higher diagnostic yields and lower per-diagnosis costs compared with conventional approaches.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "To evaluate selected ambulatory patients with syncope of suspected arrhythmic etiology, an ICM can be useful (149,150,153,161–175).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "Several RCTs and observational studies have demonstrated a benefit of the ICM in establishing a diagnosis in syncope of unclear etiology. In a prospective study of 60 patients with syncope of unknown origin, the diagnosis (primarily bradyarrhythmia) was made in 55% with ICM, compared with a 19% diagnostic yield with conventional testing (external loop recorder, followed by tilt-table testing and electrophysiological study [EPS]) (p=0.0014) (162). These findings are consistent with other studies, which generally have shown that patients who underwent the ICM approach experienced higher rates of diagnosis than those of patients who underwent the conventional approach (164,176,177). A study on cost-effectiveness of the ICM strategy reported that the mean cost per participant was higher but the cost per diagnosis was lower in patients who received ICM than in patients who underwent conventional approaches (162,164,178). Key confounders in cost assessment include differences in healthcare settings, heterogeneity of patient populations, pricing of devices and healthcare delivery, and changing technology.",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 8",
+            "kind": "table",
+            "title": "Cardiac Rhythm Monitors",
+            "summary": "Lists types of monitors (Holter, patient-activated transtelephonic event monitor, external loop recorder, external patch recorders, mobile cardiac outpatient telemetry, implantable cardiac monitor), device features, and patient selection criteria.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "The recommendation box is marked “(continued)” indicating it began on a previous page; no content is cut off at the bottom."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "3.2.4. In-Hospital Telemetry: Recommendation",
+          "3.2.5. Electrophysiological Study: Recommendations"
+        ],
+        "narrative_summary": "Section 3.2.4 discusses that continuous inpatient telemetry in syncope patients with structural heart disease yields modest diagnostic yield (around 5–18%), higher in older and known heart failure patients, and is not cost-effective when cardiac etiology is not suspected. Section 3.2.5 reviews the limited role of EPS in syncope evaluation, noting its variable sensitivity for bradyarrhythmias and reduced overall utility in the current ICD era, with unproven benefit for ventricular arrhythmia–related syncope.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for In-Hospital Telemetry",
+            "rows": [
+              {
+                "recommendation": "Continuous ECG monitoring is useful for hospitalized patients admitted for syncope evaluation with suspected cardiac etiology (77,182,183).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "III: No Benefit B-NR (continued)",
+          "3.2.6. Tilt-Table Testing: Recommendations",
+          "Recommendations for Tilt-Table Testing"
+        ],
+        "narrative_summary": "The page continues the evidence summary for the EPS recommendation, describing low diagnostic yield of EPS in patients with normal ECGs and cardiac structure (prospective evaluation of 247 patients, small series of 34 and 421 patients) and the association of normal ECG and ambulatory monitoring with lower EPS abnormalities. The tilt-table testing narrative outlines its nearly three-decade use as an orthostatic stress test to assess vasovagal syncope (VVS), defines a positive response and hemodynamic patterns, consensus on tilt angle and duration, the effects of adjunctive agents, and emphasizes test sensitivity, specificity, and the importance of correlation with clinical presentation. In the context of delayed orthostatic hypotension (OH), it distinguishes immediate OH from delayed OH, reports a retrospective study of 230 patients (percentages of OH at various time points), and long-term follow-up of 165 patients showing progression rates and 10-year mortality.",
+        "recommendation_tables": [
+          {
+            "title": "",
+            "rows": [
+              {
+                "recommendation": "EPS is not recommended for syncope evaluation in patients with a normal ECG and normal cardiac structure and function, unless an arrhythmic etiology is suspected (205–207).",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 14.",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for Tilt-Table Testing",
+            "rows": [
+              {
+                "recommendation": "If the diagnosis is unclear after initial evaluation, tilt-table testing can be useful for patients with suspected VVS (208–213).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "See Online Data Supplement 15.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Tilt-table testing can be useful for patients with syncope and suspected delayed OH when initial evaluation is not diagnostic (218,219).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 15.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with a continued recommendation box from the previous page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "3.3. Neurological Testing: Recommendations",
+          "3.3.1. Autonomic Evaluation: Recommendation"
+        ],
+        "narrative_summary": "The page continues the tilt-table testing recommendations for distinguishing convulsive syncope, diagnosing pseudosyncope, and predicting response to VVS treatments, providing rationale and study data. It then introduces Section 3.3 on neurological testing, with a narrative on autonomic evaluation, describing causes and characteristic symptoms of neurogenic orthostatic hypotension and the need for further autonomic testing.",
+        "recommendation_tables": [
+          {
+            "title": "Tilt-table testing is reasonable to distinguish convulsive syncope from epilepsy in selected patients (222–225).",
+            "rows": [
+              {
+                "recommendation": "Tilt-table testing is reasonable to distinguish convulsive syncope from epilepsy in selected patients (222–225).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Convulsive syncope is a term that can be used to describe any form of syncope manifesting with convulsive movements (e.g., myoclonus). Prolonged convulsions and marked postictal confusion are uncommon in patients with syncope associated with convulsive movements (226), and fatigue is frequent after reflex syncope and may be confused with a postictal state (226). Tilt-table testing has been shown to be of value in this clinical setting when a detailed history cannot clearly determine whether the convulsive movements were secondary to syncope, given the need for objective evidence to help distinguish this entity from true epileptic seizures. In a prospective study of 15 patients with recurrent unexplained seizure-like episodes who were unresponsive to antiepileptic therapy (223), 67% had convulsive movements associated with hypotension and bradycardia during tilt-table testing. In another study of 74 patients with a questionable diagnosis of epilepsy (because of drug-refractory seizures or clinically suspected not to be true epilepsy), a cardiac diagnosis was established in 42% of patients, with >25% developing profound hypotension or bradycardia during the head-up tilt-table test, confirming the diagnosis of VVS (225). Taken together, it can be estimated from those studies that approximately 50% of patients with either questionable or drug-refractory epilepsy have positive tilt-table tests suggestive of a vasovagal etiology (226).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Tilt-table testing is reasonable to establish a diagnosis of pseudosyncope (227–229).",
+            "rows": [
+              {
+                "recommendation": "Tilt-table testing is reasonable to establish a diagnosis of pseudosyncope (227–229).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Psychogenic pseudosyncope should be suspected when patients present with frequent (even daily) symptoms that mimic VVS (and, in some cases, with a history of true VVS). It is often challenging to differentiate psychogenic syncope from true syncope. However, tilt-table testing may help to elucidate the diagnosis. During tilt-table testing, the apparent unconsciousness with loss of motor control, combined with normal blood pressure and heart rate (and a normal electroencephalogram [EEG] if such a recording is obtained), rules out true syncope and most forms of epilepsy (227–229). In 1 study of 800 patients who underwent tilt-table testing, approximately 5% were diagnosed with pseudosyncope. Compared with patients with VVS, eye closure during the event, long periods of apparent transient loss of consciousness, and increased heart rate and blood pressure are highly specific for pseudosyncope. One study of 21 patients with suspected pseudosyncope who were subjected to tilt-table testing with continuous monitoring of the ECG, EEG, and blood pressure revealed 17 patients with non-epileptiform limb shaking without significant changes on an EEG or hemodynamic changes (227).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Tilt-table testing is not recommended to predict a response to medical treatments for VVS (230,231).",
+            "rows": [
+              {
+                "recommendation": "Tilt-table testing is not recommended to predict a response to medical treatments for VVS (230,231).",
+                "class_of_recommendation": "III: No Benefit",
+                "level_of_evidence": "B-R",
+                "supporting_text": "One of the purported advantages of tilt-table testing, in addition to suggesting a diagnosis of VVS, is the ability to assess the efficacy of pharmacological therapeutics in suppressing a vasovagal response to postural stress by evaluating the effectiveness of a therapy during repeated testing (230,231). Several small studies suggested a possible benefit, but these data were limited by the lack of reproducibility of tilt-table testing (232–235).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page continues recommendation table from previous page; narrative paragraphs complete with no visible split at bottom."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendation for Autonomic Evaluation",
+          "3.3.2. Neurological and Imaging Diagnostics: Recommendations",
+          "Recommendations for Neurological Diagnostics"
+        ],
+        "narrative_summary": "The page describes the complexity of managing neurogenic orthostatic hypotension (OH) in patients with neurodegenerative disease, outlining central and peripheral autonomic dysfunction causes and conditions warranting referral for autonomic evaluation (eg, Parkinsonism, peripheral neuropathies, POTS). It also discusses the limited diagnostic yield, high cost, and infrequent utility of routine neurological tests (EEG, CT, MRI) in syncope evaluation.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Autonomic Evaluation",
+            "rows": [
+              {
+                "recommendation": "Referral for autonomic evaluation can be useful to improve diagnostic and prognostic accuracy in selected patients with syncope and known or suspected neurodegenerative disease (219,236–239).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "See Online Data Supplement 16.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for Neurological Diagnostics",
+            "rows": [
+              {
+                "recommendation": "Simultaneous monitoring of an EEG and hemodynamic parameters during tilt-table testing can be useful to distinguish among syncope, pseudosyncope, and epilepsy (229,261–263).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Although a thoughtful and detailed history usually suffices to distinguish among convulsive syncope, epileptic convulsions, and pseudosyncope, an EEG is particularly important when a diagnosis cannot be established after a thorough initial evaluation. EEG findings are characteristic if an episode can be induced during the tilt-table testing (261–263). Epileptiform discharges are recorded during epileptic convulsions whereas, during syncope, an EEG generally shows diffuse brainwave slowing with delta waves and a flat line pattern (263). Pseudosyncope and psychogenic nonepileptic seizures are associated with a normal EEG (229).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "MRI and CT of the head are not recommended in the routine evaluation of patients with syncope in the absence of focal neurological findings or head injury that support further evaluation (78,260).",
+                "class_of_recommendation": "III: No Benefit",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Syncope is due to global cerebral hypoperfusion, and brain structural abnormalities are rare. Nonetheless, MRI and CT are frequently used and infrequently helpful. In 5 studies investigating patients with syncope, MRI was used in 11% of 397 patients and established a diagnosis in only 0.24%. Similarly, in 10 studies of investigation of syncope, CT was used in 57% of 2,728 patients and established a diagnosis in only 1% (77,78,256,257,260). Given the cost and impact on health service facilities, MRI and CT should not be routinely used in the assessment of syncope. Neurological imaging may be indicated if significant head injury as a result of syncope is suspected. Although there is general concern about potential radiation-mediated harm from CT, there are very limited data on the actual harm from CT for syncope evaluation.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4. Management of Cardiovascular Conditions",
+          "4.1. Arrhythmic Conditions: Recommendations",
+          "4.1.1. Bradycardia: Recommendation"
+        ],
+        "narrative_summary": "The writing committee reviewed evidence supporting existing ACC/AHA syncope guidelines in cardiac conditions, affirming the validity of prior recommendations (history, physical examination, ECG) and focusing on specific cardiac conditions lacking prior guidance. Cardiac arrhythmias are a common cause of syncope, with bradyarrhythmias and tachyarrhythmias posing diagnostic and prognostic challenges; section 4.1 outlines strategies for evaluating bradycardia, supraventricular arrhythmias (including AF), and VT.",
+        "recommendation_tables": [
+          {
+            "title": "",
+            "rows": [
+              {
+                "recommendation": "Carotid artery imaging is not recommended in the routine evaluation of patients with syncope in the absence of focal neurological findings that support further evaluation (77,78,256,257,260).",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Syncope is due to global cerebral hypoperfusion and therefore not to unilateral ischemia. A review of 5 studies of carotid artery ultrasound and Doppler use in patients with syncope found that these modalities were used in 58% of 551 patients and established a diagnosis in 0.5% (77,78,256,257,260). Carotid artery ultrasound should not be routinely used in the assessment of syncope.",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "recommendation_box",
+            "title": "",
+            "summary": "Routine recording of an EEG is not recommended in the evaluation of patients with syncope in the absence of specific neurological features suggestive of a seizure (36,77,254–258).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with continued recommendation boxes and ends amid the arrhythmia section requiring the next page for complete guidelines."
+        },
+        "extraction_warnings": [
+          "Detected EEG recommendation box not explicitly labeled as a recommendation table; captured it under figures_tables_algorithms.",
+          "Two recommendation boxes appear under a continued header—both rows flagged as continued from the previous page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "4.1.2. Supraventricular Tachycardia: Recommendations",
+          "4.1.3. Ventricular Arrhythmia: Recommendation",
+          "4.2. Structural Conditions: Recommendations"
+        ],
+        "narrative_summary": "Introduction to structural conditions recommendations explaining that syncope occurs frequently in patients with underlying heart disease and that existing comprehensive guidelines for diagnosis and management of these diseases, including syncope sections, were reviewed. The ACC/AHA guidelines were assessed first, followed by a literature review to ensure current syncope recommendations, with incorporation of new data when available.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Supraventricular Tachycardia (SVT)",
+            "rows": [
+              {
+                "recommendation": "In patients with syncope and SVT, GDMT is recommended (10).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "Although patients with SVT frequently manifest palpitations and lightheadedness, syncope is uncommon. Of note, older patients with paroxysmal SVT are more prone to syncope or near-syncope than are younger patients; these symptoms appear to be independent of the rate of tachycardia, which is generally slower in older adult patients than in younger patients (267,268). Younger patients with SVT causing syncope generally have a very rapid tachycardia. Evaluation of syncope in patients with Wolff-Parkinson-White syndrome with preexcitation on ECG requires a thorough history to differentiate an arrhythmic syncope from a nonarrhythmic syncope, such as VVS, in younger patients (269). When a patient with syncope reports antecedent palpitations and lightheadedness, VT should be more strongly suspected than SVT. EPS may be useful to distinguish a VT from an SVT responsible for syncope associated with these antecedent symptoms. It should be noted that palpitations can also precede vasovagal faints due to sinus tachycardia, so not all palpitations are necessarily due to paroxysmal SVT or VT.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In patients with AF, GDMT is recommended (16).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "AF can be associated with syncope. As with other forms of SVT, syncope from a rapid ventricular response (in the absence of preexcitation) is relatively unusual. Patients with chronic AF merit control of the ventricular response or maintenance of sinus rhythm with appropriate antiarrhythmic therapy (in carefully selected patients) (16). Patients with paroxysmal AF are predisposed to an abnormal neural response during both sinus rhythm and arrhythmia, and the onset of AF may trigger VVS (270). In patients with sinus node dysfunction, syncope could occur upon termination of AF when prolonged pauses are present.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Recommendation for VA",
+            "summary": "In patients with syncope and VA, GDMT is recommended (12,13,220,264,271). Patients with VA (monomorphic or polymorphic) can present with syncope, whether it is nonsustained or sustained. The mechanism of syncope from VA is multifactorial, including: rapid rate, abrupt change in rate, abnormal atrial and ventricular activation relationships, dyssynchrony of ventricular activation, changes in autonomic tone, and body position during the VA (272). One study of 113 patients with sustained VA showed that patients who had a mean VA rate of ≥200 bpm had a 65% incidence of syncope or near-syncope, compared with only 15% among patients with a rate <200 bpm (273). Of the patients with VA ≥200 bpm, 34% did not experience syncope or presyncope. The risk of recurrent syncope and the overall long-term prognosis of patients with VA depend on the severity of the underlying cardiac disease substrates. Indications for ICDs in patients with syncope and suspected VA are predicated on the documentation of or the risk of developing lethal VA (12).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "The introductory paragraph in section 4.2 ends abruptly ('The disease-specific'), indicating continuation on the next page."
+        },
+        "extraction_warnings": [
+          "The VA recommendation was presented in a table similar to the SVT recommendations; it has been captured under figures_tables_algorithms due to table formatting differences on the page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "4.2.1. Ischemic and Nonischemic Cardiomyopathy: Recommendation",
+          "4.2.2. Valvular Heart Disease: Recommendation",
+          "4.2.3. Hypertrophic Cardiomyopathy: Recommendation"
+        ],
+        "narrative_summary": "The page provides narrative supporting the recommendations: for ischemic and nonischemic cardiomyopathy, it emphasizes diagnostic evaluation, prognosis, prior evidence, and reasonable use of ICD for unexplained syncope and significant LV dysfunction; for valvular heart disease, it discusses the hemodynamic mechanism of exertional syncope and endorses aortic valve replacement in severe aortic stenosis after exclusion of other causes; for hypertrophic cardiomyopathy, it notes lack of new data since 2011, registry data showing unexplained syncope as an independent predictor of SCD, and concurs that ICD implantation is reasonable for arrhythmic syncope episodes.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Ischemic and Nonischemic Cardiomyopathy",
+            "rows": [
+              {
+                "recommendation": "In patients with syncope associated with ischemic and nonischemic cardiomyopathy, GDMT is recommended (12,13).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "Evaluation of syncope in patients with ischemic and nonischemic cardiomyopathy encompasses diagnosis and prognosis. Treatment of syncope is based on the specific cause of syncope, whereas treatment for the underlying cardiomyopathy impacts the long-term prognosis. A review of evidence supports previously published recommendations for patients with syncope in the presence of underlying cardiomyopathy. An ICD is recommended in patients with syncope of undetermined origin with clinically relevant and significant VA induced at the time of an EPS (28). ICD therapy is also reasonable for patients with unexplained syncope and nonischemic dilated cardiomyopathy with significant LV dysfunction (12,13,28).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Recommendation for Valvular Heart Disease",
+            "summary": "",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Recommendation for HCM",
+            "summary": "",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "4.2.4. Arrhythmogenic Right Ventricular Cardiomyopathy: Recommendations; 4.2.5. Cardiac Sarcoidosis: Recommendations",
+        "section_headings": [
+          "4.2.4. Arrhythmogenic Right Ventricular Cardiomyopathy: Recommendations",
+          "4.2.5. Cardiac Sarcoidosis: Recommendations"
+        ],
+        "narrative_summary": "This page provides ACC/AHA/HRS guideline recommendations on device implantation and electrophysiologic evaluation for patients with arrhythmogenic right ventricular cardiomyopathy (ARVC) and cardiac sarcoidosis presenting with syncope, including indications for ICD implantation and GDMT.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for ARVC",
+            "rows": [
+              {
+                "recommendation": "ICD implantation is recommended in patients with ARVC who present with syncope and have a documented sustained VA (274–278).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "ICD indications in patients with ARVC and sustained VA are no different than guidelines-based indications for secondary prevention of SCD in other diseases (12).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is reasonable in patients with ARVC who present with syncope of suspected arrhythmic etiology (274,275,277–279).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Unexplained or arrhythmic-appearing syncope in patients with ARVC has consistently been associated with increased risk of SCD or appropriate therapy after ICD implantation in multiple observational studies (274–279).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Recommendations for Cardiac Sarcoidosis",
+            "kind": "table",
+            "title": "Recommendations for Cardiac Sarcoidosis",
+            "summary": "Recommendations for ICD implantation, GDMT, and EPS in patients with cardiac sarcoidosis presenting with syncope and related conduction or arrhythmic conditions.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4.3. Inheritable Arrhythmic Conditions: Recommendations",
+          "4.3.1. Brugada Syndrome: Recommendations"
+        ],
+        "narrative_summary": "Inherited arrhythmic conditions are uncommon and few syncope‐specific studies exist; most are uncontrolled and include other cardiac events. Although ICDs effectively abort cardiac arrest and likely reduce overall risk, their impact on syncope recurrence remains unknown. Brugada syndrome is a genetic disorder marked by type 1 ST‐segment elevation (≥2 mm) in right precordial leads V1 and V2, either spontaneously or after Class I antiarrhythmic drug challenge. Prevalence is higher in Asia (0.01%–1.00%) with male predominance.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Brugada ECG Pattern and Syncope",
+            "rows": [
+              {
+                "recommendation": "ICD implantation is reasonable in patients with Brugada ECG pattern and syncope of suspected arrhythmic etiology (296–300).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Syncope is a risk factor for cardiac arrhythmic events in patients with Brugada syndrome (296,297). ICD implantation is reasonable in these patients; however, the benefit seems to be limited to patients with suspected arrhythmic syncope (298). Patients with syncope consistent with a reflex-mediated mechanism should not undergo the implantation of an ICD.\n\nIn a meta-analysis, the relative risk of cardiac events (SCD, syncope, or ICD shock) among patients with a history of syncope or SCD was approximately 3 times higher than among patients without a prior history of syncope or SCD (296). Data from an international registry showed that the cardiac event rate per year was 7.7% in patients with aborted SCD, 1.9% in patients with syncope, and 0.5% in asymptomatic patients (297). In a cohort including 203 patients with Brugada, VA occurred only in patients with syncope suspected to be arrhythmic in origin, at a rate of 5.5% per year. No SCD occurred in patients with nonarrhythmic syncope or with syncope of doubtful origin (298).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Invasive EPS may be considered in patients with Brugada ECG pattern and syncope of suspected arrhythmic etiology (297,301,302).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "The value of EPS in assessing the mechanism of syncope in patients with Brugada is unknown. In large registries of patients with Brugada (PRELUDE and FINGER) (297,301), inducibility of VA was higher among patients with a prior history of syncope or SCD. However, the value of EPS in predicting prognosis in patients with Brugada is essentially unknown in patients with syncope. The role of inducibility of VA in identifying high-risk patients remains controversial (301,302). Therefore, EPS may be considered only in patients with syncope suspected to be due to an arrhythmia and is not recommended in patients with reflex syncope.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "ICD implantation is not recommended in patients with Brugada ECG pattern and reflex-mediated syncope in the absence of other risk factors (303,304).",
+                "class_of_recommendation": "III: No Benefit",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "In a retrospective multicenter study, appropriate ICD therapy was limited to survivors of cardiac arrest, whereas none of the other patients with syncope and/or inducible ventricular fibrillation (VF) suffered an arrhythmic event (303,304). Given the lack of benefit of ICD therapy in patients with reflex syncope and the known rate of inappropriate shocks and ICD complications in patients who receive an ICD (51), ICD implantation is not recommended when the syncope mechanism is believed to be reflex mediated.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4.3.2. Short‐QT Syndrome: Recommendation",
+          "4.3.3. Long‐QT Syndrome: Recommendations"
+        ],
+        "narrative_summary": "Short‐QT syndrome is a rare genetic disease defined by a QTc ≤340 ms, associated with palpitations, syncope, and increased risk of sudden cardiac death (SCD). Limited prognostic data exist, especially in the absence of documented ventricular arrhythmias (VA), and quinidine therapy lacks sufficient evidence for recommendations. Long-QT syndrome (LQTS) is diagnosed when QTc ≥500 ms (or QTc 480–499 ms with syncope) after excluding secondary causes or in the presence of a pathogenic mutation in an LQTS gene. Several genetic subtypes affect presentation and therapy response. Early recognition and treatment, particularly in pediatric patients, are essential to prevent recurrent syncope and SCD. Lifestyle modifications—including avoidance of strenuous activity in LQTS1 and QT-prolonging drugs in all LQTS patients—are recommended.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Short‐QT Syndrome",
+            "rows": [
+              {
+                "recommendation": "ICD implantation may be considered in patients with short-QT pattern and syncope of suspected arrhythmic etiology.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "The prevalence of short-QT syndrome is very low, ranging from 0.02% to 1.63% (305,307–312). There is no evidence that syncope in patients with short-QT pattern is a risk factor for cardiac arrest in the absence of documented VT or VF. Therefore, ICD implantation may be limited to patients with suspected arrhythmic syncope, particularly in the presence of a family history of SCD (306).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "4.3.4. Catecholaminergic Polymorphic Ventricular Tachycardia: Recommendations",
+          "Recommendations for CPVT"
+        ],
+        "narrative_summary": "The top of the page continues discussion of left cardiac sympathetic denervation (LCSD) in LQTS patients intolerant to or failing beta-blocker therapy, noting clinical benefit but incomplete prevention of events. It then introduces CPVT, characterized by exercise-induced bidirectional or polymorphic VT in structurally normal hearts, with ~60% of patients harboring mutations in RYR2 (autosomal dominant) or CASQ2 (autosomal recessive), prevalence ~0.1 per 1,000, and typical presentation in the first or second decade with stress-induced syncope.",
+        "recommendation_tables": [
+          {
+            "title": "continued",
+            "rows": [
+              {
+                "recommendation": "Left cardiac sympathetic denervation (LCSD) is reasonable in patients with LQTS and recurrent syncope of suspected arrhythmic mechanism who are intolerant to beta-blocker therapy or for whom beta-blocker therapy has failed (325–327).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "See Online Data Supplement 21.",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "The LCSD recommendation box is marked “(continued)” indicating it began on the previous page; no indication of continuation beyond this page."
+        },
+        "extraction_warnings": [
+          "Recommendation table for LCSD is a continuation; table title and column headers are not present on this page.",
+          "Supporting text for CPVT recommendations contains internal line breaks merged into single cells."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "RYR2",
+          "Associated Conditions": [
+            "CPVT"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "mutation in either the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant)"
+          ],
+          "evidence_text": "RyR2",
+          "confidence": "high",
+          "validation_note": "Explicit gene symbol in parentheses after gene description."
+        },
+        {
+          "Gene": "CASQ2",
+          "Associated Conditions": [
+            "CPVT"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "in the cardiac calsequestrin gene (CASQ2) (autosomal recessive)"
+          ],
+          "evidence_text": "CASQ2",
+          "confidence": "high",
+          "validation_note": "Explicit gene symbol in parentheses after gene description."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "4.3.5. Early Repolarization Pattern: Recommendations"
+        ],
+        "narrative_summary": "Early repolarization pattern, marked by a distinct J point and ST elevation in lateral or inferolateral leads, is more common in young athletes (particularly African Americans, ~70% male). It occurs in 1–13% of the general population and 15–70% of idiopathic VF cases. Population data associate it with increased cardiac death risk; presence of a J wave raised VF incidence from 3.4/100,000 to 11.0/100,000. Despite this, the absolute risk is low, and its clinical significance in syncope remains unknown.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "In patients with CPVT who continue to experience syncope or VA, verapamil with or without beta-blocker therapy may be considered (346,347).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Verapamil alone or in combination with beta blockers helps suppress arrhythmias in patients with CPVT (347), including delaying the onset of exercise-induced ventricular ectopy (346,347).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "LCSD may be reasonable in patients with CPVT, syncope, and symptomatic VA despite optimal medical therapy (348–350).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "When syncope occurs despite optimal medical therapy, LCSD may be a reasonable therapy (348–350). In a worldwide cohort study, the percentage of patients with major cardiac events despite optimal medical therapy was reduced 68% after LCSD (349).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for Early Repolarization Pattern",
+            "rows": [
+              {
+                "recommendation": "ICD implantation may be considered in patients with early repolarization pattern and suspected arrhythmic syncope in the presence of a family history of early repolarization pattern with cardiac arrest.",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "ICD implantation may be considered in patients with early repolarization pattern and suspected cardiac syncope if they have a family history of unexplained SCD, VF, or polymorphic VT with documented early repolarization pattern in the affected family member (358,359).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "EPS should not be performed in patients with early repolarization pattern and history of syncope in the absence of other indications (359).",
+                "class_of_recommendation": "III: Harm",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "In a multicenter study including 81 patients with early repolarization syndrome and aborted SCD who underwent EPS, VF was inducible in only 22% of cases. The VF recurrence rate was similar in patients who were inducible and in those who were noninducible (359). Given the high prevalence of early repolarization, the possibility of inducing VF in healthy individuals, and the limited value of ventricular programmed stimulation in risk stratification, EPS is not recommended in patients with early repolarization and syncope in the absence of other cardiac indications (352,353,360).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Page begins with continuation of a recommendation table"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "5. REFLEX CONDITIONS: RECOMMENDATIONS",
+        "section_headings": [
+          "5. REFLEX CONDITIONS: RECOMMENDATIONS",
+          "5.1. Vasovagal Syncope: Recommendations"
+        ],
+        "narrative_summary": "Vasovagal syncope (VVS) is the most common cause of syncope and frequent reason for ED visits. It results from a reflex causing hypotension and bradycardia, often with prodrome of diaphoresis, warmth, and pallor. Conservative measures are usually sufficient, as VVS is benign, but therapy may be needed in refractory cases due to injury risk and QoL impairment. Evidence‐based therapeutic options are limited; preliminary data on cardiac ganglia plexi ablation are encouraging but insufficient to recommend routine use.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for VVS",
+            "rows": [
+              {
+                "recommendation": "Patient education on the diagnosis and prognosis of VVS is recommended.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "See Online Data Supplements 25 and 26.\nIn all patients with the common faint or VVS, an explanation of the diagnosis, education targeting awareness of and possible avoidance of triggers (e.g., prolonged standing, warm environments, coping with dental and medical settings), and reassurance about the benign nature of the condition should be provided.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Physical counter‐pressure maneuvers can be useful in patients with VVS who have a sufficiently long prodromal period (373–375).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "See Online Data Supplements 25 and 26.\nPatients with a syncope prodrome should be instructed to assume a supine position to prevent a faint and minimize possible injury. In patients with a sufficiently long prodrome, physical counter‐maneuvers (e.g., leg crossing, limb and/or abdominal contraction, squatting) are a core management strategy. In a randomized, parallel, open‐label trial, leg crossing with conventional therapy (i.e., fluid, salt intake, counseling, and avoidance) was superior to conventional therapy in preventing syncope recurrence (375).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Midodrine is reasonable in patients with recurrent VVS with no history of hypertension, HF, or urinary retention (376–380).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "See Online Data Supplements 25 and 26.\nMidodrine is a prodrug that is metabolized to desglymidodrine, which is a peripherally active alpha-agonist used to ameliorate the reduction in peripheral sympathetic neural outflow responsible for venous pooling and vasodepression in VVS. Studies on the efficacy of midodrine support its use. In a meta‐analysis of 5 RCTs in adults and children, midodrine was associated with a 43% reduction in syncope recurrence (318,376,378,379,381).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "The usefulness of orthostatic training is uncertain in patients with frequent VVS (382–386).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R",
+                "supporting_text": "See Online Data Supplements 25 and 26.\nThere are 2 main methods of orthostatic training. Patients undergo repetitive tilt-table tests in a monitored setting until a negative tilt-table test occurs and then are encouraged to stand quietly against a wall for 30 to 60 minutes daily, or patients simply standing quietly against a wall at home for a prolonged period of time daily. RCTs have not shown a sustained benefit in reducing episodes of syncope recurrence with either option (382,383,385,387).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Fludrocortisone might be reasonable for patients with recurrent VVS and inadequate response to salt and fluid intake, unless contraindicated (388,389).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R",
+                "supporting_text": "See Online Data Supplements 25 and 26.\nFludrocortisone has mineralocorticoid activity resulting in sodium and water retention and potassium excretion, which results in increased blood volume. In a pediatric population, an RCT found more recurrent symptoms in the fludrocortisone arm than in the placebo arm (389). Serum potassium level should be monitored because of potential drug-induced hypokalemia. POST II (Prevention of Syncope Trial II) reported a marginally insignificant 31% risk reduction in adults with moderately frequent VVS, which was significant in patients after a 2-week dose stabilization period (388).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "RCTs on beta blockers for syncope prevention have been negative overall, but a meta-analysis suggests an age-dependent benefit in patients aged ≥42 years. Evidence for increased salt and fluid intake is limited, but ingestion of 2–3 L of fluid and 6–9 g of salt daily may be reasonable for selected recurrent VVS patients without contraindications. Clinicians should review and consider reducing or withdrawing hypotensive medications where appropriate. Small RCTs on selective serotonin reuptake inhibitors have shown contradictory results regarding their efficacy in preventing recurrent VVS, despite noted central neurophysiological effects of serotonin.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "Beta blockers might be reasonable in patients 42 years of age or older with recurrent VVS (390–393).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplements 25 and 26.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Encouraging increased salt and fluid intake may be reasonable in selected patients with VVS, unless contraindicated (396–399).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "N/A",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In selected patients with VVS, it may be reasonable to reduce or withdraw medications that cause hypotension when appropriate (400).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "N/A",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In patients with recurrent VVS, a selective serotonin reuptake inhibitor might be considered (393,401,402).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "See Online Data Supplements 25 and 26.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 4",
+            "kind": "flowchart",
+            "title": "Vasovagal Syncope",
+            "summary": "Flowchart showing management of vasovagal syncope (VVS): initial patient education on diagnosis and prognosis (Class I), followed by options of counter‐pressure maneuvers (Class IIa) or salt and fluid intake (Class IIb). If VVS recurs, further options include Midodrine (Class IIa), Fludrocortisone (Class IIb), Beta blocker in patients ≥42 y (Class IIb), Orthostatic training (Class IIb), Selected serotonin reuptake inhibitors (Class IIb), and Dual‐chamber pacemaker therapy (Class IIb).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Recommendation table is labeled “(continued)” indicating continuation from previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [
+          "5.2. Pacemakers in Vasovagal Syncope: Recommendation",
+          "5.3. Carotid Sinus Syndrome: Recommendations"
+        ],
+        "narrative_summary": "Section 5.2 discusses the rationale for pacemaker therapy in vasovagal syncope, noting that observational studies and RCTs have assessed pacing efficacy (404–409). It emphasizes strict patient selection based on documented asystole during clinical syncope and tilt-table–induced vasodepressor responses to predict pacing benefit. Section 5.3 defines carotid sinus syndrome, diagnostic criteria (reproduction of syncope during massage with asystole >3 seconds or AV block, or ≥50 mm Hg drop in systolic pressure), typical patient profile (men >40 years), and sequential bilateral carotid sinus massage technique with contraindications (carotid bruit or recent ischemic events unless stenosis excluded).",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Pacemakers in VVS",
+            "rows": [
+              {
+                "recommendation": "Dual-chamber pacing might be reasonable in a select population of patients 40 years of age or older with recurrent VVS and prolonged spontaneous pauses (404–408,410).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R SR",
+                "supporting_text": "Among patients with a positive tilt-table test, a benefit of pacing for treatment of recurrent syncope was evident as compared with medical or no therapy in open-label trials (52,404,406,410–412), but this result must be interpreted with caution because of the possibility of outcome ascertainment bias. In 2 RCTs, there was no statistically significant benefit seen with active pacing (407,408). However, in a select population of patients >40 years of age with recurrent syncope and documented spontaneous pauses ≥3 seconds correlated with syncope or an asymptomatic pause ≥6 seconds, dual-chamber pacing reduced syncope recurrence. There was less benefit in patients with a positive tilt-table test that induced a vasodepressor response (405).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for Carotid Sinus Syndrome",
+            "rows": [
+              {
+                "recommendation": "Permanent cardiac pacing is reasonable in patients with carotid sinus syndrome that is cardioinhibitory or mixed (413,419–426).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "Syncope recurred in fewer patients treated with pacing than in untreated patients, with observation periods up to 5 years (420,423). In 3 controlled, open-label trials, the relative risk reduction of syncope recurrence with pacemaker implantation was 76% (409,427–429). There are no large RCTs.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "It may be reasonable to implant a dual-chamber pacemaker in patients with carotid sinus syndrome who require permanent pacing (427–430).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R",
+                "supporting_text": "Evidence for dual-chamber pacing versus single-chamber pacing in carotid sinus hypersensitivity is limited to a few small RCTs and limited observational data (409,418,427–429). Although mixed, the data suggest dual-chamber pacing may prevent hemodynamic compromise and improve symptom recurrence in older adults who may have concomitant sinus node dysfunction or conduction system disease.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for Neurogenic OH",
+        "section_headings": [
+          "5.4. Other Reflex Conditions",
+          "6. Orthostatic Hypotension: Recommendations",
+          "6.1. Neurogenic Orthostatic Hypotension: Recommendations"
+        ],
+        "narrative_summary": "Section 5.4 defines situational syncope (e.g., micturition, cough, swallow), notes limited evidence and recommends avoidance of triggers with fluid/salt intake and cautious use of diuretics. Section 6.1 introduces neurogenic orthostatic hypotension (OH) pathophysiology involving blood pooling, autonomic failure in neurodegenerative disorders, dehydration or medications, and refers to an algorithm for treatment.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Neurogenic OH",
+            "rows": [
+              {
+                "recommendation": "Acute water ingestion is recommended in patients with syncope caused by neurogenic OH for occasional, temporary relief (438,439).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B-R",
+                "supporting_text": "In neurogenic OH, acute water ingestion can temporarily restore orthostatic tolerance (438–444). The pressor effect of water is most likely sympathetically driven, with the peak effect occurring 30 minutes after ingestion of ≥240 mL and additional benefit seen with ≥480 mL (398,441,442). The presence of glucose or salt may reduce this effect by splanchnic vasodilatation or a decreased osmopressor response, respectively (397,439). Acute water ingestion for temporary relief of OH is not intended for routine or long-term use (24).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Physical counter-pressure maneuvers can be beneficial in patients with neurogenic OH with syncope (374,445–450).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Isometric contraction, such as by leg crossing, lower body muscle tensing, and maximal force handgrip, can increase blood pressure, with the largest effect occurring with squatting versus other counter-pressure maneuvers (374,445–450). Leg crossing increases cardiac output in patients with neurogenic hypotension (447). Similar or larger benefit would be expected with squatting and other isometric contraction (449). The benefit is limited to patients with sufficient prodrome and the ability to perform these maneuvers adequately and safely (449).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Compression garments can be beneficial in patients with syncope and OH (451–455).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "In patients with OH, including older adult patients and those with neurogenic etiologies, compression garments can improve orthostatic symptoms and blunt associated decreases in blood pressure (451–456). The garments should be at least thigh high and preferably include the abdomen, as shorter garments have not been proved to be beneficial (457).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Midodrine can be beneficial in patients with syncope due to neurogenic OH (458–467).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "Midodrine improves symptoms of OH in patients with neurogenic OH (458–467). There is a dose-dependent effect, usually corresponding to an increase in standing blood pressure (459,460,462,463,466,467). Its use may be limited by supine hypertension, and other common side effects include scalp tingling, piloerection, and urinary retention (459,460,463,467).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": true
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Recommendation table continues on next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues a table of pharmacologic and nonpharmacologic treatment recommendations for syncope due to neurogenic orthostatic hypotension (OH), providing Class IIa and IIb recommendations with accompanying supporting text for each intervention.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "Droxidopa can be beneficial in patients with syncope due to neurogenic OH (380,468–471).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "Droxidopa improves symptoms of neurogenic OH due to Parkinson disease, pure autonomic failure, and multiple system atrophy (380,468,470,471). Droxidopa might reduce falls, according to small studies (472). Use of carbidopa in patients with Parkinson disease may decrease the effectiveness of droxidopa (380). Use and titration of droxidopa may be limited by supine hypertension (380,469), headache, dizziness, and nausea (468,470–472).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Fludrocortisone can be beneficial in patients with syncope due to neurogenic OH (473–476).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Fludrocortisone increases plasma volume, with a resultant improvement in symptoms of OH (473,477,478). When taken regularly, fludrocortisone may prevent OH, at least in astronauts after space flight (476). Supine hypertension may be a limiting factor. When supine hypertension is present, other medications should be used before fludrocortisone. Other side effects commonly seen include edema, hypokalemia, and headache, but more serious adverse reactions, such as adrenal suppression and immunosuppression, can also occur with doses >0.3 mg daily (479,480).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Encouraging increased salt and fluid intake may be reasonable in selected patients with neurogenic OH (396,398,441,443,444).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Although the data are limited for salt and fluid supplementation in patients with OH, these 2 treatments may improve blood pressure while decreasing symptoms from OH (396,398,439–444). Salt supplementation (e.g., 6 to 9 g [100 to 150 mmol; about 1 to 2 teaspoons] of salt per day) increases plasma volume, with limited benefit in patients with already high salt intake (396). Water ingestion increases the blood pressure via a pressor effect, most likely mediated by sympathetic activation, with a peak effect approximately 30 minutes after ingestion (398,439,441–443). This additional salt and fluid intake may not be beneficial in patients with history of hypertension, renal disease, HF, or cardiac dysfunction, and the long-term effects of these treatments, including the benefits and risks, is unknown.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Pyridostigmine may be beneficial in patients with syncope due to neurogenic OH who are refractory to other treatments (466,481,482).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "In patients with autonomic failure and neurogenic OH, pyridostigmine is able to improve orthostatic tolerance through increases in peripheral vascular resistance and blood pressure (481,482). Side effects include nausea, vomiting, abdominal cramping, sweating, salivation, and urinary incontinence (483).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Octreotide may be beneficial in patients with syncope and refractory recurrent postprandial or neurogenic OH (484–487).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Splanchnic circulation pooling can contribute to OH, and this pooling can worsen in the postprandial period (484–487). Octreotide reduces splanchnic blood flow by approximately 20% (486), which prevents postprandial hypotension, increases blood pressure, and improves orthostatic tolerance (484–487).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Recommendation table is continued from a prior page and likely continues on the following page."
+        },
+        "extraction_warnings": [
+          "Table title not visible; table is continued from previous page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6.2. Dehydration and Drugs: Recommendations"
+        ],
+        "narrative_summary": "This section discusses how syncope related to medication is prevalent in older adults with multiple comorbidities and polypharmacy, noting that dehydration exacerbates orthostatic intolerance and that rehydration, including sodium supplementation, aids recovery.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Dehydration and Drugs",
+            "rows": [
+              {
+                "recommendation": "Fluid resuscitation via oral or intravenous bolus is recommended in patients with syncope due to acute dehydration (438,499,501–504).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Fluid resuscitation is recommended for syncope secondary to both dehydration and exercise-associated hypotension. The latter is likely due to peripheral vasodilation and vasovagal physiology (438,495,504,505). Both dehydration and heat stress worsen orthostatic tolerance (495–497). Oral fluid bolus may require less volume than intravenous fluid infusion to have a similar treatment effect because oral fluid loading has a pressor effect (398,438,440–444,502). Beverages with increased sodium concentration (closer to normal body osmolality) rehydrate faster than beverages with lower sodium concentration or increased osmolality (e.g., because of glucose content) (498–501,503,506).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 5",
+            "kind": "flowchart",
+            "title": "Orthostatic Hypotension",
+            "summary": "Flowchart outlining evaluation and management of suspected orthostatic hypotension (OH). It begins with suspected OH syncope, assesses a postural BP drop ≥20/10 mm Hg, then either continues evaluation if negative or proceeds to management options for neurogenic OH (acute water ingestion Class I; compression garments, counter-pressure maneuvers, midodrine, droxidopa, fludrocortisone Class IIa; increase salt/fluid intake, octreotide, pyridostigmine Class IIb), drugs (reduce/withdraw medications Class IIa), and dehydration (acute water ingestion Class I; reduce/withdraw medications Class IIa; increase salt and fluid intake Class IIa).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "7. ORTHOSTATIC INTOLERANCE",
+          "8. PSEUDOSYNCOPE: RECOMMENDATIONS"
+        ],
+        "narrative_summary": "Orthostatic intolerance is described as frequent, recurrent, or persistent symptoms upon standing (lightheadedness, palpitations, tremulousness, generalized weakness, blurred vision, exercise intolerance, and fatigue) often relieved by recumbence and sometimes accompanied by blood pressure decreases and compensatory heart rate increases; postural orthostatic tachycardia syndrome (POTS) is a subtype characterized by inappropriate tachycardia (>120 bpm) on standing with infrequent syncope. Psychogenic pseudosyncope is an apparent loss of consciousness without impaired cerebral perfusion, considered a conversion disorder in response to psychological stress; it may mimic syncope but lacks true loss of consciousness, often shows normal vital signs and EEG during episodes, and requires careful history, tilt-table testing, or monitoring for diagnosis.",
+        "recommendation_tables": [
+          {
+            "title": "",
+            "rows": [
+              {
+                "recommendation": "Reducing or withdrawing medications that may cause hypotension can be beneficial in selected patients with syncope (488–490,492,507–510).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "Syncope is a commonly reported adverse drug reaction, often resulting in hospital admission (488,489). The prevalence of medication-related syncope appears higher in older patients (491,492,507,510). Several drug classes have been implicated in syncope, including diuretics, vasodilators, venodilators, negative chronotropes, and sedatives (488–490,492,507–510). Close supervision during adjustment of medications is frequently required because of potential worsening of preexisting supine hypertension or cardiac arrhythmias (491–493,511). Other factors to consider include frailty, HF and/or cardiac dysfunction, and the use of a large number of medications causing adverse effects because of drug–drug interactions (488,507,511–513).",
+                "row_continues_from_previous_page": true,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In selected patients with syncope due to dehydration, it is reasonable to encourage increased salt and fluid intake (396,498–501,503).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "In patients with dehydration, sodium supplementation improves plasma volume and improves orthostatic tolerance (396,499,503). This additional dietary sodium may be provided as sodium tablets or sodium already dissolved in beverages (396,498–500,503). Higher-sodium-content beverages with osmolality comparable to normal body osmolality may rehydrate faster than lower-sodium-content beverages (498–501,503). This treatment option is not appropriate for patients with cardiac dysfunction or HF, uncontrolled hypertension, or chronic kidney disease (19).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with a continued recommendation table and ends in the middle of the pseudopsyncope narrative."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendations for the Treatment of Pseudosyncope",
+        "section_headings": [
+          "Recommendations for the Treatment of Pseudosyncope",
+          "9. UNCOMMON CONDITIONS ASSOCIATED WITH SYNCOPE"
+        ],
+        "narrative_summary": "The page presents two Class IIb, Level C-LD recommendations for management of pseudosyncope: engaging in a candid discussion about the diagnosis may be reasonable, supported by case reports, and cognitive behavioral therapy may be beneficial though data are limited. It then introduces Section 9, noting that syncope can occur in a variety of uncommon diseases, but full evaluation of all rare causes is not required; these conditions should be considered based on clinical features when the etiology of syncope remains unclear.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for the Treatment of Pseudosyncope",
+            "rows": [
+              {
+                "recommendation": "In patients with suspected pseudosyncope, a candid discussion with the patient about the diagnosis may be reasonable (30,527–529).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Some reports suggest that patients benefit from being informed of the suspected diagnosis in a clear but sympathetic manner that also acknowledges the involuntary nature of the attacks (30,527,528).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Cognitive behavioral therapy may be beneficial in patients with pseudosyncope (530–532).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Uncontrolled studies suggest that psychotherapy, particularly cognitive behavioral therapy, may be beneficial in conversion disorders (530–532). One RCT reported that cognitive behavioral therapy provided a non–statistically significant trend toward improvement in pseudosyncope at 3 months (530). There are no data that support significant benefit from pharmacotherapy (529).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 9",
+            "kind": "table",
+            "title": "Conditions Uncommonly Associated With Syncope",
+            "summary": "Lists uncommon cardiovascular/cardiopulmonary conditions (cardiac tamponade; constrictive pericarditis [533–535]; LV noncompaction [536–539]; Takotsubo cardiomyopathy [540,541]; pulmonary embolus [128,542,543]; pulmonary arterial hypertension) and infiltrative diseases (Fabry disease [544,545]; amyloidosis [546,547]; hemochromatosis [548]), with their clinical characteristics and notes on syncope presentation.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table 9 is continued on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [
+          "Infectious",
+          "Neuromuscular",
+          "Anatomic",
+          "Endocrine",
+          "Hematologic",
+          "Neurological disorders"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 9",
+            "kind": "table",
+            "title": "Conditions associated with syncope (continued)",
+            "summary": "Continuation of Table 9 listing various conditions—Infectious, Neuromuscular, Anatomic, Endocrine, Hematologic, and Neurological disorders—with their clinical characteristics and notes on syncope mechanisms.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Continuation of Table 9 from previous page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "10. Age, Lifestyle, and Special Populations: Recommendations",
+        "section_headings": [
+          "10.1. Pediatric Syncope: Recommendations"
+        ],
+        "narrative_summary": "Pediatric syncope is common, affecting up to 50% of children by age 18, with 3% of pediatric ED visits. Neurally mediated syncope accounts for 75% of cases; psychogenic or unexplained syncope for 8%–15%. Breath-holding spells occur from 6 months to 5 years and may manifest as cyanotic or pallid spells. Cardiac syncope, though less common, may result from outflow obstruction, myocardial dysfunction, or primary arrhythmia etiologies (LQTS, CPVT, Brugada syndrome, ARVC, WPW). A detailed history, family history, and examination are key to differentiating benign from life-threatening causes.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Pediatric Syncope",
+            "rows": [
+              {
+                "recommendation": "VVS evaluation, including a detailed medical history, physical examination, family history, and a 12-lead ECG, should be performed in all pediatric patients presenting with syncope (315,618,620,624–630).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Although VVS is the most common cause of pediatric syncope, cardiac syncope does represent 1.5% to 6% of pediatric cases (usually defined as up to 18 years of age) (617,619,620,629,631,632). Characteristics of presenting signs and symptoms differentiating VVS from cardiac causes of syncope are generally similar to those in adults. A family history of VVS and early SCD should be sought. VVS occurs in 33% to 80% of children with syncope (624,628). Risk factors that raise suspicion of a cardiac etiology include the absence of prodromal symptoms, presence of preceding palpitations within seconds of loss of consciousness, lack of a prolonged upright posture, syncope during exercise or in response to auditory or emotional triggers, family history of SCD, abnormal physical examination, and abnormal ECG (626,627), although the specificity is modest (618,627,630,633). It should be remembered that children may not be able to clearly communicate specific symptoms. Exertional syncope has been associated with LQTS and CPVT (315,318,337,630,634). Regardless of symptoms, exertional syncope, especially mid-exertional syncope, should result in a high index of suspicion for a cardiac etiology (633).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Noninvasive diagnostic testing should be performed in pediatric patients presenting with syncope and suspected CHD, cardiomyopathy, or primary rhythm disorder (315,318,618,625,627,630,633).",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Channelopathies are major causes of cardiac-related syncope in young people. They may be associated with a family history of SCD, and they increase the risk of SCD in these patients (315,337,630,632,634,635). Exercise stress testing may be helpful in the diagnosis of channelopathies, such as LQTS and CPVT, which have adrenergically mediated arrhythmias. Extended monitoring is reasonable when an arrhythmia diagnosis is suspected. The types of monitoring devices, their clinical utility, and their limitations are available in Table 8. Prolonged heart rhythm monitoring can often provide a correlation between symptoms and an arrhythmia. In 5 retrospective studies of prolonged monitoring in 87 children with either syncope or presyncope, the mean diagnostic yield was 43% (636–640). Bradyarrhythmias and high-grade AV block or asystole, as well as tachyarrhythmias, SVT, and polymorphic VT, were documented (636–640). The diagnostic yield of an ICM is higher if the clinical indication was exertional syncope or the patient had underlying CHD (637,639,640).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "(continued)",
+        "section_headings": [],
+        "narrative_summary": "Continued recommendations for management of pediatric vasovagal syncope (VVS), covering symptom education, diagnostic tilt-table testing, lifestyle and pharmacologic therapies, and consideration of pacing.",
+        "recommendation_tables": [
+          {
+            "title": "(continued)",
+            "rows": [
+              {
+                "recommendation": "Education on symptom awareness of prodromes and reassurance are indicated in pediatric patients with VVS.",
+                "class_of_recommendation": "",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "Management of children with VVS should include reassurance about the generally benign nature of this condition (641,642). Treatment should emphasize symptom awareness and avoidance of precipitating factors that might worsen the condition, such as dehydration, standing for prolonged periods of time, hot crowded environments, and diuretic intake.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Tilt-table testing can be useful for pediatric patients with suspected VVS when the diagnosis is unclear (624,629,643–650).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Tilt-table testing has a diminishing role in the diagnosis of children with unexplained syncope. The sensitivity of tilt-table testing ranges from 20% to 90% (624,629,643,644,647,648,651,652), and the specificity ranges from 83% to 100% (624,643,652). Pediatric patients with episodes of VVS may exhibit convulsive movements during loss of consciousness that mimic epileptic seizures. In children with syncope and convulsions on tilt-table testing, 64% exhibited cardiac asystole with pauses >3 seconds (645). Upright tilt-table testing combined with a graded isoproterenol infusion identified 42% to 67% of patients previously thought to have a primary seizure disorder (223,649). A combined cardiology and neurology evaluation may be warranted in this group of patients with syncope and seizure-like activity.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In pediatric patients with VVS not responding to lifestyle measures, it is reasonable to prescribe midodrine (381,620,653).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-R",
+                "supporting_text": "In a single-center prospective case series, pseudoephedrine reduced clinical symptoms in 94% of children with recurrent neurally mediated syncope (653). In an RCT comparing patients receiving conventional therapy (health education, tilt-table training, and salt) and midodrine with patients receiving conventional therapy alone, the recurrence rate of syncope decreased from 80% to 22% (381). In 2 prospective studies, side effects from midodrine were rare (381,653).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Encouraging increased salt and fluid intake may be reasonable in selected pediatric patients with VVS (642).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-R",
+                "supporting_text": "In an RCT, conventional therapy and oral rehydration salts resulted in no further recurrence of syncope in 56% of patients, versus 39% in the placebo arm (p<0.05) (642).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "The effectiveness of fludrocortisone is uncertain in pediatric patients with OH associated with syncope (389,654,655).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "In 2 single-center prospective case series of 0.1 mg of fludrocortisone, 83% of subjects demonstrated improvement or resolution of symptoms (654,655). In the only pediatric RCT, children with recurrent syncope did better on placebo than on fludrocortisone (389).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Cardiac pacing may be considered in pediatric patients with severe neurally mediated syncope secondary to pallid breath-holding spells (656,657).",
+                "class_of_recommendation": "IIb",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "In 2 separate studies of 22 predominantly infants and toddlers with reflex anoxic seizures, pallid breath-holding spells, and documented prolonged asystole (pauses >4 seconds), 86% had either complete resolution or a significant reduction in the number of syncopal events with pacing (656,657). Although the studies were not powered to address the specifics of pacing programming, either single- or dual-chamber pacing significantly reduced the number of syncopal episodes compared with a sensing-only strategy (656,657). Single-chamber pacing with hysteresis appears as effective as dual-chamber pacing with rate drop response for the prevention of syncope and seizures. The beneficial response to pacing in these studies cannot exclude a placebo effect from pacemaker implantation itself; however, the young age of the patients with pallid breath-holding spells makes placebo effect less likely. The long-term outcome with pacing in this population has not been reported. Finally, it is important to remember that pallid breath-holding syncope does end, although some patients do present again at a later age with classic VVS. This should be balanced against the known complications of permanent cardiac pacing.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Beta blockers are not beneficial in pediatric patients with VVS (655,658).",
+                "class_of_recommendation": "III: No Benefit",
+                "level_of_evidence": "B-R",
+                "supporting_text": "In an RCT comparing metoprolol and conventional therapy, the treatment group actually had a higher recurrence rate. Side effects of beta blockers occur frequently in children (655,659).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Recommendations continued from previous page"
+        },
+        "extraction_warnings": [
+          "Class of recommendation not visible for first recommendation row, left block not shown on this page."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "10.2 Adult Congenital Heart Disease: Recommendations",
+        "section_headings": [
+          "10.2 Adult Congenital Heart Disease: Recommendations",
+          "10.3 Geriatric Patients: Recommendations"
+        ],
+        "narrative_summary": "After recommendations for ACHD patients with syncope, the text describes the complexity of caring for ACHD survivors, emphasizing specialized knowledge in anatomy, arrhythmia and pulmonary hypertension management, and the impact of care at specialized centers on mortality. It details the risk of syncope and arrhythmias in ACHD patients, including prevalence of atrial arrhythmias and VT after tetralogy of Fallot repair. The beginning of section 10.3 outlines the challenges in managing syncope in older adults, noting diagnostic imprecision, multifactorial causes, comorbidities, frailty, and the need for a multidisciplinary approach.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for ACHD",
+            "rows": [
+              {
+                "recommendation": "For evaluation of patients with ACHD and syncope, referral to a specialist with expertise in ACHD can be beneficial.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "The care of the expanding population of ACHD survivors is complex, especially in patients with moderate-to-severe ACHD. Care providers must be knowledgeable in anatomy and repair; vigilant in recognition and management of HF, arrhythmias, and pulmonary hypertension; and have a deep understanding of noncardiac comorbidities. Delivery of ACHD care in highly specialized centers has been shown to reduce mortality rate (663). In a population-based retrospective study of 71,467 patients with ACHD from Quebec, Canada, between 1990 and 2005, care in a specialized referral center for ACHD care, compared with other care, was independently associated with reduced mortality rate, particularly in those with severe ACHD (663).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "EPS is reasonable in patients with moderate or severe ACHD and unexplained syncope (664,665).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 40. SCD is a leading cause of death in the patient with ACHD. Unexplained syncope is a concerning event. In a cohort of 252 patients with repaired tetralogy of Fallot undergoing risk stratification with programmed ventricular stimulation, induction of either monomorphic or polymorphic VT predicted future clinical VT and SCD (664). Patients with tetralogy of Fallot and inducible monomorphic or polymorphic VT were more likely to have a history of syncope (42.9%) than were those without inducible VT (13.4%) (664). In a cohort study of ICD recipients with transposition of the great arteries after an atrial baffle procedure, 35% of patients with primary-prevention ICDs presented with syncope. In 50% of patients receiving appropriate ICD shocks, atrial tachyarrhythmias preceded or coexisted with VT (665). It is reasonable to exclude atrial arrhythmias in patients with syncope and a CHD substrate at risk of atrial arrhythmias (e.g., Mustard, Senning, Fontan, Ebstein anomaly, and tetralogy of Fallot) (665).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 10.3 narrative continues onto the next page without completing recommendations for geriatric patients."
+        },
+        "extraction_warnings": [
+          "Footnote text (“See Online Data Supplement 40.”) was captured as part of supporting text for row 2.",
+          "The “N/A” label under the first recommendation is omitted because its column association was unclear."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendations for Geriatric Patients",
+          "10.4. Driving and Syncope: Recommendation"
+        ],
+        "narrative_summary": "Section 10.4 discusses the assessment of medical fitness to drive in patients with syncope, including the risk of causing harm to drivers or others, factors affecting sudden incapacitation (eg, Canadian Cardiovascular Society formula), societal thresholds for acceptable risk, and distinctions between private and commercial drivers. It notes regulatory considerations, effective treatment to reduce recurrence, and refers to Table 10 for specific driving guidance.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Geriatric Patients",
+            "rows": [
+              {
+                "recommendation": "For the assessment and management of older adults with syncope, a comprehensive approach in collaboration with an expert in geriatric care can be beneficial.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "A multidisciplinary approach helps to facilitate diagnosis of frailty and other factors that predispose to syncope and poor outcome in older adults. The goal is to make management decisions in which older patients are well informed, therapeutic choices are tailored to each patient's needs and goals of care, and decision making is successfully shared between patients and providers. Diagnostic and therapeutic approaches to syncope should incorporate considerations of age, comorbid illness, physical and cognitive functions, patient preferences, and severity of symptoms. Assessment is required of underlying cardiovascular and noncardiovascular diseases; use of medications (e.g., polypharmacy, drug-drug interaction, age-related reduction in hepatic and renal clearance); the potential to reduce medications that might lower blood pressure; and circumstantial factors, such as dehydration, infection, or fever. Consideration of frailty is particularly relevant. Characteristics of frailty include weight loss, weakness, exhaustion, reduced physical activity, physical slowing, and cognitive decline, with cumulative severity and impact that typically vary between patients and even in 1 patient over time.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "It is reasonable to consider syncope as a cause of nonaccidental falls in older adults (666–669,686).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "See Online Data Supplement 41. Approximately 30% of older adults who present with nonaccidental falls may have had syncope (687). Amnesia is commonly associated with both falls and loss of consciousness, which diminishes the effectiveness of the history. Cognitive impairment is also frequently present in older adults, even in those without a formal diagnosis of dementia (688–690), and this too can reduce the accuracy of recall of the clinical event (666–669,673,686).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Narrative on driving and syncope continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Recommendation for Driving and Syncope",
+        "section_headings": [
+          "Recommendation for Driving and Syncope"
+        ],
+        "narrative_summary": "The writing committee emphasizes that healthcare providers managing patients with syncope should be familiar with pertinent regional driving laws and restrictions, distinguish between private and federally regulated commercial driving, and understand physician reporting obligations and confidentiality requirements when a patient poses a significant risk to others. A footnote advises prudent observation of a symptom-free interval before resuming driving.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation for Driving and Syncope",
+            "rows": [
+              {
+                "recommendation": "It can be beneficial for healthcare providers managing patients with syncope to know the driving laws and restrictions in their regions and discuss implications with the patient.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "The writing committee encourages healthcare providers who care for patients with syncope to know pertinent driving laws and restrictions in their region (e.g., states or provinces), as well as the duty of drivers or physicians to report inability of an individual to drive a motor vehicle. The Risk of Harm formula simply estimates risk and does not supersede local driving regulations (692). In the United States, private driving is state regulated, but commercial driving requiring a U.S. Department of Transportation commercial driver’s license is federally regulated. Recommendations about commercial driving are more a legal than a medical matter, and are not within the purview of this guideline. Physicians providing care to commercial drivers should be familiar with U.S. Department of Transportation policy (695).\nIndividual states may require reporting of drivers who faint. Many patients do not stop driving despite advice to do so, regardless of the duration of restriction (696,697). Although physicians have an obligation to maintain confidentiality, if a patient’s condition poses a significant risk to others, then this information should be reported as specific laws require.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 10",
+            "kind": "table",
+            "title": "Avoidance of Private Driving After an Episode of Syncope: Suggested Symptom-Free Waiting Times for Various Conditions",
+            "summary": "Lists suggested symptom-free waiting times or restrictions—from no restriction, defined intervals, to 'not fit to drive'—for various syncope-related conditions based on frequency, etiology, and treatment status.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "recommendations",
+        "title": "10.5. Athletes: Recommendations",
+        "section_headings": [
+          "10.5. Athletes: Recommendations"
+        ],
+        "narrative_summary": "Syncope in athletes is predominantly vasovagal but underlying cardiac conditions elevate risk during exercise. A careful history differentiating exercise-associated syncope from other causes and a definition of “athlete” (>150 minutes of vigorous training per week) are important. High levels of exercise induce myocardial adaptations that alter substrate. Evidence is insufficient to support general ECG or echocardiographic screening in asymptomatic athletes. Certain medications (e.g., macrolide antibiotics, antihistamines, somatotrophic compounds, amphetamine-like stimulants) may precipitate syncope, and clinicians should assess for exposure and banned substances.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendations for Athletes",
+            "rows": [
+              {
+                "recommendation": "Cardiovascular assessment by a care provider experienced in treating athletes with syncope is recommended prior to resuming competitive sports.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C-EO",
+                "supporting_text": "A thorough history and physical examination should be completed by an experienced provider, including an assessment for OH and evidence of underlying cardiovascular disease (709–711). Cardiovascular causes account for 75% of sport-related deaths in young athletes (709,710). Syncope that occurs after exercise is often of benign origin and may be due to abdominal venous pooling. However, syncope during exercise is a much more compelling symptom and can be a harbinger of SCD (712,713). Syncopal episodes first require a personal and family history to evaluate precipitating causes and benign conditions, particularly volume depletion and vasovagal activity. Concomitant illnesses, especially viral infections, should be investigated and an ECG obtained (709,710).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Assessment by a specialist with disease-specific expertise is reasonable for athletes with syncope and high-risk markers (706,714).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "Syncope in the competitive athlete requires an evaluation for potentially fatal causes of syncope, especially when evidence of HCM, LQTS, Wolff-Parkinson-White syndrome, ARVC, ventricular noncompaction, symptomatic mitral valve prolapse, Marfan syndrome, congenital coronary anomalies, or other at-risk conditions is present (706,709,715,716). Any suspected cardiovascular pathology requires further evaluation, and family counseling and/or genetic testing is advised for those conditions with a known familial tendency.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Extended monitoring can be beneficial for athletes with unexplained exertional syncope after an initial cardiovascular evaluation (717,718).",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C-LD",
+                "supporting_text": "For those with a suspected cardiovascular etiology of syncope, an evaluation includes an ECG, tilt-table testing, and imaging as clinically indicated (Figure 3) (719). Imaging may include echocardiography or MRI as required. Exercise stress testing, unless contraindicated, can be helpful. For persistent unexplained syncope, extended arrhythmia monitoring can be used, as appropriate. This is a rapidly evolving field, with no firm data on the best device and optimum monitoring period (720).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Participation in competitive sports is not recommended for athletes with syncope and phenotype-positive HCM, CPVT, LQTS1, or ARVC before evaluation by a specialist (704,721–724).",
+                "class_of_recommendation": "III: Harm",
+                "level_of_evidence": "B-NR",
+                "supporting_text": "In the absence of vagal mechanisms, VA in patients with HCM, CPVT, LQTS1, or ARVC is catecholamine-sensitive. Participation in competitive sports in that circumstance in these patients is not recommended (704,715,716).",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "11. Quality of Life and Healthcare Cost of Syncope",
+        "section_headings": [
+          "11. Quality of Life and Healthcare Cost of Syncope",
+          "11.1 Impact of Syncope on Quality of Life",
+          "11.2 Healthcare Costs Associated With Syncope",
+          "12. Emerging Technology, Evidence Gaps, and Future Directions",
+          "12.1 Definition, Classification, and Epidemiology",
+          "12.2 Risk Stratification and Clinical Outcomes"
+        ],
+        "narrative_summary": "This page begins with Section 11, discussing the impact of recurrent syncope on patient quality of life—equating impairments to those seen in chronic rheumatologic and back pain conditions, pediatric comparisons to diabetes and asthma, and functional limitations in daily activities. Syncope-related QoL can improve over time with effective diagnosis and treatment. Section 11.2 details the high healthcare costs associated with syncope evaluation and management in the U.S. and abroad, including facility charges and diagnostic test expenses. The page then introduces Section 12 on emerging technologies and evidence gaps, outlining the need for standardized definitions, registries, and future research; Section 12.2 begins risk stratification questions but ends mid-sentence.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 12.2 ends mid-sentence (‘or’) indicating continuation on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "12.3. Evaluation and Diagnosis",
+          "12.4. Management of Specific Conditions",
+          "12.5. Special Populations",
+          "PRESIDENTS AND STAFF"
+        ],
+        "narrative_summary": "This page presents future research questions for syncope: in section 12.3, bullet points outline the need for studies to understand syncope presentation, causes, diagnostics standardization, and structured protocols for patients at intermediate risk; in section 12.4, it highlights the need for studies differentiating types of syncope (arrhythmic vs nonarrhythmic), multicenter registries, and RCTs for treatment of reflex and inherited arrhythmic syncope; in section 12.5, it identifies special populations (pediatric, geriatric, athletes) and the need for registries, databases, and specialized units. The bottom lists ACC presidents and staff.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of narrative research questions and ends amid the list of presidents and staff, indicating continuation across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "REFERENCES"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "References continue on the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "Shen et al. 2017 ACC/AHA/HRS Syncope Guideline References",
+        "section_headings": [],
+        "narrative_summary": "This page contains reference citations numbered 23 through 71 for the ACC/AHA/HRS 2017 Syncope Guideline, listing authors, titles, journals, years, volumes, and page numbers.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page lists reference citations numbered 72 through 120 for the 2017 ACC/AHA/HRS Syncope Guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains references numbered 218 through 271 from the guideline bibliography.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page shows a middle segment of the references list (refs 218–271), indicating continuation from previous and onto next pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page is part of the references section, continuing a numbered list of citations and ending before the list concludes."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page contains a mid-sequence list of references starting at reference 322 and ending at 366, indicating continuation of the references section across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues across pages; last reference is cut off"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Continuation of reference list across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains numbered references (517–570) from the 2017 ACC/AHA/HRS Syncope Guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues across pages"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list continues from previous page and continues to next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Page contains references 626 through 678 of the ACC/AHA/HRS Syncope Guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Reference list spans multiple pages and continues across page boundaries."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues from previous page and likely continues on next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "KEY WORDS"
+        ],
+        "narrative_summary": "This page contains the reference list (items 729 through 738) for the 2017 ACC/AHA/HRS Syncope Guideline followed by a list of key words.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 1. AUTHOR RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (RELEVANT)—2017 ACC/AHA/HRS GUIDELINE FOR THE EVALUATION AND MANAGEMENT OF PATIENTS WITH SYNCOPE (MARCH 2015)",
+        "section_headings": [
+          "Committee Member | Employment | Consultant | Speakers Bureau | Ownership/Partnership/Principal | Personal Research | Institutional, Organizational, or Other Financial Benefit | Expert Witness | Voting Recusals by Section"
+        ],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 1 Table",
+            "kind": "table",
+            "title": "Author Relationships with Industry and Other Entities (Relevant)",
+            "summary": "Table listing committee members alongside their disclosures: Employment; Consultant; Speakers Bureau; Ownership/Partnership/Principal; Personal Research; Institutional, Organizational, or Other Financial Benefit; Expert Witness; Voting Recusals by Section.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table is continued on the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 1. CONTINUED",
+        "section_headings": [
+          "APPENDIX 1. CONTINUED"
+        ],
+        "narrative_summary": "This page contains a disclosure table listing committee members, their employments, and their relationships with industry or other entities, along with footnotes defining relevant relationship criteria and abbreviations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Committee Member Disclosures",
+            "summary": "Table showing committee members, their employment affiliations, consultant roles, speaker bureau affiliations, ownership/partnership interests, personal research support, institutional/organizational/financial benefits, expert witness roles, and voting recusal sections.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Continuation of Appendix 1 from previous page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 2. REVIEWER RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (COMPREHENSIVE)—2017 ACC/AHA/HRS GUIDELINE FOR THE EVALUATION AND MANAGEMENT OF PATIENTS WITH SYNCOPE (JUNE 2016)",
+        "section_headings": [
+          "APPENDIX 2. REVIEWER RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (COMPREHENSIVE)—2017 ACC/AHA/HRS GUIDELINE FOR THE EVALUATION AND MANAGEMENT OF PATIENTS WITH SYNCOPE (JUNE 2016)"
+        ],
+        "narrative_summary": "This page presents an appendix table listing the names of guideline reviewers along with their disclosures of relationships with industry and other entities, including roles as consultants, speakers bureau participants, personal research funding recipients, and expert witnesses.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 2 Table",
+            "kind": "table",
+            "title": "Reviewer Relationships with Industry and Other Entities",
+            "summary": "Table of disclosures for each reviewer: representation, employment, consultant roles, speakers bureau engagements, ownership/partnership interests, personal research funding, institutional/organizational or other financial benefits, and expert witness activities.",
+            "continuation_status": "continues_after_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Table continues on the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 2. CONTINUED",
+        "section_headings": [
+          "APPENDIX 2. CONTINUED"
+        ],
+        "narrative_summary": "Continuation of the appendix table listing guideline reviewers and their financial and professional disclosures.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 2 (continued)",
+            "kind": "table",
+            "title": "Reviewer Disclosures",
+            "summary": "Table listing each reviewer’s representation, employment, consulting roles, speakers bureau engagements, ownership/partnership interests, personal research support, institutional or organizational financial benefits, and expert witness activities.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Appendix disclosure table continues from previous page and onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 2. CONTINUED",
+        "section_headings": [
+          "APPENDIX 2. CONTINUED"
+        ],
+        "narrative_summary": "Continuation of the conflict of interest disclosure table listing reviewers and their affiliations or financial relationships.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "",
+            "kind": "table",
+            "title": "Conflict of Interest Disclosures (continued)",
+            "summary": "Table listing reviewers with their representation roles, employments, consultancy relationships, speakers bureau engagements, ownership/partnership interests, personal research funding, institutional or organizational benefits, and expert witness status.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Table continued from previous page and continues on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 2. CONTINUED",
+        "section_headings": [
+          "APPENDIX 2. CONTINUED"
+        ],
+        "narrative_summary": "Continuation of Appendix 2 presenting a disclosure table of content reviewers, detailing reviewer names, roles, employment affiliations, consultant engagements, speakers bureau participation, ownership/partnership interests, personal research funding, institutional financial benefits, and expert witness activities.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table",
+            "kind": "table",
+            "title": "Disclosure Table (Appendix 2 Continued)",
+            "summary": "Table listing content reviewers alongside their representation, employment, consultant roles, speakers bureau affiliations, ownership/partnership interests, personal research support, institutional/organizational financial benefits, and expert witness roles.",
+            "continuation_status": "spans_previous_and_next"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Disclosure table is continued from the previous page and continues onto the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 2. CONTINUED",
+        "section_headings": [],
+        "narrative_summary": "This page continues Appendix 2 by presenting disclosure relationships of reviewers with industry and other entities, followed by footnotes explaining disclosure criteria and a list of abbreviation definitions.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Appendix 2 Disclosure Table",
+            "kind": "table",
+            "title": "Reviewer Disclosure Relationships",
+            "summary": "Lists relationships of reviewers Gaurav Upadhyay and Paul Varosy with industry and other entities across categories: Representation; Employment; Consultant; Speakers Bureau; Ownership/Partnership/Principal; Personal Research; Institutional, Organizational, or Other Financial Benefit; and Expert Witness.",
+            "continuation_status": "starts_before_page"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": false,
+          "reason": "Table is labeled \"CONTINUED,\" indicating it began on a previous page and completes here."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "appendix",
+        "title": "APPENDIX 3. ABBREVIATIONS",
+        "section_headings": [],
+        "narrative_summary": "This page lists abbreviations and their definitions used throughout the guideline.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "CPVT"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "mutation in either the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant)"
+      ]
+    },
+    {
+      "Gene": "CASQ2",
+      "Associated Conditions": [
+        "CPVT"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "in the cardiac calsequestrin gene (CASQ2) (autosomal recessive)"
+      ]
+    }
+  ]
+}

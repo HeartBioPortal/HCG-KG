@@ -1,0 +1,740 @@
+{
+  "content": [
+    {
+      "content": {
+        "page_type": "title",
+        "title": "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias",
+        "section_headings": [],
+        "narrative_summary": "Title page of the 2025 focused update guideline published by the European Society of Cardiology and the European Atherosclerosis Society. Includes the full guideline title, journal citation, DOI, list of task force authors and chairpersons with country affiliations, corresponding author contact details, notes on author affiliations, participating committees, associations, councils, working groups, and patient forum acknowledgements.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "table_of_contents",
+        "title": "",
+        "section_headings": [
+          "Preamble",
+          "Introduction",
+          "Estimation of total cardiovascular risk and implications for dyslipidaemia management",
+          "New low-density lipoprotein cholesterol-lowering therapies",
+          "Combination of lipid-lowering therapies during index hospitalization for acute coronary syndromes",
+          "Lipoprotein(a)",
+          "Hypertriglyceridaemia",
+          "Primary prevention in people with human immunodeficiency virus infection",
+          "Patients with cancer at high or very high chemotherapy-related cardiovascular toxicity risk",
+          "Dietary supplements",
+          "Evidence tables",
+          "Data availability statement",
+          "Author information",
+          "Appendix",
+          "References"
+        ],
+        "narrative_summary": "This page includes administrative information (Document Reviewers, Disclaimer, Permissions), a list of keywords, and the table of contents for the guideline update.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "Tables of Recommendations",
+        "section_headings": [
+          "Tables of Recommendations",
+          "List of tables",
+          "List of figures",
+          "Abbreviations and acronyms",
+          "1. Preamble"
+        ],
+        "narrative_summary": "The Preamble introduces the scope and intended use of the ESC/EAS guidelines, emphasizing that they summarize evidence to support clinicians’ diagnostic and therapeutic decisions. It clarifies professional responsibilities, ethical obligations, and the process for guideline updates and focused updates.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": false,
+          "reason": ""
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "Guidelines Task Forces conduct systematic literature reviews—including randomized trials, systematic reviews, meta-analyses, diagnostic accuracy studies, and prognostic model validation—to inform recommendations. The strength of each recommendation and its level of evidence are defined using standardized criteria. Patient-Reported Outcome Measures (PROMs) and Patient-Reported Experience Measures (PREMs) are also evaluated. Evidence tables (Tables 1 and 2) summarize key information to facilitate formulation of recommendations.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 1",
+            "kind": "table",
+            "title": "Classes of recommendations",
+            "summary": "Defines Class I (evidence/general agreement that a treatment is beneficial; wording: “Is recommended or is indicated”), Class II (conflicting evidence/opinion: IIa – weight of evidence in favour; “Should be considered”; IIb – less well established; “May be considered”), and Class III (not useful/effective or may be harmful; “Is not recommended”).",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 2",
+            "kind": "table",
+            "title": "Levels of evidence",
+            "summary": "Defines Level A (data from multiple randomized clinical trials or meta-analyses), Level B (data from a single randomized trial or large non-randomized studies), and Level C (consensus of expert opinion, small studies, registries).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins and ends without clear section boundaries, indicating continuation of content across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "narrative",
+        "title": "",
+        "section_headings": [
+          "2. Introduction",
+          "3. Estimation of total cardiovascular risk and implications for dyslipidaemia management"
+        ],
+        "narrative_summary": "This page describes the ESC Focused Update development process, including Task Force voting procedures, conflict of interest declarations, and multiple rounds of peer review. It explains that the Focused Update addresses dyslipidaemia management changes based on evidence up to 31 March 2025 and lists the major topics and clinical trial data considered. A bullet list outlines the specific guideline sections updated (e.g., CV risk estimation, LDL-C-lowering therapies, Lp(a), drug treatment in hypertriglyceridaemia, statin therapy in HIV and cancer patients, and dietary supplements). The page then begins section 3 on the estimation of total cardiovascular risk, discussing the role of LDL-C and ApoB in atherogenesis.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins in the middle of the guideline development narrative and ends mid-paragraph in section 3, indicating continuation on adjoining pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page discusses the central role of lowering plasma LDL-C for preventing atherosclerotic cardiovascular events, explaining the estimation of circulating LDL-C as a surrogate for cholesterol trapped in arterial walls. It highlights that the clinical benefit of LDL-C reduction depends on the absolute risk reduction achieved and that individuals at higher cardiovascular risk require more intensive LDL-C lowering. The 2021 ESC Focused Update endorses use of SCORE2 and SCORE2-OP algorithms (in place of the original SCORE) to estimate 10-year risk of non-fatal and fatal atherosclerotic cardiovascular disease in persons aged 40–89 years without known CVD. The page introduces Table 3, which presents updated cardiovascular risk category definitions based on documented ASCVD, diabetes with target organ damage or duration, chronic kidney disease, familial hypercholesterolaemia, and calculated SCORE2/SCORE2-OP risk percentages.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Cardiovascular risk categories",
+            "summary": "Classification of people into four cardiovascular risk categories (Very high risk, High risk, Moderate risk, Low risk) based on criteria including documented ASCVD, diabetes mellitus with target organ damage or duration, severity of chronic kidney disease, familial hypercholesterolaemia, measured lipid and blood pressure levels, and calculated 10-year risk of fatal or non-fatal CVD using SCORE2/SCORE2-OP.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins mid-sentence and ends mid-sentence indicating continuation of text across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Table 4",
+          "Box 1"
+        ],
+        "narrative_summary": "The prose discusses the conversion of previous SCORE-based thresholds into SCORE2 and SCORE2-OP thresholds, emphasizing that risk is a continuum and that population-based CVD risk models may be crude for individual prediction. It highlights the value of additional characteristics and biomarkers as risk modifiers around treatment decision thresholds and notes that these modifiers can support reclassification to higher risk categories and guide LDL-C goals and lipid-lowering interventions. The text also endorses the 2019 ESC/EAS Class IIa recommendation that arterial plaque burden be considered a risk modifier.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Intervention strategies as a function of total cardiovascular risk and untreated low-density lipoprotein cholesterol levels",
+            "summary": "Maps total CV risk categories (Low, Moderate, High, Very high primary prevention, Very high secondary prevention) to intervention strategies by untreated LDL-C level (<1.4, 1.4–<1.8, 1.8–<2.6, 2.6–<3.0, 3.0–<4.9, ≥4.9 mmol/L). Green cells indicate lifestyle advice/modification, yellow cells lifestyle modification with consideration of adding drug if uncontrolled, red cells lifestyle modification with concomitant drug intervention, and N/A where not applicable.",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Box 1",
+            "kind": "box",
+            "title": "Risk modifiers for consideration beyond the risk estimation based on the SCORE2 and SCORE2-OP algorithms",
+            "summary": "Lists demographic/clinical conditions (e.g., family history of premature CVD, high-risk ethnicity, stress, social deprivation, obesity, physical inactivity, immune-mediated/inflammatory disorders, psychiatric disorders, premature menopause, hypertensive pregnancy disorders, HIV infection, obstructive sleep apnoea) and biomarkers (persistently elevated hs-CRP >2 mg/L; elevated Lp(a) >50 mg/dL [>105 nmol/L]) that may modify risk beyond algorithm estimates.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins partway through a discussion and ends mid-sentence, indicating continuation from previous and onto next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "The text discusses the role of coronary artery calcium (CAC) scoring as a modifier for cardiovascular risk assessment in individuals without clinical ASCVD, noting that elevated CAC improves risk discrimination and reclassification in moderate-risk persons. It summarizes evidence linking CAC thresholds (e.g., score >300 or zero) to ASCVD risk, mentions limitations of randomized trial evidence, and states that CAC should be interpreted cautiously in statin-treated patients. It also references use of the SCORE2-Diabetes algorithm for 10-year CVD risk estimation in type 2 diabetes and notes that LDL-C targets and therapeutic guidance remain consistent with prior guidelines. The narrative is part of a focused update.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 1",
+            "kind": "figure",
+            "title": "Treatment goals for low-density lipoprotein cholesterol across categories of total cardiovascular risk",
+            "summary": "Flowchart showing LDL-C treatment goals by cardiovascular risk category (low, moderate, high, very high, extreme) defined by SCORE2/SCORE2-OP thresholds and specific risk factor criteria. Color-coded Class IIb, Class IIa, and Class I boxes indicate target LDL-C levels (<3.0/2.6/1.8/1.4/1.0 mmol/L respectively) and ≥50% reduction for Class I. A footnote denotes Class IIa for individuals in primary prevention with familial hypercholesterolaemia at very high risk.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins and ends mid-sentence, indicating continuation of paragraph across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "ESC Guidelines",
+        "section_headings": [
+          "4. New low-density lipoprotein cholesterol-lowering therapies"
+        ],
+        "narrative_summary": "The page continues a discussion of the 2019 ESC/EAS Guidelines, noting that SCORE2 and SCORE2-OP risk-estimating algorithms were derived from cohorts without clinical ASCVD or lipid-lowering therapy and should not be used in persons with existing ASCVD, on lipid-lowering therapy, or for re-assessing risk post-therapy. The Task Force emphasizes that atherosclerosis is a lifelong progressive disease; higher cumulative LDL-C exposure at younger ages increases ASCVD risk, while lower exposure can reduce lifetime risk and mitigate progression. This underscores the need for new lifetime risk and benefit-estimating algorithms that guide personalized timing and intensity of LDL-C lowering. Section 4 introduces bempedoic acid, an oral prodrug inhibiting ATP-citrate lyase (upstream of HMG-CoA reductase), not expressed in skeletal muscle, with muscle-related adverse events similar to placebo. Bempedoic acid as monotherapy reduces LDL-C by ≈23%, by ≈18% on a background of statin therapy, and by 38% in fixed-dose combination with ezetimibe; it also lowers C-reactive protein without increasing haemoglobin A1c in normoglycaemia or pre-diabetes. Mendelian randomization mimicking ATP-citrate lyase inhibition shows similar LDL-C–driven CVD risk reductions. The CLEAR Outcomes study is a randomized, double-blind, placebo-controlled trial in statin-intolerant high-risk patients assessing major adverse cardiovascular events, described here ending mid-sentence.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation Table 1 — Recommendations for cardiovascular risk estimation in persons without known cardiovascular disease (see also Supplementary data online, Evidence Table 1)",
+            "rows": [
+              {
+                "recommendation": "SCORE2 is recommended in apparently healthy people <70 years of age without established ASCVD, DM, CKD, genetic/rare lipid or BP disorders for estimation of 10-year fatal and non-fatal CVD risk.^2 c",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "SCORE2-OP is recommended in apparently healthy people ≥70 years of age without established ASCVD, DM, CKD, genetic/rare lipid or BP disorders for estimation of 10-year fatal and non-fatal CVD risk.^3 c",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Presence of subclinical coronary atherosclerosis by imaging or increased CAC score by CT should be considered as risk modifiers in individuals at moderate risk or individuals around treatment decision thresholds to improve risk classification.^24,27,28,36 d",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Risk modifiers e should be considered in individuals at moderate risk or individuals around treatment decision thresholds to improve risk classification.^17,27,37 f",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In primary prevention, g pharmacological LDL-C-lowering therapy is recommended in persons:\n• at very high risk and LDL-C ≥1.8 mmol/L (70 mg/dL), or\n• at high risk and LDL-C ≥2.6 mmol/L (100 mg/dL)\ndespite optimization of non-pharmacological measures, to lower CVD risk.^1,13,38,39",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "In primary prevention, g pharmacological LDL-C-lowering therapy should be considered in persons:\n• at very high risk and LDL-C ≥1.4 mmol/L (55 mg/dL) but <1.8 mmol/L (70 mg/dL), or\n• at high risk and LDL-C ≥1.8 mmol/L (70 mg/dL) but <2.6 mmol/L (100 mg/dL), or\n• at moderate risk and LDL-C ≥2.6 mmol/L (100 mg/dL) but <4.9 mmol/L (190 mg/dL), or\n• at low risk and LDL-C ≥3.0 mmol/L (116 mg/dL) but <4.9 mmol/L (190 mg/dL)\ndespite optimization of non-pharmacological measures, to lower CVD risk.^1,13,38,39",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative text at the top continues a discussion from a previous page, and the section 4 narrative ends mid-sentence, indicating continuation onto the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "figure_or_algorithm",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page continues discussion of lipid-lowering therapies, reporting outcomes from a trial of bempedoic acid versus placebo over a median follow-up of 40.6 months in 13 970 patients (23% on low-dose statin), showing a 0.57 mmol/L (22 mg/dL) LDL-C reduction and a 13% relative reduction in major adverse cardiovascular events (MACE) with similar safety profile to statins, though with increased risk of hepatic enzyme elevations, renal impairment, hyperuricaemia, and gout. It notes inclisiran, an siRNA against PCSK9, lowers LDL-C by ≈50% and two large CV outcome trials (NCT03705234; NCT05030428) are ongoing. It highlights challenges in statin intolerance and mentions emerging evidence supporting non-statin therapies, referring ahead to Recommendation Table 2.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 2",
+            "kind": "figure",
+            "title": "Average reduction in low-density lipoprotein cholesterol levels with different pharmacological therapies with proven cardiovascular benefits",
+            "summary": "Bar-and-arrow chart showing average LDL-C reduction (%) for moderate- and high-intensity statins, ezetimibe (EZE), bempedoic acid (BA), combinations thereof, PCSK9 monoclonal antibodies (mAb), and PCSK9 mAb + EZE or BA, with reductions ranging from ~30% up to ~86%.",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins with continuation of results (‘of 40.6 month follow-up…’) and ends mid-paragraph (‘…in older persons’)."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "5. Combination of lipid-lowering therapies during index hospitalization for acute coronary syndromes"
+        ],
+        "narrative_summary": "The page continues discussion of early post-acute coronary syndrome (ACS) care, noting the high risk of recurrent events and the benefits of intensive LDL-C lowering. It summarizes evidence from IMPROVE-IT, HUYGENS, PACMAN-AMI, and SWEDEHEART trials, highlights prescription inertia and delays, and introduces a stepwise, early combination lipid-lowering strategy for ACS patients, in line with 2023 ESC Guidelines.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation Table 2 — Recommendations for pharmacological low-density lipoprotein cholesterol lowering (see also Supplementary data online, Evidence Table 2)",
+            "rows": [
+              {
+                "recommendation": "Non-statin therapies with proven cardiovascular benefit,c taken alone or in combination, are recommended for patients who are unable to take statin therapy to lower LDL-C levels and reduce the risk of CV events. The choice should be based on the magnitude of additional LDL-C lowering needed.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "A",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Bempedoic acid is recommended in patients who are unable to take statin therapy to achieve the LDL-C goal.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "The addition of bempedoic acid to the maximally tolerated dose of statin with or without ezetimibe should be considered in patients at high or very high risk in order to achieve the LDL-C goal.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Evinacumab should be considered in patients with homozygous familial hypercholesterolaemia aged ≥5 years or older who are not at LDL-C goal despite receiving maximum doses of lipid-lowering therapy to lower LDL-C levels.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins and ends amid continuous narrative text."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "6. Lipoprotein(a)"
+        ],
+        "narrative_summary": "Continues discussion of intensifying lipid-lowering therapy in acute coronary syndrome patients, reports ongoing clinical trials of evolocumab, and introduces section 6 on lipoprotein(a) covering its epidemiologic and genetic associations with ASCVD and aortic valve stenosis, measurement considerations including assay variability and units, the impact of menopause, risk prediction beyond conventional scores, and emerging Lp(a)-lowering therapies.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation Table 3 — Recommendations for lipid-lowering therapy in patients with acute coronary syndromes (see also Supplementary data online, Evidence Table 3)",
+            "rows": [
+              {
+                "recommendation": "Intensification of lipid-lowering therapy during the index ACS hospitalization is recommended for patients who were on any lipid-lowering therapy before admission in order to further lower LDL-C levels.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "C",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Initiating combination therapy with high-intensity statin plus ezetimibe during index hospitalization for ACS should be considered in patients who were treatment-naïve and are not expected to achieve the LDL-C goal with statin therapy alone.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [
+          {
+            "label": "Table 3",
+            "kind": "table",
+            "title": "Recommendations for lipid-lowering therapy in patients with acute coronary syndromes",
+            "summary": "Two recommendations on intensification during ACS hospitalization and initiating combination statin + ezetimibe therapy",
+            "continuation_status": "complete"
+          },
+          {
+            "label": "Table 4",
+            "kind": "table",
+            "title": "Recommendations for measurement of lipoprotein(a)",
+            "summary": "Recommendation to consider Lp(a) > 50 mg/dL as a CV risk-enhancing factor",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence from prior section and ends within section 6 with narrative likely continuing after Recommendation Table 4"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "7. Hypertriglyceridaemia"
+        ],
+        "narrative_summary": "This section discusses the association of elevated triglyceride levels with cardiovascular (CV) risk independent of LDL-C. Statins remain the first-line pharmacological therapy to reduce CV risk in high-risk patients. Fibrates (gemfibrozil, fenofibrate, bezafibrate) have moderate triglyceride-lowering effects and lead to small LDL-C decreases but have not reduced major adverse CV events (MACE) or total mortality in statin-treated patients, except in subgroup analyses of those with dyslipidaemia (low HDL-C and high triglycerides). The PROMINENT trial showed that pemafibrate did not reduce MACE in type 2 diabetes patients with mild-to-moderate hypertriglyceridaemia and low HDL-C. The update supports the Class IIb recommendation for fenofibrate or bezafibrate from the 2019 ESC/EAS Guidelines; fibrates are not indicated to lower serum cholesterol or LDL-C. The STRENGTH trial demonstrated no benefit of combined EPA/DHA supplementation in reducing MACE in high-risk patients.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [
+          {
+            "label": "Figure 3",
+            "kind": "figure",
+            "title": "Association between Lp(a) levels and lifetime risk of major cardiovascular events",
+            "summary": "Hazard ratios (with 95% CI) and frequency distribution of Lp(a) levels in the UK Biobank population show risk of major CV events begins to increase at Lp(a) >62 nmol/L (30 mg/dL) and is more pronounced at ≥105 nmol/L (50 mg/dL).",
+            "continuation_status": "complete"
+          }
+        ],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Section 7 (Hypertriglyceridaemia) continues on the next page"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "8. Primary prevention in people with human immunodeficiency virus infection"
+        ],
+        "narrative_summary": "This page continues discussion of omega-3 fatty acids and triglyceride-lowering therapies, describing differences between the STRENGTH and REDUCE-IT trials, mechanisms of EPA, and the 2023 Focused Update revising PUFA recommendations. It details volanesorsen’s mechanism, trial data in familial chylomicronaemia syndrome, and emerging RNA-based therapies. The narrative then introduces section 8 on primary prevention in people with HIV, noting their doubled ASCVD risk, underestimation by conventional tools, and lipid-lowering goals. It summarizes the REPRIEVE trial of pitavastatin, outcomes by sex, tolerability, drug–drug interaction considerations, and notes available data on ezetimibe and PCSK9 monoclonal antibodies, including a trial showing evolocumab reduced LDL-C by 56.9%.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation Table 5 — Recommendations for drug treatment of patients with hypertriglyceridaemia (see also Supplementary data online, Evidence Table 5)",
+            "rows": [
+              {
+                "recommendation": "High-dose icosapent ethyl (2 × 2 g/day) should be considered in combination with a statin in high-risk or very high-risk patients with elevated triglyceride levels (fasting triglyceride level 135–499 mg/dL or 1.52–5.63 mmol/L) to reduce the risk of cardiovascular events.8,111",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              },
+              {
+                "recommendation": "Volanesorsen (300 mg/week) should be considered in patients with severe hypertriglyceridaemia (>750 mg/dL or >8.5 mmol/L) due to familial chylomicronaemia syndrome, to lower triglyceride levels and reduce the risk of pancreatitis.6,117",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Narrative begins in middle of discussion of STRENGTH vs REDUCE-IT and section 8 continues beyond this page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": [
+        {
+          "Gene": "APOC3",
+          "Associated Conditions": [
+            "severe hypertriglyceridaemia",
+            "familial chylomicronaemia syndrome"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "narrative on volanesorsen mechanism"
+          ],
+          "evidence_text": "apolipoprotein C-III (ApoC-III) messenger RNA",
+          "confidence": "high",
+          "validation_note": "Mention of targeting messenger RNA indicates a gene context."
+        },
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "ASCVD risk reduction in PWH"
+          ],
+          "Occurrences": 1,
+          "context": [
+            "narrative on lipid-lowering therapies in people with HIV"
+          ],
+          "evidence_text": "PCSK9 inhibitors",
+          "confidence": "high",
+          "validation_note": "Use of PCSK9 inhibitors indicates the gene encoding the target protein."
+        }
+      ]
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "9. Patients with cancer at high or very high chemotherapy-related cardiovascular toxicity risk",
+          "10. Dietary supplements"
+        ],
+        "narrative_summary": "Section 9 discusses anthracycline-based chemotherapy as a key component of cancer regimens and its association with heart failure in up to 20% of patients. Four randomized trials evaluated statins for cardioprotection in this setting, including the multicenter STOP-CA trial of atorvastatin versus placebo, which showed a lower rate of left ventricular ejection fraction decline. Smaller trials had mixed results. The 2022 ESC cardio-oncology guidelines introduced a Class IIa recommendation for statin use in high-risk patients (see Recommendation Table 7). Non-statin lipid-lowering therapies have not been tested in this context. Section 10 reviews dietary supplements, noting that despite some hypocholesterolaemic effects of red yeast rice or PUFAs, there is no compelling clinical evidence for cardiovascular benefit. Recent trials (OMEMI, SPORT trial) did not show significant LDL-C or event reduction compared with placebo. Phytosterols may modestly lower LDL-C but without outcome data. The European Union has restricted monacolin use in red yeast rice supplements. Based on the totality of evidence, the Focused Update does not support dietary supplements or vitamins for ASCVD risk reduction (new recommendation in Recommendation Table 8).",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation Table 6 — Recommendations for statin therapy in primary prevention for people with human immunodeficiency virus infection (see also Supplementary data online, Evidence Table 6)",
+            "rows": [
+              {
+                "recommendation": "Statin therapy is recommended for people in primary prevention aged ≥40 years with HIV, irrespective of estimated cardiovascular risk and LDL-C levels, to reduce the risk of cardiovascular events; the choice of statin should be based on potential drug interactions.",
+                "class_of_recommendation": "I",
+                "level_of_evidence": "B",
+                "supporting_text": "HIV, human immunodeficiency virus; LDL-C, low-density lipoprotein cholesterol.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          },
+          {
+            "title": "Recommendation Table 7 — Recommendations for statin therapy in patients receiving cancer therapy (see also Supplementary data online, Evidence Table 7)",
+            "rows": [
+              {
+                "recommendation": "Statins should be considered in adult patients at high or very high risk of developing chemotherapy-related cardiovascular toxicity to reduce the risk of anthracycline-induced cardiac dysfunction.",
+                "class_of_recommendation": "IIa",
+                "level_of_evidence": "B",
+                "supporting_text": "Baseline cardiovascular toxicity risk stratification discussed in detail in the 2022 ESC Guidelines on cardio-oncology.",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page begins mid-sentence in narrative and ends referencing Recommendation Table 8 on the next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "mixed",
+        "title": "",
+        "section_headings": [
+          "Recommendation Table 8 — Recommendations for dietary supplements (see also Supplementary data online, Evidence Table 8)",
+          "11. Evidence tables",
+          "12. Data availability statement",
+          "13. Author information",
+          "14. Appendix"
+        ],
+        "narrative_summary": "The page presents Recommendation Table 8 on dietary supplements, including footnotes defining ASCVD and the grading scheme. It then notes that evidence tables are available online, provides a data availability statement, lists author and Task Force member affiliations, and begins the Appendix listing the ESC/EAS Scientific Document Group and reviewers.",
+        "recommendation_tables": [
+          {
+            "title": "Recommendation Table 8 — Recommendations for dietary supplements (see also Supplementary data online, Evidence Table 8)",
+            "rows": [
+              {
+                "recommendation": "Dietary supplements or vitamins without documented safety and significant LDL-C-lowering efficacy are not recommended to lower the risk of ASCVD10,11",
+                "class_of_recommendation": "III",
+                "level_of_evidence": "B",
+                "supporting_text": "",
+                "row_continues_from_previous_page": false,
+                "row_continues_to_next_page": false
+              }
+            ]
+          }
+        ],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": false,
+          "requires_next_page": true,
+          "reason": "Appendix reviewer list continues onto next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [
+          "ESC Clinical Practice Guidelines (CPG) Committee",
+          "EAS Executive Committee",
+          "15. References"
+        ],
+        "narrative_summary": "This page lists participating national cardiology societies and members of the ESC Clinical Practice Guidelines Committee and EAS Executive Committee, followed by the beginning of the reference list.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "List of national societies and committee membership continues from previous page; reference list continues on next page."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "Page is part of a multi-page reference list, starting with reference 22 and ending with reference 61"
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "This page contains reference entries 63 through 103 for the ESC Guidelines.",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": true,
+          "ends_mid_sentence_or_table": true,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "page_type": "references",
+        "title": "",
+        "section_headings": [],
+        "narrative_summary": "",
+        "recommendation_tables": [],
+        "figures_tables_algorithms": [],
+        "continuity": {
+          "starts_mid_sentence_or_table": false,
+          "ends_mid_sentence_or_table": false,
+          "requires_previous_page": true,
+          "requires_next_page": true,
+          "reason": "References list continues across pages."
+        },
+        "extraction_warnings": []
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "APOC3",
+      "Associated Conditions": [
+        "severe hypertriglyceridaemia",
+        "familial chylomicronaemia syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "narrative on volanesorsen mechanism"
+      ]
+    },
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "ASCVD risk reduction in PWH"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "narrative on lipid-lowering therapies in people with HIV"
+      ]
+    }
+  ]
+}

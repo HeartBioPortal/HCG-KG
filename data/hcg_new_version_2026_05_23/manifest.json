@@ -1,0 +1,16 @@
+{
+  "name": "hcg_new_version_2026_05_23",
+  "source_repo": "/Users/kvand/HeartBioPortal/HCG",
+  "raw_json": {
+    "acc_aha": 22,
+    "esc": 20
+  },
+  "source_pdfs": {
+    "acc_aha": 22,
+    "esc": 20
+  },
+  "notes": [
+    "Use --input-glob data/hcg_new_version_2026_05_23/raw/**/*.json",
+    "Use source PDFs from data/hcg_new_version_2026_05_23/source_pdfs when provenance is needed."
+  ]
+}
