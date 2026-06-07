@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from hcg_kg.extract.heuristic import HeuristicBiomedicalExtractor
+from hcg_kg.extract.llamaindex_extractor import LlamaIndexBiomedicalExtractor
 from hcg_kg.ingest.loaders import RawDocumentLoader
 from hcg_kg.ingest.normalizer import GuidelineJSONNormalizer
 from hcg_kg.models.documents import Provenance, SourceSnippet
@@ -47,3 +48,27 @@ def test_extractor_reads_new_hcg_cor_and_loe_fields(local_settings):
     assert recommendation is not None
     assert recommendation.properties["evidence_class"] == "IIb"
     assert recommendation.properties["evidence_level"] == "B-R"
+
+
+def test_llamaindex_extractor_parses_first_json_object_from_model_text():
+    extractor = object.__new__(LlamaIndexBiomedicalExtractor)
+    response = """```json
+{
+  "genes": ["LDLR"],
+  "conditions": ["familial hypercholesterolemia"],
+  "biomarkers": [],
+  "drugs": ["statin"],
+  "recommendation_text": null,
+  "recommendation_relation": "NONE",
+  "evidence_class": null,
+  "evidence_level": null,
+  "confidence": 0.8
+}
+```
+extra text"""
+
+    parsed = extractor._parse_llm_response(response)
+
+    assert parsed.genes == ["LDLR"]
+    assert parsed.conditions == ["familial hypercholesterolemia"]
+    assert parsed.drugs == ["statin"]

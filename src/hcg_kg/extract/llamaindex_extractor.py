@@ -1,9 +1,10 @@
 from __future__ import annotations
 
 import logging
+import json
 import re
 from collections.abc import Callable
-from typing import Literal, cast
+from typing import Literal
 
 from pydantic import BaseModel, Field
 
@@ -66,7 +67,10 @@ class LlamaIndexBiomedicalExtractor:
         )
         self.prompt = PromptTemplate(
             "You extract biomedical guideline facts as strict JSON.\n"
-            "Return only a JSON object matching the requested schema.\n"
+            "Return only one JSON object. Do not wrap it in Markdown.\n"
+            "Schema keys: genes, conditions, biomarkers, drugs, recommendation_text, "
+            "recommendation_relation, evidence_class, evidence_level, confidence.\n"
+            "recommendation_relation must be one of RECOMMENDS, CONTRAINDICATED_FOR, NONE.\n"
             "If the snippet is not gene-relevant, return empty lists and null recommendation fields.\n\n"
             "Guideline title: {guideline_title}\n"
             "Section path: {section_path}\n"
@@ -225,6 +229,9 @@ class LlamaIndexBiomedicalExtractor:
             candidate_genes,
             gene_linked_content_indices,
         )
+        max_snippets = self.settings.extraction.max_llm_snippets_per_document
+        if max_snippets is not None:
+            processed_snippets = processed_snippets[:max(0, max_snippets)]
         for snippet in processed_snippets:
             extraction = self._extract_snippet(
                 snippet=snippet,
@@ -271,24 +278,58 @@ class LlamaIndexBiomedicalExtractor:
         candidate_drugs: list[str],
     ) -> SnippetLLMExtraction:
         try:
-            return cast(
-                SnippetLLMExtraction,
-                self.llm.structured_predict(
-                    SnippetLLMExtraction,
-                    self.prompt,
-                    guideline_title=guideline_title,
-                    section_path=" > ".join(snippet.provenance.section_path) or "Document",
-                    page=snippet.provenance.page or "unknown",
-                    candidate_genes=", ".join(candidate_genes) or "none",
-                    candidate_conditions=", ".join(candidate_conditions[:40]) or "none",
-                    candidate_biomarkers=", ".join(candidate_biomarkers[:40]) or "none",
-                    candidate_drugs=", ".join(candidate_drugs[:40]) or "none",
-                    snippet_text=snippet.text,
-                ),
+            prompt = self.prompt.format(
+                guideline_title=guideline_title,
+                section_path=" > ".join(snippet.provenance.section_path) or "Document",
+                page=snippet.provenance.page or "unknown",
+                candidate_genes=", ".join(candidate_genes) or "none",
+                candidate_conditions=", ".join(candidate_conditions[:40]) or "none",
+                candidate_biomarkers=", ".join(candidate_biomarkers[:40]) or "none",
+                candidate_drugs=", ".join(candidate_drugs[:40]) or "none",
+                snippet_text=snippet.text,
             )
+            response = self.llm.complete(prompt)
+            response_text = getattr(response, "text", str(response))
+            return self._parse_llm_response(response_text)
         except Exception as exc:  # pragma: no cover - runtime dependent
             LOGGER.warning("LLM extraction failed for %s: %s", snippet.snippet_id, exc)
             return SnippetLLMExtraction()
+
+    def _parse_llm_response(self, response_text: str) -> SnippetLLMExtraction:
+        json_text = self._extract_first_json_object(response_text)
+        if json_text is None:
+            raise ValueError("No JSON object found in LLM response.")
+        payload = json.loads(json_text)
+        if not isinstance(payload, dict):
+            raise ValueError("LLM response JSON was not an object.")
+        return SnippetLLMExtraction.model_validate(payload)
+
+    def _extract_first_json_object(self, text: str) -> str | None:
+        start = text.find("{")
+        if start < 0:
+            return None
+        depth = 0
+        in_string = False
+        escape = False
+        for index, char in enumerate(text[start:], start=start):
+            if escape:
+                escape = False
+                continue
+            if char == "\\":
+                escape = True
+                continue
+            if char == '"':
+                in_string = not in_string
+                continue
+            if in_string:
+                continue
+            if char == "{":
+                depth += 1
+            elif char == "}":
+                depth -= 1
+                if depth == 0:
+                    return text[start : index + 1]
+        return None
 
     def _apply_snippet_extraction(
         self,

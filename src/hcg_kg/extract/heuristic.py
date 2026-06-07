@@ -386,7 +386,11 @@ class HeuristicBiomedicalExtractor:
         ):
             if isinstance(candidate, str):
                 stripped = candidate.strip()
-                if re.fullmatch(r"I{1,3}|IV|1|2a|2b|3|III:\s*(?:No Benefit|Harm)", stripped, re.IGNORECASE):
+                if re.fullmatch(
+                    r"I|IIa|IIb|II|III|IV|1|2a|2b|3|III:\s*(?:No Benefit|Harm)",
+                    stripped,
+                    re.IGNORECASE,
+                ):
                     return stripped
                 match = EVIDENCE_CLASS_PATTERN.search(candidate)
                 if match:

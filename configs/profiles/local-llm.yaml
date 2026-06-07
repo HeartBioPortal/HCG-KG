@@ -1,0 +1,32 @@
+profile_name: local-llm
+paths:
+  processed_dir: data/processed/local-llm
+  normalized_dir: data/processed/local-llm/normalized
+  graph_dir: data/processed/local-llm/graph
+  vector_dir: data/processed/local-llm/vector
+  state_dir: data/processed/local-llm/state
+models:
+  provider: llamaindex
+  model_name: Qwen/Qwen2.5-0.5B-Instruct
+  tokenizer_name: Qwen/Qwen2.5-0.5B-Instruct
+  context_window: 4096
+  max_new_tokens: 512
+  temperature: 0.0
+  device_map: auto
+extraction:
+  chunk_size: 1600
+  chunk_overlap: 200
+  batch_size: 2
+  num_workers: 1
+  max_llm_snippets_per_document: 5
+  use_gpu: false
+  run_relation_extraction: true
+  build_embeddings: true
+  generate_summaries: false
+graph:
+  backend: networkx
+retrieval:
+  vector_backend: tfidf
+  top_k: 10
+runtime:
+  log_level: INFO

@@ -38,6 +38,7 @@ class ExtractionSettings(BaseModel):
     chunk_overlap: int = 200
     batch_size: int = 24
     num_workers: int = 8
+    max_llm_snippets_per_document: int | None = None
     use_gpu: bool = False
     run_relation_extraction: bool = True
     build_embeddings: bool = True
