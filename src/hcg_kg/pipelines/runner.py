@@ -28,7 +28,7 @@ class PipelineRunner:
         limit: int | None = None,
         force: bool = False,
     ) -> list[ManifestEntry]:
-        entries = self.manifest.load()
+        entries = {} if force else self.manifest.load()
         discovered = self.loader.discover(input_glob=input_glob, limit=limit)
         for path in discovered:
             doc_id = self.loader.derive_doc_id(path)
@@ -92,6 +92,12 @@ class PipelineRunner:
 
     def build_graph(self, force: bool = False) -> GraphBuildReport:
         documents = self._load_all_normalized(force=force)
+        if (
+            force
+            and self.settings.graph.backend == "networkx"
+            and self.settings.graph_snapshot_path.exists()
+        ):
+            self.settings.graph_snapshot_path.unlink()
         builder = GraphBuilder(self.settings)
         report = builder.build(documents)
         entries = self.manifest.load()

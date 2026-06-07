@@ -6,6 +6,26 @@ For HBP 3.0, HCG-KG is the clinical guideline knowledge graph resource. HCG prep
 
 This repository is not about training an LLM on PDFs. The parsed guideline JSON files are treated as the source corpus for ingestion, normalization, structured extraction, graph construction, and source-grounded retrieval. The vendored PDFs are included only as source references for provenance attachment and downstream inspection. Optional local LLMs can assist extraction or summarization offline, but the runtime system is designed to answer from a graph plus provenance-bearing snippets.
 
+## Current working path
+
+The workflow that worked end-to-end for the AHA corpus was:
+
+1. Build the graph on Big Red 200 from the parsed guideline JSON files in `data/raw/*.json`.
+2. Use `hpc-networkx` for the deterministic heuristic graph when Neo4j is not reachable from the cluster.
+3. Use `hpc-llm` through SLURM for LlamaIndex + Hugging Face extraction on a GPU node.
+4. Treat the final build artifact as a file-backed graph snapshot at `data/processed/graph/networkx_graph.json`.
+5. Copy that graph snapshot to AWS or a laptop for testing, then load or query it from the HeartBioPortal backend environment.
+
+Known successful outputs:
+
+- Heuristic `hpc-networkx` run over 37 AHA guideline JSONs produced a graph with about 21k nodes and 43k edges, plus a TF-IDF snippet index for 16k snippets.
+- LLM `hpc-llm` runs produce the same artifact type, `networkx_graph.json`, but the nodes and edges come from the LlamaIndex/Hugging Face extractor.
+- Gene queries such as `LDLR` now use a constrained gene-centric traversal. They return directly linked snippets, recommendations, related entities, evidence metadata, and guideline names instead of expanding through a whole guideline and pulling unrelated sections.
+
+The most practical production shape is: build offline on HPC, copy the graph artifact to the serving environment, load it into Neo4j there, and let the HeartBioPortal backend query Neo4j. Neo4j does not need to run on the HPC cluster.
+
+Important rebuild behavior: use `--force` when changing the input corpus. Current code treats `--force` as a clean rebuild for the manifest and the file-backed NetworkX graph snapshot. Older versions reused `data/processed/state/manifest.json` and loaded an existing `data/processed/graph/networkx_graph.json`, which could accidentally mix legacy guideline data into a new graph. If you are using an older checkout, delete `data/processed/state/manifest.json`, `data/processed/normalized/`, `data/processed/graph/networkx_graph.json`, and `data/processed/vector/tfidf_index.joblib` before rebuilding.
+
 ## Proposed repository architecture and rationale
 
 - `src/hcg_kg`: typed Python package for ingestion, normalization, extraction, graph persistence, and querying.
@@ -28,11 +48,11 @@ This layout keeps the repository open-source friendly, reproducible, and ready f
 - NetworkX backend for local development and tests
 - Neo4j backend for larger graph persistence workloads
 - Optional TF-IDF snippet index for lightweight hybrid retrieval
-- Optional LlamaIndex / Hugging Face / Ollama extras for future local-model extraction
+- Optional LlamaIndex / Hugging Face extraction backend for offline LLM-assisted graph construction
 
 ### Why this stack
 
-The first version prioritizes robust, source-grounded extraction from heterogeneous parsed JSON. That makes a defensive normalization layer and explicit schema control more important than coupling the core pipeline to any single orchestration library. The repository still exposes clear extension points for LlamaIndex or local-model extractors, while keeping the default path fully open-source and runnable without a finetuning workflow.
+The first version prioritizes robust, source-grounded extraction from heterogeneous parsed JSON. The deterministic extractor is useful for debugging and baseline graph construction. The LlamaIndex/Hugging Face extractor is used offline when richer semantic extraction is needed. In both cases, runtime querying is graph-first and does not depend on live LLM calls or finetuning.
 
 ## Repository tree
 
@@ -84,7 +104,7 @@ Raw JSON search can recover text, but it does not resolve entity identity, relat
 
 ## Configuration profiles
 
-The repository ships with three profiles:
+The repository ships with these profiles:
 
 - `local-dev`: smallest settings, defaults to `data/sample/*.json`
 - `local-medium`: larger local run without assuming a graph server
@@ -123,6 +143,20 @@ docker compose -f docker/docker-compose.neo4j.yml up -d
 
 Set `NEO4J_PASSWORD` and, if needed, override `NEO4J_URI`.
 
+If Neo4j is installed through Homebrew on macOS, the local Browser usually runs at:
+
+```text
+http://localhost:7474
+```
+
+Use `bolt://localhost:7687`, username `neo4j`, and your configured password. For a quick graph sanity check in Neo4j Browser:
+
+```cypher
+MATCH ()-[r]->()
+RETURN type(r) AS relation, count(*) AS count
+ORDER BY count DESC;
+```
+
 ### HPC setup
 
 1. Clone the repository onto the cluster.
@@ -160,6 +194,119 @@ sbatch -A <RT_PROJECT> slurm/run_pipeline_llm.slurm
 
 The script targets the Big Red 200 `gpu` partition by default.
 
+On Big Red 200, include the RT Project account when submitting. For the allocation used during development:
+
+```bash
+sbatch -A r01806 slurm/run_pipeline_llm.slurm
+```
+
+If the job is pending, check scheduler state with:
+
+```bash
+squeue -j <jobid>
+scontrol show job <jobid>
+tail -f logs/slurm-llm-pipeline-<jobid>.out
+tail -f logs/llm_pipeline_<jobid>.log
+```
+
+Do not run the full LLM pipeline on a login node. Big Red 200 terminates long interactive jobs.
+
+### Final graph artifacts
+
+Both `hpc-networkx` and `hpc-llm` write the graph to:
+
+```text
+data/processed/graph/networkx_graph.json
+```
+
+Additional useful artifacts are:
+
+```text
+data/processed/vector/tfidf_index.joblib
+data/processed/state/manifest.json
+```
+
+The graph JSON is the primary artifact. It is a NetworkX node-link JSON file containing graph nodes, edge relations, and provenance properties. The TF-IDF file is optional and supports snippet search for question-style retrieval.
+
+To protect an LLM-built graph from being overwritten by another run:
+
+```bash
+cp data/processed/graph/networkx_graph.json data/processed/graph/networkx_graph_llm.json
+```
+
+### Copying artifacts
+
+From Big Red 200 to AWS:
+
+```bash
+ssh -i ~/.ssh/hbp.pem ubuntu@3.130.100.250 'mkdir -p ~/HCG-KG/data/processed/graph ~/HCG-KG/data/processed/vector ~/HCG-KG/data/processed/state'
+scp -i ~/.ssh/hbp.pem ~/HCG-KG/data/processed/graph/networkx_graph.json ubuntu@3.130.100.250:~/HCG-KG/data/processed/graph/
+scp -i ~/.ssh/hbp.pem ~/HCG-KG/data/processed/vector/tfidf_index.joblib ubuntu@3.130.100.250:~/HCG-KG/data/processed/vector/
+scp -i ~/.ssh/hbp.pem ~/HCG-KG/data/processed/state/manifest.json ubuntu@3.130.100.250:~/HCG-KG/data/processed/state/
+```
+
+From AWS to a laptop:
+
+```bash
+mkdir -p ~/Downloads/hcgkg_llm/graph ~/Downloads/hcgkg_llm/vector ~/Downloads/hcgkg_llm/state
+scp -i ~/.ssh/hbp.pem ubuntu@3.130.100.250:~/HCG-KG/data/processed/graph/networkx_graph.json ~/Downloads/hcgkg_llm/graph/
+scp -i ~/.ssh/hbp.pem ubuntu@3.130.100.250:~/HCG-KG/data/processed/vector/tfidf_index.joblib ~/Downloads/hcgkg_llm/vector/
+scp -i ~/.ssh/hbp.pem ubuntu@3.130.100.250:~/HCG-KG/data/processed/state/manifest.json ~/Downloads/hcgkg_llm/state/
+```
+
+### Loading a graph snapshot into Neo4j
+
+The repository can query a file-backed NetworkX graph directly, but HeartBioPortal serving should use Neo4j. Until a dedicated `sync-neo4j` command is added, load a copied snapshot with this script from the repo root:
+
+```bash
+pip install -e ".[neo4j]"
+
+mkdir -p data/processed/graph
+cp ~/Downloads/hcgkg_llm/graph/networkx_graph.json data/processed/graph/networkx_graph.json
+
+export NEO4J_URI=bolt://localhost:7687
+export NEO4J_USERNAME=neo4j
+export NEO4J_PASSWORD="your-password"
+```
+
+```bash
+python - <<'PY'
+from pathlib import Path
+from hcg_kg.config import load_settings
+from hcg_kg.graph.backends.networkx_backend import NetworkXBackend
+from hcg_kg.graph.backends.neo4j_backend import Neo4jBackend
+
+root = Path.cwd()
+settings = load_settings(profile="hpc-networkx", project_root=root)
+
+src = NetworkXBackend(settings)
+src.initialize()
+
+dst_settings = settings.model_copy(deep=True)
+dst_settings.graph.backend = "neo4j"
+dst_settings.graph.neo4j_uri = "bolt://localhost:7687"
+dst_settings.graph.neo4j_username = "neo4j"
+
+dst = Neo4jBackend(dst_settings)
+dst.initialize()
+
+nodes = src.list_nodes()
+edges = {}
+for node in nodes:
+    for edge in src.get_edges(node.node_id, direction="out"):
+        edges[edge.edge_id] = edge
+
+dst.upsert_nodes(nodes)
+dst.upsert_edges(list(edges.values()))
+dst.close()
+src.close()
+
+print({"nodes": len(nodes), "edges": len(edges)})
+PY
+```
+
+Import into an empty Neo4j database for clean tests. Otherwise old nodes from earlier graph versions may remain.
+
 ## CLI overview
 
 ```bash
@@ -195,6 +342,44 @@ For LLM-based extraction:
 ```bash
 hcg-kg run-pipeline --profile hpc-llm
 hcg-kg query --profile hpc-llm --gene LDLR --pretty
+```
+
+To summarize the local graph snapshot:
+
+```bash
+python - <<'PY'
+import json
+from collections import Counter
+from pathlib import Path
+
+data = json.loads(Path("data/processed/graph/networkx_graph.json").read_text())
+nodes = data.get("nodes", [])
+edges = data.get("edges") or data.get("links") or []
+label_by_id = {node.get("id", node.get("node_id")): node.get("label", "Unknown") for node in nodes}
+
+print(f"nodes={len(nodes)}")
+print(f"edges={len(edges)}")
+
+print("\nNode types")
+for label, count in Counter(node.get("label", "Unknown") for node in nodes).most_common():
+    print(f"{label}\t{count}")
+
+print("\nRelation types")
+for relation, count in Counter(edge.get("relation", "<missing>") for edge in edges).most_common():
+    print(f"{relation}\t{count}")
+
+print("\nTop source-[relation]->target patterns")
+patterns = Counter(
+    (
+        label_by_id.get(edge.get("source"), "Unknown"),
+        edge.get("relation", "<missing>"),
+        label_by_id.get(edge.get("target"), "Unknown"),
+    )
+    for edge in edges
+)
+for (source_label, relation, target_label), count in patterns.most_common(40):
+    print(f"{source_label} -[{relation}]-> {target_label}\t{count}")
+PY
 ```
 
 ## Source grounding and provenance
