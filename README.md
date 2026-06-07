@@ -1,6 +1,6 @@
 # hcg-kg
 
-`hcg-kg` builds a local, queryable biomedical knowledge graph from parsed clinical guideline JSON files, with an initial focus on AHA guideline content for downstream use in HeartBioPortal.
+`hcg-kg` builds a local, queryable biomedical knowledge graph from parsed clinical guideline JSON files, with an initial focus on ACC/AHA and ESC cardiovascular guideline content for downstream use in HeartBioPortal.
 
 For HBP 3.0, HCG-KG is the clinical guideline knowledge graph resource. HCG prepares and extracts structured guideline JSON, HCG-KG normalizes that content into graph nodes and edges, and HeartBioPortal uses the resulting guideline context in gene search dossiers through guideline summary/detail layers.
 
@@ -8,9 +8,14 @@ This repository is not about training an LLM on PDFs. The parsed guideline JSON 
 
 ## Current working path
 
-The workflow that worked end-to-end for the AHA corpus was:
+The current default corpus is `data/hcg_new_version_2026_05_23`, which contains 42 parsed guideline JSON files and matching source PDFs:
 
-1. Build the graph on Big Red 200 from the parsed guideline JSON files in `data/raw/*.json`.
+- ACC/AHA: 22 guideline JSONs and 22 PDFs
+- ESC: 20 guideline JSONs and 20 PDFs
+
+The workflow that worked end-to-end was:
+
+1. Build the graph on Big Red 200 from the parsed guideline JSON files in `data/hcg_new_version_2026_05_23/raw/**/*.json`.
 2. Use `hpc-networkx` for the deterministic heuristic graph when Neo4j is not reachable from the cluster.
 3. Use `hpc-llm` through SLURM for LlamaIndex + Hugging Face extraction on a GPU node.
 4. Treat the final build artifact as a file-backed graph snapshot at `data/processed/graph/networkx_graph.json`.
@@ -18,7 +23,7 @@ The workflow that worked end-to-end for the AHA corpus was:
 
 Known successful outputs:
 
-- Heuristic `hpc-networkx` run over 37 AHA guideline JSONs produced a graph with about 21k nodes and 43k edges, plus a TF-IDF snippet index for 16k snippets.
+- Historical heuristic `hpc-networkx` runs over the earlier 37-file AHA corpus produced a graph with about 21k nodes and 43k edges, plus a TF-IDF snippet index for 16k snippets.
 - LLM `hpc-llm` runs produce the same artifact type, `networkx_graph.json`, but the nodes and edges come from the LlamaIndex/Hugging Face extractor.
 - Gene queries such as `LDLR` now use a constrained gene-centric traversal. They return directly linked snippets, recommendations, related entities, evidence metadata, and guideline names instead of expanding through a whole guideline and pulling unrelated sections.
 
@@ -30,7 +35,7 @@ Important rebuild behavior: use `--force` when changing the input corpus. Curren
 
 - `src/hcg_kg`: typed Python package for ingestion, normalization, extraction, graph persistence, and querying.
 - `configs/`: YAML profiles for `local-dev`, `local-medium`, and default `hpc-large`.
-- `data/`: vendored AHA parsed JSON inputs in `raw/`, vendored source PDFs in `source_pdfs/`, empty `processed/`, and a representative sample guideline JSON for tests and demo runs.
+- `data/`: the current vendored guideline corpus in `hcg_new_version_2026_05_23/`, empty `processed/`, and a representative sample guideline JSON for tests and demo runs.
 - `docs/`: schema, architecture, query contract, and HPC execution notes.
 - `examples/`: short CLI examples.
 - `slurm/`: batch scripts for HPC execution.
@@ -63,8 +68,8 @@ hcg-kg/
 │   ├── profiles/
 │   └── schema/kg_schema.yaml
 ├── data/
+│   ├── hcg_new_version_2026_05_23/
 │   ├── processed/
-│   ├── raw/
 │   └── sample/
 ├── docker/
 ├── docs/
@@ -168,7 +173,7 @@ export HCG_KG_PROFILE=hpc-large
 export NEO4J_PASSWORD="..."
 ```
 
-4. Because the parsed AHA JSONs and source PDFs are vendored in `data/raw/*.json` and `data/source_pdfs/`, you can use the repo defaults and skip both `HCG_KG_INPUT_GLOB` and `HCG_KG_SOURCE_PDF_DIR` unless you want to override them.
+4. Because the current parsed guideline JSONs and source PDFs are vendored in `data/hcg_new_version_2026_05_23/raw/**/*.json` and `data/hcg_new_version_2026_05_23/source_pdfs/`, you can use the repo defaults and skip both `HCG_KG_INPUT_GLOB` and `HCG_KG_SOURCE_PDF_DIR` unless you want to override them.
 5. Submit the stage-specific SLURM jobs from `/Users/kvand/HeartBioPortal/HCG-KG/slurm`, or run the CLI directly in batch jobs.
 
 If Neo4j is not available on the cluster, use:

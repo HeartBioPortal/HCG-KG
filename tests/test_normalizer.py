@@ -21,6 +21,20 @@ def test_normalizer_extracts_metadata_and_provenance(local_settings, sample_json
     assert any("Biomarkers and Genomics" in " > ".join(snippet.provenance.section_path) for snippet in document.snippets)
 
 
+def test_loader_discovers_recursive_default_style_glob(local_settings, tmp_path):
+    nested_dir = tmp_path / "raw" / "esc"
+    nested_dir.mkdir(parents=True)
+    expected = nested_dir / "guideline_aggregated.json"
+    expected.write_text("{}", encoding="utf-8")
+
+    settings = local_settings.model_copy(deep=True)
+    settings.paths.raw_input_glob = str(tmp_path / "raw" / "**" / "*.json")
+
+    discovered = RawDocumentLoader(settings).discover()
+
+    assert discovered == [expected]
+
+
 def test_normalizer_preserves_new_hcg_recommendation_metadata(local_settings, tmp_path):
     raw_path = tmp_path / "new_hcg_doc_aggregated.json"
     raw = {

@@ -13,6 +13,6 @@ Included release-support material:
 - `MANIFEST.md`, `CITATION.cff`, `.zenodo.json`, and checksum tooling
 - README sections linking HCG-KG to HCG, DataHub, the HeartBioPortal organization, and the live site
 
-The repository currently vendors 37 parsed guideline JSON inputs under `data/raw/`. Final graph node and edge counts require running the release pipeline and exporting the build manifest before GitHub/Zenodo release.
+The repository currently vendors the `hcg_new_version_2026_05_23` corpus: 42 parsed guideline JSON inputs under `data/hcg_new_version_2026_05_23/raw/` and matching provenance PDFs under `data/hcg_new_version_2026_05_23/source_pdfs/`. Final graph node and edge counts require running the release pipeline and exporting the build manifest before GitHub/Zenodo release.
 
 Third-party guideline documents and parsed snippets remain subject to source terms. Do not redistribute source PDFs, long snippets, or generated outputs unless rights are confirmed.

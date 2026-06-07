@@ -7,8 +7,8 @@ from pydantic import BaseModel, ConfigDict, Field
 
 
 class PathSettings(BaseModel):
-    raw_input_glob: str = "data/raw/*.json"
-    source_pdf_dir: str | None = None
+    raw_input_glob: str = "data/hcg_new_version_2026_05_23/raw/**/*.json"
+    source_pdf_dir: str | None = "data/hcg_new_version_2026_05_23/source_pdfs"
     processed_dir: str = "data/processed"
     normalized_dir: str = "data/processed/normalized"
     graph_dir: str = "data/processed/graph"
@@ -70,7 +70,7 @@ class RuntimeSettings(BaseModel):
 class ProjectSettings(BaseModel):
     project_name: str = "hcg-kg"
     profile_name: str = "hpc-large"
-    guideline_family: str = "aha"
+    guideline_family: str = "cardiovascular_guidelines_2026_05_23"
     project_root: Path
     paths: PathSettings = Field(default_factory=PathSettings)
     models: ModelSettings = Field(default_factory=ModelSettings)

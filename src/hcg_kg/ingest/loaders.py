@@ -14,7 +14,7 @@ class RawDocumentLoader:
 
     def discover(self, input_glob: str | None = None, limit: int | None = None) -> list[Path]:
         pattern = self.settings.resolve_glob(input_glob or self.settings.paths.raw_input_glob)
-        files = [Path(item) for item in sorted(glob.glob(pattern))]
+        files = [Path(item) for item in sorted(glob.glob(pattern, recursive=True))]
         return files if limit is None else files[:limit]
 
     def load(self, path: Path) -> dict[str, Any]:

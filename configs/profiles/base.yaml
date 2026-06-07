@@ -1,9 +1,9 @@
 project_name: hcg-kg
 profile_name: base
-guideline_family: aha
+guideline_family: cardiovascular_guidelines_2026_05_23
 paths:
-  raw_input_glob: data/raw/*.json
-  source_pdf_dir: data/source_pdfs
+  raw_input_glob: data/hcg_new_version_2026_05_23/raw/**/*.json
+  source_pdf_dir: data/hcg_new_version_2026_05_23/source_pdfs
   processed_dir: data/processed
   normalized_dir: data/processed/normalized
   graph_dir: data/processed/graph

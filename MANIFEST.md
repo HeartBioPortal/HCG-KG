@@ -11,8 +11,8 @@
 
 ## Inputs and examples
 
-- `data/raw/*.json`: parsed guideline JSON inputs vendored for graph ingestion.
-- `data/source_pdfs/`: source PDFs used as provenance references; redistribution rights require review.
+- `data/hcg_new_version_2026_05_23/raw/**/*.json`: current parsed guideline JSON inputs vendored for graph ingestion.
+- `data/hcg_new_version_2026_05_23/source_pdfs/`: current source PDFs used as provenance references; redistribution rights require review.
 - `data/sample/`: small sample input for tests and demos.
 - `data/processed/`: generated outputs; only `.gitkeep` is committed by default.
 

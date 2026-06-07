@@ -18,7 +18,7 @@ If you want LLM-based extraction on the cluster, use `hpc-llm`. It uses a local 
 
 ## Recommended workflow
 
-1. The repo defaults already point at `data/raw/*.json` and `data/source_pdfs/`.
+1. The repo defaults already point at `data/hcg_new_version_2026_05_23/raw/**/*.json` and `data/hcg_new_version_2026_05_23/source_pdfs/`.
 2. Override `HCG_KG_INPUT_GLOB` or `HCG_KG_SOURCE_PDF_DIR` only if you want to use a different corpus.
 3. Set `HCG_KG_PROFILE=hpc-large` when Neo4j is available, `HCG_KG_PROFILE=hpc-networkx` when it is not, or `HCG_KG_PROFILE=hpc-llm` when you want local-model extraction.
 4. Provision the environment once outside the job if possible.
