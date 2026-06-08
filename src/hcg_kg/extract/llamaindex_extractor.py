@@ -6,7 +6,7 @@ import re
 from collections.abc import Callable
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 
 from hcg_kg.config.models import ProjectSettings
 from hcg_kg.extract.chunker import chunk_snippets
@@ -35,6 +35,23 @@ class SnippetLLMExtraction(BaseModel):
     evidence_class: str | None = None
     evidence_level: str | None = None
     confidence: float = 0.0
+
+    @field_validator("confidence", mode="before")
+    @classmethod
+    def normalize_confidence(cls, value: object) -> float:
+        if value is None:
+            return 0.0
+        if isinstance(value, str):
+            normalized = value.strip().lower()
+            if normalized in {"", "none", "null", "unknown"}:
+                return 0.0
+            if normalized in {"low", "weak"}:
+                return 0.25
+            if normalized in {"medium", "moderate"}:
+                return 0.5
+            if normalized in {"high", "strong"}:
+                return 0.85
+        return value
 
 
 class LlamaIndexBiomedicalExtractor:
@@ -71,6 +88,7 @@ class LlamaIndexBiomedicalExtractor:
             "Schema keys: genes, conditions, biomarkers, drugs, recommendation_text, "
             "recommendation_relation, evidence_class, evidence_level, confidence.\n"
             "recommendation_relation must be one of RECOMMENDS, CONTRAINDICATED_FOR, NONE.\n"
+            "confidence must be a number from 0.0 to 1.0; use 0.0 if uncertain.\n"
             "If the snippet is not gene-relevant, return empty lists and null recommendation fields.\n\n"
             "Guideline title: {guideline_title}\n"
             "Section path: {section_path}\n"

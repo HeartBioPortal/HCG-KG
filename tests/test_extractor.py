@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from hcg_kg.extract.heuristic import HeuristicBiomedicalExtractor
-from hcg_kg.extract.llamaindex_extractor import LlamaIndexBiomedicalExtractor
+from hcg_kg.extract.llamaindex_extractor import LlamaIndexBiomedicalExtractor, SnippetLLMExtraction
 from hcg_kg.ingest.loaders import RawDocumentLoader
 from hcg_kg.ingest.normalizer import GuidelineJSONNormalizer
 from hcg_kg.models.documents import Provenance, SourceSnippet
@@ -72,3 +72,11 @@ extra text"""
     assert parsed.genes == ["LDLR"]
     assert parsed.conditions == ["familial hypercholesterolemia"]
     assert parsed.drugs == ["statin"]
+
+
+def test_llamaindex_extractor_normalizes_messy_confidence_values():
+    null_confidence = SnippetLLMExtraction.model_validate({"confidence": None})
+    high_confidence = SnippetLLMExtraction.model_validate({"confidence": "HIGH"})
+
+    assert null_confidence.confidence == 0.0
+    assert high_confidence.confidence == 0.85
